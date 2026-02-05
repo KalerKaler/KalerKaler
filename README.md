@@ -1,6 +1,6 @@
-#Rajveer Singh Kaler
+#Rajveer Singh Kaler#
 ---
-##I am a student at Chitkara University
+##I am a student at Chitkara University##
 
 <!--
 **KalerKaler/KalerKaler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
