@@ -1,8 +1,8 @@
 # Hi there, I'm Rajveer Singh Kaler! 👋
 
-### 🚀 Aspiring Full-Stack Developer | B.Tech CSE Student
+### B.Tech CSE Student at Chitkara University
 
-I'm a passionate developer currently focusing on building responsive web applications and exploring the depths of Python. I love blending technical logic with creative design, often drawing inspiration from my favorite anime and manga.
+A Developer who is deeply is love with technology. Love to do anything involving hardware or software.
 
 ---
 
@@ -13,7 +13,8 @@ I'm a passionate developer currently focusing on building responsive web applica
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 **Tools & Design**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -24,8 +25,8 @@ I'm a passionate developer currently focusing on building responsive web applica
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=KalerKaler&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KalerKaler&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
