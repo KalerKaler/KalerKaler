@@ -26,7 +26,7 @@ A Developer who is deeply is love with technology. Love to do anything involving
 
 <p align="left">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KalerKaler&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?user=KalerKaler&theme=radical" alt="GitHub Streak" />
+<img src="https://nice-readme.vercel.app/api/streak-stats?user=KalerKaler&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
