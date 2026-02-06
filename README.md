@@ -1,4 +1,4 @@
-# Hi there, I'm Rajveer Singh Kaler! 👋
+# Hi there, I'm Rajveer Singh Kaler!
 
 ### B.Tech CSE Student at Chitkara University
 
@@ -26,9 +26,8 @@ A Developer who is deeply is love with technology. Love to do anything involving
 
 <p align="left">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KalerKaler&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=KalerKaler&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?user=KalerKaler&theme=radical" alt="GitHub Streak" />
 </p>
-[![Rajveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalerKaler)](https://github.com/KalerKaler/github-readme-stats)
 
 ---
 
