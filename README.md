@@ -30,17 +30,8 @@ I'm a passionate developer currently focusing on building responsive web applica
 
 ---
 
-### 🌌 Beyond the Code
-
-When I'm not debugging or solving multivariable calculus problems, you'll find me:
-* 📖 Reading manga (Big fan of *JoJo's Bizarre Adventure* and *Takopi's Original Sin*)
-* 🎥 Watching anime like *Steins;Gate* (El Psy Kongroo!)
-* 🎮 Exploring physics engines in game development
-
----
-
 ### 📫 How to reach me:
-* **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email**: [your.email@example.com](mailto:your.email@example.com)
+* **LinkedIn**: [linkedin.com/in/RajveerSinghKaler]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rajveer-singh-64691435a/))
+* **Email**: [rajveera1424@gmail.com](rajveera1424@gmail.com)
 
-*"The future is something you build yourself."*
+*"A QUITTER NEVER WINS-AND-A WINNER NEVER QUITS."*
