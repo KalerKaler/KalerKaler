@@ -31,7 +31,7 @@ A Developer who is deeply is love with technology. Love to do anything involving
 ---
 
 ### 📫 How to reach me:
-* **LinkedIn**: [linkedin.com/in/RajveerSinghKaler]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rajveer-singh-64691435a/))
+* **LinkedIn**: [linkedin.com/in/RajveerSinghKaler](https://www.linkedin.com/in/rajveer-singh-64691435a/)
 * **Email**: [rajveera1424@gmail.com](rajveera1424@gmail.com)
 
 *"A QUITTER NEVER WINS-AND-A WINNER NEVER QUITS."*
