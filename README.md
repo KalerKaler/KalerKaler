@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=B035A1&center=true&vCenter=true&multiline=true&width=435&height=80&lines=I'm+Rajveer+Singh+Kaler+;Tech+Enthusiast+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=B035A1&center=true&vCenter=true&multiline=true&width=644&height=80&lines=I'm+Rajveer+Singh+Kaler+;Tech+Enthusiast+from+India)](https://git.io/typing-svg)
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7500&pause=1000&color=9452B0&center=true&vCenter=true&multiline=true&width=640&height=80&lines=A+Developer+who+is+deeply+in+love+with+technology.;Love+to+do+anything+involving+hardware+or+software.)](https://git.io/typing-svg)
 
