@@ -32,10 +32,9 @@
 ---
 
 # Hobbies
-<p align=left>
-<img src="https://media.tenor.com/MUHP4mYrri4AAAAi/i-did-it-anime.gif">
-  <h3> I love anime and am really into books as well. Currently, I am reading "Think and grow rich" by Napoleon Hill. </h3>
+<p align=center>
 <img width="400px" src="https://media.tenor.com/eV6EtQv7nl0AAAAi/pwned-3-aeternae-memori-reading.gif">
+  <h3> I love anime and am really into books as well. Currently, I am reading "Think and grow rich" by Napoleon Hill. </h3>
 </p>
 
 ---
