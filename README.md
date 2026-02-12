@@ -1,7 +1,4 @@
-# Hi there, I'm Rajveer Singh Kaler!
-
-### B.Tech CSE Student at Chitkara University
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=B035A1&center=true&vCenter=true&multiline=true&width=435&height=80&lines=I'm+Rajveer+Singh+Kaler+;Tech+Enthusiast+from+India)](https://git.io/typing-svg)
 A Developer who is deeply is love with technology. Love to do anything involving hardware or software.
 
 ---
