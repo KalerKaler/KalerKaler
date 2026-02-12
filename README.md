@@ -36,8 +36,9 @@ A Developer who is deeply is love with technology. Love to do anything involving
 # Hobbies
 <p align=left>
 <img src="https://media.tenor.com/MUHP4mYrri4AAAAi/i-did-it-anime.gif">
+  I love anime and am really into books as well. Currently, I am reading "Think and grow rich" by Napoleon Hill.
 </p>
-I love anime and am really into books as well. Currently, I am reading "Think and grow rich" by Napoleon Hill.
+
 ---
 ### 📫 How to reach me:
 * **LinkedIn**: [linkedin.com/in/RajveerSinghKaler](https://www.linkedin.com/in/rajveer-singh-64691435a/)
