@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=1.4px&duration=5500&pause=1000&width=435&lines=Rajveer+Singh+Kaler)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=1.4px&duration=5500&pause=1000&color=C216F7&width=435&lines=Rajveer+Singh+Kaler)](https://git.io/typing-svg)
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&letterSpacing=3px&duration=5500&pause=1000&width=435&lines=Book+Entusiast;Anime+Fan;Animal+lover;Python%2C+C%2C+C%23%2C+Front-End)](https://git.io/typing-svg)
