@@ -1,7 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=1.4px&duration=5500&pause=1000&color=C216F7&center=true&vCenter=true&repeat=false&width=435&lines=Rajveer+Singh+Kaler)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=1.4px&duration=5500&pause=1000&color=C216F7&center=true&vCenter=true&repeat=false&width=435&lines=Rajveer+Singh+Kaler" alt="Rajveer Singh Kaler"/>
+</p>
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&letterSpacing=3px&duration=5500&pause=1000&width=435&lines=Book+Enthusiast;Anime+Fan;Animal+lover;Python%2C+C%2C+C%23%2C+Front-End)](https://git.io/typing-svg)
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&letterSpacing=1.4px&pause=1000&color=36F72F&center=true&vCenter=true&width=800&lines=Love+to+get+a+good+deal+on+good+tech;Student+at+Chitkara+University;Currently+improving+my+Python" alt="Typing SVG" />
+</p>
+<p align="right">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&letterSpacing=3px&duration=5500&pause=1000&width=435&lines=Book+Enthusiast;Anime+Fan;Animal+lover;Python%2C+C%2C+C%23%2C+Front-End" alt="Typing SVG"/>
+</p>
 
 ---
 
@@ -26,8 +33,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KalerKaler&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalerKaler&theme=merko" alt="GitHub Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KalerKaler&theme=merko" alt="Repositories Stats"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KalerKaler&theme=merko&utcOffset=8" alt="Commit Stats"/>
 </p>
 
 ---
