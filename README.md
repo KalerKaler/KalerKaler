@@ -53,3 +53,5 @@
 * **Email**: [rajveera1424@gmail.com](rajveera1424@gmail.com)
 
 *"A QUITTER NEVER WINS-AND-A WINNER NEVER QUITS."*
+
+<img src="https://komarev.com/ghpvc/?username=KalerKaler&style=for-the-badge&color=blueviolet" alt="Profile views"/>
