@@ -33,8 +33,8 @@
 ---
 
 # Hobbies
-<p align=center>
-<img width="400px" src="[[https://media.tenor.com/eV6EtQv7nl0AAAAi/pwned-3-aeternae-memori-reading.gif](https://raw.githubusercontent.com/KalerKaler/KalerKaler/main/animeBook.gif)](https://raw.githubusercontent.com/KalerKaler/KalerKaler/main/animeBook.gif)">
+<p align=center>https://github.com/KalerKaler/KalerKaler/blob/main/animeBook.gif
+<img width="400px" src="[[https://media.tenor.com/eV6EtQv7nl0AAAAi/pwned-3-aeternae-memori-reading.gif](https://raw.githubusercontent.com/KalerKaler/KalerKaler/blob/main/animeBook.gif)](https://raw.githubusercontent.com/KalerKaler/KalerKaler/blob/main/animeBook.gif)">
   <h3> I love anime and am really into books as well. Currently, I am reading "Think and grow rich" by Napoleon Hill. </h3>
 </p>
 
