@@ -52,6 +52,9 @@
 * **LinkedIn**: [linkedin.com/in/RajveerSinghKaler](https://www.linkedin.com/in/rajveer-singh-64691435a/)
 * **Email**: [rajveera1424@gmail.com](rajveera1424@gmail.com)
 
-*"A QUITTER NEVER WINS-AND-A WINNER NEVER QUITS."*
-
+## *"A QUITTER NEVER WINS-AND-A WINNER NEVER QUITS."*
+<div align=right>
 <img src="https://komarev.com/ghpvc/?username=KalerKaler&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&rotate=0&section=footer&textBg=false&fontAlign=78&reversal=true" alt="Footer design">
+</div>
