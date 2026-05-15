@@ -13,9 +13,29 @@
 ---
 
 <!--START_LASTFM_ARTISTS-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
+
+> `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
+> `6 ▶️` ∙ **[Simon Curtis](https://www.last.fm/music/Simon+Curtis)**<br/>
+> `5 ▶️` ∙ **[CVllXXX](https://www.last.fm/music/CVllXXX)**<br/>
+> `4 ▶️` ∙ **[Ren & Viktus](https://www.last.fm/music/Ren+&+Viktus)**<br/>
+> `3 ▶️` ∙ **[Arknights: Endfield](https://www.last.fm/music/Arknights:+Endfield)**<br/>
+> `3 ▶️` ∙ **[DryftiN](https://www.last.fm/music/DryftiN)**<br/>
+> `3 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `3 ▶️` ∙ **[Flavor Foley](https://www.last.fm/music/Flavor+Foley)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
+
+> 🎶 **[Disturbia](https://www.last.fm/music/The+Oshi+Bar+&+Isaa+Corva/_/Disturbia)** - The Oshi Bar & Isaa Corva<br/>
+> ∙ **[Disturbia](https://www.last.fm/music/The+Oshi+Bar+&+Isaa+Corva/_/Disturbia)** - The Oshi Bar & Isaa Corva<br/>
+> ∙ **[Down On The Beat](https://www.last.fm/music/Ren+&+Viktus/_/Down+On+The+Beat)** - Ren & Viktus<br/>
+> ∙ **[gigolo](https://www.last.fm/music/bbno$/_/gigolo)** - bbno$<br/>
+> ∙ **[Bottom 2](https://www.last.fm/music/nihmune/_/Bottom+2)** - nihmune<br/>
+> ∙ **[My Ordinary Life](https://www.last.fm/music/The+Living+Tombstone/_/My+Ordinary+Life)** - The Living Tombstone<br/>
+> ∙ **[Plants](https://www.last.fm/music/nihmune/_/Plants)** - nihmune<br/>
+> ∙ **[AYR!S’JYALIMO](https://www.last.fm/music/CVllXXX/_/AYR!S%E2%80%99JYALIMO)** - CVllXXX<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
