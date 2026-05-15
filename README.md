@@ -58,7 +58,7 @@
 
 > `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `30 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `19 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `20 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `17 ▶️` ∙ **[The Vanished People](https://www.last.fm/music/The+Vanished+People)**<br/>
 > `16 ▶️` ∙ **[50 Cent](https://www.last.fm/music/50+Cent)**<br/>
 > `12 ▶️` ∙ **[PiNKii](https://www.last.fm/music/PiNKii)**<br/>
@@ -67,7 +67,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Time To Feast](https://www.last.fm/music/Ironmouse,+Shirobeats,+&+HalaCG/_/Time+To+Feast)** - Ironmouse, Shirobeats, & HalaCG<br/>
+> 🎶 **[KPop Demon Hunters](https://www.last.fm/music/Takedown+(from/_/KPop+Demon+Hunters)** - Takedown (from<br/>
+> ∙ **[Delulu](https://www.last.fm/music/nihmune/_/Delulu)** - nihmune<br/>
 > ∙ **[Time To Feast](https://www.last.fm/music/Ironmouse,+Shirobeats,+&+HalaCG/_/Time+To+Feast)** - Ironmouse, Shirobeats, & HalaCG<br/>
 > ∙ **[Isaa Corva](https://www.last.fm/music/Sound/_/Isaa+Corva)** - Sound<br/>
 > ∙ **[DO U](https://www.last.fm/music/Takanashi+Kiara/_/DO+U)** - Takanashi Kiara<br/>
@@ -76,7 +77,6 @@
 > ∙ **[Disturbia](https://www.last.fm/music/The+Oshi+Bar+&+Isaa+Corva/_/Disturbia)** - The Oshi Bar & Isaa Corva<br/>
 > ∙ **[Down On The Beat](https://www.last.fm/music/Ren+&+Viktus/_/Down+On+The+Beat)** - Ren & Viktus<br/>
 > ∙ **[gigolo](https://www.last.fm/music/bbno$/_/gigolo)** - bbno$<br/>
-> ∙ **[Bottom 2](https://www.last.fm/music/nihmune/_/Bottom+2)** - nihmune<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
