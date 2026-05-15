@@ -16,16 +16,14 @@
 
  ## My top artists in the last month
 <!--START_LASTFM_ARTISTS:{"period":"1month", "rows": 6}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
 > `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
-> `6 ▶️` ∙ **[Simon Curtis](https://www.last.fm/music/Simon+Curtis)**<br/>
-> `5 ▶️` ∙ **[CVllXXX](https://www.last.fm/music/CVllXXX)**<br/>
-> `4 ▶️` ∙ **[Ren & Viktus](https://www.last.fm/music/Ren+&+Viktus)**<br/>
-> `3 ▶️` ∙ **[Arknights: Endfield](https://www.last.fm/music/Arknights:+Endfield)**<br/>
-> `3 ▶️` ∙ **[DryftiN](https://www.last.fm/music/DryftiN)**<br/>
-> `3 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `3 ▶️` ∙ **[Flavor Foley](https://www.last.fm/music/Flavor+Foley)**<br/>
+> `30 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `19 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `17 ▶️` ∙ **[The Vanished People](https://www.last.fm/music/The+Vanished+People)**<br/>
+> `16 ▶️` ∙ **[50 Cent](https://www.last.fm/music/50+Cent)**<br/>
+> `12 ▶️` ∙ **[PiNKii](https://www.last.fm/music/PiNKii)**<br/>
 <!--END_LASTFM_ARTISTS-->
 ---
 
@@ -33,14 +31,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Disturbia](https://www.last.fm/music/The+Oshi+Bar+&+Isaa+Corva/_/Disturbia)** - The Oshi Bar & Isaa Corva<br/>
+> 🎶 **[Time To Feast](https://www.last.fm/music/Ironmouse,+Shirobeats,+&+HalaCG/_/Time+To+Feast)** - Ironmouse, Shirobeats, & HalaCG<br/>
+> ∙ **[Time To Feast](https://www.last.fm/music/Ironmouse,+Shirobeats,+&+HalaCG/_/Time+To+Feast)** - Ironmouse, Shirobeats, & HalaCG<br/>
+> ∙ **[Isaa Corva](https://www.last.fm/music/Sound/_/Isaa+Corva)** - Sound<br/>
+> ∙ **[DO U](https://www.last.fm/music/Takanashi+Kiara/_/DO+U)** - Takanashi Kiara<br/>
+> ∙ **[Prisoner](https://www.last.fm/music/Shiori+Novella,+Koseki+Bijou,+Nerissa+Ravencroft,+&+FUWAMOCO/_/Prisoner)** - Shiori Novella, Koseki Bijou, Nerissa Ravencroft, & FUWAMOCO<br/>
+> ∙ **[Epoch (The Living Tombstone Remix)](https://www.last.fm/music/Savlonic/_/Epoch+(The+Living+Tombstone+Remix))** - Savlonic<br/>
 > ∙ **[Disturbia](https://www.last.fm/music/The+Oshi+Bar+&+Isaa+Corva/_/Disturbia)** - The Oshi Bar & Isaa Corva<br/>
 > ∙ **[Down On The Beat](https://www.last.fm/music/Ren+&+Viktus/_/Down+On+The+Beat)** - Ren & Viktus<br/>
 > ∙ **[gigolo](https://www.last.fm/music/bbno$/_/gigolo)** - bbno$<br/>
 > ∙ **[Bottom 2](https://www.last.fm/music/nihmune/_/Bottom+2)** - nihmune<br/>
-> ∙ **[My Ordinary Life](https://www.last.fm/music/The+Living+Tombstone/_/My+Ordinary+Life)** - The Living Tombstone<br/>
-> ∙ **[Plants](https://www.last.fm/music/nihmune/_/Plants)** - nihmune<br/>
-> ∙ **[AYR!S’JYALIMO](https://www.last.fm/music/CVllXXX/_/AYR!S%E2%80%99JYALIMO)** - CVllXXX<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
