@@ -12,37 +12,6 @@
 
 ---
 
-<h1>I also <strong>LOVE</strong> music</h1>
-
-<!--START_LASTFM_ARTISTS:{"period":"1month", "rows": 6}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
-
-> `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
-> `30 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `19 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
-> `17 ▶️` ∙ **[The Vanished People](https://www.last.fm/music/The+Vanished+People)**<br/>
-> `16 ▶️` ∙ **[50 Cent](https://www.last.fm/music/50+Cent)**<br/>
-> `12 ▶️` ∙ **[PiNKii](https://www.last.fm/music/PiNKii)**<br/>
-<!--END_LASTFM_ARTISTS-->
----
-
-<!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
-
-> 🎶 **[Time To Feast](https://www.last.fm/music/Ironmouse,+Shirobeats,+&+HalaCG/_/Time+To+Feast)** - Ironmouse, Shirobeats, & HalaCG<br/>
-> ∙ **[Time To Feast](https://www.last.fm/music/Ironmouse,+Shirobeats,+&+HalaCG/_/Time+To+Feast)** - Ironmouse, Shirobeats, & HalaCG<br/>
-> ∙ **[Isaa Corva](https://www.last.fm/music/Sound/_/Isaa+Corva)** - Sound<br/>
-> ∙ **[DO U](https://www.last.fm/music/Takanashi+Kiara/_/DO+U)** - Takanashi Kiara<br/>
-> ∙ **[Prisoner](https://www.last.fm/music/Shiori+Novella,+Koseki+Bijou,+Nerissa+Ravencroft,+&+FUWAMOCO/_/Prisoner)** - Shiori Novella, Koseki Bijou, Nerissa Ravencroft, & FUWAMOCO<br/>
-> ∙ **[Epoch (The Living Tombstone Remix)](https://www.last.fm/music/Savlonic/_/Epoch+(The+Living+Tombstone+Remix))** - Savlonic<br/>
-> ∙ **[Disturbia](https://www.last.fm/music/The+Oshi+Bar+&+Isaa+Corva/_/Disturbia)** - The Oshi Bar & Isaa Corva<br/>
-> ∙ **[Down On The Beat](https://www.last.fm/music/Ren+&+Viktus/_/Down+On+The+Beat)** - Ren & Viktus<br/>
-> ∙ **[gigolo](https://www.last.fm/music/bbno$/_/gigolo)** - bbno$<br/>
-> ∙ **[Bottom 2](https://www.last.fm/music/nihmune/_/Bottom+2)** - nihmune<br/>
-<!--END_LASTFM_RECENT-->
-
----
-
 ### 🛠️ My Tech Stack
 
 **Languages & Frameworks**
@@ -73,6 +42,8 @@
 ---
 
 # Hobbies
+
+## Anime & Books
 <p align=center>
 <img width="400px" src="https://media.tenor.com/eV6EtQv7nl0AAAAi/pwned-3-aeternae-memori-reading.gif">
   <h3> I love anime and am really into books as well. Currently, I am reading "The subtle art of not giving a fuck" by Mark Manson. </h3>
@@ -80,9 +51,40 @@
 
 ---
 
+<h2 align="right">I also <strong>LOVE</strong> music</h2>
+
+<!--START_LASTFM_ARTISTS:{"period":"1month", "rows": 6}-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
+
+> `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
+> `30 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `19 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `17 ▶️` ∙ **[The Vanished People](https://www.last.fm/music/The+Vanished+People)**<br/>
+> `16 ▶️` ∙ **[50 Cent](https://www.last.fm/music/50+Cent)**<br/>
+> `12 ▶️` ∙ **[PiNKii](https://www.last.fm/music/PiNKii)**<br/>
+<!--END_LASTFM_ARTISTS-->
+
+<!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
+
+> 🎶 **[Time To Feast](https://www.last.fm/music/Ironmouse,+Shirobeats,+&+HalaCG/_/Time+To+Feast)** - Ironmouse, Shirobeats, & HalaCG<br/>
+> ∙ **[Time To Feast](https://www.last.fm/music/Ironmouse,+Shirobeats,+&+HalaCG/_/Time+To+Feast)** - Ironmouse, Shirobeats, & HalaCG<br/>
+> ∙ **[Isaa Corva](https://www.last.fm/music/Sound/_/Isaa+Corva)** - Sound<br/>
+> ∙ **[DO U](https://www.last.fm/music/Takanashi+Kiara/_/DO+U)** - Takanashi Kiara<br/>
+> ∙ **[Prisoner](https://www.last.fm/music/Shiori+Novella,+Koseki+Bijou,+Nerissa+Ravencroft,+&+FUWAMOCO/_/Prisoner)** - Shiori Novella, Koseki Bijou, Nerissa Ravencroft, & FUWAMOCO<br/>
+> ∙ **[Epoch (The Living Tombstone Remix)](https://www.last.fm/music/Savlonic/_/Epoch+(The+Living+Tombstone+Remix))** - Savlonic<br/>
+> ∙ **[Disturbia](https://www.last.fm/music/The+Oshi+Bar+&+Isaa+Corva/_/Disturbia)** - The Oshi Bar & Isaa Corva<br/>
+> ∙ **[Down On The Beat](https://www.last.fm/music/Ren+&+Viktus/_/Down+On+The+Beat)** - Ren & Viktus<br/>
+> ∙ **[gigolo](https://www.last.fm/music/bbno$/_/gigolo)** - bbno$<br/>
+> ∙ **[Bottom 2](https://www.last.fm/music/nihmune/_/Bottom+2)** - nihmune<br/>
+<!--END_LASTFM_RECENT-->
+
+---
+
+# I use Nyarch BTW, cause why not
+
 <p align="center">
 <img width="726" height="295" alt="image" src="https://github.com/user-attachments/assets/a6a0a1cd-9cdf-4d2a-9654-126ec5d7ead2" />
-<p>I use Nyarch BTW, cause why not</p>
 </p>
 
 ---
