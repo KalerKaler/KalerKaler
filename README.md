@@ -14,7 +14,6 @@
 
 <h1>I also <strong>LOVE</strong> music</h1>
 
- ## My top artists in the last month
 <!--START_LASTFM_ARTISTS:{"period":"1month", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
@@ -27,7 +26,6 @@
 <!--END_LASTFM_ARTISTS-->
 ---
 
-## My overall top tracks
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
