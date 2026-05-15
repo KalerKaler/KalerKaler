@@ -14,8 +14,8 @@
 
 <h1>I also <strong>LOVE</strong> music</h1>
 
- ## My top artists in the last 4 months
-<!--START_LASTFM_ARTISTS:{"period":"4month", "rows": 6}-->
+ ## My top artists in the last month
+<!--START_LASTFM_ARTISTS:{"period":"1month", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
