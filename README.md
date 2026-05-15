@@ -44,11 +44,18 @@
 # Hobbies
 <p align=center>
 <img width="400px" src="https://media.tenor.com/eV6EtQv7nl0AAAAi/pwned-3-aeternae-memori-reading.gif">
-  <h3> I love anime and am really into books as well. Currently, I am reading "Think and grow rich" by Napoleon Hill. </h3>
+  <h3> I love anime and am really into books as well. Currently, I am reading "The subtle art of not giving a fuck" by Mark Manson. </h3>
 </p>
 
 ---
-### 📫 How to reach me:
+
+<p align="center">
+<img width="726" height="295" alt="image" src="https://github.com/user-attachments/assets/a6a0a1cd-9cdf-4d2a-9654-126ec5d7ead2" />
+<p>I use Nyarch BTW, cause why not</p>
+</p>
+
+---
+###  How to reach me:
 * **LinkedIn**: [linkedin.com/in/RajveerSinghKaler](https://www.linkedin.com/in/rajveer-singh-64691435a/)
 * **Email**: [rajveera1424@gmail.com](rajveera1424@gmail.com)
 
