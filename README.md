@@ -12,7 +12,10 @@
 
 ---
 
-<!--START_LASTFM_ARTISTS-->
+<h1>I also <strong>LOVE</strong> music</h1>
+
+ ## My top artists in the last 4 months
+<!--START_LASTFM_ARTISTS:{"period":"4month", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
@@ -24,8 +27,10 @@
 > `3 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `3 ▶️` ∙ **[Flavor Foley](https://www.last.fm/music/Flavor+Foley)**<br/>
 <!--END_LASTFM_ARTISTS-->
+---
 
-<!--START_LASTFM_RECENT-->
+## My overall top tracks
+<!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
 > 🎶 **[Disturbia](https://www.last.fm/music/The+Oshi+Bar+&+Isaa+Corva/_/Disturbia)** - The Oshi Bar & Isaa Corva<br/>
