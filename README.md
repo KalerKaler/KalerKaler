@@ -67,16 +67,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Mosquito feat. Hatsune Miku](https://www.last.fm/music/Turbo+G/_/Mosquito+feat.+Hatsune+Miku)** - Turbo G<br/>
-> ∙ **[Wellerman, covered by Neuro-sama (Fans animation)](https://www.last.fm/music/%E5%B0%8F%E7%95%AB%E5%AE%B6%E7%99%BD%E9%AD%9AWhite_fishy/_/Wellerman,+covered+by+Neuro-sama+(Fans+animation))** - 小畫家白魚White_fishy<br/>
-> ∙ **[Dance Past Midnight (feat. AmaLee)](https://www.last.fm/music/Mori+Calliope/_/Dance+Past+Midnight+(feat.+AmaLee))** - Mori Calliope<br/>
-> ∙ **[Boy's Club](https://www.last.fm/music/PiNKII,+ChiChi/_/Boy%27s+Club)** - PiNKII, ChiChi<br/>
-> ∙ **[Genesis](https://www.last.fm/music/Shiori+Novella,+Koseki+Bijou,+Nerissa+Ravencroft,+FUWAMOCO/_/Genesis)** - Shiori Novella, Koseki Bijou, Nerissa Ravencroft, FUWAMOCO<br/>
-> ∙ **[She's So Toxic!](https://www.last.fm/music/nihmune/_/She%27s+So+Toxic!)** - nihmune<br/>
-> ∙ **[Bubblegum K.K. (Japanese Version)](https://www.last.fm/music/Hikaru+Station,+Trifect/_/Bubblegum+K.K.+(Japanese+Version))** - Hikaru Station, Trifect<br/>
-> ∙ **[Dream of Me (feat. tommy.)](https://www.last.fm/music/Isaa+Corva/_/Dream+of+Me+(feat.+tommy.))** - Isaa Corva<br/>
-> ∙ **[Evil Neuro Karaoke: Emergence - Sleep Token](https://www.last.fm/music/Symphonic+Synapses/_/Evil+Neuro+Karaoke:+Emergence+-+Sleep+Token)** - Symphonic Synapses<br/>
-> ∙ **[DryftiN - Playing with FIRE!!! (feat. Yi Xi)](https://www.last.fm/music/DryftiN/_/DryftiN+-+Playing+with+FIRE!!!+(feat.+Yi+Xi))** - DryftiN<br/>
+> 🎶 **[Sinister - Ironmouse Cover @ FINAL FANTASY XIV Fan Fest 2026](https://www.last.fm/music/Ironmouse/_/Sinister+-+Ironmouse+Cover+@+FINAL+FANTASY+XIV+Fan+Fest+2026)** - Ironmouse<br/>
+> ∙ **[Machine Love (feat. Neuro-sama) - Neuro-sama Community Collab](https://www.last.fm/music/Neuro21+Clip+Team+%5BNeuro-sama+CN+Clipper%5D/_/Machine+Love+(feat.+Neuro-sama)+-+Neuro-sama+Community+Collab)** - Neuro21 Clip Team [Neuro-sama CN Clipper]<br/>
+> ∙ **[「English Cover」 Wink - Azari ft. Rosu ロス | ver. Sagiki](https://www.last.fm/music/Sagiki+Ihori/_/%E3%80%8CEnglish+Cover%E3%80%8D+Wink+-+Azari+ft.+Rosu+%E3%83%AD%E3%82%B9+%7C+ver.+Sagiki)** - Sagiki Ihori<br/>
+> ∙ **[Abracadabra - Ironmouse](https://www.last.fm/music/Ironmouse/_/Abracadabra+-+Ironmouse)** - Ironmouse<br/>
+> ∙ **[Ego Renegade Boy (feat. 鏡音レン)](https://www.last.fm/music/Flavor+Foley/_/Ego+Renegade+Boy+(feat.+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3))** - Flavor Foley<br/>
+> ∙ **[INTRUSIVE THOUGHTS // feat. Kasane Teto (Original Song)](https://www.last.fm/music/NicoIsNXXT/_/INTRUSIVE+THOUGHTS+%2F%2F+feat.+Kasane+Teto+(Original+Song))** - NicoIsNXXT<br/>
+> ∙ **[Evil Neuro x Neuro-Sama V3 sings Triple Baka by LamazeP [Karaoke Cover Version] w/subtitle](https://www.last.fm/music/NeuroClips/_/Evil+Neuro+x+Neuro-Sama+V3+sings+Triple+Baka+by+LamazeP+%5BKaraoke+Cover+Version%5D+w%2Fsubtitle)** - NeuroClips<br/>
+> ∙ **[MINIMUM RAGE](https://www.last.fm/music/MonochroMenace/_/MINIMUM+RAGE)** - MonochroMenace<br/>
+> ∙ **[【Original song】 Unreal - Wolfychu 【Animated MV】](https://www.last.fm/music/Wolfychu/_/%E3%80%90Original+song%E3%80%91+Unreal+-+Wolfychu+%E3%80%90Animated+MV%E3%80%91)** - Wolfychu<br/>
+> ∙ **[LIFE - Neuro-sama (Official Video)](https://www.last.fm/music/Neuro-sama/_/LIFE+-+Neuro-sama+(Official+Video))** - Neuro-sama<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
