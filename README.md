@@ -67,7 +67,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Baostep](https://www.last.fm/music/Bao+The+Whale,+Kanro/_/Baostep)** - Bao The Whale, Kanro<br/>
+> 🎶 **[Kurage-P "My R" English Cover わたしのアール](https://www.last.fm/music/Bao+The+Whale/_/Kurage-P+%22My+R%22+English+Cover+%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%AB)** - Bao The Whale<br/>
+> ∙ **[Baostep](https://www.last.fm/music/Bao+The+Whale,+Kanro/_/Baostep)** - Bao The Whale, Kanro<br/>
+> ∙ **[LOVE IN PARADISE (EPIC: The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Bao+The+Whale/_/LOVE+IN+PARADISE+(EPIC:+The+Musical)+Full+Animatic+VTuber+Ver.)** - Bao The Whale<br/>
 > ∙ **[My Japanese Friend](https://www.last.fm/music/Turbo+G/_/My+Japanese+Friend)** - Turbo G<br/>
 > ∙ **[THE GIVER](https://www.last.fm/music/Grim+Salvo+&+Witchouse+40k/_/THE+GIVER)** - Grim Salvo & Witchouse 40k<br/>
 > ∙ **[Bury Me Low](https://www.last.fm/music/8+Graves/_/Bury+Me+Low)** - 8 Graves<br/>
@@ -75,8 +77,6 @@
 > ∙ **[Radio Silence](https://www.last.fm/music/PlushiePup/_/Radio+Silence)** - PlushiePup<br/>
 > ∙ **[Sinister - Ironmouse Cover @ FINAL FANTASY XIV Fan Fest 2026](https://www.last.fm/music/Ironmouse/_/Sinister+-+Ironmouse+Cover+@+FINAL+FANTASY+XIV+Fan+Fest+2026)** - Ironmouse<br/>
 > ∙ **[Machine Love (feat. Neuro-sama) - Neuro-sama Community Collab](https://www.last.fm/music/Neuro21+Clip+Team+%5BNeuro-sama+CN+Clipper%5D/_/Machine+Love+(feat.+Neuro-sama)+-+Neuro-sama+Community+Collab)** - Neuro21 Clip Team [Neuro-sama CN Clipper]<br/>
-> ∙ **[「English Cover」 Wink - Azari ft. Rosu ロス | ver. Sagiki](https://www.last.fm/music/Sagiki+Ihori/_/%E3%80%8CEnglish+Cover%E3%80%8D+Wink+-+Azari+ft.+Rosu+%E3%83%AD%E3%82%B9+%7C+ver.+Sagiki)** - Sagiki Ihori<br/>
-> ∙ **[Abracadabra - Ironmouse](https://www.last.fm/music/Ironmouse/_/Abracadabra+-+Ironmouse)** - Ironmouse<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
