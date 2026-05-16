@@ -67,16 +67,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Radio Silence](https://www.last.fm/music/PlushiePup/_/Radio+Silence)** - PlushiePup<br/>
+> 🎶 **[THE GIVER](https://www.last.fm/music/Grim+Salvo+&+Witchouse+40k/_/THE+GIVER)** - Grim Salvo & Witchouse 40k<br/>
+> ∙ **[Bury Me Low](https://www.last.fm/music/8+Graves/_/Bury+Me+Low)** - 8 Graves<br/>
+> ∙ **[The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Love+in+Paradise+(EPIC/_/The+Musical)+Full+Animatic+VTuber+Ver.)** - Love in Paradise (EPIC<br/>
+> ∙ **[Radio Silence](https://www.last.fm/music/PlushiePup/_/Radio+Silence)** - PlushiePup<br/>
 > ∙ **[Sinister - Ironmouse Cover @ FINAL FANTASY XIV Fan Fest 2026](https://www.last.fm/music/Ironmouse/_/Sinister+-+Ironmouse+Cover+@+FINAL+FANTASY+XIV+Fan+Fest+2026)** - Ironmouse<br/>
 > ∙ **[Machine Love (feat. Neuro-sama) - Neuro-sama Community Collab](https://www.last.fm/music/Neuro21+Clip+Team+%5BNeuro-sama+CN+Clipper%5D/_/Machine+Love+(feat.+Neuro-sama)+-+Neuro-sama+Community+Collab)** - Neuro21 Clip Team [Neuro-sama CN Clipper]<br/>
 > ∙ **[「English Cover」 Wink - Azari ft. Rosu ロス | ver. Sagiki](https://www.last.fm/music/Sagiki+Ihori/_/%E3%80%8CEnglish+Cover%E3%80%8D+Wink+-+Azari+ft.+Rosu+%E3%83%AD%E3%82%B9+%7C+ver.+Sagiki)** - Sagiki Ihori<br/>
 > ∙ **[Abracadabra - Ironmouse](https://www.last.fm/music/Ironmouse/_/Abracadabra+-+Ironmouse)** - Ironmouse<br/>
 > ∙ **[Ego Renegade Boy (feat. 鏡音レン)](https://www.last.fm/music/Flavor+Foley/_/Ego+Renegade+Boy+(feat.+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3))** - Flavor Foley<br/>
 > ∙ **[INTRUSIVE THOUGHTS // feat. Kasane Teto (Original Song)](https://www.last.fm/music/NicoIsNXXT/_/INTRUSIVE+THOUGHTS+%2F%2F+feat.+Kasane+Teto+(Original+Song))** - NicoIsNXXT<br/>
-> ∙ **[Evil Neuro x Neuro-Sama V3 sings Triple Baka by LamazeP [Karaoke Cover Version] w/subtitle](https://www.last.fm/music/NeuroClips/_/Evil+Neuro+x+Neuro-Sama+V3+sings+Triple+Baka+by+LamazeP+%5BKaraoke+Cover+Version%5D+w%2Fsubtitle)** - NeuroClips<br/>
-> ∙ **[MINIMUM RAGE](https://www.last.fm/music/MonochroMenace/_/MINIMUM+RAGE)** - MonochroMenace<br/>
-> ∙ **[【Original song】 Unreal - Wolfychu 【Animated MV】](https://www.last.fm/music/Wolfychu/_/%E3%80%90Original+song%E3%80%91+Unreal+-+Wolfychu+%E3%80%90Animated+MV%E3%80%91)** - Wolfychu<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
