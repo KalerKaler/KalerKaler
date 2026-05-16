@@ -58,7 +58,7 @@
 
 > `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `30 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `21 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `22 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `17 ▶️` ∙ **[The Vanished People](https://www.last.fm/music/The+Vanished+People)**<br/>
 > `16 ▶️` ∙ **[50 Cent](https://www.last.fm/music/50+Cent)**<br/>
 > `12 ▶️` ∙ **[PiNKii](https://www.last.fm/music/PiNKii)**<br/>
@@ -67,16 +67,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Kurage-P "My R" English Cover わたしのアール](https://www.last.fm/music/Bao+The+Whale/_/Kurage-P+%22My+R%22+English+Cover+%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%AB)** - Bao The Whale<br/>
+> 🎶 **[Signs](https://www.last.fm/music/Takanashi+Kiara/_/Signs)** - Takanashi Kiara<br/>
+> ∙ **[Signs](https://www.last.fm/music/Takanashi+Kiara/_/Signs)** - Takanashi Kiara<br/>
+> ∙ **[Hell of a Good Time (feat. Michi Mochievee)](https://www.last.fm/music/nihmune/_/Hell+of+a+Good+Time+(feat.+Michi+Mochievee))** - nihmune<br/>
+> ∙ **[Tiger On Your Roof](https://www.last.fm/music/HalaCG,+Axii/_/Tiger+On+Your+Roof)** - HalaCG, Axii<br/>
+> ∙ **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
+> ∙ **[Free (feat. Derivakat)](https://www.last.fm/music/Isaa+Corva/_/Free+(feat.+Derivakat))** - Isaa Corva<br/>
+> ∙ **[LOVE IN PARADISE (EPIC: The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Bao+The+Whale/_/LOVE+IN+PARADISE+(EPIC:+The+Musical)+Full+Animatic+VTuber+Ver.)** - Bao The Whale<br/>
+> ∙ **[Kurage-P "My R" English Cover わたしのアール](https://www.last.fm/music/Bao+The+Whale/_/Kurage-P+%22My+R%22+English+Cover+%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%AB)** - Bao The Whale<br/>
 > ∙ **[Baostep](https://www.last.fm/music/Bao+The+Whale,+Kanro/_/Baostep)** - Bao The Whale, Kanro<br/>
 > ∙ **[LOVE IN PARADISE (EPIC: The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Bao+The+Whale/_/LOVE+IN+PARADISE+(EPIC:+The+Musical)+Full+Animatic+VTuber+Ver.)** - Bao The Whale<br/>
-> ∙ **[My Japanese Friend](https://www.last.fm/music/Turbo+G/_/My+Japanese+Friend)** - Turbo G<br/>
-> ∙ **[THE GIVER](https://www.last.fm/music/Grim+Salvo+&+Witchouse+40k/_/THE+GIVER)** - Grim Salvo & Witchouse 40k<br/>
-> ∙ **[Bury Me Low](https://www.last.fm/music/8+Graves/_/Bury+Me+Low)** - 8 Graves<br/>
-> ∙ **[The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Love+in+Paradise+(EPIC/_/The+Musical)+Full+Animatic+VTuber+Ver.)** - Love in Paradise (EPIC<br/>
-> ∙ **[Radio Silence](https://www.last.fm/music/PlushiePup/_/Radio+Silence)** - PlushiePup<br/>
-> ∙ **[Sinister - Ironmouse Cover @ FINAL FANTASY XIV Fan Fest 2026](https://www.last.fm/music/Ironmouse/_/Sinister+-+Ironmouse+Cover+@+FINAL+FANTASY+XIV+Fan+Fest+2026)** - Ironmouse<br/>
-> ∙ **[Machine Love (feat. Neuro-sama) - Neuro-sama Community Collab](https://www.last.fm/music/Neuro21+Clip+Team+%5BNeuro-sama+CN+Clipper%5D/_/Machine+Love+(feat.+Neuro-sama)+-+Neuro-sama+Community+Collab)** - Neuro21 Clip Team [Neuro-sama CN Clipper]<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
