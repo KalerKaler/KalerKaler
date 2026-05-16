@@ -58,7 +58,7 @@
 
 > `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `30 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `20 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `21 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `17 ▶️` ∙ **[The Vanished People](https://www.last.fm/music/The+Vanished+People)**<br/>
 > `16 ▶️` ∙ **[50 Cent](https://www.last.fm/music/50+Cent)**<br/>
 > `12 ▶️` ∙ **[PiNKii](https://www.last.fm/music/PiNKii)**<br/>
@@ -67,16 +67,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[KPop Demon Hunters](https://www.last.fm/music/Takedown+(from/_/KPop+Demon+Hunters)** - Takedown (from<br/>
-> ∙ **[Delulu](https://www.last.fm/music/nihmune/_/Delulu)** - nihmune<br/>
-> ∙ **[Time To Feast](https://www.last.fm/music/Ironmouse,+Shirobeats,+&+HalaCG/_/Time+To+Feast)** - Ironmouse, Shirobeats, & HalaCG<br/>
-> ∙ **[Isaa Corva](https://www.last.fm/music/Sound/_/Isaa+Corva)** - Sound<br/>
-> ∙ **[DO U](https://www.last.fm/music/Takanashi+Kiara/_/DO+U)** - Takanashi Kiara<br/>
-> ∙ **[Prisoner](https://www.last.fm/music/Shiori+Novella,+Koseki+Bijou,+Nerissa+Ravencroft,+&+FUWAMOCO/_/Prisoner)** - Shiori Novella, Koseki Bijou, Nerissa Ravencroft, & FUWAMOCO<br/>
-> ∙ **[Epoch (The Living Tombstone Remix)](https://www.last.fm/music/Savlonic/_/Epoch+(The+Living+Tombstone+Remix))** - Savlonic<br/>
-> ∙ **[Disturbia](https://www.last.fm/music/The+Oshi+Bar+&+Isaa+Corva/_/Disturbia)** - The Oshi Bar & Isaa Corva<br/>
-> ∙ **[Down On The Beat](https://www.last.fm/music/Ren+&+Viktus/_/Down+On+The+Beat)** - Ren & Viktus<br/>
-> ∙ **[gigolo](https://www.last.fm/music/bbno$/_/gigolo)** - bbno$<br/>
+> 🎶 **[Mosquito feat. Hatsune Miku](https://www.last.fm/music/Turbo+G/_/Mosquito+feat.+Hatsune+Miku)** - Turbo G<br/>
+> ∙ **[Wellerman, covered by Neuro-sama (Fans animation)](https://www.last.fm/music/%E5%B0%8F%E7%95%AB%E5%AE%B6%E7%99%BD%E9%AD%9AWhite_fishy/_/Wellerman,+covered+by+Neuro-sama+(Fans+animation))** - 小畫家白魚White_fishy<br/>
+> ∙ **[Dance Past Midnight (feat. AmaLee)](https://www.last.fm/music/Mori+Calliope/_/Dance+Past+Midnight+(feat.+AmaLee))** - Mori Calliope<br/>
+> ∙ **[Boy's Club](https://www.last.fm/music/PiNKII,+ChiChi/_/Boy%27s+Club)** - PiNKII, ChiChi<br/>
+> ∙ **[Genesis](https://www.last.fm/music/Shiori+Novella,+Koseki+Bijou,+Nerissa+Ravencroft,+FUWAMOCO/_/Genesis)** - Shiori Novella, Koseki Bijou, Nerissa Ravencroft, FUWAMOCO<br/>
+> ∙ **[She's So Toxic!](https://www.last.fm/music/nihmune/_/She%27s+So+Toxic!)** - nihmune<br/>
+> ∙ **[Bubblegum K.K. (Japanese Version)](https://www.last.fm/music/Hikaru+Station,+Trifect/_/Bubblegum+K.K.+(Japanese+Version))** - Hikaru Station, Trifect<br/>
+> ∙ **[Dream of Me (feat. tommy.)](https://www.last.fm/music/Isaa+Corva/_/Dream+of+Me+(feat.+tommy.))** - Isaa Corva<br/>
+> ∙ **[Evil Neuro Karaoke: Emergence - Sleep Token](https://www.last.fm/music/Symphonic+Synapses/_/Evil+Neuro+Karaoke:+Emergence+-+Sleep+Token)** - Symphonic Synapses<br/>
+> ∙ **[DryftiN - Playing with FIRE!!! (feat. Yi Xi)](https://www.last.fm/music/DryftiN/_/DryftiN+-+Playing+with+FIRE!!!+(feat.+Yi+Xi))** - DryftiN<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
