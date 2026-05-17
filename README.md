@@ -67,16 +67,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Signs](https://www.last.fm/music/Takanashi+Kiara/_/Signs)** - Takanashi Kiara<br/>
-> ∙ **[Signs](https://www.last.fm/music/Takanashi+Kiara/_/Signs)** - Takanashi Kiara<br/>
-> ∙ **[Hell of a Good Time (feat. Michi Mochievee)](https://www.last.fm/music/nihmune/_/Hell+of+a+Good+Time+(feat.+Michi+Mochievee))** - nihmune<br/>
-> ∙ **[Tiger On Your Roof](https://www.last.fm/music/HalaCG,+Axii/_/Tiger+On+Your+Roof)** - HalaCG, Axii<br/>
-> ∙ **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
-> ∙ **[Free (feat. Derivakat)](https://www.last.fm/music/Isaa+Corva/_/Free+(feat.+Derivakat))** - Isaa Corva<br/>
-> ∙ **[LOVE IN PARADISE (EPIC: The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Bao+The+Whale/_/LOVE+IN+PARADISE+(EPIC:+The+Musical)+Full+Animatic+VTuber+Ver.)** - Bao The Whale<br/>
-> ∙ **[Kurage-P "My R" English Cover わたしのアール](https://www.last.fm/music/Bao+The+Whale/_/Kurage-P+%22My+R%22+English+Cover+%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%AB)** - Bao The Whale<br/>
-> ∙ **[Baostep](https://www.last.fm/music/Bao+The+Whale,+Kanro/_/Baostep)** - Bao The Whale, Kanro<br/>
-> ∙ **[LOVE IN PARADISE (EPIC: The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Bao+The+Whale/_/LOVE+IN+PARADISE+(EPIC:+The+Musical)+Full+Animatic+VTuber+Ver.)** - Bao The Whale<br/>
+> 🎶 **[Dance With Me](https://www.last.fm/music/DirtySnatcha/_/Dance+With+Me)** - DirtySnatcha<br/>
+> ∙ **[Evolution](https://www.last.fm/music/Pixel+Terror+&+GameChops/_/Evolution)** - Pixel Terror & GameChops<br/>
+> ∙ **[Lost Woods](https://www.last.fm/music/Will+&+Tim/_/Lost+Woods)** - Will & Tim<br/>
+> ∙ **[Giorno's Theme (From "JoJo's Bizarre Adventure")](https://www.last.fm/music/VGR/_/Giorno%27s+Theme+(From+%22JoJo%27s+Bizarre+Adventure%22))** - VGR<br/>
+> ∙ **[Cold](https://www.last.fm/music/MYRIDIN/_/Cold)** - MYRIDIN<br/>
+> ∙ **[Save My World](https://www.last.fm/music/kanro/_/Save+My+World)** - kanro<br/>
+> ∙ **[Hide Away](https://www.last.fm/music/SVRGE/_/Hide+Away)** - SVRGE<br/>
+> ∙ **[Dream Drive Operating System](https://www.last.fm/music/Ghost+Data/_/Dream+Drive+Operating+System)** - Ghost Data<br/>
+> ∙ **[Purr Bass](https://www.last.fm/music/Steradlye/_/Purr+Bass)** - Steradlye<br/>
+> ∙ **[INDIFFERENT](https://www.last.fm/music/LeGrand/_/INDIFFERENT)** - LeGrand<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
