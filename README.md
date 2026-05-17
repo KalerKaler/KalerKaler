@@ -67,16 +67,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Lifelike](https://www.last.fm/music/Halacg/_/Lifelike)** - Halacg<br/>
+> 🎶 **[Kodokushi](https://www.last.fm/music/Mihka!+&+Kyoto+Black/_/Kodokushi)** - Mihka! & Kyoto Black<br/>
+> ∙ **[Ping!](https://www.last.fm/music/Exyl/_/Ping!)** - Exyl<br/>
+> ∙ **[Dance With Me](https://www.last.fm/music/DirtySnatcha/_/Dance+With+Me)** - DirtySnatcha<br/>
+> ∙ **[Evolution](https://www.last.fm/music/Pixel+Terror+&+GameChops/_/Evolution)** - Pixel Terror & GameChops<br/>
+> ∙ **[Lost Woods](https://www.last.fm/music/Will+&+Tim/_/Lost+Woods)** - Will & Tim<br/>
+> ∙ **[Giorno's Theme (From "JoJo's Bizarre Adventure")](https://www.last.fm/music/VGR/_/Giorno%27s+Theme+(From+%22JoJo%27s+Bizarre+Adventure%22))** - VGR<br/>
+> ∙ **[Lifelike](https://www.last.fm/music/Halacg/_/Lifelike)** - Halacg<br/>
 > ∙ **[Downfall](https://www.last.fm/music/Derivakat/_/Downfall)** - Derivakat<br/>
 > ∙ **[No Mercy (feat. BlackGryph0n & LittleJayneyCakes)](https://www.last.fm/music/The+Living+Tombstone/_/No+Mercy+(feat.+BlackGryph0n+&+LittleJayneyCakes))** - The Living Tombstone<br/>
 > ∙ **[Vtuber Loser](https://www.last.fm/music/nihmune/_/Vtuber+Loser)** - nihmune<br/>
-> ∙ **[Downfall](https://www.last.fm/music/Derivakat/_/Downfall)** - Derivakat<br/>
-> ∙ **[Superstar](https://www.last.fm/music/Halacg,+shirobeats/_/Superstar)** - Halacg, shirobeats<br/>
-> ∙ **[In Love with an Anime Girl](https://www.last.fm/music/nihmune/_/In+Love+with+an+Anime+Girl)** - nihmune<br/>
-> ∙ **[Blinding Lights](https://www.last.fm/music/Isaa+Corva/_/Blinding+Lights)** - Isaa Corva<br/>
-> ∙ **[BOOM](https://www.last.fm/music/Evil+Neuro/_/BOOM)** - Evil Neuro<br/>
-> ∙ **[Identities](https://www.last.fm/music/HalaCG,+WUNDER+RiKU/_/Identities)** - HalaCG, WUNDER RiKU<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
