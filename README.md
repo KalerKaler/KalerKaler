@@ -67,8 +67,7 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[16K HDR Dolby Vision 240FPS (8K 4K Video TV)](https://www.last.fm/music/Ultra+Massive+Details+OLED+HDR+TEST+Nature+Video/_/16K+HDR+Dolby+Vision+240FPS+(8K+4K+Video+TV))** - Ultra Massive Details OLED HDR TEST Nature Video<br/>
-> ∙ **[Birdbrain](https://www.last.fm/music/Nerissa+Ravencroft/_/Birdbrain)** - Nerissa Ravencroft<br/>
+> 🎶 **[Birdbrain](https://www.last.fm/music/Nerissa+Ravencroft/_/Birdbrain)** - Nerissa Ravencroft<br/>
 > ∙ **[「Cover」Hell of a Good Time ft. Michi Mochievee](https://www.last.fm/music/Akuma+Nihmune+Ch/_/%E3%80%8CCover%E3%80%8DHell+of+a+Good+Time+ft.+Michi+Mochievee)** - Akuma Nihmune Ch<br/>
 > ∙ **[Jawbreaker](https://www.last.fm/music/Natalia+Natchan/_/Jawbreaker)** - Natalia Natchan<br/>
 > ∙ **[CHIMERA](https://www.last.fm/music/Takanashi+Kiara/_/CHIMERA)** - Takanashi Kiara<br/>
@@ -77,6 +76,7 @@
 > ∙ **[Nyanners ft. Vei](https://www.last.fm/music/B!Tch/_/Nyanners+ft.+Vei)** - B!Tch<br/>
 > ∙ **[Gojo Satoru Hollow Purple Theme](https://www.last.fm/music/Jujutsu+Kaisen/_/Gojo+Satoru+Hollow+Purple+Theme)** - Jujutsu Kaisen<br/>
 > ∙ **[Kodokushi](https://www.last.fm/music/Mihka!+&+Kyoto+Black/_/Kodokushi)** - Mihka! & Kyoto Black<br/>
+> ∙ **[Ping!](https://www.last.fm/music/Exyl/_/Ping!)** - Exyl<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
