@@ -68,7 +68,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
 > 🎶 **[Lifelike](https://www.last.fm/music/Halacg/_/Lifelike)** - Halacg<br/>
-> ∙ **[Lifelike](https://www.last.fm/music/Halacg/_/Lifelike)** - Halacg<br/>
+> ∙ **[Downfall](https://www.last.fm/music/Derivakat/_/Downfall)** - Derivakat<br/>
 > ∙ **[No Mercy (feat. BlackGryph0n & LittleJayneyCakes)](https://www.last.fm/music/The+Living+Tombstone/_/No+Mercy+(feat.+BlackGryph0n+&+LittleJayneyCakes))** - The Living Tombstone<br/>
 > ∙ **[Vtuber Loser](https://www.last.fm/music/nihmune/_/Vtuber+Loser)** - nihmune<br/>
 > ∙ **[Downfall](https://www.last.fm/music/Derivakat/_/Downfall)** - Derivakat<br/>
