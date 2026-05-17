@@ -61,22 +61,22 @@
 > `24 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `17 ▶️` ∙ **[The Vanished People](https://www.last.fm/music/The+Vanished+People)**<br/>
 > `16 ▶️` ∙ **[50 Cent](https://www.last.fm/music/50+Cent)**<br/>
-> `12 ▶️` ∙ **[PiNKii](https://www.last.fm/music/PiNKii)**<br/>
+> `12 ▶️` ∙ **[Nerissa Ravencroft](https://www.last.fm/music/Nerissa+Ravencroft)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Kodokushi](https://www.last.fm/music/Mihka!+&+Kyoto+Black/_/Kodokushi)** - Mihka! & Kyoto Black<br/>
-> ∙ **[Ping!](https://www.last.fm/music/Exyl/_/Ping!)** - Exyl<br/>
-> ∙ **[Dance With Me](https://www.last.fm/music/DirtySnatcha/_/Dance+With+Me)** - DirtySnatcha<br/>
-> ∙ **[Evolution](https://www.last.fm/music/Pixel+Terror+&+GameChops/_/Evolution)** - Pixel Terror & GameChops<br/>
-> ∙ **[Lost Woods](https://www.last.fm/music/Will+&+Tim/_/Lost+Woods)** - Will & Tim<br/>
-> ∙ **[Giorno's Theme (From "JoJo's Bizarre Adventure")](https://www.last.fm/music/VGR/_/Giorno%27s+Theme+(From+%22JoJo%27s+Bizarre+Adventure%22))** - VGR<br/>
-> ∙ **[Lifelike](https://www.last.fm/music/Halacg/_/Lifelike)** - Halacg<br/>
-> ∙ **[Downfall](https://www.last.fm/music/Derivakat/_/Downfall)** - Derivakat<br/>
-> ∙ **[No Mercy (feat. BlackGryph0n & LittleJayneyCakes)](https://www.last.fm/music/The+Living+Tombstone/_/No+Mercy+(feat.+BlackGryph0n+&+LittleJayneyCakes))** - The Living Tombstone<br/>
-> ∙ **[Vtuber Loser](https://www.last.fm/music/nihmune/_/Vtuber+Loser)** - nihmune<br/>
+> 🎶 **[16K HDR Dolby Vision 240FPS (8K 4K Video TV)](https://www.last.fm/music/Ultra+Massive+Details+OLED+HDR+TEST+Nature+Video/_/16K+HDR+Dolby+Vision+240FPS+(8K+4K+Video+TV))** - Ultra Massive Details OLED HDR TEST Nature Video<br/>
+> ∙ **[Birdbrain](https://www.last.fm/music/Nerissa+Ravencroft/_/Birdbrain)** - Nerissa Ravencroft<br/>
+> ∙ **[「Cover」Hell of a Good Time ft. Michi Mochievee](https://www.last.fm/music/Akuma+Nihmune+Ch/_/%E3%80%8CCover%E3%80%8DHell+of+a+Good+Time+ft.+Michi+Mochievee)** - Akuma Nihmune Ch<br/>
+> ∙ **[Jawbreaker](https://www.last.fm/music/Natalia+Natchan/_/Jawbreaker)** - Natalia Natchan<br/>
+> ∙ **[CHIMERA](https://www.last.fm/music/Takanashi+Kiara/_/CHIMERA)** - Takanashi Kiara<br/>
+> ∙ **[Overclocked](https://www.last.fm/music/DryftiN/_/Overclocked)** - DryftiN<br/>
+> ∙ **[Cursed Night](https://www.last.fm/music/Mori+Calliope/_/Cursed+Night)** - Mori Calliope<br/>
+> ∙ **[Nyanners ft. Vei](https://www.last.fm/music/B!Tch/_/Nyanners+ft.+Vei)** - B!Tch<br/>
+> ∙ **[Gojo Satoru Hollow Purple Theme](https://www.last.fm/music/Jujutsu+Kaisen/_/Gojo+Satoru+Hollow+Purple+Theme)** - Jujutsu Kaisen<br/>
+> ∙ **[Kodokushi](https://www.last.fm/music/Mihka!+&+Kyoto+Black/_/Kodokushi)** - Mihka! & Kyoto Black<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
