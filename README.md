@@ -1,18 +1,15 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=1.4px&duration=5500&pause=1000&color=C216F7&center=true&vCenter=true&repeat=false&width=435&lines=Rajveer+Singh+Kaler" alt="Rajveer Singh Kaler"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=1.4px&duration=400&pause=1000&color=C216F7&center=true&vCenter=true&repeat=false&width=435&lines=Rajveer+Singh+Kaler" alt="Rajveer Singh Kaler"/>
 </p>
 
 ---
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&letterSpacing=1.4px&duration=3600&pause=1000&color=36F72F&center=true&vCenter=true&width=600&lines=Big+Linux+Fanboy;Aspiring+Backend+Engineer;Student+at+Chitkara+University;Currently+Improving+My+Python+Skills" alt="Typing SVG" />
-</p>
-<p align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&letterSpacing=3px&duration=5500&pause=1000&width=400&lines=Book+Enthusiast;Anime+Fan;Animal+lover;Python%2C+C%2C+C%23%2C+Front-End" alt="Typing SVG"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&letterSpacing=1.4px&duration=3600&pause=1000&color=36F72F&center=true&vCenter=true&width=650&lines=A+little+about+me...;Tech+Enthusiast;Anime+Fan;Python%2C+C%2C+C%23%2C+Front-End;Big+Linux+Fanboy;Aspiring+Engineer;Student+at+Chitkara+University;Currently+Improving+My+FrontEnd+Skills" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,7 +28,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalerKaler&theme=merko" alt="GitHub Stats" />
@@ -51,7 +48,7 @@
 
 ---
 
-<h2 align="right">I also <strong>LOVE</strong> music</h2>
+<h2 align="center">I also <strong>LOVE</strong> music</h2>
 
 <!--START_LASTFM_ARTISTS:{"period":"1month", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
