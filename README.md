@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Advent- 2nd Original Song】](https://www.last.fm/music/Sirens%E3%80%90hololive+English/_/Advent-+2nd+Original+Song%E3%80%91)** - Sirens【hololive English<br/>
-> ∙ **[Sabi Lullaby](https://www.last.fm/music/Tokyo+Wabi/_/Sabi+Lullaby)** - Tokyo Wabi<br/>
-> ∙ **[Vegeta Royal Blue Theme](https://www.last.fm/music/Friedrich+Habetler/_/Vegeta+Royal+Blue+Theme)** - Friedrich Habetler<br/>
-> ∙ **[KPOP DEMON HUNTERS - Bao x Monii x Nerissa](https://www.last.fm/music/%22How+It%27s+DONE%22/_/KPOP+DEMON+HUNTERS+-+Bao+x+Monii+x+Nerissa)** - "How It's DONE"<br/>
-> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
-> ∙ **[Ouro Kronii](https://www.last.fm/music/Be+My+Guest/_/Ouro+Kronii)** - Be My Guest<br/>
-> ∙ **[MESS](https://www.last.fm/music/Hakos+Baelz/_/MESS)** - Hakos Baelz<br/>
-> ∙ **[Dokibird](https://www.last.fm/music/Five+Nights+at+Freddy%27s+The+Living+Tombstone/_/Dokibird)** - Five Nights at Freddy's The Living Tombstone<br/>
-> ∙ **[Find Out](https://www.last.fm/music/cottontailVA/_/Find+Out)** - cottontailVA<br/>
-> ∙ **[独立独歩](https://www.last.fm/music/Aiobahn+%252B81+feat.+Mori+Calliope/_/%E7%8B%AC%E7%AB%8B%E7%8B%AC%E6%AD%A9)** - Aiobahn +81 feat. Mori Calliope<br/>
+> 🎶 **[MIRAGE](https://www.last.fm/music/Takanashi+Kiara/_/MIRAGE)** - Takanashi Kiara<br/>
+> ∙ **[Cilantro](https://www.last.fm/music/Isaa+Corva/_/Cilantro)** - Isaa Corva<br/>
+> ∙ **[IJIMEKKO Bully](https://www.last.fm/music/Mori+Calliope/_/IJIMEKKO+Bully)** - Mori Calliope<br/>
+> ∙ **[Sunbreak](https://www.last.fm/music/Halacg+&+Tyler+Clark/_/Sunbreak)** - Halacg & Tyler Clark<br/>
+> ∙ **[Citrus Love](https://www.last.fm/music/Bao+The+Whale+&+Overspace/_/Citrus+Love)** - Bao The Whale & Overspace<br/>
+> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
+> ∙ **[To The Source](https://www.last.fm/music/Halacg/_/To+The+Source)** - Halacg<br/>
+> ∙ **[DO U](https://www.last.fm/music/Takanashi+Kiara/_/DO+U)** - Takanashi Kiara<br/>
+> ∙ **[Akuma Nihmune (Cover)](https://www.last.fm/music/Hush/_/Akuma+Nihmune+(Cover))** - Hush<br/>
+> ∙ **[Cheerleader](https://www.last.fm/music/Isaa+Corva+&+SixteenInMono/_/Cheerleader)** - Isaa Corva & SixteenInMono<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
