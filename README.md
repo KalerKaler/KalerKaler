@@ -55,25 +55,25 @@
 
 > `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `30 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `24 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `25 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `17 ▶️` ∙ **[The Vanished People](https://www.last.fm/music/The+Vanished+People)**<br/>
 > `16 ▶️` ∙ **[50 Cent](https://www.last.fm/music/50+Cent)**<br/>
-> `12 ▶️` ∙ **[Nerissa Ravencroft](https://www.last.fm/music/Nerissa+Ravencroft)**<br/>
+> `13 ▶️` ∙ **[Nerissa Ravencroft](https://www.last.fm/music/Nerissa+Ravencroft)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[TRIPPIN? (FEAT. CAMOGOD)](https://www.last.fm/music/Ham+Sandwich/_/TRIPPIN%3F+(FEAT.+CAMOGOD))** - Ham Sandwich<br/>
-> ∙ **[greedy](https://www.last.fm/music/Isaa+Corva,+hope+jss/_/greedy)** - Isaa Corva, hope jss<br/>
-> ∙ **[LOVE IN PARADISE (EPIC: The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Bao+The+Whale/_/LOVE+IN+PARADISE+(EPIC:+The+Musical)+Full+Animatic+VTuber+Ver.)** - Bao The Whale<br/>
-> ∙ **[Birdbrain](https://www.last.fm/music/Nerissa+Ravencroft/_/Birdbrain)** - Nerissa Ravencroft<br/>
-> ∙ **[「Cover」Hell of a Good Time ft. Michi Mochievee](https://www.last.fm/music/Akuma+Nihmune+Ch/_/%E3%80%8CCover%E3%80%8DHell+of+a+Good+Time+ft.+Michi+Mochievee)** - Akuma Nihmune Ch<br/>
-> ∙ **[Jawbreaker](https://www.last.fm/music/Natalia+Natchan/_/Jawbreaker)** - Natalia Natchan<br/>
-> ∙ **[CHIMERA](https://www.last.fm/music/Takanashi+Kiara/_/CHIMERA)** - Takanashi Kiara<br/>
-> ∙ **[Overclocked](https://www.last.fm/music/DryftiN/_/Overclocked)** - DryftiN<br/>
-> ∙ **[Cursed Night](https://www.last.fm/music/Mori+Calliope/_/Cursed+Night)** - Mori Calliope<br/>
-> ∙ **[Nyanners ft. Vei](https://www.last.fm/music/B!Tch/_/Nyanners+ft.+Vei)** - B!Tch<br/>
+> 🎶 **[Advent- 2nd Original Song】](https://www.last.fm/music/Sirens%E3%80%90hololive+English/_/Advent-+2nd+Original+Song%E3%80%91)** - Sirens【hololive English<br/>
+> ∙ **[Sabi Lullaby](https://www.last.fm/music/Tokyo+Wabi/_/Sabi+Lullaby)** - Tokyo Wabi<br/>
+> ∙ **[Vegeta Royal Blue Theme](https://www.last.fm/music/Friedrich+Habetler/_/Vegeta+Royal+Blue+Theme)** - Friedrich Habetler<br/>
+> ∙ **[KPOP DEMON HUNTERS - Bao x Monii x Nerissa](https://www.last.fm/music/%22How+It%27s+DONE%22/_/KPOP+DEMON+HUNTERS+-+Bao+x+Monii+x+Nerissa)** - "How It's DONE"<br/>
+> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
+> ∙ **[Ouro Kronii](https://www.last.fm/music/Be+My+Guest/_/Ouro+Kronii)** - Be My Guest<br/>
+> ∙ **[MESS](https://www.last.fm/music/Hakos+Baelz/_/MESS)** - Hakos Baelz<br/>
+> ∙ **[Dokibird](https://www.last.fm/music/Five+Nights+at+Freddy%27s+The+Living+Tombstone/_/Dokibird)** - Five Nights at Freddy's The Living Tombstone<br/>
+> ∙ **[Find Out](https://www.last.fm/music/cottontailVA/_/Find+Out)** - cottontailVA<br/>
+> ∙ **[独立独歩](https://www.last.fm/music/Aiobahn+%252B81+feat.+Mori+Calliope/_/%E7%8B%AC%E7%AB%8B%E7%8B%AC%E6%AD%A9)** - Aiobahn +81 feat. Mori Calliope<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
