@@ -67,16 +67,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Birdbrain](https://www.last.fm/music/Nerissa+Ravencroft/_/Birdbrain)** - Nerissa Ravencroft<br/>
+> 🎶 **[TRIPPIN? (FEAT. CAMOGOD)](https://www.last.fm/music/Ham+Sandwich/_/TRIPPIN%3F+(FEAT.+CAMOGOD))** - Ham Sandwich<br/>
+> ∙ **[greedy](https://www.last.fm/music/Isaa+Corva,+hope+jss/_/greedy)** - Isaa Corva, hope jss<br/>
+> ∙ **[LOVE IN PARADISE (EPIC: The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Bao+The+Whale/_/LOVE+IN+PARADISE+(EPIC:+The+Musical)+Full+Animatic+VTuber+Ver.)** - Bao The Whale<br/>
+> ∙ **[Birdbrain](https://www.last.fm/music/Nerissa+Ravencroft/_/Birdbrain)** - Nerissa Ravencroft<br/>
 > ∙ **[「Cover」Hell of a Good Time ft. Michi Mochievee](https://www.last.fm/music/Akuma+Nihmune+Ch/_/%E3%80%8CCover%E3%80%8DHell+of+a+Good+Time+ft.+Michi+Mochievee)** - Akuma Nihmune Ch<br/>
 > ∙ **[Jawbreaker](https://www.last.fm/music/Natalia+Natchan/_/Jawbreaker)** - Natalia Natchan<br/>
 > ∙ **[CHIMERA](https://www.last.fm/music/Takanashi+Kiara/_/CHIMERA)** - Takanashi Kiara<br/>
 > ∙ **[Overclocked](https://www.last.fm/music/DryftiN/_/Overclocked)** - DryftiN<br/>
 > ∙ **[Cursed Night](https://www.last.fm/music/Mori+Calliope/_/Cursed+Night)** - Mori Calliope<br/>
 > ∙ **[Nyanners ft. Vei](https://www.last.fm/music/B!Tch/_/Nyanners+ft.+Vei)** - B!Tch<br/>
-> ∙ **[Gojo Satoru Hollow Purple Theme](https://www.last.fm/music/Jujutsu+Kaisen/_/Gojo+Satoru+Hollow+Purple+Theme)** - Jujutsu Kaisen<br/>
-> ∙ **[Kodokushi](https://www.last.fm/music/Mihka!+&+Kyoto+Black/_/Kodokushi)** - Mihka! & Kyoto Black<br/>
-> ∙ **[Ping!](https://www.last.fm/music/Exyl/_/Ping!)** - Exyl<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
