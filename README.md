@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[MIRAGE](https://www.last.fm/music/Takanashi+Kiara/_/MIRAGE)** - Takanashi Kiara<br/>
+> 🎶 **[Lover Girl (Kasane Teto) (Sped Up)](https://www.last.fm/music/Money+Daruma/_/Lover+Girl+(Kasane+Teto)+(Sped+Up))** - Money Daruma<br/>
+> ∙ **[Lover Girl (Kasane Teto)](https://www.last.fm/music/Money+Daruma/_/Lover+Girl+(Kasane+Teto))** - Money Daruma<br/>
+> ∙ **[MIRAGE](https://www.last.fm/music/Takanashi+Kiara/_/MIRAGE)** - Takanashi Kiara<br/>
 > ∙ **[Cilantro](https://www.last.fm/music/Isaa+Corva/_/Cilantro)** - Isaa Corva<br/>
 > ∙ **[IJIMEKKO Bully](https://www.last.fm/music/Mori+Calliope/_/IJIMEKKO+Bully)** - Mori Calliope<br/>
 > ∙ **[Sunbreak](https://www.last.fm/music/Halacg+&+Tyler+Clark/_/Sunbreak)** - Halacg & Tyler Clark<br/>
@@ -72,8 +74,6 @@
 > ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
 > ∙ **[To The Source](https://www.last.fm/music/Halacg/_/To+The+Source)** - Halacg<br/>
 > ∙ **[DO U](https://www.last.fm/music/Takanashi+Kiara/_/DO+U)** - Takanashi Kiara<br/>
-> ∙ **[Akuma Nihmune (Cover)](https://www.last.fm/music/Hush/_/Akuma+Nihmune+(Cover))** - Hush<br/>
-> ∙ **[Cheerleader](https://www.last.fm/music/Isaa+Corva+&+SixteenInMono/_/Cheerleader)** - Isaa Corva & SixteenInMono<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
