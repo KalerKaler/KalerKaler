@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Ed, Edd N Eddy](https://www.last.fm/music/Prompto/_/Ed,+Edd+N+Eddy)** - Prompto<br/>
+> 🎶 **[guh](https://www.last.fm/music/Mori+Calliope/_/guh)** - Mori Calliope<br/>
+> ∙ **[Drift Barbie](https://www.last.fm/music/blueberry,+PiNKII/_/Drift+Barbie)** - blueberry, PiNKII<br/>
+> ∙ **[Ed, Edd N Eddy](https://www.last.fm/music/Prompto/_/Ed,+Edd+N+Eddy)** - Prompto<br/>
 > ∙ **[You Say You Love Me](https://www.last.fm/music/Khantrast/_/You+Say+You+Love+Me)** - Khantrast<br/>
 > ∙ **[Guy Fieri](https://www.last.fm/music/Yung+Craka+&+Shotgun+Willy/_/Guy+Fieri)** - Yung Craka & Shotgun Willy<br/>
 > ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
@@ -72,8 +74,6 @@
 > ∙ **[Lover Girl (Kasane Teto)](https://www.last.fm/music/Money+Daruma/_/Lover+Girl+(Kasane+Teto))** - Money Daruma<br/>
 > ∙ **[MIRAGE](https://www.last.fm/music/Takanashi+Kiara/_/MIRAGE)** - Takanashi Kiara<br/>
 > ∙ **[Cilantro](https://www.last.fm/music/Isaa+Corva/_/Cilantro)** - Isaa Corva<br/>
-> ∙ **[IJIMEKKO Bully](https://www.last.fm/music/Mori+Calliope/_/IJIMEKKO+Bully)** - Mori Calliope<br/>
-> ∙ **[Sunbreak](https://www.last.fm/music/Halacg+&+Tyler+Clark/_/Sunbreak)** - Halacg & Tyler Clark<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
