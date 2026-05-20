@@ -55,25 +55,25 @@
 
 > `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `31 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `25 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `26 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `17 ▶️` ∙ **[The Vanished People](https://www.last.fm/music/The+Vanished+People)**<br/>
 > `16 ▶️` ∙ **[50 Cent](https://www.last.fm/music/50+Cent)**<br/>
-> `13 ▶️` ∙ **[Nerissa Ravencroft](https://www.last.fm/music/Nerissa+Ravencroft)**<br/>
+> `14 ▶️` ∙ **[Mori Calliope](https://www.last.fm/music/Mori+Calliope)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[guh](https://www.last.fm/music/Mori+Calliope/_/guh)** - Mori Calliope<br/>
-> ∙ **[Drift Barbie](https://www.last.fm/music/blueberry,+PiNKII/_/Drift+Barbie)** - blueberry, PiNKII<br/>
-> ∙ **[Ed, Edd N Eddy](https://www.last.fm/music/Prompto/_/Ed,+Edd+N+Eddy)** - Prompto<br/>
-> ∙ **[You Say You Love Me](https://www.last.fm/music/Khantrast/_/You+Say+You+Love+Me)** - Khantrast<br/>
-> ∙ **[Guy Fieri](https://www.last.fm/music/Yung+Craka+&+Shotgun+Willy/_/Guy+Fieri)** - Yung Craka & Shotgun Willy<br/>
-> ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
-> ∙ **[Lover Girl (Kasane Teto) (Sped Up)](https://www.last.fm/music/Money+Daruma/_/Lover+Girl+(Kasane+Teto)+(Sped+Up))** - Money Daruma<br/>
-> ∙ **[Lover Girl (Kasane Teto)](https://www.last.fm/music/Money+Daruma/_/Lover+Girl+(Kasane+Teto))** - Money Daruma<br/>
-> ∙ **[MIRAGE](https://www.last.fm/music/Takanashi+Kiara/_/MIRAGE)** - Takanashi Kiara<br/>
-> ∙ **[Cilantro](https://www.last.fm/music/Isaa+Corva/_/Cilantro)** - Isaa Corva<br/>
+> 🎶 **[Burst My Bubble](https://www.last.fm/music/Bao+The+Whale/_/Burst+My+Bubble)** - Bao The Whale<br/>
+> ∙ **[Burst My Bubble](https://www.last.fm/music/Bao+The+Whale/_/Burst+My+Bubble)** - Bao The Whale<br/>
+> ∙ **[Sleep Talking](https://www.last.fm/music/Takanashi+Kiara/_/Sleep+Talking)** - Takanashi Kiara<br/>
+> ∙ **[Ass Like That](https://www.last.fm/music/Eminem/_/Ass+Like+That)** - Eminem<br/>
+> ∙ **[Become a God](https://www.last.fm/music/Halacg/_/Become+a+God)** - Halacg<br/>
+> ∙ **[Cover by Isaa](https://www.last.fm/music/Run+Your+Mouth+%7C%7C+The+Mar%C3%ADas/_/Cover+by+Isaa)** - Run Your Mouth || The Marías<br/>
+> ∙ **[Red](https://www.last.fm/music/Mori+Calliope/_/Red)** - Mori Calliope<br/>
+> ∙ **[Ojousama](https://www.last.fm/music/Bao+The+Whale+&+Overspace/_/Ojousama)** - Bao The Whale & Overspace<br/>
+> ∙ **[Take the Bait](https://www.last.fm/music/DEMONDICE/_/Take+the+Bait)** - DEMONDICE<br/>
+> ∙ **[Don't Look Down](https://www.last.fm/music/Ellie+Minibot/_/Don%27t+Look+Down)** - Ellie Minibot<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
