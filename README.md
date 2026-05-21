@@ -55,7 +55,7 @@
 
 > `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `31 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `27 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `28 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `17 ▶️` ∙ **[The Vanished People](https://www.last.fm/music/The+Vanished+People)**<br/>
 > `16 ▶️` ∙ **[50 Cent](https://www.last.fm/music/50+Cent)**<br/>
 > `15 ▶️` ∙ **[Nerissa Ravencroft](https://www.last.fm/music/Nerissa+Ravencroft)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Chomper](https://www.last.fm/music/nihmune/_/Chomper)** - nihmune<br/>
-> ∙ **[Entertaining](https://www.last.fm/music/Halacg/_/Entertaining)** - Halacg<br/>
-> ∙ **[F*CK TO THIS](https://www.last.fm/music/bludnymph/_/F*CK+TO+THIS)** - bludnymph<br/>
-> ∙ **[Strangers](https://www.last.fm/music/Isaa+Corva/_/Strangers)** - Isaa Corva<br/>
-> ∙ **[Drift Barbie](https://www.last.fm/music/blueberry+&+PiNKII/_/Drift+Barbie)** - blueberry & PiNKII<br/>
-> ∙ **[Paparazzi Murder Party (ROUNDTABLE REPRISE)](https://www.last.fm/music/Flavor+Foley/_/Paparazzi+Murder+Party+(ROUNDTABLE+REPRISE))** - Flavor Foley<br/>
-> ∙ **[Flares of the Blazing Sun](https://www.last.fm/music/HOYO-MiX+&+YMIR/_/Flares+of+the+Blazing+Sun)** - HOYO-MiX & YMIR<br/>
-> ∙ **[Prism no Mahou](https://www.last.fm/music/Koseki+Bijou/_/Prism+no+Mahou)** - Koseki Bijou<br/>
-> ∙ **[Froggy Song](https://www.last.fm/music/Derivakat/_/Froggy+Song)** - Derivakat<br/>
-> ∙ **[sour taste](https://www.last.fm/music/Ironmouse/_/sour+taste)** - Ironmouse<br/>
+> 🎶 **[stranger](https://www.last.fm/music/chrchie/_/stranger)** - chrchie<br/>
+> ∙ **[stranger](https://www.last.fm/music/chrchie/_/stranger)** - chrchie<br/>
+> ∙ **[Somewhere Only We Know (cover)](https://www.last.fm/music/Ellie_Minibot/_/Somewhere+Only+We+Know+(cover))** - Ellie_Minibot<br/>
+> ∙ **[Rises The Moon](https://www.last.fm/music/cottontailVA/_/Rises+The+Moon)** - cottontailVA<br/>
+> ∙ **[Kiss Me!](https://www.last.fm/music/nihmune/_/Kiss+Me!)** - nihmune<br/>
+> ∙ **[Erase Me](https://www.last.fm/music/Isaa+Corva+&+hope+jss/_/Erase+Me)** - Isaa Corva & hope jss<br/>
+> ∙ **[I Don't Want to Be an Engineer](https://www.last.fm/music/Ellie+Minibot/_/I+Don%27t+Want+to+Be+an+Engineer)** - Ellie Minibot<br/>
+> ∙ **[Sama V3 sings Same Moon](https://www.last.fm/music/Neuro/_/Sama+V3+sings+Same+Moon)** - Neuro<br/>
+> ∙ **[Same Moon](https://www.last.fm/music/Ellie+Minibot/_/Same+Moon)** - Ellie Minibot<br/>
+> ∙ **[Break](https://www.last.fm/music/L-79/_/Break)** - L-79<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
