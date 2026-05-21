@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[stranger](https://www.last.fm/music/chrchie/_/stranger)** - chrchie<br/>
+> 🎶 **[Word of the Day](https://www.last.fm/music/Campus+Village/_/Word+of+the+Day)** - Campus Village<br/>
+> ∙ **[Home](https://www.last.fm/music/Sofia+Peters/_/Home)** - Sofia Peters<br/>
+> ∙ **[Eternity](https://www.last.fm/music/aeseaes/_/Eternity)** - aeseaes<br/>
+> ∙ **[Keep cold](https://www.last.fm/music/Miniko+Mew+&+Ellie+Minibot/_/Keep+cold)** - Miniko Mew & Ellie Minibot<br/>
+> ∙ **[Still Alive (cover)](https://www.last.fm/music/Ellie_Minibot/_/Still+Alive+(cover))** - Ellie_Minibot<br/>
 > ∙ **[stranger](https://www.last.fm/music/chrchie/_/stranger)** - chrchie<br/>
 > ∙ **[Somewhere Only We Know (cover)](https://www.last.fm/music/Ellie_Minibot/_/Somewhere+Only+We+Know+(cover))** - Ellie_Minibot<br/>
 > ∙ **[Rises The Moon](https://www.last.fm/music/cottontailVA/_/Rises+The+Moon)** - cottontailVA<br/>
 > ∙ **[Kiss Me!](https://www.last.fm/music/nihmune/_/Kiss+Me!)** - nihmune<br/>
 > ∙ **[Erase Me](https://www.last.fm/music/Isaa+Corva+&+hope+jss/_/Erase+Me)** - Isaa Corva & hope jss<br/>
-> ∙ **[I Don't Want to Be an Engineer](https://www.last.fm/music/Ellie+Minibot/_/I+Don%27t+Want+to+Be+an+Engineer)** - Ellie Minibot<br/>
-> ∙ **[Sama V3 sings Same Moon](https://www.last.fm/music/Neuro/_/Sama+V3+sings+Same+Moon)** - Neuro<br/>
-> ∙ **[Same Moon](https://www.last.fm/music/Ellie+Minibot/_/Same+Moon)** - Ellie Minibot<br/>
-> ∙ **[Break](https://www.last.fm/music/L-79/_/Break)** - L-79<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
