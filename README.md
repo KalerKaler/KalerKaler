@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Spoken For](https://www.last.fm/music/Miniko+Mew/_/Spoken+For)** - Miniko Mew<br/>
+> 🎶 **[Djo](https://www.last.fm/music/End+Of+Beginning/_/Djo)** - End Of Beginning<br/>
+> ∙ **[Winter Song](https://www.last.fm/music/Ellie+Minibot+&+chrchie/_/Winter+Song)** - Ellie Minibot & chrchie<br/>
+> ∙ **[Spoken For](https://www.last.fm/music/Miniko+Mew/_/Spoken+For)** - Miniko Mew<br/>
 > ∙ **[Alzheimer](https://www.last.fm/music/JAZXYL/_/Alzheimer)** - JAZXYL<br/>
 > ∙ **[Apocalypse Now](https://www.last.fm/music/Ironmouse,+Sleeping+Forest,+&+ThunderScott/_/Apocalypse+Now)** - Ironmouse, Sleeping Forest, & ThunderScott<br/>
 > ∙ **[Fire!!!](https://www.last.fm/music/Vane+Lily+&+Jamie+Paige/_/Fire!!!)** - Vane Lily & Jamie Paige<br/>
@@ -72,8 +74,6 @@
 > ∙ **[SAY IT](https://www.last.fm/music/HWAAStyle+&+Fregibot/_/SAY+IT)** - HWAAStyle & Fregibot<br/>
 > ∙ **[Word of the Day](https://www.last.fm/music/Campus+Village/_/Word+of+the+Day)** - Campus Village<br/>
 > ∙ **[Home](https://www.last.fm/music/Sofia+Peters/_/Home)** - Sofia Peters<br/>
-> ∙ **[Eternity](https://www.last.fm/music/aeseaes/_/Eternity)** - aeseaes<br/>
-> ∙ **[Keep cold](https://www.last.fm/music/Miniko+Mew+&+Ellie+Minibot/_/Keep+cold)** - Miniko Mew & Ellie Minibot<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
