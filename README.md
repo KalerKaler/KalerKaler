@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Let's Game It Out Reaction](https://www.last.fm/music/Jurassic+Park+but+WORSE/_/Let%27s+Game+It+Out+Reaction)** - Jurassic Park but WORSE<br/>
+> 🎶 **[Slop Edition 💩](https://www.last.fm/music/%F0%9F%92%A9+Tech+That+Let+Me+Down/_/Slop+Edition+%F0%9F%92%A9)** - 💩 Tech That Let Me Down<br/>
+> ∙ **[The Great Australian Snacking Disaster.](https://www.last.fm/music/DankPods/_/The+Great+Australian+Snacking+Disaster.)** - DankPods<br/>
+> ∙ **[Sotsu FlipAction Elite](https://www.last.fm/music/Someone+else+is+trying+to+make+an+Apple+display/_/Sotsu+FlipAction+Elite)** - Someone else is trying to make an Apple display<br/>
+> ∙ **[I'm a VTuber who doesn't know Hololive. Let's try HoloCure.](https://www.last.fm/music/Rin+Penrose+Ch./_/I%27m+a+VTuber+who+doesn%27t+know+Hololive.+Let%27s+try+HoloCure.)** - Rin Penrose Ch.<br/>
+> ∙ **[YouTube AI tries to create my content.](https://www.last.fm/music/609K+views/_/YouTube+AI+tries+to+create+my+content.)** - 609K views<br/>
+> ∙ **[Word of the Day](https://www.last.fm/music/Campus+Village/_/Word+of+the+Day)** - Campus Village<br/>
+> ∙ **[Let's Game It Out Reaction](https://www.last.fm/music/Jurassic+Park+but+WORSE/_/Let%27s+Game+It+Out+Reaction)** - Jurassic Park but WORSE<br/>
 > ∙ **[Crelly creates Koko and Layna in Tomodachi Life and gets cucked](https://www.last.fm/music/baggypantsman/_/Crelly+creates+Koko+and+Layna+in+Tomodachi+Life+and+gets+cucked)** - baggypantsman<br/>
 > ∙ **[Cheap knockoffs in games](https://www.last.fm/music/Viva+La+Dirt+League/_/Cheap+knockoffs+in+games)** - Viva La Dirt League<br/>
 > ∙ **[Don't Tie a Knot!](https://www.last.fm/music/HOYO-MiX/_/Don%27t+Tie+a+Knot!)** - HOYO-MiX<br/>
-> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
-> ∙ **[Happy Lucky Chappy](https://www.last.fm/music/Neuro+-+ano/_/Happy+Lucky+Chappy)** - Neuro - ano<br/>
-> ∙ **[The Monster (feat. Rihanna)](https://www.last.fm/music/Eminem/_/The+Monster+(feat.+Rihanna))** - Eminem<br/>
-> ∙ **[WARNING LABEL](https://www.last.fm/music/Neoni/_/WARNING+LABEL)** - Neoni<br/>
-> ∙ **[Gas Gas Gas](https://www.last.fm/music/Evil+-+Manuel/_/Gas+Gas+Gas)** - Evil - Manuel<br/>
-> ∙ **[Maybe This Christmas](https://www.last.fm/music/Duet+(Neuro/_/Maybe+This+Christmas)** - Duet (Neuro<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
