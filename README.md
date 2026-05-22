@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `55 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `56 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `50 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `47 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[神のまにまに (At God's Mercy)](https://www.last.fm/music/Duet+(Neuro/_/%E7%A5%9E%E3%81%AE%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB+(At+God%27s+Mercy))** - Duet (Neuro<br/>
-> ∙ **[Six-Cylinder Speed](https://www.last.fm/music/HOYO-MiX/_/Six-Cylinder+Speed)** - HOYO-MiX<br/>
-> ∙ **[【Ado】レディメイド](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E3%83%AC%E3%83%87%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%89)** - Ado<br/>
-> ∙ **[covered by Rinako Bellerose](https://www.last.fm/music/Bag+Tho/_/covered+by+Rinako+Bellerose)** - Bag Tho<br/>
-> ∙ **[covered by Rinako Bellerose](https://www.last.fm/music/Bag+Tho/_/covered+by+Rinako+Bellerose)** - Bag Tho<br/>
-> ∙ **[Fack](https://www.last.fm/music/Eminem/_/Fack)** - Eminem<br/>
-> ∙ **[Padam Padam](https://www.last.fm/music/Kylie+Minogue/_/Padam+Padam)** - Kylie Minogue<br/>
-> ∙ **[Can't Get You Out Of My Head (Extended Mix)](https://www.last.fm/music/Kylie+Minogue/_/Can%27t+Get+You+Out+Of+My+Head+(Extended+Mix))** - Kylie Minogue<br/>
-> ∙ **[Together (Piano)](https://www.last.fm/music/Ellie+Minibot/_/Together+(Piano))** - Ellie Minibot<br/>
-> ∙ **[Djo](https://www.last.fm/music/End+Of+Beginning/_/Djo)** - End Of Beginning<br/>
+> 🎶 **[Let's Game It Out Reaction](https://www.last.fm/music/Jurassic+Park+but+WORSE/_/Let%27s+Game+It+Out+Reaction)** - Jurassic Park but WORSE<br/>
+> ∙ **[Crelly creates Koko and Layna in Tomodachi Life and gets cucked](https://www.last.fm/music/baggypantsman/_/Crelly+creates+Koko+and+Layna+in+Tomodachi+Life+and+gets+cucked)** - baggypantsman<br/>
+> ∙ **[Cheap knockoffs in games](https://www.last.fm/music/Viva+La+Dirt+League/_/Cheap+knockoffs+in+games)** - Viva La Dirt League<br/>
+> ∙ **[Don't Tie a Knot!](https://www.last.fm/music/HOYO-MiX/_/Don%27t+Tie+a+Knot!)** - HOYO-MiX<br/>
+> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
+> ∙ **[Happy Lucky Chappy](https://www.last.fm/music/Neuro+-+ano/_/Happy+Lucky+Chappy)** - Neuro - ano<br/>
+> ∙ **[The Monster (feat. Rihanna)](https://www.last.fm/music/Eminem/_/The+Monster+(feat.+Rihanna))** - Eminem<br/>
+> ∙ **[WARNING LABEL](https://www.last.fm/music/Neoni/_/WARNING+LABEL)** - Neoni<br/>
+> ∙ **[Gas Gas Gas](https://www.last.fm/music/Evil+-+Manuel/_/Gas+Gas+Gas)** - Evil - Manuel<br/>
+> ∙ **[Maybe This Christmas](https://www.last.fm/music/Duet+(Neuro/_/Maybe+This+Christmas)** - Duet (Neuro<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
