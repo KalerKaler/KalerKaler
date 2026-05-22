@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Word of the Day](https://www.last.fm/music/Campus+Village/_/Word+of+the+Day)** - Campus Village<br/>
+> 🎶 **[Spoken For](https://www.last.fm/music/Miniko+Mew/_/Spoken+For)** - Miniko Mew<br/>
+> ∙ **[Alzheimer](https://www.last.fm/music/JAZXYL/_/Alzheimer)** - JAZXYL<br/>
+> ∙ **[Apocalypse Now](https://www.last.fm/music/Ironmouse,+Sleeping+Forest,+&+ThunderScott/_/Apocalypse+Now)** - Ironmouse, Sleeping Forest, & ThunderScott<br/>
+> ∙ **[Fire!!!](https://www.last.fm/music/Vane+Lily+&+Jamie+Paige/_/Fire!!!)** - Vane Lily & Jamie Paige<br/>
+> ∙ **[Word of the Day](https://www.last.fm/music/Campus+Village/_/Word+of+the+Day)** - Campus Village<br/>
+> ∙ **[SAY IT](https://www.last.fm/music/HWAAStyle+&+Fregibot/_/SAY+IT)** - HWAAStyle & Fregibot<br/>
+> ∙ **[Word of the Day](https://www.last.fm/music/Campus+Village/_/Word+of+the+Day)** - Campus Village<br/>
 > ∙ **[Home](https://www.last.fm/music/Sofia+Peters/_/Home)** - Sofia Peters<br/>
 > ∙ **[Eternity](https://www.last.fm/music/aeseaes/_/Eternity)** - aeseaes<br/>
 > ∙ **[Keep cold](https://www.last.fm/music/Miniko+Mew+&+Ellie+Minibot/_/Keep+cold)** - Miniko Mew & Ellie Minibot<br/>
-> ∙ **[Still Alive (cover)](https://www.last.fm/music/Ellie_Minibot/_/Still+Alive+(cover))** - Ellie_Minibot<br/>
-> ∙ **[stranger](https://www.last.fm/music/chrchie/_/stranger)** - chrchie<br/>
-> ∙ **[Somewhere Only We Know (cover)](https://www.last.fm/music/Ellie_Minibot/_/Somewhere+Only+We+Know+(cover))** - Ellie_Minibot<br/>
-> ∙ **[Rises The Moon](https://www.last.fm/music/cottontailVA/_/Rises+The+Moon)** - cottontailVA<br/>
-> ∙ **[Kiss Me!](https://www.last.fm/music/nihmune/_/Kiss+Me!)** - nihmune<br/>
-> ∙ **[Erase Me](https://www.last.fm/music/Isaa+Corva+&+hope+jss/_/Erase+Me)** - Isaa Corva & hope jss<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
