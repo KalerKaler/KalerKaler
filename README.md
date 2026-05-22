@@ -51,14 +51,14 @@
 <h2 align="center">I also <strong>LOVE</strong> music</h2>
 
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
-> `31 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `28 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
-> `17 ▶️` ∙ **[The Vanished People](https://www.last.fm/music/The+Vanished+People)**<br/>
-> `16 ▶️` ∙ **[50 Cent](https://www.last.fm/music/50+Cent)**<br/>
-> `15 ▶️` ∙ **[Nerissa Ravencroft](https://www.last.fm/music/Nerissa+Ravencroft)**<br/>
+> `54 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `50 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `47 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
+> `38 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
+> `36 ▶️` ∙ **[Bebe Rexha](https://www.last.fm/music/Bebe+Rexha)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
