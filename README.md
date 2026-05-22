@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `54 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `55 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `50 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `47 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Djo](https://www.last.fm/music/End+Of+Beginning/_/Djo)** - End Of Beginning<br/>
-> ∙ **[Winter Song](https://www.last.fm/music/Ellie+Minibot+&+chrchie/_/Winter+Song)** - Ellie Minibot & chrchie<br/>
-> ∙ **[Spoken For](https://www.last.fm/music/Miniko+Mew/_/Spoken+For)** - Miniko Mew<br/>
-> ∙ **[Alzheimer](https://www.last.fm/music/JAZXYL/_/Alzheimer)** - JAZXYL<br/>
-> ∙ **[Apocalypse Now](https://www.last.fm/music/Ironmouse,+Sleeping+Forest,+&+ThunderScott/_/Apocalypse+Now)** - Ironmouse, Sleeping Forest, & ThunderScott<br/>
-> ∙ **[Fire!!!](https://www.last.fm/music/Vane+Lily+&+Jamie+Paige/_/Fire!!!)** - Vane Lily & Jamie Paige<br/>
-> ∙ **[Word of the Day](https://www.last.fm/music/Campus+Village/_/Word+of+the+Day)** - Campus Village<br/>
-> ∙ **[SAY IT](https://www.last.fm/music/HWAAStyle+&+Fregibot/_/SAY+IT)** - HWAAStyle & Fregibot<br/>
-> ∙ **[Word of the Day](https://www.last.fm/music/Campus+Village/_/Word+of+the+Day)** - Campus Village<br/>
-> ∙ **[Home](https://www.last.fm/music/Sofia+Peters/_/Home)** - Sofia Peters<br/>
+> 🎶 **[神のまにまに (At God's Mercy)](https://www.last.fm/music/Duet+(Neuro/_/%E7%A5%9E%E3%81%AE%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB+(At+God%27s+Mercy))** - Duet (Neuro<br/>
+> ∙ **[Six-Cylinder Speed](https://www.last.fm/music/HOYO-MiX/_/Six-Cylinder+Speed)** - HOYO-MiX<br/>
+> ∙ **[【Ado】レディメイド](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E3%83%AC%E3%83%87%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%89)** - Ado<br/>
+> ∙ **[covered by Rinako Bellerose](https://www.last.fm/music/Bag+Tho/_/covered+by+Rinako+Bellerose)** - Bag Tho<br/>
+> ∙ **[covered by Rinako Bellerose](https://www.last.fm/music/Bag+Tho/_/covered+by+Rinako+Bellerose)** - Bag Tho<br/>
+> ∙ **[Fack](https://www.last.fm/music/Eminem/_/Fack)** - Eminem<br/>
+> ∙ **[Padam Padam](https://www.last.fm/music/Kylie+Minogue/_/Padam+Padam)** - Kylie Minogue<br/>
+> ∙ **[Can't Get You Out Of My Head (Extended Mix)](https://www.last.fm/music/Kylie+Minogue/_/Can%27t+Get+You+Out+Of+My+Head+(Extended+Mix))** - Kylie Minogue<br/>
+> ∙ **[Together (Piano)](https://www.last.fm/music/Ellie+Minibot/_/Together+(Piano))** - Ellie Minibot<br/>
+> ∙ **[Djo](https://www.last.fm/music/End+Of+Beginning/_/Djo)** - End Of Beginning<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
