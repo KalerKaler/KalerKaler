@@ -53,9 +53,9 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `56 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `57 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `51 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `50 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `47 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
 > `38 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `36 ▶️` ∙ **[Bebe Rexha](https://www.last.fm/music/Bebe+Rexha)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Slop Edition 💩](https://www.last.fm/music/%F0%9F%92%A9+Tech+That+Let+Me+Down/_/Slop+Edition+%F0%9F%92%A9)** - 💩 Tech That Let Me Down<br/>
-> ∙ **[The Great Australian Snacking Disaster.](https://www.last.fm/music/DankPods/_/The+Great+Australian+Snacking+Disaster.)** - DankPods<br/>
-> ∙ **[Sotsu FlipAction Elite](https://www.last.fm/music/Someone+else+is+trying+to+make+an+Apple+display/_/Sotsu+FlipAction+Elite)** - Someone else is trying to make an Apple display<br/>
-> ∙ **[I'm a VTuber who doesn't know Hololive. Let's try HoloCure.](https://www.last.fm/music/Rin+Penrose+Ch./_/I%27m+a+VTuber+who+doesn%27t+know+Hololive.+Let%27s+try+HoloCure.)** - Rin Penrose Ch.<br/>
-> ∙ **[YouTube AI tries to create my content.](https://www.last.fm/music/609K+views/_/YouTube+AI+tries+to+create+my+content.)** - 609K views<br/>
-> ∙ **[Word of the Day](https://www.last.fm/music/Campus+Village/_/Word+of+the+Day)** - Campus Village<br/>
-> ∙ **[Let's Game It Out Reaction](https://www.last.fm/music/Jurassic+Park+but+WORSE/_/Let%27s+Game+It+Out+Reaction)** - Jurassic Park but WORSE<br/>
-> ∙ **[Crelly creates Koko and Layna in Tomodachi Life and gets cucked](https://www.last.fm/music/baggypantsman/_/Crelly+creates+Koko+and+Layna+in+Tomodachi+Life+and+gets+cucked)** - baggypantsman<br/>
-> ∙ **[Cheap knockoffs in games](https://www.last.fm/music/Viva+La+Dirt+League/_/Cheap+knockoffs+in+games)** - Viva La Dirt League<br/>
-> ∙ **[Don't Tie a Knot!](https://www.last.fm/music/HOYO-MiX/_/Don%27t+Tie+a+Knot!)** - HOYO-MiX<br/>
+> 🎶 **[Pomegranate Lips](https://www.last.fm/music/Derivakat/_/Pomegranate+Lips)** - Derivakat<br/>
+> ∙ **[Pomegranate Lips](https://www.last.fm/music/Derivakat/_/Pomegranate+Lips)** - Derivakat<br/>
+> ∙ **[Rewinding](https://www.last.fm/music/Isaa+Corva/_/Rewinding)** - Isaa Corva<br/>
+> ∙ **[To Have & Hold](https://www.last.fm/music/Chinchilla/_/To+Have+&+Hold)** - Chinchilla<br/>
+> ∙ **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
+> ∙ **[Listen To Me](https://www.last.fm/music/Halacg/_/Listen+To+Me)** - Halacg<br/>
+> ∙ **[Little Girl Gone](https://www.last.fm/music/Chinchilla/_/Little+Girl+Gone)** - Chinchilla<br/>
+> ∙ **[ぴーなた / Kasane Teto SV](https://www.last.fm/music/Q&A+%E6%B1%82%EF%BC%86%E5%BD%B1+(English+Cover)/_/%E3%81%B4%E3%83%BC%E3%81%AA%E3%81%9F+%2F+Kasane+Teto+SV)** - Q&A 求＆影 (English Cover)<br/>
+> ∙ **[Drift Barbie](https://www.last.fm/music/blueberry+&+Natalia+Natchan/_/Drift+Barbie)** - blueberry & Natalia Natchan<br/>
+> ∙ **[Safe Room](https://www.last.fm/music/Miori+&+Lone+Alpha/_/Safe+Room)** - Miori & Lone Alpha<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
