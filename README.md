@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `57 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `58 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `51 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `47 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Pomegranate Lips](https://www.last.fm/music/Derivakat/_/Pomegranate+Lips)** - Derivakat<br/>
-> ∙ **[Pomegranate Lips](https://www.last.fm/music/Derivakat/_/Pomegranate+Lips)** - Derivakat<br/>
-> ∙ **[Rewinding](https://www.last.fm/music/Isaa+Corva/_/Rewinding)** - Isaa Corva<br/>
-> ∙ **[To Have & Hold](https://www.last.fm/music/Chinchilla/_/To+Have+&+Hold)** - Chinchilla<br/>
-> ∙ **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
-> ∙ **[Listen To Me](https://www.last.fm/music/Halacg/_/Listen+To+Me)** - Halacg<br/>
-> ∙ **[Little Girl Gone](https://www.last.fm/music/Chinchilla/_/Little+Girl+Gone)** - Chinchilla<br/>
-> ∙ **[ぴーなた / Kasane Teto SV](https://www.last.fm/music/Q&A+%E6%B1%82%EF%BC%86%E5%BD%B1+(English+Cover)/_/%E3%81%B4%E3%83%BC%E3%81%AA%E3%81%9F+%2F+Kasane+Teto+SV)** - Q&A 求＆影 (English Cover)<br/>
-> ∙ **[Drift Barbie](https://www.last.fm/music/blueberry+&+Natalia+Natchan/_/Drift+Barbie)** - blueberry & Natalia Natchan<br/>
-> ∙ **[Safe Room](https://www.last.fm/music/Miori+&+Lone+Alpha/_/Safe+Room)** - Miori & Lone Alpha<br/>
+> 🎶 **[Nara (EDITED)](https://www.last.fm/music/KASANE+TETO+SV+%7C+Sayo/_/Nara+(EDITED))** - KASANE TETO SV | Sayo<br/>
+> ∙ **[Nara (EDITED)](https://www.last.fm/music/KASANE+TETO+SV+%7C+Sayo/_/Nara+(EDITED))** - KASANE TETO SV | Sayo<br/>
+> ∙ **[stardust infinity](https://www.last.fm/music/Kerosene/_/stardust+infinity)** - Kerosene<br/>
+> ∙ **[Sleepy Binch](https://www.last.fm/music/Little+Nii/_/Sleepy+Binch)** - Little Nii<br/>
+> ∙ **[Play On!](https://www.last.fm/music/NTE/_/Play+On!)** - NTE<br/>
+> ∙ **[Roca Rourin](https://www.last.fm/music/Play+On!+(NTE+Launch+Theme+Song)+OFFICIAL/_/Roca+Rourin)** - Play On! (NTE Launch Theme Song) OFFICIAL<br/>
+> ∙ **[Nothing Fits But Me](https://www.last.fm/music/Glum+Aleks/_/Nothing+Fits+But+Me)** - Glum Aleks<br/>
+> ∙ **[Starry Party Panic!](https://www.last.fm/music/VocaloKAT/_/Starry+Party+Panic!)** - VocaloKAT<br/>
+> ∙ **[NOZOMI](https://www.last.fm/music/Hatsune+Miku/_/NOZOMI)** - Hatsune Miku<br/>
+> ∙ **[Cover](https://www.last.fm/music/Scratch+(Leave+You+Starstruck)+(Vane+Lily)/_/Cover)** - Scratch (Leave You Starstruck) (Vane Lily)<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
