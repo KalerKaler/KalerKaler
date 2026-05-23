@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Nara (EDITED)](https://www.last.fm/music/KASANE+TETO+SV+%7C+Sayo/_/Nara+(EDITED))** - KASANE TETO SV | Sayo<br/>
-> ∙ **[Nara (EDITED)](https://www.last.fm/music/KASANE+TETO+SV+%7C+Sayo/_/Nara+(EDITED))** - KASANE TETO SV | Sayo<br/>
-> ∙ **[stardust infinity](https://www.last.fm/music/Kerosene/_/stardust+infinity)** - Kerosene<br/>
-> ∙ **[Sleepy Binch](https://www.last.fm/music/Little+Nii/_/Sleepy+Binch)** - Little Nii<br/>
-> ∙ **[Play On!](https://www.last.fm/music/NTE/_/Play+On!)** - NTE<br/>
-> ∙ **[Roca Rourin](https://www.last.fm/music/Play+On!+(NTE+Launch+Theme+Song)+OFFICIAL/_/Roca+Rourin)** - Play On! (NTE Launch Theme Song) OFFICIAL<br/>
-> ∙ **[Nothing Fits But Me](https://www.last.fm/music/Glum+Aleks/_/Nothing+Fits+But+Me)** - Glum Aleks<br/>
-> ∙ **[Starry Party Panic!](https://www.last.fm/music/VocaloKAT/_/Starry+Party+Panic!)** - VocaloKAT<br/>
-> ∙ **[NOZOMI](https://www.last.fm/music/Hatsune+Miku/_/NOZOMI)** - Hatsune Miku<br/>
-> ∙ **[Cover](https://www.last.fm/music/Scratch+(Leave+You+Starstruck)+(Vane+Lily)/_/Cover)** - Scratch (Leave You Starstruck) (Vane Lily)<br/>
+> 🎶 **[Janice STFU](https://www.last.fm/music/Drake/_/Janice+STFU)** - Drake<br/>
+> ∙ **[Whisper My Name](https://www.last.fm/music/Drake/_/Whisper+My+Name)** - Drake<br/>
+> ∙ **[Dust](https://www.last.fm/music/Drake/_/Dust)** - Drake<br/>
+> ∙ **[Unthinkable](https://www.last.fm/music/Cloudy+June/_/Unthinkable)** - Cloudy June<br/>
+> ∙ **[Big Girls Don't Cry](https://www.last.fm/music/Cloudy+June/_/Big+Girls+Don%27t+Cry)** - Cloudy June<br/>
+> ∙ **[Make Them Cry](https://www.last.fm/music/Drake/_/Make+Them+Cry)** - Drake<br/>
+> ∙ **[Alfred's Theme](https://www.last.fm/music/Eminem/_/Alfred%27s+Theme)** - Eminem<br/>
+> ∙ **[When I Grow Up](https://www.last.fm/music/NF/_/When+I+Grow+Up)** - NF<br/>
+> ∙ **[Cinnaluna (ft. Bennett, Kevin)](https://www.last.fm/music/(OpenUTAU%2FSynthV+Original)+KING%27S+GAMBIT/_/Cinnaluna+(ft.+Bennett,+Kevin))** - (OpenUTAU/SynthV Original) KING'S GAMBIT<br/>
+> ∙ **[fine, i'll iseKai MySelf (original song)](https://www.last.fm/music/Lucy+Pyre/_/fine,+i%27ll+iseKai+MySelf+(original+song))** - Lucy Pyre<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
