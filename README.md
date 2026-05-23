@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Janice STFU](https://www.last.fm/music/Drake/_/Janice+STFU)** - Drake<br/>
-> ∙ **[Whisper My Name](https://www.last.fm/music/Drake/_/Whisper+My+Name)** - Drake<br/>
-> ∙ **[Dust](https://www.last.fm/music/Drake/_/Dust)** - Drake<br/>
-> ∙ **[Unthinkable](https://www.last.fm/music/Cloudy+June/_/Unthinkable)** - Cloudy June<br/>
-> ∙ **[Big Girls Don't Cry](https://www.last.fm/music/Cloudy+June/_/Big+Girls+Don%27t+Cry)** - Cloudy June<br/>
-> ∙ **[Make Them Cry](https://www.last.fm/music/Drake/_/Make+Them+Cry)** - Drake<br/>
-> ∙ **[Alfred's Theme](https://www.last.fm/music/Eminem/_/Alfred%27s+Theme)** - Eminem<br/>
-> ∙ **[When I Grow Up](https://www.last.fm/music/NF/_/When+I+Grow+Up)** - NF<br/>
-> ∙ **[Cinnaluna (ft. Bennett, Kevin)](https://www.last.fm/music/(OpenUTAU%2FSynthV+Original)+KING%27S+GAMBIT/_/Cinnaluna+(ft.+Bennett,+Kevin))** - (OpenUTAU/SynthV Original) KING'S GAMBIT<br/>
-> ∙ **[fine, i'll iseKai MySelf (original song)](https://www.last.fm/music/Lucy+Pyre/_/fine,+i%27ll+iseKai+MySelf+(original+song))** - Lucy Pyre<br/>
+> 🎶 **[Since U Been Gone](https://www.last.fm/music/Evil+-+Kelly+Clarkson/_/Since+U+Been+Gone)** - Evil - Kelly Clarkson<br/>
+> ∙ **[Sheriff's Day](https://www.last.fm/music/HOYO-MiX/_/Sheriff%27s+Day)** - HOYO-MiX<br/>
+> ∙ **[Guilty](https://www.last.fm/music/d0tc0mmie+ft.+Kasane+Teto/_/Guilty)** - d0tc0mmie ft. Kasane Teto<br/>
+> ∙ **[MINIMUM RAGE (feat. Kasane Teto)](https://www.last.fm/music/MonochroMenace/_/MINIMUM+RAGE+(feat.+Kasane+Teto))** - MonochroMenace<br/>
+> ∙ **[ぽかぽかの星 (Poka Poka Planet)](https://www.last.fm/music/Neuro+-+Harumaki+Gohan/_/%E3%81%BD%E3%81%8B%E3%81%BD%E3%81%8B%E3%81%AE%E6%98%9F+(Poka+Poka+Planet))** - Neuro - Harumaki Gohan<br/>
+> ∙ **[Realize](https://www.last.fm/music/Ironmouse/_/Realize)** - Ironmouse<br/>
+> ∙ **[Come Alive Stripped.](https://www.last.fm/music/HOYO-MiX/_/Come+Alive+Stripped.)** - HOYO-MiX<br/>
+> ∙ **[Piper Wheel | Leisure Moment - for "Zenless Zone Zero"](https://www.last.fm/music/seernebuch/_/Piper+Wheel+%7C+Leisure+Moment+-+for+%22Zenless+Zone+Zero%22)** - seernebuch<br/>
+> ∙ **[Original Me](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me)** - Sān-Z<br/>
+> ∙ **[CAROUSEL](https://www.last.fm/music/Neoni/_/CAROUSEL)** - Neoni<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
