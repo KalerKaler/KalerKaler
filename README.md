@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Since U Been Gone](https://www.last.fm/music/Evil+-+Kelly+Clarkson/_/Since+U+Been+Gone)** - Evil - Kelly Clarkson<br/>
+> 🎶 **[Pump It](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Pump+It)** - The Black Eyed Peas<br/>
+> ∙ **[Since U Been Gone](https://www.last.fm/music/Evil+-+Kelly+Clarkson/_/Since+U+Been+Gone)** - Evil - Kelly Clarkson<br/>
 > ∙ **[Sheriff's Day](https://www.last.fm/music/HOYO-MiX/_/Sheriff%27s+Day)** - HOYO-MiX<br/>
 > ∙ **[Guilty](https://www.last.fm/music/d0tc0mmie+ft.+Kasane+Teto/_/Guilty)** - d0tc0mmie ft. Kasane Teto<br/>
 > ∙ **[MINIMUM RAGE (feat. Kasane Teto)](https://www.last.fm/music/MonochroMenace/_/MINIMUM+RAGE+(feat.+Kasane+Teto))** - MonochroMenace<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Come Alive Stripped.](https://www.last.fm/music/HOYO-MiX/_/Come+Alive+Stripped.)** - HOYO-MiX<br/>
 > ∙ **[Piper Wheel | Leisure Moment - for "Zenless Zone Zero"](https://www.last.fm/music/seernebuch/_/Piper+Wheel+%7C+Leisure+Moment+-+for+%22Zenless+Zone+Zero%22)** - seernebuch<br/>
 > ∙ **[Original Me](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me)** - Sān-Z<br/>
-> ∙ **[CAROUSEL](https://www.last.fm/music/Neoni/_/CAROUSEL)** - Neoni<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
