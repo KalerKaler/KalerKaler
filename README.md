@@ -64,7 +64,7 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Dum Diddly (feat. Dante Santiago)](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly+(feat.+Dante+Santiago))** - Black Eyed Peas<br/>
+> 🎶 **[Dum Diddly (feat. Dante Santiago)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Dum+Diddly+(feat.+Dante+Santiago))** - The Black Eyed Peas<br/>
 > ∙ **[They Don't Want Music (Feat. James Brown)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/They+Don%27t+Want+Music+(Feat.+James+Brown))** - The Black Eyed Peas<br/>
 > ∙ **[Gone Going](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Gone+Going)** - The Black Eyed Peas<br/>
 > ∙ **[Feel It](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Feel+It)** - The Black Eyed Peas<br/>
