@@ -57,23 +57,23 @@
 > `51 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `47 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
+> `40 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 > `38 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
-> `36 ▶️` ∙ **[Bebe Rexha](https://www.last.fm/music/Bebe+Rexha)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Ba Bump](https://www.last.fm/music/Black+Eyed+Peas/_/Ba+Bump)** - Black Eyed Peas<br/>
+> 🎶 **[Let's Get It Started (Spike Mix)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Let%27s+Get+It+Started+(Spike+Mix))** - The Black Eyed Peas<br/>
+> ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - The Black Eyed Peas<br/>
+> ∙ **[Do What You Want](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Do+What+You+Want)** - The Black Eyed Peas<br/>
+> ∙ **[Union (Feat. Sting)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Union+(Feat.+Sting))** - The Black Eyed Peas<br/>
+> ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - The Black Eyed Peas<br/>
+> ∙ **[Ba Bump](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Ba+Bump)** - The Black Eyed Peas<br/>
 > ∙ **[Bebot](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Bebot)** - The Black Eyed Peas<br/>
 > ∙ **[Disco Club](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Disco+Club)** - The Black Eyed Peas<br/>
 > ∙ **[My Humps](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Humps)** - The Black Eyed Peas<br/>
 > ∙ **[Dum Diddly (feat. Dante Santiago)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Dum+Diddly+(feat.+Dante+Santiago))** - The Black Eyed Peas<br/>
-> ∙ **[My Humps](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Humps)** - The Black Eyed Peas<br/>
-> ∙ **[Dum Diddly (feat. Dante Santiago)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Dum+Diddly+(feat.+Dante+Santiago))** - The Black Eyed Peas<br/>
-> ∙ **[They Don't Want Music (Feat. James Brown)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/They+Don%27t+Want+Music+(Feat.+James+Brown))** - The Black Eyed Peas<br/>
-> ∙ **[Gone Going](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Gone+Going)** - The Black Eyed Peas<br/>
-> ∙ **[Feel It](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Feel+It)** - The Black Eyed Peas<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
