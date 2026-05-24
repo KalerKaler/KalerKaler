@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Pump It](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Pump+It)** - The Black Eyed Peas<br/>
+> 🎶 **[Dum Diddly (feat. Dante Santiago)](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly+(feat.+Dante+Santiago))** - Black Eyed Peas<br/>
+> ∙ **[Like That (feat. Q-Tip, Talib Kweli, CeeLo Green & John Legend)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Like+That+(feat.+Q-Tip,+Talib+Kweli,+CeeLo+Green+&+John+Legend))** - The Black Eyed Peas<br/>
+> ∙ **[My Humps](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Humps)** - The Black Eyed Peas<br/>
+> ∙ **[Don't Lie](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Don%27t+Lie)** - The Black Eyed Peas<br/>
+> ∙ **[My Style (feat. Justin Timberlake & Timbaland)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Style+(feat.+Justin+Timberlake+&+Timbaland))** - The Black Eyed Peas<br/>
+> ∙ **[Don't Phunk With My Heart](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Don%27t+Phunk+With+My+Heart)** - The Black Eyed Peas<br/>
+> ∙ **[Trash Can Song (No Dubstep Version) (feat. Elsie Lovelock, Michael Kovach & Kathy-Chan)](https://www.last.fm/music/The+Chalkeaters/_/Trash+Can+Song+(No+Dubstep+Version)+(feat.+Elsie+Lovelock,+Michael+Kovach+&+Kathy-Chan))** - The Chalkeaters<br/>
 > ∙ **[Pump It](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Pump+It)** - The Black Eyed Peas<br/>
-> ∙ **[Since U Been Gone](https://www.last.fm/music/Evil+-+Kelly+Clarkson/_/Since+U+Been+Gone)** - Evil - Kelly Clarkson<br/>
-> ∙ **[Sheriff's Day](https://www.last.fm/music/HOYO-MiX/_/Sheriff%27s+Day)** - HOYO-MiX<br/>
-> ∙ **[Guilty](https://www.last.fm/music/d0tc0mmie+ft.+Kasane+Teto/_/Guilty)** - d0tc0mmie ft. Kasane Teto<br/>
-> ∙ **[MINIMUM RAGE (feat. Kasane Teto)](https://www.last.fm/music/MonochroMenace/_/MINIMUM+RAGE+(feat.+Kasane+Teto))** - MonochroMenace<br/>
-> ∙ **[ぽかぽかの星 (Poka Poka Planet)](https://www.last.fm/music/Neuro+-+Harumaki+Gohan/_/%E3%81%BD%E3%81%8B%E3%81%BD%E3%81%8B%E3%81%AE%E6%98%9F+(Poka+Poka+Planet))** - Neuro - Harumaki Gohan<br/>
-> ∙ **[Realize](https://www.last.fm/music/Ironmouse/_/Realize)** - Ironmouse<br/>
-> ∙ **[Come Alive Stripped.](https://www.last.fm/music/HOYO-MiX/_/Come+Alive+Stripped.)** - HOYO-MiX<br/>
-> ∙ **[Piper Wheel | Leisure Moment - for "Zenless Zone Zero"](https://www.last.fm/music/seernebuch/_/Piper+Wheel+%7C+Leisure+Moment+-+for+%22Zenless+Zone+Zero%22)** - seernebuch<br/>
+> ∙ **[Pump It](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Pump+It)** - The Black Eyed Peas<br/>
+> ∙ **[Pump It](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Pump+It)** - The Black Eyed Peas<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
