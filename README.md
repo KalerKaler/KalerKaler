@@ -54,7 +54,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `58 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `51 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `47 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
 > `40 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Let's Get It Started (Spike Mix)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Let%27s+Get+It+Started+(Spike+Mix))** - The Black Eyed Peas<br/>
+> 🎶 **[Affection Addiction - Isaa Ver](https://www.last.fm/music/Isaa+Corva/_/Affection+Addiction+-+Isaa+Ver)** - Isaa Corva<br/>
+> ∙ **[Masquerade (feat. GUMI & Kasane Teto)](https://www.last.fm/music/DryftiN/_/Masquerade+(feat.+GUMI+&+Kasane+Teto))** - DryftiN<br/>
+> ∙ **[Daidaidaidaidaikirai (English Cover)【JubyPhonic + @rachie】ダイダイダイダイダイキライ](https://www.last.fm/music/JubyPhonic/_/Daidaidaidaidaikirai+(English+Cover)%E3%80%90JubyPhonic+%252B+@rachie%E3%80%91%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%82%AD%E3%83%A9%E3%82%A4)** - JubyPhonic<br/>
+> ∙ **[Ironies (feat. Kasane Teto)](https://www.last.fm/music/yowane/_/Ironies+(feat.+Kasane+Teto))** - yowane<br/>
+> ∙ **[Let's Get It Started (Spike Mix)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Let%27s+Get+It+Started+(Spike+Mix))** - The Black Eyed Peas<br/>
 > ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - The Black Eyed Peas<br/>
 > ∙ **[Do What You Want](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Do+What+You+Want)** - The Black Eyed Peas<br/>
 > ∙ **[Union (Feat. Sting)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Union+(Feat.+Sting))** - The Black Eyed Peas<br/>
 > ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - The Black Eyed Peas<br/>
 > ∙ **[Ba Bump](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Ba+Bump)** - The Black Eyed Peas<br/>
-> ∙ **[Bebot](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Bebot)** - The Black Eyed Peas<br/>
-> ∙ **[Disco Club](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Disco+Club)** - The Black Eyed Peas<br/>
-> ∙ **[My Humps](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Humps)** - The Black Eyed Peas<br/>
-> ∙ **[Dum Diddly (feat. Dante Santiago)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Dum+Diddly+(feat.+Dante+Santiago))** - The Black Eyed Peas<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
