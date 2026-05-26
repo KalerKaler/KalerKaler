@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[You Gon’ Learn](https://www.last.fm/music/Eminem/_/You+Gon%E2%80%99+Learn)** - Eminem<br/>
+> 🎶 **[Zeus](https://www.last.fm/music/Eminem/_/Zeus)** - Eminem<br/>
+> ∙ **[You Gon’ Learn](https://www.last.fm/music/Eminem/_/You+Gon%E2%80%99+Learn)** - Eminem<br/>
 > ∙ **[Ants](https://www.last.fm/music/Ham+Sandwich/_/Ants)** - Ham Sandwich<br/>
 > ∙ **[White Fox](https://www.last.fm/music/Ham+Sandwich/_/White+Fox)** - Ham Sandwich<br/>
 > ∙ **[The Naturist](https://www.last.fm/music/Ham+Sandwich/_/The+Naturist)** - Ham Sandwich<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Janice STFU](https://www.last.fm/music/Drake/_/Janice+STFU)** - Drake<br/>
 > ∙ **[Affection Addiction - Isaa Ver](https://www.last.fm/music/Isaa+Corva/_/Affection+Addiction+-+Isaa+Ver)** - Isaa Corva<br/>
 > ∙ **[Masquerade (feat. GUMI & Kasane Teto)](https://www.last.fm/music/DryftiN/_/Masquerade+(feat.+GUMI+&+Kasane+Teto))** - DryftiN<br/>
-> ∙ **[Daidaidaidaidaikirai (English Cover)【JubyPhonic + @rachie】ダイダイダイダイダイキライ](https://www.last.fm/music/JubyPhonic/_/Daidaidaidaidaikirai+(English+Cover)%E3%80%90JubyPhonic+%252B+@rachie%E3%80%91%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%82%AD%E3%83%A9%E3%82%A4)** - JubyPhonic<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
