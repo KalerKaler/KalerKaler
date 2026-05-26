@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Zeus](https://www.last.fm/music/Eminem/_/Zeus)** - Eminem<br/>
+> 🎶 **[Resort](https://www.last.fm/music/temcandoanything/_/Resort)** - temcandoanything<br/>
+> ∙ **[Shut Up](https://www.last.fm/music/UPSAHL/_/Shut+Up)** - UPSAHL<br/>
+> ∙ **[babygirl](https://www.last.fm/music/JPEGMAFIA/_/babygirl)** - JPEGMAFIA<br/>
+> ∙ **[投影の芸術](https://www.last.fm/music/JPEGMAFIA/_/%E6%8A%95%E5%BD%B1%E3%81%AE%E8%8A%B8%E8%A1%93)** - JPEGMAFIA<br/>
+> ∙ **[Zeus](https://www.last.fm/music/Eminem/_/Zeus)** - Eminem<br/>
 > ∙ **[You Gon’ Learn](https://www.last.fm/music/Eminem/_/You+Gon%E2%80%99+Learn)** - Eminem<br/>
 > ∙ **[Ants](https://www.last.fm/music/Ham+Sandwich/_/Ants)** - Ham Sandwich<br/>
 > ∙ **[White Fox](https://www.last.fm/music/Ham+Sandwich/_/White+Fox)** - Ham Sandwich<br/>
 > ∙ **[The Naturist](https://www.last.fm/music/Ham+Sandwich/_/The+Naturist)** - Ham Sandwich<br/>
 > ∙ **[Shabang](https://www.last.fm/music/Drake/_/Shabang)** - Drake<br/>
-> ∙ **[Ran To Atlanta](https://www.last.fm/music/Drake,+Future,+Molly+Santana/_/Ran+To+Atlanta)** - Drake, Future, Molly Santana<br/>
-> ∙ **[Janice STFU](https://www.last.fm/music/Drake/_/Janice+STFU)** - Drake<br/>
-> ∙ **[Affection Addiction - Isaa Ver](https://www.last.fm/music/Isaa+Corva/_/Affection+Addiction+-+Isaa+Ver)** - Isaa Corva<br/>
-> ∙ **[Masquerade (feat. GUMI & Kasane Teto)](https://www.last.fm/music/DryftiN/_/Masquerade+(feat.+GUMI+&+Kasane+Teto))** - DryftiN<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
