@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Brain Implosion Energy Drink (feat. Kasane Teto & Eleanor Forte)](https://www.last.fm/music/Flanger+Moose/_/Brain+Implosion+Energy+Drink+(feat.+Kasane+Teto+&+Eleanor+Forte))** - Flanger Moose<br/>
+> 🎶 **[12345SEX](https://www.last.fm/music/UPSAHL/_/12345SEX)** - UPSAHL<br/>
+> ∙ **[Brain Implosion Energy Drink (feat. Kasane Teto & Eleanor Forte)](https://www.last.fm/music/Flanger+Moose/_/Brain+Implosion+Energy+Drink+(feat.+Kasane+Teto+&+Eleanor+Forte))** - Flanger Moose<br/>
 > ∙ **[Fly Me to the Moon](https://www.last.fm/music/Harryan+Yoonsoan/_/Fly+Me+to+the+Moon)** - Harryan Yoonsoan<br/>
 > ∙ **[Downfall](https://www.last.fm/music/Derivakat/_/Downfall)** - Derivakat<br/>
 > ∙ **[Drift Barbie](https://www.last.fm/music/blueberry,+Natalia+Natchan/_/Drift+Barbie)** - blueberry, Natalia Natchan<br/>
@@ -73,7 +74,6 @@
 > ∙ **[babygirl](https://www.last.fm/music/JPEGMAFIA/_/babygirl)** - JPEGMAFIA<br/>
 > ∙ **[投影の芸術](https://www.last.fm/music/JPEGMAFIA/_/%E6%8A%95%E5%BD%B1%E3%81%AE%E8%8A%B8%E8%A1%93)** - JPEGMAFIA<br/>
 > ∙ **[Zeus](https://www.last.fm/music/Eminem/_/Zeus)** - Eminem<br/>
-> ∙ **[You Gon’ Learn](https://www.last.fm/music/Eminem/_/You+Gon%E2%80%99+Learn)** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
