@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[God Only Knows](https://www.last.fm/music/bitbreaker/_/God+Only+Knows)** - bitbreaker<br/>
-> ∙ **[Heroin(e)](https://www.last.fm/music/Reclaimant+of+Life/_/Heroin(e))** - Reclaimant of Life<br/>
-> ∙ **[HEART](https://www.last.fm/music/Tokyo+Machine/_/HEART)** - Tokyo Machine<br/>
-> ∙ **[Glow](https://www.last.fm/music/Chiru-san/_/Glow)** - Chiru-san<br/>
-> ∙ **[Hellbent](https://www.last.fm/music/Mystery+Skulls/_/Hellbent)** - Mystery Skulls<br/>
-> ∙ **[Oh, Darling?](https://www.last.fm/music/AshBoyo/_/Oh,+Darling%3F)** - AshBoyo<br/>
-> ∙ **[Big Daddy](https://www.last.fm/music/USAO/_/Big+Daddy)** - USAO<br/>
-> ∙ **[Kneel](https://www.last.fm/music/MoxiFloxi/_/Kneel)** - MoxiFloxi<br/>
-> ∙ **[Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)** - Infected Mushroom<br/>
-> ∙ **[Full Bodied](https://www.last.fm/music/Ghost+Data/_/Full+Bodied)** - Ghost Data<br/>
+> 🎶 **[Leaving Heaven](https://www.last.fm/music/Eminem/_/Leaving+Heaven)** - Eminem<br/>
+> ∙ **[Endless Construction Day - Day](https://www.last.fm/music/HOYO-MiX;+S%C4%81n-Z/_/Endless+Construction+Day+-+Day)** - HOYO-MiX; Sān-Z<br/>
+> ∙ **[Digital Girl](https://www.last.fm/music/Evil+-+Kira/_/Digital+Girl)** - Evil - Kira<br/>
+> ∙ **[Crazy In Love](https://www.last.fm/music/Eminem/_/Crazy+In+Love)** - Eminem<br/>
+> ∙ **[Uptown Funk](https://www.last.fm/music/Mark+Ronson/_/Uptown+Funk)** - Mark Ronson<br/>
+> ∙ **[Holding Out For A Hero (Official HD Video)](https://www.last.fm/music/Bonnie+Tyler/_/Holding+Out+For+A+Hero+(Official+HD+Video))** - Bonnie Tyler<br/>
+> ∙ **[They Don't Care About Us (Prison Version)](https://www.last.fm/music/Michael+Jackson/_/They+Don%27t+Care+About+Us+(Prison+Version))** - Michael Jackson<br/>
+> ∙ **[Smooth Criminal](https://www.last.fm/music/Michael+Jackson/_/Smooth+Criminal)** - Michael Jackson<br/>
+> ∙ **[OVER//RIDE　English ver.](https://www.last.fm/music/Mori+Calliope+&+Nerissa+Ravencroft/_/OVER%2F%2FRIDE%E3%80%80English+ver.)** - Mori Calliope & Nerissa Ravencroft<br/>
+> ∙ **[Moonlight (demon)](https://www.last.fm/music/Pinkii+&+MAEZI666/_/Moonlight+(demon))** - Pinkii & MAEZI666<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
