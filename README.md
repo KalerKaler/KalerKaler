@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Digital Girl](https://www.last.fm/music/Evil+-+Kira/_/Digital+Girl)** - Evil - Kira<br/>
-> ∙ **[Crazy In Love](https://www.last.fm/music/Eminem/_/Crazy+In+Love)** - Eminem<br/>
-> ∙ **[DAMIDAMI (Instrumental)](https://www.last.fm/music/Sihan;+S%C4%81n-Z;+HOYO-MiX/_/DAMIDAMI+(Instrumental))** - Sihan; Sān-Z; HOYO-MiX<br/>
-> ∙ **[Forgotten Corner](https://www.last.fm/music/HOYO-MiX;+S%C4%81n-Z/_/Forgotten+Corner)** - HOYO-MiX; Sān-Z<br/>
-> ∙ **[Safe Exit](https://www.last.fm/music/HOYO-MiX;+S%C4%81n-Z/_/Safe+Exit)** - HOYO-MiX; Sān-Z<br/>
-> ∙ **[Golden Sign (Male)](https://www.last.fm/music/HOYO-MiX;+S%C4%81n-Z/_/Golden+Sign+(Male))** - HOYO-MiX; Sān-Z<br/>
-> ∙ **[Chaos Gamma](https://www.last.fm/music/HOYO-MiX;+S%C4%81n-Z/_/Chaos+Gamma)** - HOYO-MiX; Sān-Z<br/>
-> ∙ **[Head Honcho](https://www.last.fm/music/Eminem/_/Head+Honcho)** - Eminem<br/>
-> ∙ **[Stars Align](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+Astra+Yao/_/Stars+Align)** - Sān-Z, HOYO-MiX, Astra Yao<br/>
-> ∙ **[Panchira (Prod. GLYCE)](https://www.last.fm/music/Shiki/_/Panchira+(Prod.+GLYCE))** - Shiki<br/>
+> 🎶 **[God Only Knows](https://www.last.fm/music/bitbreaker/_/God+Only+Knows)** - bitbreaker<br/>
+> ∙ **[Heroin(e)](https://www.last.fm/music/Reclaimant+of+Life/_/Heroin(e))** - Reclaimant of Life<br/>
+> ∙ **[HEART](https://www.last.fm/music/Tokyo+Machine/_/HEART)** - Tokyo Machine<br/>
+> ∙ **[Glow](https://www.last.fm/music/Chiru-san/_/Glow)** - Chiru-san<br/>
+> ∙ **[Hellbent](https://www.last.fm/music/Mystery+Skulls/_/Hellbent)** - Mystery Skulls<br/>
+> ∙ **[Oh, Darling?](https://www.last.fm/music/AshBoyo/_/Oh,+Darling%3F)** - AshBoyo<br/>
+> ∙ **[Big Daddy](https://www.last.fm/music/USAO/_/Big+Daddy)** - USAO<br/>
+> ∙ **[Kneel](https://www.last.fm/music/MoxiFloxi/_/Kneel)** - MoxiFloxi<br/>
+> ∙ **[Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)** - Infected Mushroom<br/>
+> ∙ **[Full Bodied](https://www.last.fm/music/Ghost+Data/_/Full+Bodied)** - Ghost Data<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
