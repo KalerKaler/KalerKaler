@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Panchira (Prod. GLYCE)](https://www.last.fm/music/Shiki/_/Panchira+(Prod.+GLYCE))** - Shiki<br/>
-> ∙ **[Music Is My Waifu](https://www.last.fm/music/Shiki-TMNS/_/Music+Is+My+Waifu)** - Shiki-TMNS<br/>
-> ∙ **[HOPE](https://www.last.fm/music/NF/_/HOPE)** - NF<br/>
-> ∙ **[Lost All Faith](https://www.last.fm/music/Ren/_/Lost+All+Faith)** - Ren<br/>
-> ∙ **[Ok As I Am](https://www.last.fm/music/Chinchilla/_/Ok+As+I+Am)** - Chinchilla<br/>
-> ∙ **[Nyanners ft. Vei](https://www.last.fm/music/B!Tch/_/Nyanners+ft.+Vei)** - B!Tch<br/>
-> ∙ **[Never Have I Ever](https://www.last.fm/music/chrchie,+Ellie+Minibot,+Miniko+Mew,+&+Shoomimi/_/Never+Have+I+Ever)** - chrchie, Ellie Minibot, Miniko Mew, & Shoomimi<br/>
-> ∙ **[Little Girl Gone](https://www.last.fm/music/Chinchilla/_/Little+Girl+Gone)** - Chinchilla<br/>
-> ∙ **[Out Of Love](https://www.last.fm/music/Au%2FRa/_/Out+Of+Love)** - Au/Ra<br/>
-> ∙ **[Out Of Love](https://www.last.fm/music/Au%2FRa/_/Out+Of+Love)** - Au/Ra<br/>
+> 🎶 **[Digital Girl](https://www.last.fm/music/Evil+-+Kira/_/Digital+Girl)** - Evil - Kira<br/>
+> ∙ **[Crazy In Love](https://www.last.fm/music/Eminem/_/Crazy+In+Love)** - Eminem<br/>
+> ∙ **[DAMIDAMI (Instrumental)](https://www.last.fm/music/Sihan;+S%C4%81n-Z;+HOYO-MiX/_/DAMIDAMI+(Instrumental))** - Sihan; Sān-Z; HOYO-MiX<br/>
+> ∙ **[Forgotten Corner](https://www.last.fm/music/HOYO-MiX;+S%C4%81n-Z/_/Forgotten+Corner)** - HOYO-MiX; Sān-Z<br/>
+> ∙ **[Safe Exit](https://www.last.fm/music/HOYO-MiX;+S%C4%81n-Z/_/Safe+Exit)** - HOYO-MiX; Sān-Z<br/>
+> ∙ **[Golden Sign (Male)](https://www.last.fm/music/HOYO-MiX;+S%C4%81n-Z/_/Golden+Sign+(Male))** - HOYO-MiX; Sān-Z<br/>
+> ∙ **[Chaos Gamma](https://www.last.fm/music/HOYO-MiX;+S%C4%81n-Z/_/Chaos+Gamma)** - HOYO-MiX; Sān-Z<br/>
+> ∙ **[Head Honcho](https://www.last.fm/music/Eminem/_/Head+Honcho)** - Eminem<br/>
+> ∙ **[Stars Align](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+Astra+Yao/_/Stars+Align)** - Sān-Z, HOYO-MiX, Astra Yao<br/>
+> ∙ **[Panchira (Prod. GLYCE)](https://www.last.fm/music/Shiki/_/Panchira+(Prod.+GLYCE))** - Shiki<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
