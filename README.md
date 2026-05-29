@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Ghostbusters (Official HD Video)](https://www.last.fm/music/Ray+Parker+Jr./_/Ghostbusters+(Official+HD+Video))** - Ray Parker Jr.<br/>
-> ∙ **[C/A/R/E/C/R/O/W](https://www.last.fm/music/S/_/C%2FA%2FR%2FE%2FC%2FR%2FO%2FW)** - S<br/>
-> ∙ **[Eye Of The Tiger (Official HD Video)](https://www.last.fm/music/Survivor/_/Eye+Of+The+Tiger+(Official+HD+Video))** - Survivor<br/>
-> ∙ **[Official Audio)](https://www.last.fm/music/Sunset+Driver+(Demo/_/Official+Audio))** - Sunset Driver (Demo<br/>
-> ∙ **[Sweet Dreams (Are Made of This)](https://www.last.fm/music/Eurythmics,+Annie+Lennox,+&+Dave+Stewart/_/Sweet+Dreams+(Are+Made+of+This))** - Eurythmics, Annie Lennox, & Dave Stewart<br/>
-> ∙ **[Your Love (Official HD Video)](https://www.last.fm/music/The+Outfield/_/Your+Love+(Official+HD+Video))** - The Outfield<br/>
-> ∙ **[hate that i made you love me](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)** - Ariana Grande<br/>
-> ∙ **[She Knows](https://www.last.fm/music/Gill+Bates/_/She+Knows)** - Gill Bates<br/>
-> ∙ **[Tabloid Junkie](https://www.last.fm/music/Michael+Jackson/_/Tabloid+Junkie)** - Michael Jackson<br/>
-> ∙ **[September](https://www.last.fm/music/Earth,+Wind+&+Fire/_/September)** - Earth, Wind & Fire<br/>
+> 🎶 **[My Curse, My Fate](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+&+David+Briand/_/My+Curse,+My+Fate)** - Sān-Z, HOYO-MiX, & David Briand<br/>
+> ∙ **[制服·剪刀·鲨鱼尾](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+%E9%9B%B7%E9%9B%A8%E5%BF%83/_/%E5%88%B6%E6%9C%8D%C2%B7%E5%89%AA%E5%88%80%C2%B7%E9%B2%A8%E9%B1%BC%E5%B0%BE)** - Sān-Z, HOYO-MiX, 雷雨心<br/>
+> ∙ **[The Vanished People & Koven Wei - S&M [Official Music Video]](https://www.last.fm/music/The+Vanished+People/_/The+Vanished+People+&+Koven+Wei+-+S&M+%5BOfficial+Music+Video%5D)** - The Vanished People<br/>
+> ∙ **[Funky Town](https://www.last.fm/music/+noredirect/Lipps+Inc./_/Funky+Town)** - Lipps Inc.<br/>
+> ∙ **[Lay All Your Love On Me (Official Lyric Video)](https://www.last.fm/music/ABBA/_/Lay+All+Your+Love+On+Me+(Official+Lyric+Video))** - ABBA<br/>
+> ∙ **[Bad](https://www.last.fm/music/Michael+Jackson/_/Bad)** - Michael Jackson<br/>
+> ∙ **[Take on Me](https://www.last.fm/music/a-ha/_/Take+on+Me)** - a-ha<br/>
+> ∙ **[Somebody's Watching Me](https://www.last.fm/music/Rockwell/_/Somebody%27s+Watching+Me)** - Rockwell<br/>
+> ∙ **[Shake Your Body (Down To The Ground) • TopPop](https://www.last.fm/music/Jacksons+ft.+Michael+Jackson/_/Shake+Your+Body+(Down+To+The+Ground)+%E2%80%A2+TopPop)** - Jacksons ft. Michael Jackson<br/>
+> ∙ **[They Don't Care About Us](https://www.last.fm/music/Michael+Jackson/_/They+Don%27t+Care+About+Us)** - Michael Jackson<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
