@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[How are our prices so low? See what are founder has to say.](https://www.last.fm/music/Flashify+India/_/How+are+our+prices+so+low%3F+See+what+are+founder+has+to+say.)** - Flashify India<br/>
-> ∙ **[Sony WH-CH520 Wireless Bluetooth Headphones On Ear with Mic, Up to 50Hrs Battery, Quick Charge, DSEE Upscale, Multipoint Connectivity, Voice Assistant, Customized EQ-Blue Model : YY2958 : Amazon.in: Electronics](https://www.last.fm/music/amazon.in/_/Sony+WH-CH520+Wireless+Bluetooth+Headphones+On+Ear+with+Mic,+Up+to+50Hrs+Battery,+Quick+Charge,+DSEE+Upscale,+Multipoint+Connectivity,+Voice+Assistant,+Customized+EQ-Blue+Model+:+YY2958+:+Amazon.in:+Electronics)** - amazon.in<br/>
-> ∙ **[Leaving Heaven](https://www.last.fm/music/Eminem/_/Leaving+Heaven)** - Eminem<br/>
-> ∙ **[Endless Construction Day - Day](https://www.last.fm/music/HOYO-MiX;+S%C4%81n-Z/_/Endless+Construction+Day+-+Day)** - HOYO-MiX; Sān-Z<br/>
-> ∙ **[Digital Girl](https://www.last.fm/music/Evil+-+Kira/_/Digital+Girl)** - Evil - Kira<br/>
-> ∙ **[Crazy In Love](https://www.last.fm/music/Eminem/_/Crazy+In+Love)** - Eminem<br/>
-> ∙ **[Uptown Funk](https://www.last.fm/music/Mark+Ronson/_/Uptown+Funk)** - Mark Ronson<br/>
-> ∙ **[Holding Out For A Hero (Official HD Video)](https://www.last.fm/music/Bonnie+Tyler/_/Holding+Out+For+A+Hero+(Official+HD+Video))** - Bonnie Tyler<br/>
-> ∙ **[They Don't Care About Us (Prison Version)](https://www.last.fm/music/Michael+Jackson/_/They+Don%27t+Care+About+Us+(Prison+Version))** - Michael Jackson<br/>
-> ∙ **[Smooth Criminal](https://www.last.fm/music/Michael+Jackson/_/Smooth+Criminal)** - Michael Jackson<br/>
+> 🎶 **[Ghostbusters (Official HD Video)](https://www.last.fm/music/Ray+Parker+Jr./_/Ghostbusters+(Official+HD+Video))** - Ray Parker Jr.<br/>
+> ∙ **[C/A/R/E/C/R/O/W](https://www.last.fm/music/S/_/C%2FA%2FR%2FE%2FC%2FR%2FO%2FW)** - S<br/>
+> ∙ **[Eye Of The Tiger (Official HD Video)](https://www.last.fm/music/Survivor/_/Eye+Of+The+Tiger+(Official+HD+Video))** - Survivor<br/>
+> ∙ **[Official Audio)](https://www.last.fm/music/Sunset+Driver+(Demo/_/Official+Audio))** - Sunset Driver (Demo<br/>
+> ∙ **[Sweet Dreams (Are Made of This)](https://www.last.fm/music/Eurythmics,+Annie+Lennox,+&+Dave+Stewart/_/Sweet+Dreams+(Are+Made+of+This))** - Eurythmics, Annie Lennox, & Dave Stewart<br/>
+> ∙ **[Your Love (Official HD Video)](https://www.last.fm/music/The+Outfield/_/Your+Love+(Official+HD+Video))** - The Outfield<br/>
+> ∙ **[hate that i made you love me](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)** - Ariana Grande<br/>
+> ∙ **[She Knows](https://www.last.fm/music/Gill+Bates/_/She+Knows)** - Gill Bates<br/>
+> ∙ **[Tabloid Junkie](https://www.last.fm/music/Michael+Jackson/_/Tabloid+Junkie)** - Michael Jackson<br/>
+> ∙ **[September](https://www.last.fm/music/Earth,+Wind+&+Fire/_/September)** - Earth, Wind & Fire<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
