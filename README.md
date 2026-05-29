@@ -65,15 +65,15 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
 > 🎶 **[My Curse, My Fate](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+&+David+Briand/_/My+Curse,+My+Fate)** - Sān-Z, HOYO-MiX, & David Briand<br/>
+> ∙ **[Almost](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+%E8%8B%8F%E8%AF%97%E4%B8%81/_/Almost)** - Sān-Z, HOYO-MiX, 苏诗丁<br/>
+> ∙ **[DAMIDAMI](https://www.last.fm/music/Sihan,+S%C4%81n-Z,+HOYO-MiX/_/DAMIDAMI)** - Sihan, Sān-Z, HOYO-MiX<br/>
+> ∙ **[Fearless](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+YMIR/_/Fearless)** - Sān-Z, HOYO-MiX, YMIR<br/>
 > ∙ **[制服·剪刀·鲨鱼尾](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+%E9%9B%B7%E9%9B%A8%E5%BF%83/_/%E5%88%B6%E6%9C%8D%C2%B7%E5%89%AA%E5%88%80%C2%B7%E9%B2%A8%E9%B1%BC%E5%B0%BE)** - Sān-Z, HOYO-MiX, 雷雨心<br/>
-> ∙ **[The Vanished People & Koven Wei - S&M [Official Music Video]](https://www.last.fm/music/The+Vanished+People/_/The+Vanished+People+&+Koven+Wei+-+S&M+%5BOfficial+Music+Video%5D)** - The Vanished People<br/>
-> ∙ **[Funky Town](https://www.last.fm/music/+noredirect/Lipps+Inc./_/Funky+Town)** - Lipps Inc.<br/>
-> ∙ **[Lay All Your Love On Me (Official Lyric Video)](https://www.last.fm/music/ABBA/_/Lay+All+Your+Love+On+Me+(Official+Lyric+Video))** - ABBA<br/>
-> ∙ **[Bad](https://www.last.fm/music/Michael+Jackson/_/Bad)** - Michael Jackson<br/>
-> ∙ **[Take on Me](https://www.last.fm/music/a-ha/_/Take+on+Me)** - a-ha<br/>
-> ∙ **[Somebody's Watching Me](https://www.last.fm/music/Rockwell/_/Somebody%27s+Watching+Me)** - Rockwell<br/>
-> ∙ **[Shake Your Body (Down To The Ground) • TopPop](https://www.last.fm/music/Jacksons+ft.+Michael+Jackson/_/Shake+Your+Body+(Down+To+The+Ground)+%E2%80%A2+TopPop)** - Jacksons ft. Michael Jackson<br/>
-> ∙ **[They Don't Care About Us](https://www.last.fm/music/Michael+Jackson/_/They+Don%27t+Care+About+Us)** - Michael Jackson<br/>
+> ∙ **[Through food, we learn the world so wide, to train the heart, the self inside](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+Hanser/_/Through+food,+we+learn+the+world+so+wide,+to+train+the+heart,+the+self+inside)** - Sān-Z, HOYO-MiX, Hanser<br/>
+> ∙ **[晓](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+Shion+Tsuji/_/%E6%99%93)** - Sān-Z, HOYO-MiX, Shion Tsuji<br/>
+> ∙ **[Shining Promise in the Sky of Dawn](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX/_/Shining+Promise+in+the+Sky+of+Dawn)** - Sān-Z, HOYO-MiX<br/>
+> ∙ **[Wonderland Reverie](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX/_/Wonderland+Reverie)** - Sān-Z, HOYO-MiX<br/>
+> ∙ **[My Curse, My Fate](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+&+David+Briand/_/My+Curse,+My+Fate)** - Sān-Z, HOYO-MiX, & David Briand<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
