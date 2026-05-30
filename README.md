@@ -57,23 +57,23 @@
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `47 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
-> `40 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
+> `42 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 > `38 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Big Weenie](https://www.last.fm/music/Eminem/_/Big+Weenie)** - Eminem<br/>
+> 🎶 **[Oops!...I Did It Again](https://www.last.fm/music/Britney+Spears/_/Oops!...I+Did+It+Again)** - Britney Spears<br/>
+> ∙ **[Tears Don't Lie](https://www.last.fm/music/Rosendale/_/Tears+Don%27t+Lie)** - Rosendale<br/>
+> ∙ **[Nightcore - Tears Don't Lie (Lyrics)](https://www.last.fm/music/Nightcore+Zodiac/_/Nightcore+-+Tears+Don%27t+Lie+(Lyrics))** - Nightcore Zodiac<br/>
+> ∙ **[Hips Don't Lie (feat. Wyclef Jean)](https://www.last.fm/music/Shakira/_/Hips+Don%27t+Lie+(feat.+Wyclef+Jean))** - Shakira<br/>
+> ∙ **[Rich Girl (feat. Eve)](https://www.last.fm/music/+noredirect/Gwen+Stefani/_/Rich+Girl+(feat.+Eve))** - Gwen Stefani<br/>
+> ∙ **[My Humps](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Humps)** - The Black Eyed Peas<br/>
+> ∙ **[They Don't Want Music (Feat. James Brown)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/They+Don%27t+Want+Music+(Feat.+James+Brown))** - The Black Eyed Peas<br/>
+> ∙ **[Big Weenie](https://www.last.fm/music/Eminem/_/Big+Weenie)** - Eminem<br/>
 > ∙ **[Everybody’s Looking At Me](https://www.last.fm/music/Eminem/_/Everybody%E2%80%99s+Looking+At+Me)** - Eminem<br/>
 > ∙ **[Kill You](https://www.last.fm/music/Eminem/_/Kill+You)** - Eminem<br/>
-> ∙ **[Drug Ballad](https://www.last.fm/music/Eminem/_/Drug+Ballad)** - Eminem<br/>
-> ∙ **[So Bad](https://www.last.fm/music/Eminem/_/So+Bad)** - Eminem<br/>
-> ∙ **[Lose Yourself](https://www.last.fm/music/Eminem/_/Lose+Yourself)** - Eminem<br/>
-> ∙ **[When I Grow Up](https://www.last.fm/music/NF/_/When+I+Grow+Up)** - NF<br/>
-> ∙ **[Eminem - Key To My Room (Lyrics)](https://www.last.fm/music/Shady+Media/_/Eminem+-+Key+To+My+Room+(Lyrics))** - Shady Media<br/>
-> ∙ **[Big Weenie](https://www.last.fm/music/Eminem/_/Big+Weenie)** - Eminem<br/>
-> ∙ **[My Curse, My Fate](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+&+David+Briand/_/My+Curse,+My+Fate)** - Sān-Z, HOYO-MiX, & David Briand<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
