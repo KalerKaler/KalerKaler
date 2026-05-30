@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Kill You](https://www.last.fm/music/Eminem/_/Kill+You)** - Eminem<br/>
+> 🎶 **[Big Weenie](https://www.last.fm/music/Eminem/_/Big+Weenie)** - Eminem<br/>
+> ∙ **[Everybody’s Looking At Me](https://www.last.fm/music/Eminem/_/Everybody%E2%80%99s+Looking+At+Me)** - Eminem<br/>
+> ∙ **[Kill You](https://www.last.fm/music/Eminem/_/Kill+You)** - Eminem<br/>
 > ∙ **[Drug Ballad](https://www.last.fm/music/Eminem/_/Drug+Ballad)** - Eminem<br/>
 > ∙ **[So Bad](https://www.last.fm/music/Eminem/_/So+Bad)** - Eminem<br/>
 > ∙ **[Lose Yourself](https://www.last.fm/music/Eminem/_/Lose+Yourself)** - Eminem<br/>
@@ -72,8 +74,6 @@
 > ∙ **[Eminem - Key To My Room (Lyrics)](https://www.last.fm/music/Shady+Media/_/Eminem+-+Key+To+My+Room+(Lyrics))** - Shady Media<br/>
 > ∙ **[Big Weenie](https://www.last.fm/music/Eminem/_/Big+Weenie)** - Eminem<br/>
 > ∙ **[My Curse, My Fate](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+&+David+Briand/_/My+Curse,+My+Fate)** - Sān-Z, HOYO-MiX, & David Briand<br/>
-> ∙ **[Almost](https://www.last.fm/music/S%C4%81n-Z,+HOYO-MiX,+%E8%8B%8F%E8%AF%97%E4%B8%81/_/Almost)** - Sān-Z, HOYO-MiX, 苏诗丁<br/>
-> ∙ **[DAMIDAMI](https://www.last.fm/music/Sihan,+S%C4%81n-Z,+HOYO-MiX/_/DAMIDAMI)** - Sihan, Sān-Z, HOYO-MiX<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
