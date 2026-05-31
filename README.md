@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[They Don't Want Music (Feat. James Brown)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/They+Don%27t+Want+Music+(Feat.+James+Brown))** - The Black Eyed Peas<br/>
+> 🎶 **[They Don't Want Music](https://www.last.fm/music/Black+Eyed+Peas/_/They+Don%27t+Want+Music)** - Black Eyed Peas<br/>
+> ∙ **[They Don't Want Music (Feat. James Brown)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/They+Don%27t+Want+Music+(Feat.+James+Brown))** - The Black Eyed Peas<br/>
 > ∙ **[They Don't Want Music (Feat. James Brown)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/They+Don%27t+Want+Music+(Feat.+James+Brown))** - The Black Eyed Peas<br/>
 > ∙ **[Oops!...I Did It Again](https://www.last.fm/music/Britney+Spears/_/Oops!...I+Did+It+Again)** - Britney Spears<br/>
 > ∙ **[Tears Don't Lie](https://www.last.fm/music/Rosendale/_/Tears+Don%27t+Lie)** - Rosendale<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Rich Girl (feat. Eve)](https://www.last.fm/music/+noredirect/Gwen+Stefani/_/Rich+Girl+(feat.+Eve))** - Gwen Stefani<br/>
 > ∙ **[My Humps](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Humps)** - The Black Eyed Peas<br/>
 > ∙ **[They Don't Want Music (Feat. James Brown)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/They+Don%27t+Want+Music+(Feat.+James+Brown))** - The Black Eyed Peas<br/>
-> ∙ **[Big Weenie](https://www.last.fm/music/Eminem/_/Big+Weenie)** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
