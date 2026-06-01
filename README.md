@@ -57,23 +57,23 @@
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `47 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
-> `45 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
+> `46 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 > `38 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Drift Barbie](https://www.last.fm/music/blueberry,+Natalia+Natchan/_/Drift+Barbie)** - blueberry, Natalia Natchan<br/>
-> ∙ **[Dirty Viibe](https://www.last.fm/music/DAEGHO,+Natalia+Natchan/_/Dirty+Viibe)** - DAEGHO, Natalia Natchan<br/>
-> ∙ **[Nyanners ft. Vei](https://www.last.fm/music/B!Tch/_/Nyanners+ft.+Vei)** - B!Tch<br/>
-> ∙ **[Rin Penrose](https://www.last.fm/music/Golden+Age/_/Rin+Penrose)** - Golden Age<br/>
-> ∙ **[Rin Penrose](https://www.last.fm/music/Brand+New+Wave!/_/Rin+Penrose)** - Brand New Wave!<br/>
-> ∙ **[Rin Penrose](https://www.last.fm/music/Cold+Open/_/Rin+Penrose)** - Cold Open<br/>
-> ∙ **[Killer](https://www.last.fm/music/Eminem/_/Killer)** - Eminem<br/>
-> ∙ **[They Don't Want Music](https://www.last.fm/music/Black+Eyed+Peas/_/They+Don%27t+Want+Music)** - Black Eyed Peas<br/>
-> ∙ **[エレン・ジョーcover](https://www.last.fm/music/%E3%83%A2%E3%82%A8%E3%83%81%E3%83%A3%E3%83%83%E3%82%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2/_/%E3%82%A8%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BCcover)** - モエチャッカファイア<br/>
-> ∙ **[IT'S GOING DOWN](https://www.last.fm/music/The+Vanished+People+&+WAMI/_/IT%27S+GOING+DOWN)** - The Vanished People & WAMI<br/>
+> 🎶 **[Die For You](https://www.last.fm/music/Mori+Calliope/_/Die+For+You)** - Mori Calliope<br/>
+> ∙ **[少女A / 猫又おかゆ (cover)](https://www.last.fm/music/Nekomata+Okayu/_/%E5%B0%91%E5%A5%B3A+%2F+%E7%8C%AB%E5%8F%88%E3%81%8A%E3%81%8B%E3%82%86+(cover))** - Nekomata Okayu<br/>
+> ∙ **[車窓 - Window View](https://www.last.fm/music/Farewell225/_/%E8%BB%8A%E7%AA%93+-+Window+View)** - Farewell225<br/>
+> ∙ **[ariiol - RED HOUR](https://www.last.fm/music/ariiol/_/ariiol+-+RED+HOUR)** - ariiol<br/>
+> ∙ **[アイディール・アイドール - ideal idoll (feat. Ui & REML)](https://www.last.fm/music/ki-you/_/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%BC%E3%83%AB+-+ideal+idoll+(feat.+Ui+&+REML))** - ki-you<br/>
+> ∙ **[ライアーダンサー - Liar Dancer](https://www.last.fm/music/masarada/_/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B5%E3%83%BC+-+Liar+Dancer)** - masarada<br/>
+> ∙ **[LET'S JUST CRASH](https://www.last.fm/music/Mori+Calliope/_/LET%27S+JUST+CRASH)** - Mori Calliope<br/>
+> ∙ **[テトリス - Tetoris](https://www.last.fm/music/Hiiragi+Magnetite/_/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9+-+Tetoris)** - Hiiragi Magnetite<br/>
+> ∙ **[♪ Hatsune Miku × Kasane Teto × Eleanor Forte - Around The World (KGD Remix) ♪](https://www.last.fm/music/%E3%82%B7+KoromiGD/_/%E2%99%AA+Hatsune+Miku+%C3%97+Kasane+Teto+%C3%97+Eleanor+Forte+-+Around+The+World+(KGD+Remix)+%E2%99%AA)** - シ KoromiGD<br/>
+> ∙ **[My Humps](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Humps)** - The Black Eyed Peas<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
