@@ -56,7 +56,7 @@
 > `58 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `47 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
+> `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
 > `46 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 > `38 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Charm (feat. Puniden)](https://www.last.fm/music/Moe+Shop/_/Charm+(feat.+Puniden))** - Moe Shop<br/>
-> ∙ **[NEVER (feat. Evil Neuro)](https://www.last.fm/music/Neuro-sama,+Evil+Neuro/_/NEVER+(feat.+Evil+Neuro))** - Neuro-sama, Evil Neuro<br/>
-> ∙ **[LOVE IN PARADISE (EPIC: The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Bao+The+Whale/_/LOVE+IN+PARADISE+(EPIC:+The+Musical)+Full+Animatic+VTuber+Ver.)** - Bao The Whale<br/>
-> ∙ **[LOVE IN PARADISE (EPIC: The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Bao+The+Whale/_/LOVE+IN+PARADISE+(EPIC:+The+Musical)+Full+Animatic+VTuber+Ver.)** - Bao The Whale<br/>
-> ∙ **[LIFE](https://www.last.fm/music/Neuro-sama/_/LIFE)** - Neuro-sama<br/>
-> ∙ **[Queen](https://www.last.fm/music/lollia/_/Queen)** - lollia<br/>
-> ∙ **[Matryoshka](https://www.last.fm/music/Lollia+&+Kuraiinu/_/Matryoshka)** - Lollia & Kuraiinu<br/>
-> ∙ **[Mind Brand](https://www.last.fm/music/lollia/_/Mind+Brand)** - lollia<br/>
-> ∙ **[Meltdown](https://www.last.fm/music/lollia/_/Meltdown)** - lollia<br/>
-> ∙ **[Smoke and Mirrors](https://www.last.fm/music/Lollia+&+Sleeping+Forest/_/Smoke+and+Mirrors)** - Lollia & Sleeping Forest<br/>
+> 🎶 **[Override](https://www.last.fm/music/Yoshida+Yasei/_/Override)** - Yoshida Yasei<br/>
+> ∙ **[feelings](https://www.last.fm/music/Emeline/_/feelings)** - Emeline<br/>
+> ∙ **[check](https://www.last.fm/music/bbno$/_/check)** - bbno$<br/>
+> ∙ **[Get Fucked](https://www.last.fm/music/Kim+Petras/_/Get+Fucked)** - Kim Petras<br/>
+> ∙ **[Freaky Like That](https://www.last.fm/music/SNOW+WIFE/_/Freaky+Like+That)** - SNOW WIFE<br/>
+> ∙ **[DarkMagicSillySexy (origin story)](https://www.last.fm/music/bludnymph/_/DarkMagicSillySexy+(origin+story))** - bludnymph<br/>
+> ∙ **[Personal Pornstar](https://www.last.fm/music/bludnymph/_/Personal+Pornstar)** - bludnymph<br/>
+> ∙ **[Sticks And Stones](https://www.last.fm/music/Cjbeards/_/Sticks+And+Stones)** - Cjbeards<br/>
+> ∙ **[Sweat](https://www.last.fm/music/SNOW+WIFE/_/Sweat)** - SNOW WIFE<br/>
+> ∙ **[HUNNY](https://www.last.fm/music/Only+Fire/_/HUNNY)** - Only Fire<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
