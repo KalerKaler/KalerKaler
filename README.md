@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Override](https://www.last.fm/music/Yoshida+Yasei/_/Override)** - Yoshida Yasei<br/>
+> 🎶 **[God Games | EPIC: The Musical Animatic (MAP)](https://www.last.fm/music/Stella+Luna/_/God+Games+%7C+EPIC:+The+Musical+Animatic+(MAP))** - Stella Luna<br/>
+> ∙ **[Override](https://www.last.fm/music/Yoshida+Yasei/_/Override)** - Yoshida Yasei<br/>
 > ∙ **[feelings](https://www.last.fm/music/Emeline/_/feelings)** - Emeline<br/>
 > ∙ **[check](https://www.last.fm/music/bbno$/_/check)** - bbno$<br/>
 > ∙ **[Get Fucked](https://www.last.fm/music/Kim+Petras/_/Get+Fucked)** - Kim Petras<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Personal Pornstar](https://www.last.fm/music/bludnymph/_/Personal+Pornstar)** - bludnymph<br/>
 > ∙ **[Sticks And Stones](https://www.last.fm/music/Cjbeards/_/Sticks+And+Stones)** - Cjbeards<br/>
 > ∙ **[Sweat](https://www.last.fm/music/SNOW+WIFE/_/Sweat)** - SNOW WIFE<br/>
-> ∙ **[HUNNY](https://www.last.fm/music/Only+Fire/_/HUNNY)** - Only Fire<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
