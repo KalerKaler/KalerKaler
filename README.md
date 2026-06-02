@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[NEVER (feat. Evil Neuro)](https://www.last.fm/music/Neuro-sama,+Evil+Neuro/_/NEVER+(feat.+Evil+Neuro))** - Neuro-sama, Evil Neuro<br/>
+> 🎶 **[Charm (feat. Puniden)](https://www.last.fm/music/Moe+Shop/_/Charm+(feat.+Puniden))** - Moe Shop<br/>
+> ∙ **[NEVER (feat. Evil Neuro)](https://www.last.fm/music/Neuro-sama,+Evil+Neuro/_/NEVER+(feat.+Evil+Neuro))** - Neuro-sama, Evil Neuro<br/>
 > ∙ **[LOVE IN PARADISE (EPIC: The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Bao+The+Whale/_/LOVE+IN+PARADISE+(EPIC:+The+Musical)+Full+Animatic+VTuber+Ver.)** - Bao The Whale<br/>
 > ∙ **[LOVE IN PARADISE (EPIC: The Musical) Full Animatic VTuber Ver.](https://www.last.fm/music/Bao+The+Whale/_/LOVE+IN+PARADISE+(EPIC:+The+Musical)+Full+Animatic+VTuber+Ver.)** - Bao The Whale<br/>
 > ∙ **[LIFE](https://www.last.fm/music/Neuro-sama/_/LIFE)** - Neuro-sama<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Mind Brand](https://www.last.fm/music/lollia/_/Mind+Brand)** - lollia<br/>
 > ∙ **[Meltdown](https://www.last.fm/music/lollia/_/Meltdown)** - lollia<br/>
 > ∙ **[Smoke and Mirrors](https://www.last.fm/music/Lollia+&+Sleeping+Forest/_/Smoke+and+Mirrors)** - Lollia & Sleeping Forest<br/>
-> ∙ **[What the Hell](https://www.last.fm/music/Or3o,+Lollia,+&+Sleeping+Forest/_/What+the+Hell)** - Or3o, Lollia, & Sleeping Forest<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
