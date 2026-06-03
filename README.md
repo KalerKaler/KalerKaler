@@ -58,22 +58,22 @@
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
 > `46 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
-> `38 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
+> `42 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Down On The Beat](https://www.last.fm/music/Ren/_/Down+On+The+Beat)** - Ren<br/>
-> ∙ **[Illest Of Our Time](https://www.last.fm/music/Ren/_/Illest+Of+Our+Time)** - Ren<br/>
-> ∙ **[Love Music, Part 4](https://www.last.fm/music/Ren/_/Love+Music,+Part+4)** - Ren<br/>
-> ∙ **[Hi Ren](https://www.last.fm/music/Ren/_/Hi+Ren)** - Ren<br/>
-> ∙ **[Caskets](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Caskets)** - Inpatient, Ren, & Chris Webby<br/>
-> ∙ **[Down On The Beat](https://www.last.fm/music/Ren/_/Down+On+The+Beat)** - Ren<br/>
-> ∙ **[no!](https://www.last.fm/music/Two:22+&+TrippythaKid/_/no!)** - Two:22 & TrippythaKid<br/>
-> ∙ **[MAMACITA](https://www.last.fm/music/Ham+Sandwich+&+McGwire/_/MAMACITA)** - Ham Sandwich & McGwire<br/>
-> ∙ **[Absolute Territory](https://www.last.fm/music/Ken+Ashcorp/_/Absolute+Territory)** - Ken Ashcorp<br/>
-> ∙ **[SIGNAL](https://www.last.fm/music/Snail%27s+house/_/SIGNAL)** - Snail's house<br/>
+> 🎶 **[Marshall Mathers](https://www.last.fm/music/Eminem/_/Marshall+Mathers)** - Eminem<br/>
+> ∙ **[Marshall Mathers](https://www.last.fm/music/Eminem/_/Marshall+Mathers)** - Eminem<br/>
+> ∙ **[Hailies Revenge (Doe Rae Me) ft. D12 & Obie Trice](https://www.last.fm/music/Eminem/_/Hailies+Revenge+(Doe+Rae+Me)+ft.+D12+&+Obie+Trice)** - Eminem<br/>
+> ∙ **[Smack You (Suge Knight & Ja Rule Diss) Lyrics](https://www.last.fm/music/Eminem/_/Smack+You+(Suge+Knight+&+Ja+Rule+Diss)+Lyrics)** - Eminem<br/>
+> ∙ **[Bump Heads](https://www.last.fm/music/Eminem/_/Bump+Heads)** - Eminem<br/>
+> ∙ **[Loose Change](https://www.last.fm/music/Ja+Rule/_/Loose+Change)** - Ja Rule<br/>
+> ∙ **[Bump Heads](https://www.last.fm/music/Eminem/_/Bump+Heads)** - Eminem<br/>
+> ∙ **[Die Hard](https://www.last.fm/music/Kendrick+Lamar,+Blxst,+&+Amanda+Reifer/_/Die+Hard)** - Kendrick Lamar, Blxst, & Amanda Reifer<br/>
+> ∙ **[Rhyme or Reason](https://www.last.fm/music/Eminem/_/Rhyme+or+Reason)** - Eminem<br/>
+> ∙ **[Killer (Remix)](https://www.last.fm/music/Eminem/_/Killer+(Remix))** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
