@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[God Games | EPIC: The Musical Animatic (MAP)](https://www.last.fm/music/Stella+Luna/_/God+Games+%7C+EPIC:+The+Musical+Animatic+(MAP))** - Stella Luna<br/>
-> ∙ **[Override](https://www.last.fm/music/Yoshida+Yasei/_/Override)** - Yoshida Yasei<br/>
-> ∙ **[feelings](https://www.last.fm/music/Emeline/_/feelings)** - Emeline<br/>
-> ∙ **[check](https://www.last.fm/music/bbno$/_/check)** - bbno$<br/>
-> ∙ **[Get Fucked](https://www.last.fm/music/Kim+Petras/_/Get+Fucked)** - Kim Petras<br/>
-> ∙ **[Freaky Like That](https://www.last.fm/music/SNOW+WIFE/_/Freaky+Like+That)** - SNOW WIFE<br/>
-> ∙ **[DarkMagicSillySexy (origin story)](https://www.last.fm/music/bludnymph/_/DarkMagicSillySexy+(origin+story))** - bludnymph<br/>
-> ∙ **[Personal Pornstar](https://www.last.fm/music/bludnymph/_/Personal+Pornstar)** - bludnymph<br/>
-> ∙ **[Sticks And Stones](https://www.last.fm/music/Cjbeards/_/Sticks+And+Stones)** - Cjbeards<br/>
-> ∙ **[Sweat](https://www.last.fm/music/SNOW+WIFE/_/Sweat)** - SNOW WIFE<br/>
+> 🎶 **[Down On The Beat](https://www.last.fm/music/Ren/_/Down+On+The+Beat)** - Ren<br/>
+> ∙ **[Illest Of Our Time](https://www.last.fm/music/Ren/_/Illest+Of+Our+Time)** - Ren<br/>
+> ∙ **[Love Music, Part 4](https://www.last.fm/music/Ren/_/Love+Music,+Part+4)** - Ren<br/>
+> ∙ **[Hi Ren](https://www.last.fm/music/Ren/_/Hi+Ren)** - Ren<br/>
+> ∙ **[Caskets](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Caskets)** - Inpatient, Ren, & Chris Webby<br/>
+> ∙ **[Down On The Beat](https://www.last.fm/music/Ren/_/Down+On+The+Beat)** - Ren<br/>
+> ∙ **[no!](https://www.last.fm/music/Two:22+&+TrippythaKid/_/no!)** - Two:22 & TrippythaKid<br/>
+> ∙ **[MAMACITA](https://www.last.fm/music/Ham+Sandwich+&+McGwire/_/MAMACITA)** - Ham Sandwich & McGwire<br/>
+> ∙ **[Absolute Territory](https://www.last.fm/music/Ken+Ashcorp/_/Absolute+Territory)** - Ken Ashcorp<br/>
+> ∙ **[SIGNAL](https://www.last.fm/music/Snail%27s+house/_/SIGNAL)** - Snail's house<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
