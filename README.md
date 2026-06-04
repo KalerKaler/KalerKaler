@@ -55,25 +55,25 @@
 
 > `58 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `51 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
 > `46 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
-> `43 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Marshall Mathers](https://www.last.fm/music/Eminem/_/Marshall+Mathers)** - Eminem<br/>
+> 🎶 **[Under The Influence](https://www.last.fm/music/Eminem/_/Under+The+Influence)** - Eminem<br/>
+> ∙ **[Just Don't Give a Fuck](https://www.last.fm/music/Eminem/_/Just+Don%27t+Give+a+Fuck)** - Eminem<br/>
+> ∙ **[When The Music Stops](https://www.last.fm/music/Eminem/_/When+The+Music+Stops)** - Eminem<br/>
+> ∙ **[I'm Back](https://www.last.fm/music/Eminem/_/I%27m+Back)** - Eminem<br/>
+> ∙ **[Taking My Ball](https://www.last.fm/music/Eminem/_/Taking+My+Ball)** - Eminem<br/>
+> ∙ **[The Ringer](https://www.last.fm/music/Eminem/_/The+Ringer)** - Eminem<br/>
+> ∙ **[Greatest](https://www.last.fm/music/Eminem/_/Greatest)** - Eminem<br/>
 > ∙ **[Marshall Mathers](https://www.last.fm/music/Eminem/_/Marshall+Mathers)** - Eminem<br/>
-> ∙ **[Hailies Revenge (Doe Rae Me) ft. D12 & Obie Trice](https://www.last.fm/music/Eminem/_/Hailies+Revenge+(Doe+Rae+Me)+ft.+D12+&+Obie+Trice)** - Eminem<br/>
-> ∙ **[Smack You (Suge Knight & Ja Rule Diss) Lyrics](https://www.last.fm/music/Eminem/_/Smack+You+(Suge+Knight+&+Ja+Rule+Diss)+Lyrics)** - Eminem<br/>
-> ∙ **[Bump Heads](https://www.last.fm/music/Eminem/_/Bump+Heads)** - Eminem<br/>
-> ∙ **[Loose Change](https://www.last.fm/music/Ja+Rule/_/Loose+Change)** - Ja Rule<br/>
-> ∙ **[Bump Heads](https://www.last.fm/music/Eminem/_/Bump+Heads)** - Eminem<br/>
-> ∙ **[Die Hard](https://www.last.fm/music/Kendrick+Lamar,+Blxst,+&+Amanda+Reifer/_/Die+Hard)** - Kendrick Lamar, Blxst, & Amanda Reifer<br/>
-> ∙ **[Rhyme or Reason](https://www.last.fm/music/Eminem/_/Rhyme+or+Reason)** - Eminem<br/>
-> ∙ **[Killer (Remix)](https://www.last.fm/music/Eminem/_/Killer+(Remix))** - Eminem<br/>
+> ∙ **[Marshall Mathers](https://www.last.fm/music/Eminem/_/Marshall+Mathers)** - Eminem<br/>
+> ∙ **[Marshall Mathers](https://www.last.fm/music/Eminem/_/Marshall+Mathers)** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
