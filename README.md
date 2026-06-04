@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `70 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `77 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `59 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Fack](https://www.last.fm/music/Eminem/_/Fack)** - Eminem<br/>
-> ∙ **[Brain Damage](https://www.last.fm/music/Eminem/_/Brain+Damage)** - Eminem<br/>
-> ∙ **[So Far...](https://www.last.fm/music/Eminem/_/So+Far...)** - Eminem<br/>
-> ∙ **[Medicine Ball](https://www.last.fm/music/Eminem/_/Medicine+Ball)** - Eminem<br/>
-> ∙ **[Realest](https://www.last.fm/music/Ez+Mil+&+Eminem/_/Realest)** - Ez Mil & Eminem<br/>
-> ∙ **[Marsh](https://www.last.fm/music/Eminem/_/Marsh)** - Eminem<br/>
-> ∙ **[Brainless](https://www.last.fm/music/Eminem/_/Brainless)** - Eminem<br/>
-> ∙ **[Rabbit Run](https://www.last.fm/music/Eminem/_/Rabbit+Run)** - Eminem<br/>
-> ∙ **[Evil Deeds](https://www.last.fm/music/Eminem/_/Evil+Deeds)** - Eminem<br/>
-> ∙ **[Not Alike](https://www.last.fm/music/Eminem/_/Not+Alike)** - Eminem<br/>
+> 🎶 **[Stepping Stone](https://www.last.fm/music/Eminem/_/Stepping+Stone)** - Eminem<br/>
+> ∙ **[Kamikaze](https://www.last.fm/music/Eminem/_/Kamikaze)** - Eminem<br/>
+> ∙ **[Bagpipes from Baghdad](https://www.last.fm/music/Eminem/_/Bagpipes+from+Baghdad)** - Eminem<br/>
+> ∙ **[Legacy](https://www.last.fm/music/Eminem/_/Legacy)** - Eminem<br/>
+> ∙ **[Business](https://www.last.fm/music/Eminem/_/Business)** - Eminem<br/>
+> ∙ **[Survival](https://www.last.fm/music/Eminem/_/Survival)** - Eminem<br/>
+> ∙ **[only you](https://www.last.fm/music/Ze66y/_/only+you)** - Ze66y<br/>
+> ∙ **[Lace It](https://www.last.fm/music/Juice+WRLD,+Eminem,+benny+blanco/_/Lace+It)** - Juice WRLD, Eminem, benny blanco<br/>
+> ∙ **[Back Shots!](https://www.last.fm/music/Doe+Slurp/_/Back+Shots!)** - Doe Slurp<br/>
+> ∙ **[Never Enough](https://www.last.fm/music/Eminem/_/Never+Enough)** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
