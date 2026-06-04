@@ -53,9 +53,9 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `58 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `70 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `59 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `51 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
 > `46 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Under The Influence](https://www.last.fm/music/Eminem/_/Under+The+Influence)** - Eminem<br/>
-> ∙ **[Just Don't Give a Fuck](https://www.last.fm/music/Eminem/_/Just+Don%27t+Give+a+Fuck)** - Eminem<br/>
-> ∙ **[When The Music Stops](https://www.last.fm/music/Eminem/_/When+The+Music+Stops)** - Eminem<br/>
-> ∙ **[I'm Back](https://www.last.fm/music/Eminem/_/I%27m+Back)** - Eminem<br/>
-> ∙ **[Taking My Ball](https://www.last.fm/music/Eminem/_/Taking+My+Ball)** - Eminem<br/>
-> ∙ **[The Ringer](https://www.last.fm/music/Eminem/_/The+Ringer)** - Eminem<br/>
-> ∙ **[Greatest](https://www.last.fm/music/Eminem/_/Greatest)** - Eminem<br/>
-> ∙ **[Marshall Mathers](https://www.last.fm/music/Eminem/_/Marshall+Mathers)** - Eminem<br/>
-> ∙ **[Marshall Mathers](https://www.last.fm/music/Eminem/_/Marshall+Mathers)** - Eminem<br/>
-> ∙ **[Marshall Mathers](https://www.last.fm/music/Eminem/_/Marshall+Mathers)** - Eminem<br/>
+> 🎶 **[Fack](https://www.last.fm/music/Eminem/_/Fack)** - Eminem<br/>
+> ∙ **[Brain Damage](https://www.last.fm/music/Eminem/_/Brain+Damage)** - Eminem<br/>
+> ∙ **[So Far...](https://www.last.fm/music/Eminem/_/So+Far...)** - Eminem<br/>
+> ∙ **[Medicine Ball](https://www.last.fm/music/Eminem/_/Medicine+Ball)** - Eminem<br/>
+> ∙ **[Realest](https://www.last.fm/music/Ez+Mil+&+Eminem/_/Realest)** - Ez Mil & Eminem<br/>
+> ∙ **[Marsh](https://www.last.fm/music/Eminem/_/Marsh)** - Eminem<br/>
+> ∙ **[Brainless](https://www.last.fm/music/Eminem/_/Brainless)** - Eminem<br/>
+> ∙ **[Rabbit Run](https://www.last.fm/music/Eminem/_/Rabbit+Run)** - Eminem<br/>
+> ∙ **[Evil Deeds](https://www.last.fm/music/Eminem/_/Evil+Deeds)** - Eminem<br/>
+> ∙ **[Not Alike](https://www.last.fm/music/Eminem/_/Not+Alike)** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
