@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Inferno](https://www.last.fm/music/Mrs.+GREEN+APPLE/_/Inferno)** - Mrs. GREEN APPLE<br/>
+> 🎶 **[E-Girl Bounce](https://www.last.fm/music/Shiki-TMNS+&+Pinkii/_/E-Girl+Bounce)** - Shiki-TMNS & Pinkii<br/>
+> ∙ **[One For The Money](https://www.last.fm/music/Escape+The+Fate/_/One+For+The+Money)** - Escape The Fate<br/>
+> ∙ **[veil](https://www.last.fm/music/Keina+Suda/_/veil)** - Keina Suda<br/>
+> ∙ **[Inferno](https://www.last.fm/music/Mrs.+GREEN+APPLE/_/Inferno)** - Mrs. GREEN APPLE<br/>
 > ∙ **[Savior](https://www.last.fm/music/Rise+Against/_/Savior)** - Rise Against<br/>
 > ∙ **[Sound of Madness](https://www.last.fm/music/Shinedown/_/Sound+of+Madness)** - Shinedown<br/>
 > ∙ **[Kryptonite](https://www.last.fm/music/3+Doors+Down/_/Kryptonite)** - 3 Doors Down<br/>
 > ∙ **[Take It Out On Me](https://www.last.fm/music/Thousand+Foot+Krutch/_/Take+It+Out+On+Me)** - Thousand Foot Krutch<br/>
 > ∙ **[Bad Girlfriend](https://www.last.fm/music/Theory+of+a+Deadman/_/Bad+Girlfriend)** - Theory of a Deadman<br/>
 > ∙ **[Hero](https://www.last.fm/music/Skillet/_/Hero)** - Skillet<br/>
-> ∙ **[You're Gonna Go Far, Kid](https://www.last.fm/music/The+Offspring/_/You%27re+Gonna+Go+Far,+Kid)** - The Offspring<br/>
-> ∙ **[DUN DUN](https://www.last.fm/music/Everglow/_/DUN+DUN)** - Everglow<br/>
-> ∙ **[Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)** - Creepy Nuts<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
