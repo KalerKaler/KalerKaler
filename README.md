@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[TRIPPIN?](https://www.last.fm/music/Ham+Sandwich/_/TRIPPIN%3F)** - Ham Sandwich<br/>
-> ∙ **[Dear Maria, Count Me In](https://www.last.fm/music/All+Time+Low/_/Dear+Maria,+Count+Me+In)** - All Time Low<br/>
-> ∙ **[Dirty Thoughts](https://www.last.fm/music/nihmune/_/Dirty+Thoughts)** - nihmune<br/>
-> ∙ **[CPR](https://www.last.fm/music/nihmune/_/CPR)** - nihmune<br/>
-> ∙ **[ITTY BITTY TITTY COMMITTEE](https://www.last.fm/music/Ham+Sandwich/_/ITTY+BITTY+TITTY+COMMITTEE)** - Ham Sandwich<br/>
-> ∙ **[Onlyfans](https://www.last.fm/music/PiNKii/_/Onlyfans)** - PiNKii<br/>
-> ∙ **[Catgirl Milk!](https://www.last.fm/music/Kvatz/_/Catgirl+Milk!)** - Kvatz<br/>
-> ∙ **[BLUDLUST](https://www.last.fm/music/DAEGHO+&+NGXT/_/BLUDLUST)** - DAEGHO & NGXT<br/>
-> ∙ **[BLUDLUST](https://www.last.fm/music/DAEGHO+&+NGXT/_/BLUDLUST)** - DAEGHO & NGXT<br/>
-> ∙ **[Ecchi](https://www.last.fm/music/Shiki-TMNS+&+Kodama+Boy/_/Ecchi)** - Shiki-TMNS & Kodama Boy<br/>
+> 🎶 **[Ready for the Fire](https://www.last.fm/music/Valley+of+Wolves/_/Ready+for+the+Fire)** - Valley of Wolves<br/>
+> ∙ **[On The Way](https://www.last.fm/music/Aina+The+End/_/On+The+Way)** - Aina The End<br/>
+> ∙ **[ADDICTED 2 MONSTER GIRLS](https://www.last.fm/music/Ham+Sandwich/_/ADDICTED+2+MONSTER+GIRLS)** - Ham Sandwich<br/>
+> ∙ **[Bad Intentions](https://www.last.fm/music/Niykee+Heaton/_/Bad+Intentions)** - Niykee Heaton<br/>
+> ∙ **[LOSE CONTROL](https://www.last.fm/music/Cutty+Vibez/_/LOSE+CONTROL)** - Cutty Vibez<br/>
+> ∙ **[MAMACITA](https://www.last.fm/music/Ham+Sandwich+&+McGwire/_/MAMACITA)** - Ham Sandwich & McGwire<br/>
+> ∙ **[WHEYFU ANTHEM](https://www.last.fm/music/Ham+Sandwich/_/WHEYFU+ANTHEM)** - Ham Sandwich<br/>
+> ∙ **[Big Tiddy Goth Girl](https://www.last.fm/music/Shiki-TMNS+&+Hentai+Dude/_/Big+Tiddy+Goth+Girl)** - Shiki-TMNS & Hentai Dude<br/>
+> ∙ **[She Bad](https://www.last.fm/music/Khantrast/_/She+Bad)** - Khantrast<br/>
+> ∙ **[parasite](https://www.last.fm/music/Stim+&+Stellar/_/parasite)** - Stim & Stellar<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
