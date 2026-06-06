@@ -54,7 +54,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `86 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `59 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `60 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Bottom 2 (feat. Shylily, Bao the Whale, Neuro-Sama & Camila)](https://www.last.fm/music/nihmune/_/Bottom+2+(feat.+Shylily,+Bao+the+Whale,+Neuro-Sama+&+Camila))** - nihmune<br/>
+> 🎶 **[CELINE](https://www.last.fm/music/TH3+KXD/_/CELINE)** - TH3 KXD<br/>
+> ∙ **[I like the way you kiss me (But it hits different)](https://www.last.fm/music/Eiden+XII/_/I+like+the+way+you+kiss+me+(But+it+hits+different))** - Eiden XII<br/>
+> ∙ **[Purr Bass](https://www.last.fm/music/Steradlye/_/Purr+Bass)** - Steradlye<br/>
+> ∙ **[Don't Look Down](https://www.last.fm/music/Ellie+Minibot/_/Don%27t+Look+Down)** - Ellie Minibot<br/>
+> ∙ **[Play Dice!](https://www.last.fm/music/Hakos+Baelz/_/Play+Dice!)** - Hakos Baelz<br/>
+> ∙ **[Bottom 2 (feat. Shylily, Bao the Whale, Neuro-Sama & Camila)](https://www.last.fm/music/nihmune/_/Bottom+2+(feat.+Shylily,+Bao+the+Whale,+Neuro-Sama+&+Camila))** - nihmune<br/>
 > ∙ **[London Bridge](https://www.last.fm/music/Fergie/_/London+Bridge)** - Fergie<br/>
 > ∙ **[Just Lose It](https://www.last.fm/music/Eminem/_/Just+Lose+It)** - Eminem<br/>
 > ∙ **[Breakout](https://www.last.fm/music/hololive+English+-Advent-/_/Breakout)** - hololive English -Advent-<br/>
 > ∙ **[Sama](https://www.last.fm/music/Bao+x+Neuro/_/Sama)** - Bao x Neuro<br/>
-> ∙ **[Bare your teeth](https://www.last.fm/music/IRyS/_/Bare+your+teeth)** - IRyS<br/>
-> ∙ **[『おどれ！VRダンス！』 Ninomae Ina'nis (Cover)](https://www.last.fm/music/Ninomae+Ina%27nis/_/%E3%80%8E%E3%81%8A%E3%81%A9%E3%82%8C%EF%BC%81VR%E3%83%80%E3%83%B3%E3%82%B9%EF%BC%81%E3%80%8F+Ninomae+Ina%27nis+(Cover))** - Ninomae Ina'nis<br/>
-> ∙ **[Goth Girl](https://www.last.fm/music/ALTERCLAD/_/Goth+Girl)** - ALTERCLAD<br/>
-> ∙ **[Egg Drop](https://www.last.fm/music/nihmune/_/Egg+Drop)** - nihmune<br/>
-> ∙ **[Marshmallow](https://www.last.fm/music/DECO*27/_/Marshmallow)** - DECO*27<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
