@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `86 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `87 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `60 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[CELINE](https://www.last.fm/music/TH3+KXD/_/CELINE)** - TH3 KXD<br/>
-> ∙ **[I like the way you kiss me (But it hits different)](https://www.last.fm/music/Eiden+XII/_/I+like+the+way+you+kiss+me+(But+it+hits+different))** - Eiden XII<br/>
-> ∙ **[Purr Bass](https://www.last.fm/music/Steradlye/_/Purr+Bass)** - Steradlye<br/>
-> ∙ **[Don't Look Down](https://www.last.fm/music/Ellie+Minibot/_/Don%27t+Look+Down)** - Ellie Minibot<br/>
-> ∙ **[Play Dice!](https://www.last.fm/music/Hakos+Baelz/_/Play+Dice!)** - Hakos Baelz<br/>
-> ∙ **[Bottom 2 (feat. Shylily, Bao the Whale, Neuro-Sama & Camila)](https://www.last.fm/music/nihmune/_/Bottom+2+(feat.+Shylily,+Bao+the+Whale,+Neuro-Sama+&+Camila))** - nihmune<br/>
-> ∙ **[London Bridge](https://www.last.fm/music/Fergie/_/London+Bridge)** - Fergie<br/>
-> ∙ **[Just Lose It](https://www.last.fm/music/Eminem/_/Just+Lose+It)** - Eminem<br/>
-> ∙ **[Breakout](https://www.last.fm/music/hololive+English+-Advent-/_/Breakout)** - hololive English -Advent-<br/>
-> ∙ **[Sama](https://www.last.fm/music/Bao+x+Neuro/_/Sama)** - Bao x Neuro<br/>
+> 🎶 **[Inferno](https://www.last.fm/music/Mrs.+GREEN+APPLE/_/Inferno)** - Mrs. GREEN APPLE<br/>
+> ∙ **[Savior](https://www.last.fm/music/Rise+Against/_/Savior)** - Rise Against<br/>
+> ∙ **[Sound of Madness](https://www.last.fm/music/Shinedown/_/Sound+of+Madness)** - Shinedown<br/>
+> ∙ **[Kryptonite](https://www.last.fm/music/3+Doors+Down/_/Kryptonite)** - 3 Doors Down<br/>
+> ∙ **[Take It Out On Me](https://www.last.fm/music/Thousand+Foot+Krutch/_/Take+It+Out+On+Me)** - Thousand Foot Krutch<br/>
+> ∙ **[Bad Girlfriend](https://www.last.fm/music/Theory+of+a+Deadman/_/Bad+Girlfriend)** - Theory of a Deadman<br/>
+> ∙ **[Hero](https://www.last.fm/music/Skillet/_/Hero)** - Skillet<br/>
+> ∙ **[You're Gonna Go Far, Kid](https://www.last.fm/music/The+Offspring/_/You%27re+Gonna+Go+Far,+Kid)** - The Offspring<br/>
+> ∙ **[DUN DUN](https://www.last.fm/music/Everglow/_/DUN+DUN)** - Everglow<br/>
+> ∙ **[Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)** - Creepy Nuts<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
