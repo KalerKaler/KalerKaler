@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Prisoner (FUWAMOCO ver.)](https://www.last.fm/music/FUWAMOCO/_/Prisoner+(FUWAMOCO+ver.))** - FUWAMOCO<br/>
+> 🎶 **[EVIL](https://www.last.fm/music/Camila/_/EVIL)** - Camila<br/>
+> ∙ **[Aren’t We All the Worst?](https://www.last.fm/music/Ironmouse,+Shirobeats,+HalaCG,+&+Kiwwi/_/Aren%E2%80%99t+We+All+the+Worst%3F)** - Ironmouse, Shirobeats, HalaCG, & Kiwwi<br/>
+> ∙ **[Girlfriend (Cover)](https://www.last.fm/music/Dokibird/_/Girlfriend+(Cover))** - Dokibird<br/>
+> ∙ **[Prisoner (FUWAMOCO ver.)](https://www.last.fm/music/FUWAMOCO/_/Prisoner+(FUWAMOCO+ver.))** - FUWAMOCO<br/>
 > ∙ **[REQUIEM](https://www.last.fm/music/Zeishi+%7C+%E3%82%BC%E3%82%A4%E3%82%B7/_/REQUIEM)** - Zeishi | ゼイシ<br/>
 > ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
 > ∙ **[Mesmerizer](https://www.last.fm/music/Bao+The+Whale/_/Mesmerizer)** - Bao The Whale<br/>
 > ∙ **[Freaky Deaky Love](https://www.last.fm/music/Takanashi+Kiara,+Hakos+Baelz,+Koseki+Bijou,+&+Raora+Panthera/_/Freaky+Deaky+Love)** - Takanashi Kiara, Hakos Baelz, Koseki Bijou, & Raora Panthera<br/>
 > ∙ **[Carbonated Love](https://www.last.fm/music/IRyS/_/Carbonated+Love)** - IRyS<br/>
 > ∙ **[Blue World](https://www.last.fm/music/Nerissa+Ravencroft/_/Blue+World)** - Nerissa Ravencroft<br/>
-> ∙ **[Martyr](https://www.last.fm/music/Takanashi+Kiara/_/Martyr)** - Takanashi Kiara<br/>
-> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
-> ∙ **[In Love with an Anime Girl](https://www.last.fm/music/nihmune/_/In+Love+with+an+Anime+Girl)** - nihmune<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
