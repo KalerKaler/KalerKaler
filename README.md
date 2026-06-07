@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Ready for the Fire](https://www.last.fm/music/Valley+of+Wolves/_/Ready+for+the+Fire)** - Valley of Wolves<br/>
-> ∙ **[On The Way](https://www.last.fm/music/Aina+The+End/_/On+The+Way)** - Aina The End<br/>
-> ∙ **[ADDICTED 2 MONSTER GIRLS](https://www.last.fm/music/Ham+Sandwich/_/ADDICTED+2+MONSTER+GIRLS)** - Ham Sandwich<br/>
-> ∙ **[Bad Intentions](https://www.last.fm/music/Niykee+Heaton/_/Bad+Intentions)** - Niykee Heaton<br/>
-> ∙ **[LOSE CONTROL](https://www.last.fm/music/Cutty+Vibez/_/LOSE+CONTROL)** - Cutty Vibez<br/>
-> ∙ **[MAMACITA](https://www.last.fm/music/Ham+Sandwich+&+McGwire/_/MAMACITA)** - Ham Sandwich & McGwire<br/>
-> ∙ **[WHEYFU ANTHEM](https://www.last.fm/music/Ham+Sandwich/_/WHEYFU+ANTHEM)** - Ham Sandwich<br/>
-> ∙ **[Big Tiddy Goth Girl](https://www.last.fm/music/Shiki-TMNS+&+Hentai+Dude/_/Big+Tiddy+Goth+Girl)** - Shiki-TMNS & Hentai Dude<br/>
-> ∙ **[She Bad](https://www.last.fm/music/Khantrast/_/She+Bad)** - Khantrast<br/>
-> ∙ **[parasite](https://www.last.fm/music/Stim+&+Stellar/_/parasite)** - Stim & Stellar<br/>
+> 🎶 **[Up](https://www.last.fm/music/Wind/_/Up)** - Wind<br/>
+> ∙ **[「Cover」Come Down ft. Evil Neuro](https://www.last.fm/music/Akuma+Nihmune+Ch/_/%E3%80%8CCover%E3%80%8DCome+Down+ft.+Evil+Neuro)** - Akuma Nihmune Ch<br/>
+> ∙ **[Cover)](https://www.last.fm/music/Prisoner%EF%BC%8Fhololive+English+Advent+(Self/_/Cover))** - Prisoner／hololive English Advent (Self<br/>
+> ∙ **[PERFUME](https://www.last.fm/music/Takanashi+Kiara/_/PERFUME)** - Takanashi Kiara<br/>
+> ∙ **[Advent- Original Song】](https://www.last.fm/music/Genesis%E3%80%90hololive+English/_/Advent-+Original+Song%E3%80%91)** - Genesis【hololive English<br/>
+> ∙ **[LIFE](https://www.last.fm/music/Neuro-sama/_/LIFE)** - Neuro-sama<br/>
+> ∙ **[NEVER](https://www.last.fm/music/Neuro-sama+&+Evil+Neuro/_/NEVER)** - Neuro-sama & Evil Neuro<br/>
+> ∙ **[Evil](https://www.last.fm/music/Boom/_/Evil)** - Boom<br/>
+> ∙ **[Yona Yona Journey](https://www.last.fm/music/Mori+Calliope+&+TAKU+INOUE/_/Yona+Yona+Journey)** - Mori Calliope & TAKU INOUE<br/>
+> ∙ **[Ironmouse & Bubi](https://www.last.fm/music/Devil/_/Ironmouse+&+Bubi)** - Devil<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
