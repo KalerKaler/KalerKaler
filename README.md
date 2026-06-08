@@ -53,8 +53,8 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `88 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `60 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `89 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `61 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[ANHELO](https://www.last.fm/music/Joni/_/ANHELO)** - Joni<br/>
-> ∙ **[INSOMNIA](https://www.last.fm/music/Roma/_/INSOMNIA)** - Roma<br/>
-> ∙ **[Ring my name](https://www.last.fm/music/Isaki+Riona/_/Ring+my+name)** - Isaki Riona<br/>
-> ∙ **[FEEDBACK](https://www.last.fm/music/isidore.,+MonochroMenace,+&+Megurine+Luka/_/FEEDBACK)** - isidore., MonochroMenace, & Megurine Luka<br/>
-> ∙ **[Drugs](https://www.last.fm/music/UPSAHL/_/Drugs)** - UPSAHL<br/>
-> ∙ **[Nightcore - You Don't Know (Lyrics)](https://www.last.fm/music/Chino/_/Nightcore+-+You+Don%27t+Know+(Lyrics))** - Chino<br/>
-> ∙ **[Super Psycho Love](https://www.last.fm/music/nihmune/_/Super+Psycho+Love)** - nihmune<br/>
-> ∙ **[Let Me Down Slowly](https://www.last.fm/music/Alec+Benjamin/_/Let+Me+Down+Slowly)** - Alec Benjamin<br/>
-> ∙ **[Vtuber Loser](https://www.last.fm/music/nihmune/_/Vtuber+Loser)** - nihmune<br/>
-> ∙ **[100% Crimson Solver](https://www.last.fm/music/NTE10AM/_/100%25+Crimson+Solver)** - NTE10AM<br/>
+> 🎶 **[エレン・ジョーcover](https://www.last.fm/music/%E3%83%A2%E3%82%A8%E3%83%81%E3%83%A3%E3%83%83%E3%82%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2/_/%E3%82%A8%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BCcover)** - モエチャッカファイア<br/>
+> ∙ **[エレン・ジョーcover](https://www.last.fm/music/%E3%83%A2%E3%82%A8%E3%83%81%E3%83%A3%E3%83%83%E3%82%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2/_/%E3%82%A8%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BCcover)** - モエチャッカファイア<br/>
+> ∙ **[Pop on Rocks: A Dr. Seuss Rap](https://www.last.fm/music/Amelia+Watson/_/Pop+on+Rocks:+A+Dr.+Seuss+Rap)** - Amelia Watson<br/>
+> ∙ **[Like You](https://www.last.fm/music/4Eve/_/Like+You)** - 4Eve<br/>
+> ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
+> ∙ **[CHRONIC](https://www.last.fm/music/Anya+Melfissa/_/CHRONIC)** - Anya Melfissa<br/>
+> ∙ **[DEMONDICE](https://www.last.fm/music/wanting,+getting,+wanting/_/DEMONDICE)** - wanting, getting, wanting<br/>
+> ∙ **[Sleepy Binch](https://www.last.fm/music/Little+Nii/_/Sleepy+Binch)** - Little Nii<br/>
+> ∙ **[Mom Friend](https://www.last.fm/music/Lizzie+Freeman,+KittenSneeze,+&+Amanda+Hufford/_/Mom+Friend)** - Lizzie Freeman, KittenSneeze, & Amanda Hufford<br/>
+> ∙ **[KILLSWITCH (ft. Kasane Teto)](https://www.last.fm/music/mekaloton/_/KILLSWITCH+(ft.+Kasane+Teto))** - mekaloton<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
