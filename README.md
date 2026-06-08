@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Sweat](https://www.last.fm/music/Mirakill/_/Sweat)** - Mirakill<br/>
-> ∙ **[Gamer Girl](https://www.last.fm/music/PiNKii/_/Gamer+Girl)** - PiNKii<br/>
-> ∙ **[OFPP](https://www.last.fm/music/Conscience/_/OFPP)** - Conscience<br/>
-> ∙ **[Diss Track Wars](https://www.last.fm/music/SixteenInMono+VS+Vtuber+Avengers/_/Diss+Track+Wars)** - SixteenInMono VS Vtuber Avengers<br/>
-> ∙ **[Michi Mochievee, Isaa Corva, SixteenInMono & Note Phantom Ver.](https://www.last.fm/music/shrimp+miku/_/Michi+Mochievee,+Isaa+Corva,+SixteenInMono+&+Note+Phantom+Ver.)** - shrimp miku<br/>
-> ∙ **[Bumpin’](https://www.last.fm/music/MC+Virgins,+Yun+Head,+&+Shotgun+Willy/_/Bumpin%E2%80%99)** - MC Virgins, Yun Head, & Shotgun Willy<br/>
-> ∙ **[NIGHTMARE!](https://www.last.fm/music/Slush+Puppy/_/NIGHTMARE!)** - Slush Puppy<br/>
-> ∙ **[end of a life](https://www.last.fm/music/Mori+Calliope/_/end+of+a+life)** - Mori Calliope<br/>
-> ∙ **[Little Girl Gone](https://www.last.fm/music/Chinchilla/_/Little+Girl+Gone)** - Chinchilla<br/>
-> ∙ **[Taste of Death](https://www.last.fm/music/Mori+Calliope/_/Taste+of+Death)** - Mori Calliope<br/>
+> 🎶 **[Hate Me](https://www.last.fm/music/Nico+Collins/_/Hate+Me)** - Nico Collins<br/>
+> ∙ **[Looking at Me](https://www.last.fm/music/Sabrina+Carpenter/_/Looking+at+Me)** - Sabrina Carpenter<br/>
+> ∙ **[Nobody](https://www.last.fm/music/nihmune/_/Nobody)** - nihmune<br/>
+> ∙ **[If We Have Each Other](https://www.last.fm/music/Alec+Benjamin/_/If+We+Have+Each+Other)** - Alec Benjamin<br/>
+> ∙ **[Angry Too](https://www.last.fm/music/Lola+Blanc/_/Angry+Too)** - Lola Blanc<br/>
+> ∙ **[Blame It On The Kids](https://www.last.fm/music/Aviva/_/Blame+It+On+The+Kids)** - Aviva<br/>
+> ∙ **[Hell of a Good Time (feat. Michi Mochievee)](https://www.last.fm/music/nihmune/_/Hell+of+a+Good+Time+(feat.+Michi+Mochievee))** - nihmune<br/>
+> ∙ **[Devil Doesn’t Bargain (Acoustic)](https://www.last.fm/music/Alec+Benjamin/_/Devil+Doesn%E2%80%99t+Bargain+(Acoustic))** - Alec Benjamin<br/>
+> ∙ **[Aaj Jane Ki Zid Na Karo (Coke Studio Season 8)](https://www.last.fm/music/Farida+Khanum/_/Aaj+Jane+Ki+Zid+Na+Karo+(Coke+Studio+Season+8))** - Farida Khanum<br/>
+> ∙ **[Aaj Jane Ki Zid Na Karo (Coke Studio Season 8)](https://www.last.fm/music/Farida+Khanum/_/Aaj+Jane+Ki+Zid+Na+Karo+(Coke+Studio+Season+8))** - Farida Khanum<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
