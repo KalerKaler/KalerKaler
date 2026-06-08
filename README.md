@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[エレン・ジョーcover](https://www.last.fm/music/%E3%83%A2%E3%82%A8%E3%83%81%E3%83%A3%E3%83%83%E3%82%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2/_/%E3%82%A8%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BCcover)** - モエチャッカファイア<br/>
-> ∙ **[エレン・ジョーcover](https://www.last.fm/music/%E3%83%A2%E3%82%A8%E3%83%81%E3%83%A3%E3%83%83%E3%82%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2/_/%E3%82%A8%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BCcover)** - モエチャッカファイア<br/>
-> ∙ **[Pop on Rocks: A Dr. Seuss Rap](https://www.last.fm/music/Amelia+Watson/_/Pop+on+Rocks:+A+Dr.+Seuss+Rap)** - Amelia Watson<br/>
-> ∙ **[Like You](https://www.last.fm/music/4Eve/_/Like+You)** - 4Eve<br/>
-> ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
-> ∙ **[CHRONIC](https://www.last.fm/music/Anya+Melfissa/_/CHRONIC)** - Anya Melfissa<br/>
-> ∙ **[DEMONDICE](https://www.last.fm/music/wanting,+getting,+wanting/_/DEMONDICE)** - wanting, getting, wanting<br/>
-> ∙ **[Sleepy Binch](https://www.last.fm/music/Little+Nii/_/Sleepy+Binch)** - Little Nii<br/>
-> ∙ **[Mom Friend](https://www.last.fm/music/Lizzie+Freeman,+KittenSneeze,+&+Amanda+Hufford/_/Mom+Friend)** - Lizzie Freeman, KittenSneeze, & Amanda Hufford<br/>
-> ∙ **[KILLSWITCH (ft. Kasane Teto)](https://www.last.fm/music/mekaloton/_/KILLSWITCH+(ft.+Kasane+Teto))** - mekaloton<br/>
+> 🎶 **[Sweat](https://www.last.fm/music/Mirakill/_/Sweat)** - Mirakill<br/>
+> ∙ **[Gamer Girl](https://www.last.fm/music/PiNKii/_/Gamer+Girl)** - PiNKii<br/>
+> ∙ **[OFPP](https://www.last.fm/music/Conscience/_/OFPP)** - Conscience<br/>
+> ∙ **[Diss Track Wars](https://www.last.fm/music/SixteenInMono+VS+Vtuber+Avengers/_/Diss+Track+Wars)** - SixteenInMono VS Vtuber Avengers<br/>
+> ∙ **[Michi Mochievee, Isaa Corva, SixteenInMono & Note Phantom Ver.](https://www.last.fm/music/shrimp+miku/_/Michi+Mochievee,+Isaa+Corva,+SixteenInMono+&+Note+Phantom+Ver.)** - shrimp miku<br/>
+> ∙ **[Bumpin’](https://www.last.fm/music/MC+Virgins,+Yun+Head,+&+Shotgun+Willy/_/Bumpin%E2%80%99)** - MC Virgins, Yun Head, & Shotgun Willy<br/>
+> ∙ **[NIGHTMARE!](https://www.last.fm/music/Slush+Puppy/_/NIGHTMARE!)** - Slush Puppy<br/>
+> ∙ **[end of a life](https://www.last.fm/music/Mori+Calliope/_/end+of+a+life)** - Mori Calliope<br/>
+> ∙ **[Little Girl Gone](https://www.last.fm/music/Chinchilla/_/Little+Girl+Gone)** - Chinchilla<br/>
+> ∙ **[Taste of Death](https://www.last.fm/music/Mori+Calliope/_/Taste+of+Death)** - Mori Calliope<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
