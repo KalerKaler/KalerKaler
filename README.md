@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Vtuber Loser](https://www.last.fm/music/nihmune/_/Vtuber+Loser)** - nihmune<br/>
+> 🎶 **[ANHELO](https://www.last.fm/music/Joni/_/ANHELO)** - Joni<br/>
+> ∙ **[INSOMNIA](https://www.last.fm/music/Roma/_/INSOMNIA)** - Roma<br/>
+> ∙ **[Ring my name](https://www.last.fm/music/Isaki+Riona/_/Ring+my+name)** - Isaki Riona<br/>
+> ∙ **[FEEDBACK](https://www.last.fm/music/isidore.,+MonochroMenace,+&+Megurine+Luka/_/FEEDBACK)** - isidore., MonochroMenace, & Megurine Luka<br/>
+> ∙ **[Drugs](https://www.last.fm/music/UPSAHL/_/Drugs)** - UPSAHL<br/>
+> ∙ **[Nightcore - You Don't Know (Lyrics)](https://www.last.fm/music/Chino/_/Nightcore+-+You+Don%27t+Know+(Lyrics))** - Chino<br/>
+> ∙ **[Super Psycho Love](https://www.last.fm/music/nihmune/_/Super+Psycho+Love)** - nihmune<br/>
+> ∙ **[Let Me Down Slowly](https://www.last.fm/music/Alec+Benjamin/_/Let+Me+Down+Slowly)** - Alec Benjamin<br/>
+> ∙ **[Vtuber Loser](https://www.last.fm/music/nihmune/_/Vtuber+Loser)** - nihmune<br/>
 > ∙ **[100% Crimson Solver](https://www.last.fm/music/NTE10AM/_/100%25+Crimson+Solver)** - NTE10AM<br/>
-> ∙ **[OYOME♡HOLIC](https://www.last.fm/music/Nerissa+Ravencroft/_/OYOME%E2%99%A1HOLIC)** - Nerissa Ravencroft<br/>
-> ∙ **[Android Girl (meta/morphose version)](https://www.last.fm/music/Rachie/_/Android+Girl+(meta%2Fmorphose+version))** - Rachie<br/>
-> ∙ **[Plants](https://www.last.fm/music/nihmune/_/Plants)** - nihmune<br/>
-> ∙ **[BOOM](https://www.last.fm/music/Evil+Neuro/_/BOOM)** - Evil Neuro<br/>
-> ∙ **[RENEGADE](https://www.last.fm/music/Elizabeth+Rose+Bloodflame,+Raora+Panthera,+Cecilia+Immergreen,+&+Gigi+Murin/_/RENEGADE)** - Elizabeth Rose Bloodflame, Raora Panthera, Cecilia Immergreen, & Gigi Murin<br/>
-> ∙ **[EVIL](https://www.last.fm/music/Camila/_/EVIL)** - Camila<br/>
-> ∙ **[Aren’t We All the Worst?](https://www.last.fm/music/Ironmouse,+Shirobeats,+HalaCG,+&+Kiwwi/_/Aren%E2%80%99t+We+All+the+Worst%3F)** - Ironmouse, Shirobeats, HalaCG, & Kiwwi<br/>
-> ∙ **[Girlfriend (Cover)](https://www.last.fm/music/Dokibird/_/Girlfriend+(Cover))** - Dokibird<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
