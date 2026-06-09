@@ -72,8 +72,8 @@
 > ∙ **[Blame It On The Kids](https://www.last.fm/music/Aviva/_/Blame+It+On+The+Kids)** - Aviva<br/>
 > ∙ **[Hell of a Good Time (feat. Michi Mochievee)](https://www.last.fm/music/nihmune/_/Hell+of+a+Good+Time+(feat.+Michi+Mochievee))** - nihmune<br/>
 > ∙ **[Devil Doesn’t Bargain (Acoustic)](https://www.last.fm/music/Alec+Benjamin/_/Devil+Doesn%E2%80%99t+Bargain+(Acoustic))** - Alec Benjamin<br/>
-> ∙ **[Aaj Jane Ki Zid Na Karo (Coke Studio Season 8)](https://www.last.fm/music/Farida+Khanum/_/Aaj+Jane+Ki+Zid+Na+Karo+(Coke+Studio+Season+8))** - Farida Khanum<br/>
-> ∙ **[Aaj Jane Ki Zid Na Karo (Coke Studio Season 8)](https://www.last.fm/music/Farida+Khanum/_/Aaj+Jane+Ki+Zid+Na+Karo+(Coke+Studio+Season+8))** - Farida Khanum<br/>
+> ∙ **[Sweat](https://www.last.fm/music/Mirakill/_/Sweat)** - Mirakill<br/>
+> ∙ **[Gamer Girl](https://www.last.fm/music/PiNKii/_/Gamer+Girl)** - PiNKii<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
