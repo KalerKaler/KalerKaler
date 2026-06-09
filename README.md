@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `89 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `91 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `61 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
-> `46 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
+> `47 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Enemies](https://www.last.fm/music/Post+Malone,+DaBaby/_/Enemies)** - Post Malone, DaBaby<br/>
+> 🎶 **[They Don't Want Music (Feat. James Brown)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/They+Don%27t+Want+Music+(Feat.+James+Brown))** - The Black Eyed Peas<br/>
+> ∙ **[starfucker](https://www.last.fm/music/XYL%C3%98/_/starfucker)** - XYLØ<br/>
+> ∙ **[So Much Better](https://www.last.fm/music/Eminem/_/So+Much+Better)** - Eminem<br/>
+> ∙ **[Remember the Name (feat. Styles of Beyond)](https://www.last.fm/music/Fort+Minor/_/Remember+the+Name+(feat.+Styles+of+Beyond))** - Fort Minor<br/>
+> ∙ **[The Search](https://www.last.fm/music/NF/_/The+Search)** - NF<br/>
+> ∙ **[RAORA PANTHERA - CAPPUCCINO DREAM (FEAT. BAELZ HAKOS)](https://www.last.fm/music/midijunki/_/RAORA+PANTHERA+-+CAPPUCCINO+DREAM+(FEAT.+BAELZ+HAKOS))** - midijunki<br/>
+> ∙ **[Drug Ballad](https://www.last.fm/music/Eminem/_/Drug+Ballad)** - Eminem<br/>
+> ∙ **[Enemies](https://www.last.fm/music/Post+Malone,+DaBaby/_/Enemies)** - Post Malone, DaBaby<br/>
 > ∙ **[Deep Note (THX Dolby Atmos Tribute)](https://www.last.fm/music/Dolby+Atmos+Audio+Test/_/Deep+Note+(THX+Dolby+Atmos+Tribute))** - Dolby Atmos Audio Test<br/>
 > ∙ **[DEAD BEATS](https://www.last.fm/music/Mori+Calliope/_/DEAD+BEATS)** - Mori Calliope<br/>
-> ∙ **[antidepressants](https://www.last.fm/music/bbno$/_/antidepressants)** - bbno$<br/>
-> ∙ **[MONO TONE DISS ( Michi & Lesage VS Sixteeninmono )](https://www.last.fm/music/Lesage+Singing/_/MONO+TONE+DISS+(+Michi+&+Lesage+VS+Sixteeninmono+))** - Lesage Singing<br/>
-> ∙ **[track A phantom oshi-war](https://www.last.fm/music/Michi+Mochievee%27s+reaction+to+Sixteeninmono%27s+diss/_/track+A+phantom+oshi-war)** - Michi Mochievee's reaction to Sixteeninmono's diss<br/>
-> ∙ **[Diss Track Wars](https://www.last.fm/music/SixteenInMono+VS+Vtuber+Avengers/_/Diss+Track+Wars)** - SixteenInMono VS Vtuber Avengers<br/>
-> ∙ **[Hate Me](https://www.last.fm/music/Nico+Collins/_/Hate+Me)** - Nico Collins<br/>
-> ∙ **[Looking at Me](https://www.last.fm/music/Sabrina+Carpenter/_/Looking+at+Me)** - Sabrina Carpenter<br/>
-> ∙ **[Nobody](https://www.last.fm/music/nihmune/_/Nobody)** - nihmune<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
