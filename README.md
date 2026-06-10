@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[They Don't Want Music (Feat. James Brown)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/They+Don%27t+Want+Music+(Feat.+James+Brown))** - The Black Eyed Peas<br/>
+> 🎶 **[Pump It](https://www.last.fm/music/Black+Eyed+Peas/_/Pump+It)** - Black Eyed Peas<br/>
+> ∙ **[K on my D+C](https://www.last.fm/music/Levia+&+Kasane+Teto/_/K+on+my+D%252BC)** - Levia & Kasane Teto<br/>
+> ∙ **[They Don't Want Music (Feat. James Brown)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/They+Don%27t+Want+Music+(Feat.+James+Brown))** - The Black Eyed Peas<br/>
 > ∙ **[starfucker](https://www.last.fm/music/XYL%C3%98/_/starfucker)** - XYLØ<br/>
 > ∙ **[So Much Better](https://www.last.fm/music/Eminem/_/So+Much+Better)** - Eminem<br/>
 > ∙ **[Remember the Name (feat. Styles of Beyond)](https://www.last.fm/music/Fort+Minor/_/Remember+the+Name+(feat.+Styles+of+Beyond))** - Fort Minor<br/>
@@ -72,8 +74,6 @@
 > ∙ **[RAORA PANTHERA - CAPPUCCINO DREAM (FEAT. BAELZ HAKOS)](https://www.last.fm/music/midijunki/_/RAORA+PANTHERA+-+CAPPUCCINO+DREAM+(FEAT.+BAELZ+HAKOS))** - midijunki<br/>
 > ∙ **[Drug Ballad](https://www.last.fm/music/Eminem/_/Drug+Ballad)** - Eminem<br/>
 > ∙ **[Enemies](https://www.last.fm/music/Post+Malone,+DaBaby/_/Enemies)** - Post Malone, DaBaby<br/>
-> ∙ **[Deep Note (THX Dolby Atmos Tribute)](https://www.last.fm/music/Dolby+Atmos+Audio+Test/_/Deep+Note+(THX+Dolby+Atmos+Tribute))** - Dolby Atmos Audio Test<br/>
-> ∙ **[DEAD BEATS](https://www.last.fm/music/Mori+Calliope/_/DEAD+BEATS)** - Mori Calliope<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
