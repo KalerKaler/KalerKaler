@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `91 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `92 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `61 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Pump It](https://www.last.fm/music/Black+Eyed+Peas/_/Pump+It)** - Black Eyed Peas<br/>
+> 🎶 **[Kill You](https://www.last.fm/music/Eminem/_/Kill+You)** - Eminem<br/>
+> ∙ **[My Humps](https://www.last.fm/music/Black+Eyed+Peas/_/My+Humps)** - Black Eyed Peas<br/>
+> ∙ **[Don't Lie](https://www.last.fm/music/Black+Eyed+Peas/_/Don%27t+Lie)** - Black Eyed Peas<br/>
+> ∙ **[My Style](https://www.last.fm/music/Black+Eyed+Peas/_/My+Style)** - Black Eyed Peas<br/>
+> ∙ **[Don't Phunk with My Heart](https://www.last.fm/music/Black+Eyed+Peas/_/Don%27t+Phunk+with+My+Heart)** - Black Eyed Peas<br/>
+> ∙ **[Pump It](https://www.last.fm/music/Black+Eyed+Peas/_/Pump+It)** - Black Eyed Peas<br/>
 > ∙ **[K on my D+C](https://www.last.fm/music/Levia+&+Kasane+Teto/_/K+on+my+D%252BC)** - Levia & Kasane Teto<br/>
 > ∙ **[They Don't Want Music (Feat. James Brown)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/They+Don%27t+Want+Music+(Feat.+James+Brown))** - The Black Eyed Peas<br/>
 > ∙ **[starfucker](https://www.last.fm/music/XYL%C3%98/_/starfucker)** - XYLØ<br/>
 > ∙ **[So Much Better](https://www.last.fm/music/Eminem/_/So+Much+Better)** - Eminem<br/>
-> ∙ **[Remember the Name (feat. Styles of Beyond)](https://www.last.fm/music/Fort+Minor/_/Remember+the+Name+(feat.+Styles+of+Beyond))** - Fort Minor<br/>
-> ∙ **[The Search](https://www.last.fm/music/NF/_/The+Search)** - NF<br/>
-> ∙ **[RAORA PANTHERA - CAPPUCCINO DREAM (FEAT. BAELZ HAKOS)](https://www.last.fm/music/midijunki/_/RAORA+PANTHERA+-+CAPPUCCINO+DREAM+(FEAT.+BAELZ+HAKOS))** - midijunki<br/>
-> ∙ **[Drug Ballad](https://www.last.fm/music/Eminem/_/Drug+Ballad)** - Eminem<br/>
-> ∙ **[Enemies](https://www.last.fm/music/Post+Malone,+DaBaby/_/Enemies)** - Post Malone, DaBaby<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
