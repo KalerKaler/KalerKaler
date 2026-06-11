@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Advent-】](https://www.last.fm/music/Team+Tomodachi+%E3%80%90hololive+English/_/Advent-%E3%80%91)** - Team Tomodachi 【hololive English<br/>
-> ∙ **[Rin Penrose](https://www.last.fm/music/Cold+Open/_/Rin+Penrose)** - Cold Open<br/>
-> ∙ **[Kasane Teto](https://www.last.fm/music/Doll/_/Kasane+Teto)** - Doll<br/>
-> ∙ **[LEFT RIGHT](https://www.last.fm/music/Swoodeasu,+Ironmouse,+Noguchii,+shirobeats,+&+Kiwwi/_/LEFT+RIGHT)** - Swoodeasu, Ironmouse, Noguchii, shirobeats, & Kiwwi<br/>
-> ∙ **[Tobey](https://www.last.fm/music/Eminem,+Big+Sean,+&+BabyTron/_/Tobey)** - Eminem, Big Sean, & BabyTron<br/>
-> ∙ **[Addict](https://www.last.fm/music/DAEGHO+&+Pinkii/_/Addict)** - DAEGHO & Pinkii<br/>
-> ∙ **[lil’ Freak](https://www.last.fm/music/bbno$/_/lil%E2%80%99+Freak)** - bbno$<br/>
-> ∙ **[Die For You](https://www.last.fm/music/Mori+Calliope/_/Die+For+You)** - Mori Calliope<br/>
-> ∙ **[Nyanners ft. Vei](https://www.last.fm/music/B!Tch/_/Nyanners+ft.+Vei)** - B!Tch<br/>
-> ∙ **[Ado](https://www.last.fm/music/MAGIC+(Hela+Mid+English+Cover)/_/Ado)** - MAGIC (Hela Mid English Cover)<br/>
+> 🎶 **[Dokibird](https://www.last.fm/music/Girlfriend/_/Dokibird)** - Girlfriend<br/>
+> ∙ **[Mad at Her Forever](https://www.last.fm/music/Molly+Grace/_/Mad+at+Her+Forever)** - Molly Grace<br/>
+> ∙ **[Lemme](https://www.last.fm/music/Molly+Grace/_/Lemme)** - Molly Grace<br/>
+> ∙ **[You Make Me Sick](https://www.last.fm/music/bitbreaker/_/You+Make+Me+Sick)** - bitbreaker<br/>
+> ∙ **[God Only Knows](https://www.last.fm/music/bitbreaker/_/God+Only+Knows)** - bitbreaker<br/>
+> ∙ **[Take the Bait](https://www.last.fm/music/DEMONDICE/_/Take+the+Bait)** - DEMONDICE<br/>
+> ∙ **[「Cover」Scatterbrain](https://www.last.fm/music/Akuma+Nihmune+Ch/_/%E3%80%8CCover%E3%80%8DScatterbrain)** - Akuma Nihmune Ch<br/>
+> ∙ **[YOU LOSE MESSY (A Hazbin Hotel Song)](https://www.last.fm/music/One+Project/_/YOU+LOSE+MESSY+(A+Hazbin+Hotel+Song))** - One Project<br/>
+> ∙ **[4*TOWN (Cover)](https://www.last.fm/music/Nobody+Like+U/_/4*TOWN+(Cover))** - Nobody Like U<br/>
+> ∙ **[TAKE !T OFF](https://www.last.fm/music/DAEGHO/_/TAKE+!T+OFF)** - DAEGHO<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
