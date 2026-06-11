@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `93 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `94 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `61 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Tokidoki Dokidoki](https://www.last.fm/music/Yuri/_/Tokidoki+Dokidoki)** - Yuri<br/>
-> ∙ **[CartoonGirl](https://www.last.fm/music/Kanaria/_/CartoonGirl)** - Kanaria<br/>
-> ∙ **[Teto the 31st](https://www.last.fm/music/Hallo+Cel/_/Teto+the+31st)** - Hallo Cel<br/>
-> ∙ **[It's crazy! ver.2025](https://www.last.fm/music/OwataP/_/It%27s+crazy!+ver.2025)** - OwataP<br/>
-> ∙ **[ういこうせん](https://www.last.fm/music/Ui+Shigure/_/%E3%81%86%E3%81%84%E3%81%93%E3%81%86%E3%81%9B%E3%82%93)** - Ui Shigure<br/>
-> ∙ **[BRAIN](https://www.last.fm/music/Kanaria/_/BRAIN)** - Kanaria<br/>
-> ∙ **[I DO](https://www.last.fm/music/NIJUUGO*A/_/I+DO)** - NIJUUGO*A<br/>
-> ∙ **[崩壊：スターレイル 3周年テーマソング](https://www.last.fm/music/Side+Quest+King+(KISAI+remix)+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF/_/%E5%B4%A9%E5%A3%8A%EF%BC%9A%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AC%E3%82%A4%E3%83%AB+3%E5%91%A8%E5%B9%B4%E3%83%86%E3%83%BC%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B0)** - Side Quest King (KISAI remix) feat. 初音ミク<br/>
-> ∙ **[AiAiA](https://www.last.fm/music/Ado/_/AiAiA)** - Ado<br/>
-> ∙ **[A Horny Money World 〜legendary night〜](https://www.last.fm/music/Houshou+Marine/_/A+Horny+Money+World+%E3%80%9Clegendary+night%E3%80%9C)** - Houshou Marine<br/>
+> 🎶 **[Advent-】](https://www.last.fm/music/Team+Tomodachi+%E3%80%90hololive+English/_/Advent-%E3%80%91)** - Team Tomodachi 【hololive English<br/>
+> ∙ **[Rin Penrose](https://www.last.fm/music/Cold+Open/_/Rin+Penrose)** - Cold Open<br/>
+> ∙ **[Kasane Teto](https://www.last.fm/music/Doll/_/Kasane+Teto)** - Doll<br/>
+> ∙ **[LEFT RIGHT](https://www.last.fm/music/Swoodeasu,+Ironmouse,+Noguchii,+shirobeats,+&+Kiwwi/_/LEFT+RIGHT)** - Swoodeasu, Ironmouse, Noguchii, shirobeats, & Kiwwi<br/>
+> ∙ **[Tobey](https://www.last.fm/music/Eminem,+Big+Sean,+&+BabyTron/_/Tobey)** - Eminem, Big Sean, & BabyTron<br/>
+> ∙ **[Addict](https://www.last.fm/music/DAEGHO+&+Pinkii/_/Addict)** - DAEGHO & Pinkii<br/>
+> ∙ **[lil’ Freak](https://www.last.fm/music/bbno$/_/lil%E2%80%99+Freak)** - bbno$<br/>
+> ∙ **[Die For You](https://www.last.fm/music/Mori+Calliope/_/Die+For+You)** - Mori Calliope<br/>
+> ∙ **[Nyanners ft. Vei](https://www.last.fm/music/B!Tch/_/Nyanners+ft.+Vei)** - B!Tch<br/>
+> ∙ **[Ado](https://www.last.fm/music/MAGIC+(Hela+Mid+English+Cover)/_/Ado)** - MAGIC (Hela Mid English Cover)<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
