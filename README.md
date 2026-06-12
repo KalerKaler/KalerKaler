@@ -54,7 +54,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `95 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `61 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `62 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Bitch Please II (feat. Dr. Dre, Snoop Dogg, Xzibit & Nate Dogg)](https://www.last.fm/music/Eminem/_/Bitch+Please+II+(feat.+Dr.+Dre,+Snoop+Dogg,+Xzibit+&+Nate+Dogg))** - Eminem<br/>
-> ∙ **[Fallin' Up](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Fallin%27+Up)** - The Black Eyed Peas<br/>
-> ∙ **[Time to Feast - Ironmouse](https://www.last.fm/music/Ironmouse/_/Time+to+Feast+-+Ironmouse)** - Ironmouse<br/>
-> ∙ **[Keep Your Friends Close / EPIC: The Musical / Animatic](https://www.last.fm/music/Ximena+Natzel/_/Keep+Your+Friends+Close+%2F+EPIC:+The+Musical+%2F+Animatic)** - Ximena Natzel<br/>
-> ∙ **[Dokibird](https://www.last.fm/music/Girlfriend/_/Dokibird)** - Girlfriend<br/>
-> ∙ **[Mad at Her Forever](https://www.last.fm/music/Molly+Grace/_/Mad+at+Her+Forever)** - Molly Grace<br/>
-> ∙ **[Lemme](https://www.last.fm/music/Molly+Grace/_/Lemme)** - Molly Grace<br/>
-> ∙ **[You Make Me Sick](https://www.last.fm/music/bitbreaker/_/You+Make+Me+Sick)** - bitbreaker<br/>
-> ∙ **[God Only Knows](https://www.last.fm/music/bitbreaker/_/God+Only+Knows)** - bitbreaker<br/>
-> ∙ **[Take the Bait](https://www.last.fm/music/DEMONDICE/_/Take+the+Bait)** - DEMONDICE<br/>
+> 🎶 **[Orpheus](https://www.last.fm/music/Mori+Calliope/_/Orpheus)** - Mori Calliope<br/>
+> ∙ **[oki doki boomer](https://www.last.fm/music/senzawa/_/oki+doki+boomer)** - senzawa<br/>
+> ∙ **[Say So](https://www.last.fm/music/SEISO+%E3%80%8EDoja+Cat/_/Say+So)** - SEISO 『Doja Cat<br/>
+> ∙ **[Gigi Murin](https://www.last.fm/music/I%27ll+still+be+here/_/Gigi+Murin)** - I'll still be here<br/>
+> ∙ **[Q](https://www.last.fm/music/Gawr+Gura+&+Mori+Calliope/_/Q)** - Gawr Gura & Mori Calliope<br/>
+> ∙ **[Telephone (Cover) ft @isaacorva](https://www.last.fm/music/cottontailVA/_/Telephone+(Cover)+ft+@isaacorva)** - cottontailVA<br/>
+> ∙ **[Do it all again (Official Visualizer)](https://www.last.fm/music/Mico/_/Do+it+all+again+(Official+Visualizer))** - Mico<br/>
+> ∙ **[Unholy](https://www.last.fm/music/Sleeping+Forest+&+Lollia/_/Unholy)** - Sleeping Forest & Lollia<br/>
+> ∙ **[Fiction](https://www.last.fm/music/Non/_/Fiction)** - Non<br/>
+> ∙ **[Sama](https://www.last.fm/music/Bao+x+Neuro/_/Sama)** - Bao x Neuro<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
