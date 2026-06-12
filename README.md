@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `94 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `95 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `61 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
-> `47 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
+> `48 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Dokibird](https://www.last.fm/music/Girlfriend/_/Dokibird)** - Girlfriend<br/>
+> 🎶 **[Bitch Please II (feat. Dr. Dre, Snoop Dogg, Xzibit & Nate Dogg)](https://www.last.fm/music/Eminem/_/Bitch+Please+II+(feat.+Dr.+Dre,+Snoop+Dogg,+Xzibit+&+Nate+Dogg))** - Eminem<br/>
+> ∙ **[Fallin' Up](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Fallin%27+Up)** - The Black Eyed Peas<br/>
+> ∙ **[Time to Feast - Ironmouse](https://www.last.fm/music/Ironmouse/_/Time+to+Feast+-+Ironmouse)** - Ironmouse<br/>
+> ∙ **[Keep Your Friends Close / EPIC: The Musical / Animatic](https://www.last.fm/music/Ximena+Natzel/_/Keep+Your+Friends+Close+%2F+EPIC:+The+Musical+%2F+Animatic)** - Ximena Natzel<br/>
+> ∙ **[Dokibird](https://www.last.fm/music/Girlfriend/_/Dokibird)** - Girlfriend<br/>
 > ∙ **[Mad at Her Forever](https://www.last.fm/music/Molly+Grace/_/Mad+at+Her+Forever)** - Molly Grace<br/>
 > ∙ **[Lemme](https://www.last.fm/music/Molly+Grace/_/Lemme)** - Molly Grace<br/>
 > ∙ **[You Make Me Sick](https://www.last.fm/music/bitbreaker/_/You+Make+Me+Sick)** - bitbreaker<br/>
 > ∙ **[God Only Knows](https://www.last.fm/music/bitbreaker/_/God+Only+Knows)** - bitbreaker<br/>
 > ∙ **[Take the Bait](https://www.last.fm/music/DEMONDICE/_/Take+the+Bait)** - DEMONDICE<br/>
-> ∙ **[「Cover」Scatterbrain](https://www.last.fm/music/Akuma+Nihmune+Ch/_/%E3%80%8CCover%E3%80%8DScatterbrain)** - Akuma Nihmune Ch<br/>
-> ∙ **[YOU LOSE MESSY (A Hazbin Hotel Song)](https://www.last.fm/music/One+Project/_/YOU+LOSE+MESSY+(A+Hazbin+Hotel+Song))** - One Project<br/>
-> ∙ **[4*TOWN (Cover)](https://www.last.fm/music/Nobody+Like+U/_/4*TOWN+(Cover))** - Nobody Like U<br/>
-> ∙ **[TAKE !T OFF](https://www.last.fm/music/DAEGHO/_/TAKE+!T+OFF)** - DAEGHO<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
