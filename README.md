@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `95 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `98 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `62 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Orpheus](https://www.last.fm/music/Mori+Calliope/_/Orpheus)** - Mori Calliope<br/>
-> ∙ **[oki doki boomer](https://www.last.fm/music/senzawa/_/oki+doki+boomer)** - senzawa<br/>
-> ∙ **[Say So](https://www.last.fm/music/SEISO+%E3%80%8EDoja+Cat/_/Say+So)** - SEISO 『Doja Cat<br/>
-> ∙ **[Gigi Murin](https://www.last.fm/music/I%27ll+still+be+here/_/Gigi+Murin)** - I'll still be here<br/>
-> ∙ **[Q](https://www.last.fm/music/Gawr+Gura+&+Mori+Calliope/_/Q)** - Gawr Gura & Mori Calliope<br/>
-> ∙ **[Telephone (Cover) ft @isaacorva](https://www.last.fm/music/cottontailVA/_/Telephone+(Cover)+ft+@isaacorva)** - cottontailVA<br/>
-> ∙ **[Do it all again (Official Visualizer)](https://www.last.fm/music/Mico/_/Do+it+all+again+(Official+Visualizer))** - Mico<br/>
-> ∙ **[Unholy](https://www.last.fm/music/Sleeping+Forest+&+Lollia/_/Unholy)** - Sleeping Forest & Lollia<br/>
-> ∙ **[Fiction](https://www.last.fm/music/Non/_/Fiction)** - Non<br/>
-> ∙ **[Sama](https://www.last.fm/music/Bao+x+Neuro/_/Sama)** - Bao x Neuro<br/>
+> 🎶 **[MILLION DOLLAR BABY](https://www.last.fm/music/Tommy+Richman/_/MILLION+DOLLAR+BABY)** - Tommy Richman<br/>
+> ∙ **[Up](https://www.last.fm/music/Cardi+B/_/Up)** - Cardi B<br/>
+> ∙ **[The Conspiracy Freestyle](https://www.last.fm/music/Eminem/_/The+Conspiracy+Freestyle)** - Eminem<br/>
+> ∙ **[7 rings](https://www.last.fm/music/Ariana+Grande/_/7+rings)** - Ariana Grande<br/>
+> ∙ **[Im Sorry Mom](https://www.last.fm/music/Marino/_/Im+Sorry+Mom)** - Marino<br/>
+> ∙ **[girls like me don't cry](https://www.last.fm/music/Thuy/_/girls+like+me+don%27t+cry)** - Thuy<br/>
+> ∙ **[Jimmy, Brian and Mike](https://www.last.fm/music/Eminem/_/Jimmy,+Brian+and+Mike)** - Eminem<br/>
+> ∙ **[Build A Bitch](https://www.last.fm/music/Bella+Poarch/_/Build+A+Bitch)** - Bella Poarch<br/>
+> ∙ **[Sad Girlz Luv Money (Remix)](https://www.last.fm/music/Amaarae/_/Sad+Girlz+Luv+Money+(Remix))** - Amaarae<br/>
+> ∙ **[Nyans not hot!](https://www.last.fm/music/Nyanners/_/Nyans+not+hot!)** - Nyanners<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
