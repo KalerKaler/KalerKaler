@@ -54,8 +54,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `98 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `62 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `52 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `63 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `53 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
 > `48 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[MILLION DOLLAR BABY](https://www.last.fm/music/Tommy+Richman/_/MILLION+DOLLAR+BABY)** - Tommy Richman<br/>
+> 🎶 **[Red](https://www.last.fm/music/Mori+Calliope/_/Red)** - Mori Calliope<br/>
+> ∙ **[Strangers](https://www.last.fm/music/Isaa+Corva/_/Strangers)** - Isaa Corva<br/>
+> ∙ **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
+> ∙ **[Overclocked (feat. Kasane Teto)](https://www.last.fm/music/DryftiN/_/Overclocked+(feat.+Kasane+Teto))** - DryftiN<br/>
+> ∙ **[MILLION DOLLAR BABY](https://www.last.fm/music/Tommy+Richman/_/MILLION+DOLLAR+BABY)** - Tommy Richman<br/>
 > ∙ **[Up](https://www.last.fm/music/Cardi+B/_/Up)** - Cardi B<br/>
 > ∙ **[The Conspiracy Freestyle](https://www.last.fm/music/Eminem/_/The+Conspiracy+Freestyle)** - Eminem<br/>
 > ∙ **[7 rings](https://www.last.fm/music/Ariana+Grande/_/7+rings)** - Ariana Grande<br/>
 > ∙ **[Im Sorry Mom](https://www.last.fm/music/Marino/_/Im+Sorry+Mom)** - Marino<br/>
 > ∙ **[girls like me don't cry](https://www.last.fm/music/Thuy/_/girls+like+me+don%27t+cry)** - Thuy<br/>
-> ∙ **[Jimmy, Brian and Mike](https://www.last.fm/music/Eminem/_/Jimmy,+Brian+and+Mike)** - Eminem<br/>
-> ∙ **[Build A Bitch](https://www.last.fm/music/Bella+Poarch/_/Build+A+Bitch)** - Bella Poarch<br/>
-> ∙ **[Sad Girlz Luv Money (Remix)](https://www.last.fm/music/Amaarae/_/Sad+Girlz+Luv+Money+(Remix))** - Amaarae<br/>
-> ∙ **[Nyans not hot!](https://www.last.fm/music/Nyanners/_/Nyans+not+hot!)** - Nyanners<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
