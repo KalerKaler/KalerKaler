@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Goodbye Sengen (Lone Alpha Remix) (feat. Oribe) [Music Video]](https://www.last.fm/music/Miori,+Lone+Alpha/_/Goodbye+Sengen+(Lone+Alpha+Remix)+(feat.+Oribe)+%5BMusic+Video%5D)** - Miori, Lone Alpha<br/>
+> 🎶 **[CINDERELLA (Giga First Night Remix) SONG COVER by Takanashi Kiara](https://www.last.fm/music/Takanashi+Kiara/_/CINDERELLA+(Giga+First+Night+Remix)+SONG+COVER+by+Takanashi+Kiara)** - Takanashi Kiara<br/>
+> ∙ **[Holy Shitto](https://www.last.fm/music/Mori+Calliope/_/Holy+Shitto)** - Mori Calliope<br/>
+> ∙ **[Måneskin](https://www.last.fm/music/I+Wanna+Be+Your+Slave/_/M%C3%A5neskin)** - I Wanna Be Your Slave<br/>
 > ∙ **[Your Idol (feat. Mori Calliope, Ouro Kronii & FUWAMOCO)](https://www.last.fm/music/Nerissa+Ravencroft/_/Your+Idol+(feat.+Mori+Calliope,+Ouro+Kronii+&+FUWAMOCO))** - Nerissa Ravencroft<br/>
 > ∙ **[Cadmium Colors](https://www.last.fm/music/Jamie+Paige/_/Cadmium+Colors)** - Jamie Paige<br/>
 > ∙ **[er-NATIVE!!](https://www.last.fm/music/ALT/_/er-NATIVE!!)** - ALT<br/>
@@ -72,8 +74,6 @@
 > ∙ **[Better Luck Next Time](https://www.last.fm/music/Alohaii/_/Better+Luck+Next+Time)** - Alohaii<br/>
 > ∙ **[Sleep Talking](https://www.last.fm/music/Takanashi+Kiara/_/Sleep+Talking)** - Takanashi Kiara<br/>
 > ∙ **[Spoken For](https://www.last.fm/music/Flavor+Foley/_/Spoken+For)** - Flavor Foley<br/>
-> ∙ **[Envy Baby](https://www.last.fm/music/Mori+Calliope/_/Envy+Baby)** - Mori Calliope<br/>
-> ∙ **[Gravity](https://www.last.fm/music/IRyS/_/Gravity)** - IRyS<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
