@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `98 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `99 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `63 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `53 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[DIAMOND GIRLFRIEND](https://www.last.fm/music/IRyS/_/DIAMOND+GIRLFRIEND)** - IRyS<br/>
+> 🎶 **[Bloom](https://www.last.fm/music/Emei/_/Bloom)** - Emei<br/>
+> ∙ **[Say My Name](https://www.last.fm/music/Nerissa+Ravencroft/_/Say+My+Name)** - Nerissa Ravencroft<br/>
+> ∙ **[Say My Name](https://www.last.fm/music/Nerissa+Ravencroft/_/Say+My+Name)** - Nerissa Ravencroft<br/>
+> ∙ **[DEMONDICE](https://www.last.fm/music/Sick+Outta+Fashion/_/DEMONDICE)** - Sick Outta Fashion<br/>
+> ∙ **[River](https://www.last.fm/music/Eminem/_/River)** - Eminem<br/>
+> ∙ **[Heathens](https://www.last.fm/music/Twenty+One+Pilots/_/Heathens)** - Twenty One Pilots<br/>
+> ∙ **[She Wolf (feat. nihmune)](https://www.last.fm/music/Bao+The+Whale/_/She+Wolf+(feat.+nihmune))** - Bao The Whale<br/>
+> ∙ **[DIAMOND GIRLFRIEND](https://www.last.fm/music/IRyS/_/DIAMOND+GIRLFRIEND)** - IRyS<br/>
 > ∙ **[Make ’Em Afraid](https://www.last.fm/music/Mori+Calliope/_/Make+%E2%80%99Em+Afraid)** - Mori Calliope<br/>
 > ∙ **[The Vampire](https://www.last.fm/music/Nerissa+Ravencroft/_/The+Vampire)** - Nerissa Ravencroft<br/>
-> ∙ **[Identities](https://www.last.fm/music/WUNDER+RiKU+&+HalaCG/_/Identities)** - WUNDER RiKU & HalaCG<br/>
-> ∙ **[Sedai No SCREAM](https://www.last.fm/music/DEMONDICE/_/Sedai+No+SCREAM)** - DEMONDICE<br/>
-> ∙ **[CINDERELLA (Giga First Night Remix) SONG COVER by Takanashi Kiara](https://www.last.fm/music/Takanashi+Kiara/_/CINDERELLA+(Giga+First+Night+Remix)+SONG+COVER+by+Takanashi+Kiara)** - Takanashi Kiara<br/>
-> ∙ **[Holy Shitto](https://www.last.fm/music/Mori+Calliope/_/Holy+Shitto)** - Mori Calliope<br/>
-> ∙ **[Måneskin](https://www.last.fm/music/I+Wanna+Be+Your+Slave/_/M%C3%A5neskin)** - I Wanna Be Your Slave<br/>
-> ∙ **[Your Idol (feat. Mori Calliope, Ouro Kronii & FUWAMOCO)](https://www.last.fm/music/Nerissa+Ravencroft/_/Your+Idol+(feat.+Mori+Calliope,+Ouro+Kronii+&+FUWAMOCO))** - Nerissa Ravencroft<br/>
-> ∙ **[Cadmium Colors](https://www.last.fm/music/Jamie+Paige/_/Cadmium+Colors)** - Jamie Paige<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
