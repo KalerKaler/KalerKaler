@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Bloom](https://www.last.fm/music/Emei/_/Bloom)** - Emei<br/>
+> 🎶 **[numb numb (feat. Hatsune Miku & Kasane Teto)](https://www.last.fm/music/Tak/_/numb+numb+(feat.+Hatsune+Miku+&+Kasane+Teto))** - Tak<br/>
+> ∙ **[numb numb (feat. Hatsune Miku & Kasane Teto)](https://www.last.fm/music/Tak/_/numb+numb+(feat.+Hatsune+Miku+&+Kasane+Teto))** - Tak<br/>
+> ∙ **[Bloom](https://www.last.fm/music/Emei/_/Bloom)** - Emei<br/>
 > ∙ **[Say My Name](https://www.last.fm/music/Nerissa+Ravencroft/_/Say+My+Name)** - Nerissa Ravencroft<br/>
 > ∙ **[Say My Name](https://www.last.fm/music/Nerissa+Ravencroft/_/Say+My+Name)** - Nerissa Ravencroft<br/>
 > ∙ **[DEMONDICE](https://www.last.fm/music/Sick+Outta+Fashion/_/DEMONDICE)** - Sick Outta Fashion<br/>
@@ -72,8 +74,6 @@
 > ∙ **[Heathens](https://www.last.fm/music/Twenty+One+Pilots/_/Heathens)** - Twenty One Pilots<br/>
 > ∙ **[She Wolf (feat. nihmune)](https://www.last.fm/music/Bao+The+Whale/_/She+Wolf+(feat.+nihmune))** - Bao The Whale<br/>
 > ∙ **[DIAMOND GIRLFRIEND](https://www.last.fm/music/IRyS/_/DIAMOND+GIRLFRIEND)** - IRyS<br/>
-> ∙ **[Make ’Em Afraid](https://www.last.fm/music/Mori+Calliope/_/Make+%E2%80%99Em+Afraid)** - Mori Calliope<br/>
-> ∙ **[The Vampire](https://www.last.fm/music/Nerissa+Ravencroft/_/The+Vampire)** - Nerissa Ravencroft<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
