@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[hot topic](https://www.last.fm/music/bbno$/_/hot+topic)** - bbno$<br/>
+> 🎶 **[Killing Me](https://www.last.fm/music/nihmune/_/Killing+Me)** - nihmune<br/>
+> ∙ **[Overthinking Overloaded](https://www.last.fm/music/nihmune/_/Overthinking+Overloaded)** - nihmune<br/>
+> ∙ **[Theatrics](https://www.last.fm/music/nihmune/_/Theatrics)** - nihmune<br/>
+> ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
+> ∙ **[Melancholy](https://www.last.fm/music/nihmune/_/Melancholy)** - nihmune<br/>
+> ∙ **[Wanna Love](https://www.last.fm/music/nihmune/_/Wanna+Love)** - nihmune<br/>
+> ∙ **[Kiss Me Thru The Phone](https://www.last.fm/music/nihmune/_/Kiss+Me+Thru+The+Phone)** - nihmune<br/>
+> ∙ **[Espresso](https://www.last.fm/music/Nerissa+Ravencroft/_/Espresso)** - Nerissa Ravencroft<br/>
 > ∙ **[hot topic](https://www.last.fm/music/bbno$/_/hot+topic)** - bbno$<br/>
 > ∙ **[Entertaining](https://www.last.fm/music/Halacg/_/Entertaining)** - Halacg<br/>
-> ∙ **[Greedy](https://www.last.fm/music/Isaa+Corva+&+hope+jss/_/Greedy)** - Isaa Corva & hope jss<br/>
-> ∙ **[CRINGECORE](https://www.last.fm/music/Mori+Calliope/_/CRINGECORE)** - Mori Calliope<br/>
-> ∙ **[Houdini](https://www.last.fm/music/Eminem/_/Houdini)** - Eminem<br/>
-> ∙ **[Good Knight](https://www.last.fm/music/XTINA+GG/_/Good+Knight)** - XTINA GG<br/>
-> ∙ **[Shy Guy](https://www.last.fm/music/XTINA+GG/_/Shy+Guy)** - XTINA GG<br/>
-> ∙ **[numb numb (feat. Hatsune Miku & Kasane Teto)](https://www.last.fm/music/Tak/_/numb+numb+(feat.+Hatsune+Miku+&+Kasane+Teto))** - Tak<br/>
-> ∙ **[numb numb (feat. Hatsune Miku & Kasane Teto)](https://www.last.fm/music/Tak/_/numb+numb+(feat.+Hatsune+Miku+&+Kasane+Teto))** - Tak<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
