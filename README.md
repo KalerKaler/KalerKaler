@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `99 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `100 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `63 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `53 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[numb numb (feat. Hatsune Miku & Kasane Teto)](https://www.last.fm/music/Tak/_/numb+numb+(feat.+Hatsune+Miku+&+Kasane+Teto))** - Tak<br/>
+> 🎶 **[hot topic](https://www.last.fm/music/bbno$/_/hot+topic)** - bbno$<br/>
+> ∙ **[hot topic](https://www.last.fm/music/bbno$/_/hot+topic)** - bbno$<br/>
+> ∙ **[Entertaining](https://www.last.fm/music/Halacg/_/Entertaining)** - Halacg<br/>
+> ∙ **[Greedy](https://www.last.fm/music/Isaa+Corva+&+hope+jss/_/Greedy)** - Isaa Corva & hope jss<br/>
+> ∙ **[CRINGECORE](https://www.last.fm/music/Mori+Calliope/_/CRINGECORE)** - Mori Calliope<br/>
+> ∙ **[Houdini](https://www.last.fm/music/Eminem/_/Houdini)** - Eminem<br/>
+> ∙ **[Good Knight](https://www.last.fm/music/XTINA+GG/_/Good+Knight)** - XTINA GG<br/>
+> ∙ **[Shy Guy](https://www.last.fm/music/XTINA+GG/_/Shy+Guy)** - XTINA GG<br/>
 > ∙ **[numb numb (feat. Hatsune Miku & Kasane Teto)](https://www.last.fm/music/Tak/_/numb+numb+(feat.+Hatsune+Miku+&+Kasane+Teto))** - Tak<br/>
-> ∙ **[Bloom](https://www.last.fm/music/Emei/_/Bloom)** - Emei<br/>
-> ∙ **[Say My Name](https://www.last.fm/music/Nerissa+Ravencroft/_/Say+My+Name)** - Nerissa Ravencroft<br/>
-> ∙ **[Say My Name](https://www.last.fm/music/Nerissa+Ravencroft/_/Say+My+Name)** - Nerissa Ravencroft<br/>
-> ∙ **[DEMONDICE](https://www.last.fm/music/Sick+Outta+Fashion/_/DEMONDICE)** - Sick Outta Fashion<br/>
-> ∙ **[River](https://www.last.fm/music/Eminem/_/River)** - Eminem<br/>
-> ∙ **[Heathens](https://www.last.fm/music/Twenty+One+Pilots/_/Heathens)** - Twenty One Pilots<br/>
-> ∙ **[She Wolf (feat. nihmune)](https://www.last.fm/music/Bao+The+Whale/_/She+Wolf+(feat.+nihmune))** - Bao The Whale<br/>
-> ∙ **[DIAMOND GIRLFRIEND](https://www.last.fm/music/IRyS/_/DIAMOND+GIRLFRIEND)** - IRyS<br/>
+> ∙ **[numb numb (feat. Hatsune Miku & Kasane Teto)](https://www.last.fm/music/Tak/_/numb+numb+(feat.+Hatsune+Miku+&+Kasane+Teto))** - Tak<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
