@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Higher](https://www.last.fm/music/Eminem/_/Higher)** - Eminem<br/>
-> ∙ **[River](https://www.last.fm/music/Eminem/_/River)** - Eminem<br/>
-> ∙ **[逆さ月 (Reverse Moon) (Instrumental)](https://www.last.fm/music/Tak/_/%E9%80%86%E3%81%95%E6%9C%88+(Reverse+Moon)+(Instrumental))** - Tak<br/>
-> ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
-> ∙ **[Killing Me](https://www.last.fm/music/nihmune/_/Killing+Me)** - nihmune<br/>
-> ∙ **[Overthinking Overloaded](https://www.last.fm/music/nihmune/_/Overthinking+Overloaded)** - nihmune<br/>
-> ∙ **[Theatrics](https://www.last.fm/music/nihmune/_/Theatrics)** - nihmune<br/>
-> ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
-> ∙ **[Melancholy](https://www.last.fm/music/nihmune/_/Melancholy)** - nihmune<br/>
-> ∙ **[Wanna Love](https://www.last.fm/music/nihmune/_/Wanna+Love)** - nihmune<br/>
+> 🎶 **[Nyanners ft. Vei](https://www.last.fm/music/B!Tch/_/Nyanners+ft.+Vei)** - B!Tch<br/>
+> ∙ **[Nyanners ft. Vei](https://www.last.fm/music/B!Tch/_/Nyanners+ft.+Vei)** - B!Tch<br/>
+> ∙ **[800-SMD](https://www.last.fm/music/1/_/800-SMD)** - 1<br/>
+> ∙ **[Betty Crocker](https://www.last.fm/music/Shotgun+Willy/_/Betty+Crocker)** - Shotgun Willy<br/>
+> ∙ **[NO ESCAPE](https://www.last.fm/music/Zeishi+%7C+%E3%82%BC%E3%82%A4%E3%82%B7/_/NO+ESCAPE)** - Zeishi | ゼイシ<br/>
+> ∙ **[Zeishi](https://www.last.fm/music/It%27s+A+Deal/_/Zeishi)** - It's A Deal<br/>
+> ∙ **[Treat You Better](https://www.last.fm/music/Shawn+Mendes/_/Treat+You+Better)** - Shawn Mendes<br/>
+> ∙ **[Kiss Me Thru The Phone](https://www.last.fm/music/nihmune/_/Kiss+Me+Thru+The+Phone)** - nihmune<br/>
+> ∙ **[There's Nothing Holdin' Me Back](https://www.last.fm/music/Shawn+Mendes/_/There%27s+Nothing+Holdin%27+Me+Back)** - Shawn Mendes<br/>
+> ∙ **[Higher](https://www.last.fm/music/Eminem/_/Higher)** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
