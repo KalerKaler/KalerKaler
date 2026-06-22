@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[MIMI feat. 可不](https://www.last.fm/music/%E3%80%8E+%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF+%E3%80%8F/_/MIMI+feat.+%E5%8F%AF%E4%B8%8D)** - 『 ミュージック 』<br/>
+> 🎶 **[P*RNSTAR](https://www.last.fm/music/Nessa+Barrett/_/P*RNSTAR)** - Nessa Barrett<br/>
+> ∙ **[I Wish That I Could Fall](https://www.last.fm/music/Jamie+Paige/_/I+Wish+That+I+Could+Fall)** - Jamie Paige<br/>
+> ∙ **[MIMI feat. 可不](https://www.last.fm/music/%E3%80%8E+%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF+%E3%80%8F/_/MIMI+feat.+%E5%8F%AF%E4%B8%8D)** - 『 ミュージック 』<br/>
 > ∙ **[DIVA](https://www.last.fm/music/Hatsune+Miku,+Aiobahn,+&+TAK/_/DIVA)** - Hatsune Miku, Aiobahn, & TAK<br/>
 > ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
 > ∙ **[Heroin(e)](https://www.last.fm/music/Reclaimant+of+Life/_/Heroin(e))** - Reclaimant of Life<br/>
@@ -72,8 +74,6 @@
 > ∙ **[IT BOY](https://www.last.fm/music/bbno$/_/IT+BOY)** - bbno$<br/>
 > ∙ **[PPPP](https://www.last.fm/music/Tak/_/PPPP)** - Tak<br/>
 > ∙ **[Nyanners ft. Vei](https://www.last.fm/music/B!Tch/_/Nyanners+ft.+Vei)** - B!Tch<br/>
-> ∙ **[800-SMD](https://www.last.fm/music/1/_/800-SMD)** - 1<br/>
-> ∙ **[Betty Crocker](https://www.last.fm/music/Shotgun+Willy/_/Betty+Crocker)** - Shotgun Willy<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
