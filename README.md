@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Kiss And Tell](https://www.last.fm/music/Frawley/_/Kiss+And+Tell)** - Frawley<br/>
-> ∙ **[Ballroom (feat. Marcy Nabors)](https://www.last.fm/music/Jamie+Paige/_/Ballroom+(feat.+Marcy+Nabors))** - Jamie Paige<br/>
-> ∙ **[Neurodivergence](https://www.last.fm/music/Roma/_/Neurodivergence)** - Roma<br/>
-> ∙ **[Honestly (feat. Kasane Teto)](https://www.last.fm/music/TH%C3%98RNS/_/Honestly+(feat.+Kasane+Teto))** - THØRNS<br/>
-> ∙ **[Ballroom (feat. Marcy Nabors)](https://www.last.fm/music/Jamie+Paige/_/Ballroom+(feat.+Marcy+Nabors))** - Jamie Paige<br/>
-> ∙ **[Execution Clap (feat. 重音テト)](https://www.last.fm/music/TRAP+CHICK/_/Execution+Clap+(feat.+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88))** - TRAP CHICK<br/>
-> ∙ **[I Wish That I Could Fall](https://www.last.fm/music/Jamie+Paige/_/I+Wish+That+I+Could+Fall)** - Jamie Paige<br/>
-> ∙ **[MIMI feat. 可不](https://www.last.fm/music/%E3%80%8E+%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF+%E3%80%8F/_/MIMI+feat.+%E5%8F%AF%E4%B8%8D)** - 『 ミュージック 』<br/>
-> ∙ **[DIVA](https://www.last.fm/music/Hatsune+Miku,+Aiobahn,+&+TAK/_/DIVA)** - Hatsune Miku, Aiobahn, & TAK<br/>
-> ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
+> 🎶 **[Medicine](https://www.last.fm/music/%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88/_/Medicine)** - 重音テト<br/>
+> ∙ **[Spoken For](https://www.last.fm/music/Flavor+Foley/_/Spoken+For)** - Flavor Foley<br/>
+> ∙ **[Retry Now](https://www.last.fm/music/Nakiso/_/Retry+Now)** - Nakiso<br/>
+> ∙ **[kurarin](https://www.last.fm/music/kyu/_/kurarin)** - kyu<br/>
+> ∙ **[HITO Mania](https://www.last.fm/music/Sasuke+Haraguchi/_/HITO+Mania)** - Sasuke Haraguchi<br/>
+> ∙ **[BIRDBRAIN](https://www.last.fm/music/Jamie+Paige/_/BIRDBRAIN)** - Jamie Paige<br/>
+> ∙ **[Kyoufuu All Back](https://www.last.fm/music/Yukopi/_/Kyoufuu+All+Back)** - Yukopi<br/>
+> ∙ **[Override](https://www.last.fm/music/Yoshida+Yasei/_/Override)** - Yoshida Yasei<br/>
+> ∙ **[Mesmerizer (feat. Hatsune Miku&Kasane Teto)](https://www.last.fm/music/Satsuki,+Hatsune+Miku,+&+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88/_/Mesmerizer+(feat.+Hatsune+Miku&Kasane+Teto))** - Satsuki, Hatsune Miku, & 重音テト<br/>
+> ∙ **[Liar Macaron](https://www.last.fm/music/bouinboushokup/_/Liar+Macaron)** - bouinboushokup<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
