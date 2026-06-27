@@ -57,23 +57,23 @@
 > `63 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `53 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `49 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 > `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
-> `48 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Medicine](https://www.last.fm/music/%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88/_/Medicine)** - 重音テト<br/>
+> 🎶 **[My Humps (Lil Jon Remix)](https://www.last.fm/music/Black+Eyed+Peas/_/My+Humps+(Lil+Jon+Remix))** - Black Eyed Peas<br/>
+> ∙ **[My Humps (Lil Jon Remix)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Humps+(Lil+Jon+Remix))** - The Black Eyed Peas<br/>
+> ∙ **[TAKE !T OFF](https://www.last.fm/music/DAEGHO/_/TAKE+!T+OFF)** - DAEGHO<br/>
+> ∙ **[Medicine](https://www.last.fm/music/%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88/_/Medicine)** - 重音テト<br/>
 > ∙ **[Spoken For](https://www.last.fm/music/Flavor+Foley/_/Spoken+For)** - Flavor Foley<br/>
 > ∙ **[Retry Now](https://www.last.fm/music/Nakiso/_/Retry+Now)** - Nakiso<br/>
 > ∙ **[kurarin](https://www.last.fm/music/kyu/_/kurarin)** - kyu<br/>
 > ∙ **[HITO Mania](https://www.last.fm/music/Sasuke+Haraguchi/_/HITO+Mania)** - Sasuke Haraguchi<br/>
 > ∙ **[BIRDBRAIN](https://www.last.fm/music/Jamie+Paige/_/BIRDBRAIN)** - Jamie Paige<br/>
 > ∙ **[Kyoufuu All Back](https://www.last.fm/music/Yukopi/_/Kyoufuu+All+Back)** - Yukopi<br/>
-> ∙ **[Override](https://www.last.fm/music/Yoshida+Yasei/_/Override)** - Yoshida Yasei<br/>
-> ∙ **[Mesmerizer (feat. Hatsune Miku&Kasane Teto)](https://www.last.fm/music/Satsuki,+Hatsune+Miku,+&+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88/_/Mesmerizer+(feat.+Hatsune+Miku&Kasane+Teto))** - Satsuki, Hatsune Miku, & 重音テト<br/>
-> ∙ **[Liar Macaron](https://www.last.fm/music/bouinboushokup/_/Liar+Macaron)** - bouinboushokup<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
