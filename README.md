@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[IRIS OUT](https://www.last.fm/music/Kenshi+Yonezu/_/IRIS+OUT)** - Kenshi Yonezu<br/>
+> 🎶 **[Neuro-sama Money Machine cover.](https://www.last.fm/music/%E6%96%87%E5%8C%96%E5%AD%90/_/Neuro-sama+Money+Machine+cover.)** - 文化子<br/>
+> ∙ **[革命道中 - On The Way](https://www.last.fm/music/Aina+The+End/_/%E9%9D%A9%E5%91%BD%E9%81%93%E4%B8%AD+-+On+The+Way)** - Aina The End<br/>
+> ∙ **[Radiant Revival (feat. Hatsune Miku)](https://www.last.fm/music/Jamie+Paige/_/Radiant+Revival+(feat.+Hatsune+Miku))** - Jamie Paige<br/>
+> ∙ **[カイコ - Stuckmoth](https://www.last.fm/music/DECO*27/_/%E3%82%AB%E3%82%A4%E3%82%B3+-+Stuckmoth)** - DECO*27<br/>
+> ∙ **[ラグトレイン](https://www.last.fm/music/%E7%A8%B2%E8%91%89%E6%9B%87/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)** - 稲葉曇<br/>
+> ∙ **[臙脂 (feat. 重音テト)](https://www.last.fm/music/BK/_/%E8%87%99%E8%84%82+(feat.+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88))** - BK<br/>
+> ∙ **[ROT FOR CLOUT](https://www.last.fm/music/Jamie+Paige,+Visualeyes/_/ROT+FOR+CLOUT)** - Jamie Paige, Visualeyes<br/>
+> ∙ **[プロポーズ - propose](https://www.last.fm/music/9Lana/_/%E3%83%97%E3%83%AD%E3%83%9D%E3%83%BC%E3%82%BA+-+propose)** - 9Lana<br/>
 > ∙ **[IRIS OUT](https://www.last.fm/music/Kenshi+Yonezu/_/IRIS+OUT)** - Kenshi Yonezu<br/>
-> ∙ **[Machine Love](https://www.last.fm/music/Jamie+Paige/_/Machine+Love)** - Jamie Paige<br/>
-> ∙ **[Neurodivergence](https://www.last.fm/music/Roma/_/Neurodivergence)** - Roma<br/>
-> ∙ **[Honestly (feat. Kasane Teto)](https://www.last.fm/music/TH%C3%98RNS/_/Honestly+(feat.+Kasane+Teto))** - THØRNS<br/>
-> ∙ **[Taking My Ball](https://www.last.fm/music/Eminem/_/Taking+My+Ball)** - Eminem<br/>
-> ∙ **[Spoken For](https://www.last.fm/music/Flavor+Foley/_/Spoken+For)** - Flavor Foley<br/>
-> ∙ **[Taking My Ball](https://www.last.fm/music/Eminem/_/Taking+My+Ball)** - Eminem<br/>
-> ∙ **[My Humps (Lil Jon Remix)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Humps+(Lil+Jon+Remix))** - The Black Eyed Peas<br/>
-> ∙ **[TAKE !T OFF](https://www.last.fm/music/DAEGHO/_/TAKE+!T+OFF)** - DAEGHO<br/>
+> ∙ **[IRIS OUT](https://www.last.fm/music/Kenshi+Yonezu/_/IRIS+OUT)** - Kenshi Yonezu<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
