@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Machine Love](https://www.last.fm/music/Jamie+Paige/_/Machine+Love)** - Jamie Paige<br/>
+> 🎶 **[IRIS OUT](https://www.last.fm/music/Kenshi+Yonezu/_/IRIS+OUT)** - Kenshi Yonezu<br/>
+> ∙ **[IRIS OUT](https://www.last.fm/music/Kenshi+Yonezu/_/IRIS+OUT)** - Kenshi Yonezu<br/>
+> ∙ **[Machine Love](https://www.last.fm/music/Jamie+Paige/_/Machine+Love)** - Jamie Paige<br/>
 > ∙ **[Neurodivergence](https://www.last.fm/music/Roma/_/Neurodivergence)** - Roma<br/>
 > ∙ **[Honestly (feat. Kasane Teto)](https://www.last.fm/music/TH%C3%98RNS/_/Honestly+(feat.+Kasane+Teto))** - THØRNS<br/>
 > ∙ **[Taking My Ball](https://www.last.fm/music/Eminem/_/Taking+My+Ball)** - Eminem<br/>
@@ -72,8 +74,6 @@
 > ∙ **[Taking My Ball](https://www.last.fm/music/Eminem/_/Taking+My+Ball)** - Eminem<br/>
 > ∙ **[My Humps (Lil Jon Remix)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Humps+(Lil+Jon+Remix))** - The Black Eyed Peas<br/>
 > ∙ **[TAKE !T OFF](https://www.last.fm/music/DAEGHO/_/TAKE+!T+OFF)** - DAEGHO<br/>
-> ∙ **[Medicine](https://www.last.fm/music/%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88/_/Medicine)** - 重音テト<br/>
-> ∙ **[Spoken For](https://www.last.fm/music/Flavor+Foley/_/Spoken+For)** - Flavor Foley<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
