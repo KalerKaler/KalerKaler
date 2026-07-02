@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Nothing More](https://www.last.fm/music/Michi+Mochievee/_/Nothing+More)** - Michi Mochievee<br/>
-> ∙ **[Self Destruction Mode](https://www.last.fm/music/The+Chainsmokers,+bludnymph/_/Self+Destruction+Mode)** - The Chainsmokers, bludnymph<br/>
-> ∙ **[LAST CIGARETTE (feat. Au/Ra)](https://www.last.fm/music/Mothica/_/LAST+CIGARETTE+(feat.+Au%2FRa))** - Mothica<br/>
-> ∙ **[Sticks And Stones (feat. Scarlett)](https://www.last.fm/music/Cjbeards/_/Sticks+And+Stones+(feat.+Scarlett))** - Cjbeards<br/>
-> ∙ **[ダイダイダイダイダイキライ - DaiDaiDaiDaiDaikirai](https://www.last.fm/music/%E9%9B%A8%E8%89%AF/_/%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%82%AD%E3%83%A9%E3%82%A4+-+DaiDaiDaiDaiDaikirai)** - 雨良<br/>
-> ∙ **[ダイダイダイダイダイキライ - DaiDaiDaiDaiDaikirai](https://www.last.fm/music/%E9%9B%A8%E8%89%AF/_/%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4%E3%82%AD%E3%83%A9%E3%82%A4+-+DaiDaiDaiDaiDaikirai)** - 雨良<br/>
-> ∙ **[レディメイド - ReadyMade](https://www.last.fm/music/Ado/_/%E3%83%AC%E3%83%87%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%89+-+ReadyMade)** - Ado<br/>
-> ∙ **[Neuro-sama Money Machine cover.](https://www.last.fm/music/%E6%96%87%E5%8C%96%E5%AD%90/_/Neuro-sama+Money+Machine+cover.)** - 文化子<br/>
-> ∙ **[革命道中 - On The Way](https://www.last.fm/music/Aina+The+End/_/%E9%9D%A9%E5%91%BD%E9%81%93%E4%B8%AD+-+On+The+Way)** - Aina The End<br/>
-> ∙ **[Radiant Revival (feat. Hatsune Miku)](https://www.last.fm/music/Jamie+Paige/_/Radiant+Revival+(feat.+Hatsune+Miku))** - Jamie Paige<br/>
+> 🎶 **[Becky's Brother](https://www.last.fm/music/Jordy/_/Becky%27s+Brother)** - Jordy<br/>
+> ∙ **[I DON'T MIND](https://www.last.fm/music/Grant+Knoche/_/I+DON%27T+MIND)** - Grant Knoche<br/>
+> ∙ **[The Standard](https://www.last.fm/music/W%C3%A9+Ani/_/The+Standard)** - Wé Ani<br/>
+> ∙ **[IDK SH!T](https://www.last.fm/music/Jordy/_/IDK+SH!T)** - Jordy<br/>
+> ∙ **[Hooked](https://www.last.fm/music/Sam+Short/_/Hooked)** - Sam Short<br/>
+> ∙ **[EDEN](https://www.last.fm/music/Orkid/_/EDEN)** - Orkid<br/>
+> ∙ **[Backseat Driver](https://www.last.fm/music/Jordy/_/Backseat+Driver)** - Jordy<br/>
+> ∙ **[Jericho](https://www.last.fm/music/Iniko/_/Jericho)** - Iniko<br/>
+> ∙ **[things i never said](https://www.last.fm/music/Jordy/_/things+i+never+said)** - Jordy<br/>
+> ∙ **[Sex With Myself](https://www.last.fm/music/Jordy/_/Sex+With+Myself)** - Jordy<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
