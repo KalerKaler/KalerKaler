@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Becky's Brother](https://www.last.fm/music/Jordy/_/Becky%27s+Brother)** - Jordy<br/>
+> 🎶 **[Diss Track Wars](https://www.last.fm/music/SixteenInMono+VS+Vtuber+Avengers/_/Diss+Track+Wars)** - SixteenInMono VS Vtuber Avengers<br/>
+> ∙ **[don't look (Yi Xi Version)](https://www.last.fm/music/SAWTOWNE/_/don%27t+look+(Yi+Xi+Version))** - SAWTOWNE<br/>
+> ∙ **[Crème Brulée](https://www.last.fm/music/David+Archuleta/_/Cr%C3%A8me+Brul%C3%A9e)** - David Archuleta<br/>
+> ∙ **[Becky's Brother](https://www.last.fm/music/Jordy/_/Becky%27s+Brother)** - Jordy<br/>
 > ∙ **[I DON'T MIND](https://www.last.fm/music/Grant+Knoche/_/I+DON%27T+MIND)** - Grant Knoche<br/>
 > ∙ **[The Standard](https://www.last.fm/music/W%C3%A9+Ani/_/The+Standard)** - Wé Ani<br/>
 > ∙ **[IDK SH!T](https://www.last.fm/music/Jordy/_/IDK+SH!T)** - Jordy<br/>
 > ∙ **[Hooked](https://www.last.fm/music/Sam+Short/_/Hooked)** - Sam Short<br/>
 > ∙ **[EDEN](https://www.last.fm/music/Orkid/_/EDEN)** - Orkid<br/>
 > ∙ **[Backseat Driver](https://www.last.fm/music/Jordy/_/Backseat+Driver)** - Jordy<br/>
-> ∙ **[Jericho](https://www.last.fm/music/Iniko/_/Jericho)** - Iniko<br/>
-> ∙ **[things i never said](https://www.last.fm/music/Jordy/_/things+i+never+said)** - Jordy<br/>
-> ∙ **[Sex With Myself](https://www.last.fm/music/Jordy/_/Sex+With+Myself)** - Jordy<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
