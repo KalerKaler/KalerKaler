@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Nothing More](https://www.last.fm/music/Michi+Mochievee/_/Nothing+More)** - Michi Mochievee<br/>
+> 🎶 **[Justice](https://www.last.fm/music/Alexandria/_/Justice)** - Alexandria<br/>
+> ∙ **[People I Don't Like](https://www.last.fm/music/UPSAHL/_/People+I+Don%27t+Like)** - UPSAHL<br/>
+> ∙ **[KILLSWITCH](https://www.last.fm/music/mekaloton/_/KILLSWITCH)** - mekaloton<br/>
+> ∙ **[Nothing More](https://www.last.fm/music/Michi+Mochievee/_/Nothing+More)** - Michi Mochievee<br/>
 > ∙ **[Hypothetical Party](https://www.last.fm/music/Jordy/_/Hypothetical+Party)** - Jordy<br/>
 > ∙ **[Cinnamon](https://www.last.fm/music/Alohaii/_/Cinnamon)** - Alohaii<br/>
 > ∙ **[Fever](https://www.last.fm/music/Isaa+Corva/_/Fever)** - Isaa Corva<br/>
 > ∙ **[LEFT RIGHT](https://www.last.fm/music/Shirobeats,+Ironmouse,+Kiwwi,+&+Swoodeasu/_/LEFT+RIGHT)** - Shirobeats, Ironmouse, Kiwwi, & Swoodeasu<br/>
 > ∙ **[Ironmouse](https://www.last.fm/music/Abracadabra/_/Ironmouse)** - Abracadabra<br/>
 > ∙ **[WHY ARE YOU HERE (Official Visualizer)](https://www.last.fm/music/Mico/_/WHY+ARE+YOU+HERE+(Official+Visualizer))** - Mico<br/>
-> ∙ **[Hotter Than Hentai](https://www.last.fm/music/cottontailVA/_/Hotter+Than+Hentai)** - cottontailVA<br/>
-> ∙ **[Neon](https://www.last.fm/music/yowane/_/Neon)** - yowane<br/>
-> ∙ **[Blue & Gold](https://www.last.fm/music/Takanashi+Kiara/_/Blue+&+Gold)** - Takanashi Kiara<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
