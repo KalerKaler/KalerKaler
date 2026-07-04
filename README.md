@@ -64,8 +64,7 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[I am a DEATH gamer](https://www.last.fm/music/HyA/_/I+am+a+DEATH+gamer)** - HyA<br/>
-> ∙ **[Michi Mochievee (SAMURAI Ver. COVER)](https://www.last.fm/music/Never+Fade+Away/_/Michi+Mochievee+(SAMURAI+Ver.+COVER))** - Never Fade Away<br/>
+> 🎶 **[Michi Mochievee (SAMURAI Ver. COVER)](https://www.last.fm/music/Never+Fade+Away/_/Michi+Mochievee+(SAMURAI+Ver.+COVER))** - Never Fade Away<br/>
 > ∙ **[Cover by Camila](https://www.last.fm/music/Camila/_/Cover+by+Camila)** - Camila<br/>
 > ∙ **[Doctor Sessions](https://www.last.fm/music/OR3O/_/Doctor+Sessions)** - OR3O<br/>
 > ∙ **[Doctor Sessions](https://www.last.fm/music/OR3O/_/Doctor+Sessions)** - OR3O<br/>
@@ -74,6 +73,7 @@
 > ∙ **[GUILTY! (Higuruma)](https://www.last.fm/music/Shwabadi/_/GUILTY!+(Higuruma))** - Shwabadi<br/>
 > ∙ **[Playing with FIRE!!! (feat. Yi Xi)](https://www.last.fm/music/DryftiN/_/Playing+with+FIRE!!!+(feat.+Yi+Xi))** - DryftiN<br/>
 > ∙ **[Natural Disaster (VTuber Original Song) Bao The Whale, Trickywi, Yuzu, Vienna](https://www.last.fm/music/Bao+The+Whale/_/Natural+Disaster+(VTuber+Original+Song)+Bao+The+Whale,+Trickywi,+Yuzu,+Vienna)** - Bao The Whale<br/>
+> ∙ **[Harlequin Contraption](https://www.last.fm/music/Vane+Lily/_/Harlequin+Contraption)** - Vane Lily<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
