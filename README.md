@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[STATMENT (INDIAN)](https://www.last.fm/music/NEFFEX/_/STATMENT+(INDIAN))** - NEFFEX<br/>
+> 🎶 **[Harlequin Contraption](https://www.last.fm/music/Vane+Lily/_/Harlequin+Contraption)** - Vane Lily<br/>
+> ∙ **[Demon Mode](https://www.last.fm/music/Stileto,+AViVA/_/Demon+Mode)** - Stileto, AViVA<br/>
+> ∙ **[STATMENT (INDIAN)](https://www.last.fm/music/NEFFEX/_/STATMENT+(INDIAN))** - NEFFEX<br/>
 > ∙ **[Holy Shitto](https://www.last.fm/music/Mori+Calliope/_/Holy+Shitto)** - Mori Calliope<br/>
 > ∙ **[4*TOWN (Cover)](https://www.last.fm/music/Nobody+Like+U/_/4*TOWN+(Cover))** - Nobody Like U<br/>
 > ∙ **[Somebody's Proud of You](https://www.last.fm/music/Citizen+Soldier/_/Somebody%27s+Proud+of+You)** - Citizen Soldier<br/>
@@ -72,8 +74,6 @@
 > ∙ **[Isaa Corva](https://www.last.fm/music/Sound/_/Isaa+Corva)** - Sound<br/>
 > ∙ **[GOOD GIRL](https://www.last.fm/music/TeddyLoid+x+Invasion+Club/_/GOOD+GIRL)** - TeddyLoid x Invasion Club<br/>
 > ∙ **[MoeChakkaFire / MEAT](https://www.last.fm/music/ISsey/_/MoeChakkaFire+%2F+MEAT)** - ISsey<br/>
-> ∙ **[Ironmouse & Bubi](https://www.last.fm/music/Devil/_/Ironmouse+&+Bubi)** - Devil<br/>
-> ∙ **[Word of the Day](https://www.last.fm/music/Campus+Village/_/Word+of+the+Day)** - Campus Village<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
