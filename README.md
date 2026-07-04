@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Harlequin Contraption](https://www.last.fm/music/Vane+Lily/_/Harlequin+Contraption)** - Vane Lily<br/>
-> ∙ **[Demon Mode](https://www.last.fm/music/Stileto,+AViVA/_/Demon+Mode)** - Stileto, AViVA<br/>
-> ∙ **[STATMENT (INDIAN)](https://www.last.fm/music/NEFFEX/_/STATMENT+(INDIAN))** - NEFFEX<br/>
-> ∙ **[Holy Shitto](https://www.last.fm/music/Mori+Calliope/_/Holy+Shitto)** - Mori Calliope<br/>
-> ∙ **[4*TOWN (Cover)](https://www.last.fm/music/Nobody+Like+U/_/4*TOWN+(Cover))** - Nobody Like U<br/>
-> ∙ **[Somebody's Proud of You](https://www.last.fm/music/Citizen+Soldier/_/Somebody%27s+Proud+of+You)** - Citizen Soldier<br/>
-> ∙ **[Angel of Death](https://www.last.fm/music/Jim+Yosef+&+Scarlett/_/Angel+of+Death)** - Jim Yosef & Scarlett<br/>
-> ∙ **[Isaa Corva](https://www.last.fm/music/Sound/_/Isaa+Corva)** - Sound<br/>
-> ∙ **[GOOD GIRL](https://www.last.fm/music/TeddyLoid+x+Invasion+Club/_/GOOD+GIRL)** - TeddyLoid x Invasion Club<br/>
-> ∙ **[MoeChakkaFire / MEAT](https://www.last.fm/music/ISsey/_/MoeChakkaFire+%2F+MEAT)** - ISsey<br/>
+> 🎶 **[Michi Mochievee (SAMURAI Ver. COVER)](https://www.last.fm/music/Never+Fade+Away/_/Michi+Mochievee+(SAMURAI+Ver.+COVER))** - Never Fade Away<br/>
+> ∙ **[Cover by Camila](https://www.last.fm/music/Camila/_/Cover+by+Camila)** - Camila<br/>
+> ∙ **[Doctor Sessions](https://www.last.fm/music/OR3O/_/Doctor+Sessions)** - OR3O<br/>
+> ∙ **[Doctor Sessions](https://www.last.fm/music/OR3O/_/Doctor+Sessions)** - OR3O<br/>
+> ∙ **[Blue & Gold](https://www.last.fm/music/Takanashi+Kiara/_/Blue+&+Gold)** - Takanashi Kiara<br/>
+> ∙ **[Drink Your Light](https://www.last.fm/music/Amalee/_/Drink+Your+Light)** - Amalee<br/>
+> ∙ **[GUILTY! (Higuruma)](https://www.last.fm/music/Shwabadi/_/GUILTY!+(Higuruma))** - Shwabadi<br/>
+> ∙ **[Playing with FIRE!!! (feat. Yi Xi)](https://www.last.fm/music/DryftiN/_/Playing+with+FIRE!!!+(feat.+Yi+Xi))** - DryftiN<br/>
+> ∙ **[Natural Disaster (VTuber Original Song) Bao The Whale, Trickywi, Yuzu, Vienna](https://www.last.fm/music/Bao+The+Whale/_/Natural+Disaster+(VTuber+Original+Song)+Bao+The+Whale,+Trickywi,+Yuzu,+Vienna)** - Bao The Whale<br/>
+> ∙ **[Harlequin Contraption](https://www.last.fm/music/Vane+Lily/_/Harlequin+Contraption)** - Vane Lily<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
