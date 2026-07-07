@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Call Me King](https://www.last.fm/music/Amalee/_/Call+Me+King)** - Amalee<br/>
+> 🎶 **[Undead Dancing Girl](https://www.last.fm/music/Natsuyama+Yotsugi,+Tonbi/_/Undead+Dancing+Girl)** - Natsuyama Yotsugi, Tonbi<br/>
+> ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
+> ∙ **[Dadadadadaru](https://www.last.fm/music/%E9%9B%A8%E8%89%AF+Amala/_/Dadadadadaru)** - 雨良 Amala<br/>
+> ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
+> ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
+> ∙ **[Zeishi](https://www.last.fm/music/It%27s+A+Deal/_/Zeishi)** - It's A Deal<br/>
+> ∙ **[Call Me King](https://www.last.fm/music/Amalee/_/Call+Me+King)** - Amalee<br/>
 > ∙ **[𝐎 𝐁 𝐋 𝐈 𝐕 𝐈 𝐎 𝐍](https://www.last.fm/music/Michi+Mochievee/_/%F0%9D%90%8E+%F0%9D%90%81+%F0%9D%90%8B+%F0%9D%90%88+%F0%9D%90%95+%F0%9D%90%88+%F0%9D%90%8E+%F0%9D%90%8D)** - Michi Mochievee<br/>
 > ∙ **[Bajiru Sings Pretty Little Baby by Connie Francis (+Lyrics)](https://www.last.fm/music/LHM/_/Bajiru+Sings+Pretty+Little+Baby+by+Connie+Francis+(%252BLyrics))** - LHM<br/>
 > ∙ **[Got Me Started - Hope Remix](https://www.last.fm/music/Isaa+Corva,+hope+jss/_/Got+Me+Started+-+Hope+Remix)** - Isaa Corva, hope jss<br/>
-> ∙ **[In My Bones](https://www.last.fm/music/76th+Street/_/In+My+Bones)** - 76th Street<br/>
-> ∙ **[Girl](https://www.last.fm/music/76th+Street/_/Girl)** - 76th Street<br/>
-> ∙ **[Zeishi](https://www.last.fm/music/It%27s+A+Deal/_/Zeishi)** - It's A Deal<br/>
-> ∙ **[PPPP](https://www.last.fm/music/Tak/_/PPPP)** - Tak<br/>
-> ∙ **[K on my D+C](https://www.last.fm/music/Hatsune+Miku+&+Levia/_/K+on+my+D%252BC)** - Hatsune Miku & Levia<br/>
-> ∙ **[HINOTORI - Takanashi Kiara 【REDSHiFT Remix】](https://www.last.fm/music/Takanashi+Kiara/_/HINOTORI+-+Takanashi+Kiara+%E3%80%90REDSHiFT+Remix%E3%80%91)** - Takanashi Kiara<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
