@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[In My Bones](https://www.last.fm/music/76th+Street/_/In+My+Bones)** - 76th Street<br/>
+> 🎶 **[Call Me King](https://www.last.fm/music/Amalee/_/Call+Me+King)** - Amalee<br/>
+> ∙ **[𝐎 𝐁 𝐋 𝐈 𝐕 𝐈 𝐎 𝐍](https://www.last.fm/music/Michi+Mochievee/_/%F0%9D%90%8E+%F0%9D%90%81+%F0%9D%90%8B+%F0%9D%90%88+%F0%9D%90%95+%F0%9D%90%88+%F0%9D%90%8E+%F0%9D%90%8D)** - Michi Mochievee<br/>
+> ∙ **[Bajiru Sings Pretty Little Baby by Connie Francis (+Lyrics)](https://www.last.fm/music/LHM/_/Bajiru+Sings+Pretty+Little+Baby+by+Connie+Francis+(%252BLyrics))** - LHM<br/>
+> ∙ **[Got Me Started - Hope Remix](https://www.last.fm/music/Isaa+Corva,+hope+jss/_/Got+Me+Started+-+Hope+Remix)** - Isaa Corva, hope jss<br/>
+> ∙ **[In My Bones](https://www.last.fm/music/76th+Street/_/In+My+Bones)** - 76th Street<br/>
 > ∙ **[Girl](https://www.last.fm/music/76th+Street/_/Girl)** - 76th Street<br/>
 > ∙ **[Zeishi](https://www.last.fm/music/It%27s+A+Deal/_/Zeishi)** - It's A Deal<br/>
 > ∙ **[PPPP](https://www.last.fm/music/Tak/_/PPPP)** - Tak<br/>
 > ∙ **[K on my D+C](https://www.last.fm/music/Hatsune+Miku+&+Levia/_/K+on+my+D%252BC)** - Hatsune Miku & Levia<br/>
 > ∙ **[HINOTORI - Takanashi Kiara 【REDSHiFT Remix】](https://www.last.fm/music/Takanashi+Kiara/_/HINOTORI+-+Takanashi+Kiara+%E3%80%90REDSHiFT+Remix%E3%80%91)** - Takanashi Kiara<br/>
-> ∙ **[manika - Catch Up feat.鳴花ミコト](https://www.last.fm/music/Manika/_/manika+-+Catch+Up+feat.%E9%B3%B4%E8%8A%B1%E3%83%9F%E3%82%B3%E3%83%88)** - Manika<br/>
-> ∙ **[神っぽいな (DECO*27's Miku Ver.)](https://www.last.fm/music/PinocchioP,+DECO*27/_/%E7%A5%9E%E3%81%A3%E3%81%BD%E3%81%84%E3%81%AA+(DECO*27%27s+Miku+Ver.))** - PinocchioP, DECO*27<br/>
-> ∙ **[Undertale ▸ Hopes and Dreams ▸ James Landino Remix](https://www.last.fm/music/Gamechops/_/Undertale+%E2%96%B8+Hopes+and+Dreams+%E2%96%B8+James+Landino+Remix)** - Gamechops<br/>
-> ∙ **[Fever](https://www.last.fm/music/Isaa+Corva/_/Fever)** - Isaa Corva<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
