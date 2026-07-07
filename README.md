@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
+> 🎶 **[Intro](https://www.last.fm/music/Aaliyah/_/Intro)** - Aaliyah<br/>
+> ∙ **[Niina Soleil - Happy Pills (Music Video)](https://www.last.fm/music/Niina+Soleil/_/Niina+Soleil+-+Happy+Pills+(Music+Video))** - Niina Soleil<br/>
+> ∙ **[The Aces - Always Get This Way (Official Lyric Video)](https://www.last.fm/music/The+Aces/_/The+Aces+-+Always+Get+This+Way+(Official+Lyric+Video))** - The Aces<br/>
+> ∙ **[MIRAGE](https://www.last.fm/music/Takanashi+Kiara/_/MIRAGE)** - Takanashi Kiara<br/>
+> ∙ **[Into My Body (Official Video)](https://www.last.fm/music/UPSAHL/_/Into+My+Body+(Official+Video))** - UPSAHL<br/>
+> ∙ **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
 > ∙ **[TRIPPIN?](https://www.last.fm/music/Ham+Sandwich/_/TRIPPIN%3F)** - Ham Sandwich<br/>
 > ∙ **[Come and It Go](https://www.last.fm/music/Shotgun+Willy+&+TRAQULA/_/Come+and+It+Go)** - Shotgun Willy & TRAQULA<br/>
 > ∙ **[Oreo](https://www.last.fm/music/Shotgun+Willy+&+Yung+Craka/_/Oreo)** - Shotgun Willy & Yung Craka<br/>
 > ∙ **[Guy Fieri](https://www.last.fm/music/Shotgun+Willy+&+Yung+Craka/_/Guy+Fieri)** - Shotgun Willy & Yung Craka<br/>
-> ∙ **[Guy Fieri](https://www.last.fm/music/Shotgun+Willy+&+Yung+Craka/_/Guy+Fieri)** - Shotgun Willy & Yung Craka<br/>
-> ∙ **[Oreo](https://www.last.fm/music/Shotgun+Willy+&+Yung+Craka/_/Oreo)** - Shotgun Willy & Yung Craka<br/>
-> ∙ **[Fuego](https://www.last.fm/music/Shotgun+Willy+&+TRAQULA/_/Fuego)** - Shotgun Willy & TRAQULA<br/>
-> ∙ **[Rio](https://www.last.fm/music/Shotgun+Willy/_/Rio)** - Shotgun Willy<br/>
-> ∙ **[NaNaNa](https://www.last.fm/music/Shotgun+Willy/_/NaNaNa)** - Shotgun Willy<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
