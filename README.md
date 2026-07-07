@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Undead Dancing Girl](https://www.last.fm/music/Natsuyama+Yotsugi,+Tonbi/_/Undead+Dancing+Girl)** - Natsuyama Yotsugi, Tonbi<br/>
-> ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
-> ∙ **[Dadadadadaru](https://www.last.fm/music/%E9%9B%A8%E8%89%AF+Amala/_/Dadadadadaru)** - 雨良 Amala<br/>
-> ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
-> ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
-> ∙ **[Zeishi](https://www.last.fm/music/It%27s+A+Deal/_/Zeishi)** - It's A Deal<br/>
-> ∙ **[Call Me King](https://www.last.fm/music/Amalee/_/Call+Me+King)** - Amalee<br/>
-> ∙ **[𝐎 𝐁 𝐋 𝐈 𝐕 𝐈 𝐎 𝐍](https://www.last.fm/music/Michi+Mochievee/_/%F0%9D%90%8E+%F0%9D%90%81+%F0%9D%90%8B+%F0%9D%90%88+%F0%9D%90%95+%F0%9D%90%88+%F0%9D%90%8E+%F0%9D%90%8D)** - Michi Mochievee<br/>
-> ∙ **[Bajiru Sings Pretty Little Baby by Connie Francis (+Lyrics)](https://www.last.fm/music/LHM/_/Bajiru+Sings+Pretty+Little+Baby+by+Connie+Francis+(%252BLyrics))** - LHM<br/>
-> ∙ **[Got Me Started - Hope Remix](https://www.last.fm/music/Isaa+Corva,+hope+jss/_/Got+Me+Started+-+Hope+Remix)** - Isaa Corva, hope jss<br/>
+> 🎶 **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
+> ∙ **[TRIPPIN?](https://www.last.fm/music/Ham+Sandwich/_/TRIPPIN%3F)** - Ham Sandwich<br/>
+> ∙ **[Come and It Go](https://www.last.fm/music/Shotgun+Willy+&+TRAQULA/_/Come+and+It+Go)** - Shotgun Willy & TRAQULA<br/>
+> ∙ **[Oreo](https://www.last.fm/music/Shotgun+Willy+&+Yung+Craka/_/Oreo)** - Shotgun Willy & Yung Craka<br/>
+> ∙ **[Guy Fieri](https://www.last.fm/music/Shotgun+Willy+&+Yung+Craka/_/Guy+Fieri)** - Shotgun Willy & Yung Craka<br/>
+> ∙ **[Guy Fieri](https://www.last.fm/music/Shotgun+Willy+&+Yung+Craka/_/Guy+Fieri)** - Shotgun Willy & Yung Craka<br/>
+> ∙ **[Oreo](https://www.last.fm/music/Shotgun+Willy+&+Yung+Craka/_/Oreo)** - Shotgun Willy & Yung Craka<br/>
+> ∙ **[Fuego](https://www.last.fm/music/Shotgun+Willy+&+TRAQULA/_/Fuego)** - Shotgun Willy & TRAQULA<br/>
+> ∙ **[Rio](https://www.last.fm/music/Shotgun+Willy/_/Rio)** - Shotgun Willy<br/>
+> ∙ **[NaNaNa](https://www.last.fm/music/Shotgun+Willy/_/NaNaNa)** - Shotgun Willy<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
