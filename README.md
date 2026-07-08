@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Intro](https://www.last.fm/music/Aaliyah/_/Intro)** - Aaliyah<br/>
+> 🎶 **[Age Ain't Nothing but a Number](https://www.last.fm/music/Aaliyah/_/Age+Ain%27t+Nothing+but+a+Number)** - Aaliyah<br/>
+> ∙ **[Back & Forth](https://www.last.fm/music/Aaliyah/_/Back+&+Forth)** - Aaliyah<br/>
+> ∙ **[Throw Your Hands Up](https://www.last.fm/music/Aaliyah/_/Throw+Your+Hands+Up)** - Aaliyah<br/>
+> ∙ **[Intro](https://www.last.fm/music/Aaliyah/_/Intro)** - Aaliyah<br/>
 > ∙ **[Niina Soleil - Happy Pills (Music Video)](https://www.last.fm/music/Niina+Soleil/_/Niina+Soleil+-+Happy+Pills+(Music+Video))** - Niina Soleil<br/>
 > ∙ **[The Aces - Always Get This Way (Official Lyric Video)](https://www.last.fm/music/The+Aces/_/The+Aces+-+Always+Get+This+Way+(Official+Lyric+Video))** - The Aces<br/>
 > ∙ **[MIRAGE](https://www.last.fm/music/Takanashi+Kiara/_/MIRAGE)** - Takanashi Kiara<br/>
 > ∙ **[Into My Body (Official Video)](https://www.last.fm/music/UPSAHL/_/Into+My+Body+(Official+Video))** - UPSAHL<br/>
 > ∙ **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
 > ∙ **[TRIPPIN?](https://www.last.fm/music/Ham+Sandwich/_/TRIPPIN%3F)** - Ham Sandwich<br/>
-> ∙ **[Come and It Go](https://www.last.fm/music/Shotgun+Willy+&+TRAQULA/_/Come+and+It+Go)** - Shotgun Willy & TRAQULA<br/>
-> ∙ **[Oreo](https://www.last.fm/music/Shotgun+Willy+&+Yung+Craka/_/Oreo)** - Shotgun Willy & Yung Craka<br/>
-> ∙ **[Guy Fieri](https://www.last.fm/music/Shotgun+Willy+&+Yung+Craka/_/Guy+Fieri)** - Shotgun Willy & Yung Craka<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
