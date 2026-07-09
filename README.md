@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[At Your Best (You Are Love)](https://www.last.fm/music/Aaliyah/_/At+Your+Best+(You+Are+Love))** - Aaliyah<br/>
+> 🎶 **[Chicago](https://www.last.fm/music/nihmune/_/Chicago)** - nihmune<br/>
+> ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
+> ∙ **[visa](https://www.last.fm/music/Again&again/_/visa)** - Again&again<br/>
+> ∙ **[At Your Best (You Are Love)](https://www.last.fm/music/Aaliyah/_/At+Your+Best+(You+Are+Love))** - Aaliyah<br/>
 > ∙ **[Down With the Clique](https://www.last.fm/music/Aaliyah/_/Down+With+the+Clique)** - Aaliyah<br/>
 > ∙ **[Age Ain't Nothing but a Number](https://www.last.fm/music/Aaliyah/_/Age+Ain%27t+Nothing+but+a+Number)** - Aaliyah<br/>
 > ∙ **[Age Ain't Nothing but a Number](https://www.last.fm/music/Aaliyah/_/Age+Ain%27t+Nothing+but+a+Number)** - Aaliyah<br/>
 > ∙ **[Back & Forth](https://www.last.fm/music/Aaliyah/_/Back+&+Forth)** - Aaliyah<br/>
 > ∙ **[Throw Your Hands Up](https://www.last.fm/music/Aaliyah/_/Throw+Your+Hands+Up)** - Aaliyah<br/>
 > ∙ **[Intro](https://www.last.fm/music/Aaliyah/_/Intro)** - Aaliyah<br/>
-> ∙ **[Niina Soleil - Happy Pills (Music Video)](https://www.last.fm/music/Niina+Soleil/_/Niina+Soleil+-+Happy+Pills+(Music+Video))** - Niina Soleil<br/>
-> ∙ **[The Aces - Always Get This Way (Official Lyric Video)](https://www.last.fm/music/The+Aces/_/The+Aces+-+Always+Get+This+Way+(Official+Lyric+Video))** - The Aces<br/>
-> ∙ **[MIRAGE](https://www.last.fm/music/Takanashi+Kiara/_/MIRAGE)** - Takanashi Kiara<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
