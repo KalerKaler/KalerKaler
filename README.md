@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `104 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `105 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `63 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `55 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `49 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `49 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
-> `48 ▶️` ∙ **[Lilyisthatyou](https://www.last.fm/music/Lilyisthatyou)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Chicago](https://www.last.fm/music/nihmune/_/Chicago)** - nihmune<br/>
+> 🎶 **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
+> ∙ **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
+> ∙ **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
+> ∙ **[Don't Know Yet](https://www.last.fm/music/nihmune/_/Don%27t+Know+Yet)** - nihmune<br/>
+> ∙ **[Dalai Lama](https://www.last.fm/music/Shotgun+Willy/_/Dalai+Lama)** - Shotgun Willy<br/>
+> ∙ **[Godzilla](https://www.last.fm/music/Eminem/_/Godzilla)** - Eminem<br/>
+> ∙ **[Winnebago](https://www.last.fm/music/Shotgun+Willy/_/Winnebago)** - Shotgun Willy<br/>
+> ∙ **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
+> ∙ **[Chicago](https://www.last.fm/music/nihmune/_/Chicago)** - nihmune<br/>
 > ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
-> ∙ **[visa](https://www.last.fm/music/Again&again/_/visa)** - Again&again<br/>
-> ∙ **[At Your Best (You Are Love)](https://www.last.fm/music/Aaliyah/_/At+Your+Best+(You+Are+Love))** - Aaliyah<br/>
-> ∙ **[Down With the Clique](https://www.last.fm/music/Aaliyah/_/Down+With+the+Clique)** - Aaliyah<br/>
-> ∙ **[Age Ain't Nothing but a Number](https://www.last.fm/music/Aaliyah/_/Age+Ain%27t+Nothing+but+a+Number)** - Aaliyah<br/>
-> ∙ **[Age Ain't Nothing but a Number](https://www.last.fm/music/Aaliyah/_/Age+Ain%27t+Nothing+but+a+Number)** - Aaliyah<br/>
-> ∙ **[Back & Forth](https://www.last.fm/music/Aaliyah/_/Back+&+Forth)** - Aaliyah<br/>
-> ∙ **[Throw Your Hands Up](https://www.last.fm/music/Aaliyah/_/Throw+Your+Hands+Up)** - Aaliyah<br/>
-> ∙ **[Intro](https://www.last.fm/music/Aaliyah/_/Intro)** - Aaliyah<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
