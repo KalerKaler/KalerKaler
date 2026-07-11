@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
+> 🎶 **[starfucker](https://www.last.fm/music/XYL%C3%98/_/starfucker)** - XYLØ<br/>
+> ∙ **[All Girls Are the Same](https://www.last.fm/music/Ronin/_/All+Girls+Are+the+Same)** - Ronin<br/>
+> ∙ **[All Girls Are the Same](https://www.last.fm/music/Ronin/_/All+Girls+Are+the+Same)** - Ronin<br/>
+> ∙ **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
 > ∙ **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
 > ∙ **[Don't Know Yet](https://www.last.fm/music/nihmune/_/Don%27t+Know+Yet)** - nihmune<br/>
 > ∙ **[Dalai Lama](https://www.last.fm/music/Shotgun+Willy/_/Dalai+Lama)** - Shotgun Willy<br/>
 > ∙ **[Godzilla](https://www.last.fm/music/Eminem/_/Godzilla)** - Eminem<br/>
 > ∙ **[Winnebago](https://www.last.fm/music/Shotgun+Willy/_/Winnebago)** - Shotgun Willy<br/>
 > ∙ **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
-> ∙ **[Chicago](https://www.last.fm/music/nihmune/_/Chicago)** - nihmune<br/>
-> ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
-> ∙ **[visa](https://www.last.fm/music/Again&again/_/visa)** - Again&again<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
