@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `105 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `106 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `63 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `55 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[starfucker](https://www.last.fm/music/XYL%C3%98/_/starfucker)** - XYLØ<br/>
+> 🎶 **[S&M](https://www.last.fm/music/The+Vanished+People,+Koven+Wei/_/S&M)** - The Vanished People, Koven Wei<br/>
+> ∙ **[Lalala (DJ Premier Remix) (feat. Method Man)](https://www.last.fm/music/Redman,+DJ+Premier/_/Lalala+(DJ+Premier+Remix)+(feat.+Method+Man))** - Redman, DJ Premier<br/>
+> ∙ **[backwards](https://www.last.fm/music/Bbno$,+Lentra/_/backwards)** - Bbno$, Lentra<br/>
+> ∙ **[Hood Go Crazy (feat. B.o.B & 2 Chainz)](https://www.last.fm/music/Tech+N9ne/_/Hood+Go+Crazy+(feat.+B.o.B+&+2+Chainz))** - Tech N9ne<br/>
+> ∙ **[Periwinkle](https://www.last.fm/music/The+Vanished+People/_/Periwinkle)** - The Vanished People<br/>
+> ∙ **[Brain Damage](https://www.last.fm/music/Eminem/_/Brain+Damage)** - Eminem<br/>
+> ∙ **[starfucker](https://www.last.fm/music/XYL%C3%98/_/starfucker)** - XYLØ<br/>
 > ∙ **[All Girls Are the Same](https://www.last.fm/music/Ronin/_/All+Girls+Are+the+Same)** - Ronin<br/>
 > ∙ **[All Girls Are the Same](https://www.last.fm/music/Ronin/_/All+Girls+Are+the+Same)** - Ronin<br/>
 > ∙ **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
-> ∙ **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
-> ∙ **[Don't Know Yet](https://www.last.fm/music/nihmune/_/Don%27t+Know+Yet)** - nihmune<br/>
-> ∙ **[Dalai Lama](https://www.last.fm/music/Shotgun+Willy/_/Dalai+Lama)** - Shotgun Willy<br/>
-> ∙ **[Godzilla](https://www.last.fm/music/Eminem/_/Godzilla)** - Eminem<br/>
-> ∙ **[Winnebago](https://www.last.fm/music/Shotgun+Willy/_/Winnebago)** - Shotgun Willy<br/>
-> ∙ **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
