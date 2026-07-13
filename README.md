@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[S&M](https://www.last.fm/music/The+Vanished+People,+Koven+Wei/_/S&M)** - The Vanished People, Koven Wei<br/>
+> 🎶 **[Illest Of Our Time](https://www.last.fm/music/Ren/_/Illest+Of+Our+Time)** - Ren<br/>
+> ∙ **[Rob A Bank](https://www.last.fm/music/Confetti/_/Rob+A+Bank)** - Confetti<br/>
+> ∙ **[Turn the Volume Up (Alastor) (feat. McGwire)](https://www.last.fm/music/rustage/_/Turn+the+Volume+Up+(Alastor)+(feat.+McGwire))** - rustage<br/>
+> ∙ **[Friend of the Devil](https://www.last.fm/music/Adam+Jensen/_/Friend+of+the+Devil)** - Adam Jensen<br/>
+> ∙ **[Rockstar](https://www.last.fm/music/Call+Me+Karizma/_/Rockstar)** - Call Me Karizma<br/>
+> ∙ **[Down On The Beat](https://www.last.fm/music/Ren/_/Down+On+The+Beat)** - Ren<br/>
+> ∙ **[S&M](https://www.last.fm/music/The+Vanished+People,+Koven+Wei/_/S&M)** - The Vanished People, Koven Wei<br/>
 > ∙ **[Lalala (DJ Premier Remix) (feat. Method Man)](https://www.last.fm/music/Redman,+DJ+Premier/_/Lalala+(DJ+Premier+Remix)+(feat.+Method+Man))** - Redman, DJ Premier<br/>
 > ∙ **[backwards](https://www.last.fm/music/Bbno$,+Lentra/_/backwards)** - Bbno$, Lentra<br/>
 > ∙ **[Hood Go Crazy (feat. B.o.B & 2 Chainz)](https://www.last.fm/music/Tech+N9ne/_/Hood+Go+Crazy+(feat.+B.o.B+&+2+Chainz))** - Tech N9ne<br/>
-> ∙ **[Periwinkle](https://www.last.fm/music/The+Vanished+People/_/Periwinkle)** - The Vanished People<br/>
-> ∙ **[Brain Damage](https://www.last.fm/music/Eminem/_/Brain+Damage)** - Eminem<br/>
-> ∙ **[starfucker](https://www.last.fm/music/XYL%C3%98/_/starfucker)** - XYLØ<br/>
-> ∙ **[All Girls Are the Same](https://www.last.fm/music/Ronin/_/All+Girls+Are+the+Same)** - Ronin<br/>
-> ∙ **[All Girls Are the Same](https://www.last.fm/music/Ronin/_/All+Girls+Are+the+Same)** - Ronin<br/>
-> ∙ **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
