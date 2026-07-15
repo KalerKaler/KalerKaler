@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Madhouse](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Madhouse)** - Inpatient, Ren, & Chris Webby<br/>
+> 🎶 **[diamonds are forever](https://www.last.fm/music/bbno$/_/diamonds+are+forever)** - bbno$<br/>
+> ∙ **[Hi Ren](https://www.last.fm/music/8:35/_/Hi+Ren)** - 8:35<br/>
+> ∙ **[My Beloved Pet Lobster feat. Hatsune Miku (The Perfect Pet)](https://www.last.fm/music/YukkoEX/_/My+Beloved+Pet+Lobster+feat.+Hatsune+Miku+(The+Perfect+Pet))** - YukkoEX<br/>
+> ∙ **[No Longer You](https://www.last.fm/music/cottontailVA/_/No+Longer+You)** - cottontailVA<br/>
+> ∙ **[Madhouse](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Madhouse)** - Inpatient, Ren, & Chris Webby<br/>
 > ∙ **[Sir Mix-A-Lot](https://www.last.fm/music/Bajiru+(Lowjiru)+sings+Baby+Got+Back/_/Sir+Mix-A-Lot)** - Bajiru (Lowjiru) sings Baby Got Back<br/>
 > ∙ **[Hi Ren](https://www.last.fm/music/Ren/_/Hi+Ren)** - Ren<br/>
 > ∙ **[Illest Of Our Time](https://www.last.fm/music/Ren/_/Illest+Of+Our+Time)** - Ren<br/>
 > ∙ **[Rob A Bank](https://www.last.fm/music/Confetti/_/Rob+A+Bank)** - Confetti<br/>
 > ∙ **[Turn the Volume Up (Alastor) (feat. McGwire)](https://www.last.fm/music/rustage/_/Turn+the+Volume+Up+(Alastor)+(feat.+McGwire))** - rustage<br/>
-> ∙ **[Friend of the Devil](https://www.last.fm/music/Adam+Jensen/_/Friend+of+the+Devil)** - Adam Jensen<br/>
-> ∙ **[Rockstar](https://www.last.fm/music/Call+Me+Karizma/_/Rockstar)** - Call Me Karizma<br/>
-> ∙ **[Down On The Beat](https://www.last.fm/music/Ren/_/Down+On+The+Beat)** - Ren<br/>
-> ∙ **[S&M](https://www.last.fm/music/The+Vanished+People,+Koven+Wei/_/S&M)** - The Vanished People, Koven Wei<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
