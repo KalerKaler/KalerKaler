@@ -64,7 +64,7 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[The US of F U](https://www.last.fm/music/Delicious+Morsels,+Flanger+Moose/_/The+US+of+F+U)** - Delicious Morsels, Flanger Moose<br/>
+> 🎶 **[Bajiru (Lowjiru) sings Baby Got Back - Sir Mix-A-Lot](https://www.last.fm/music/ImaBeastOP/_/Bajiru+(Lowjiru)+sings+Baby+Got+Back+-+Sir+Mix-A-Lot)** - ImaBeastOP<br/>
 > ∙ **[diamonds are forever](https://www.last.fm/music/bbno$/_/diamonds+are+forever)** - bbno$<br/>
 > ∙ **[Hi Ren](https://www.last.fm/music/8:35/_/Hi+Ren)** - 8:35<br/>
 > ∙ **[My Beloved Pet Lobster feat. Hatsune Miku (The Perfect Pet)](https://www.last.fm/music/YukkoEX/_/My+Beloved+Pet+Lobster+feat.+Hatsune+Miku+(The+Perfect+Pet))** - YukkoEX<br/>
