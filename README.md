@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Fly Me to the Moon](https://www.last.fm/music/Kasane+Teto/_/Fly+Me+to+the+Moon)** - Kasane Teto<br/>
-> ∙ **[Nanashi Mumei](https://www.last.fm/music/%E3%80%8CCover%E3%80%8D%E3%81%9F%E3%81%A0%E5%A3%B0%E4%B8%80%E3%81%A4+%2F+One+Voice/_/Nanashi+Mumei)** - 「Cover」ただ声一つ / One Voice<br/>
-> ∙ **[REFLECT](https://www.last.fm/music/Gawr+Gura/_/REFLECT)** - Gawr Gura<br/>
-> ∙ **[IRyS](https://www.last.fm/music/Muse/_/IRyS)** - Muse<br/>
-> ∙ **[Evil](https://www.last.fm/music/Boom/_/Evil)** - Boom<br/>
-> ∙ **[Heathens](https://www.last.fm/music/Twenty+One+Pilots/_/Heathens)** - Twenty One Pilots<br/>
-> ∙ **[Trash Can Song](https://www.last.fm/music/Kathy-Chan,+The+Chalkeaters,+Elsie+Lovelock,+&+Michael+Kovach/_/Trash+Can+Song)** - Kathy-Chan, The Chalkeaters, Elsie Lovelock, & Michael Kovach<br/>
-> ∙ **[John Michael Howell, JVKE, ZVC](https://www.last.fm/music/A+Thousand+Years/_/John+Michael+Howell,+JVKE,+ZVC)** - A Thousand Years<br/>
-> ∙ **[Neuro & Vedal (Official Cover Video)](https://www.last.fm/music/Chinatown+Blues/_/Neuro+&+Vedal+(Official+Cover+Video))** - Chinatown Blues<br/>
-> ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
+> 🎶 **[Neuro-sama](https://www.last.fm/music/Life/_/Neuro-sama)** - Life<br/>
+> ∙ **[BIRDBRAIN by Jamie Paige](https://www.last.fm/music/Evil+Neuro+Karaoke/_/BIRDBRAIN+by+Jamie+Paige)** - Evil Neuro Karaoke<br/>
+> ∙ **[BOOM by Evil Neuro](https://www.last.fm/music/Neuro-sama+karaoke/_/BOOM+by+Evil+Neuro)** - Neuro-sama karaoke<br/>
+> ∙ **[Disturbia](https://www.last.fm/music/Isaa+Corva,+The+Oshi+Bar,+&+SixteenInMono/_/Disturbia)** - Isaa Corva, The Oshi Bar, & SixteenInMono<br/>
+> ∙ **[Dadadadadaru](https://www.last.fm/music/%E9%9B%A8%E8%89%AF+Amala/_/Dadadadadaru)** - 雨良 Amala<br/>
+> ∙ **[Original Song](https://www.last.fm/music/Illusion+Night+%EF%BC%8F+Pavolia+Reine/_/Original+Song)** - Illusion Night ／ Pavolia Reine<br/>
+> ∙ **[Rule #34](https://www.last.fm/music/Fish+in+a+Birdcage/_/Rule+%2334)** - Fish in a Birdcage<br/>
+> ∙ **[juliet](https://www.last.fm/music/Emilio+Piano,+JVKE,+&+Bryant+Barnes/_/juliet)** - Emilio Piano, JVKE, & Bryant Barnes<br/>
+> ∙ **[From The Start](https://www.last.fm/music/Sameko+Saba+sings/_/From+The+Start)** - Sameko Saba sings<br/>
+> ∙ **[「Cover」pretty girl I'll make you famous](https://www.last.fm/music/Akuma+Nihmune+Ch/_/%E3%80%8CCover%E3%80%8Dpretty+girl+I%27ll+make+you+famous)** - Akuma Nihmune Ch<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
