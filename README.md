@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Bajiru (Lowjiru) sings Baby Got Back - Sir Mix-A-Lot](https://www.last.fm/music/ImaBeastOP/_/Bajiru+(Lowjiru)+sings+Baby+Got+Back+-+Sir+Mix-A-Lot)** - ImaBeastOP<br/>
+> 🎶 **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
+> ∙ **[Sick Boi, Pt. 2](https://www.last.fm/music/Ren/_/Sick+Boi,+Pt.+2)** - Ren<br/>
+> ∙ **[Rolling Girl (feat. Kasane Teto)](https://www.last.fm/music/KimaroArt/_/Rolling+Girl+(feat.+Kasane+Teto))** - KimaroArt<br/>
+> ∙ **[Bajiru (Lowjiru) sings Baby Got Back - Sir Mix-A-Lot](https://www.last.fm/music/ImaBeastOP/_/Bajiru+(Lowjiru)+sings+Baby+Got+Back+-+Sir+Mix-A-Lot)** - ImaBeastOP<br/>
 > ∙ **[diamonds are forever](https://www.last.fm/music/bbno$/_/diamonds+are+forever)** - bbno$<br/>
 > ∙ **[Hi Ren](https://www.last.fm/music/8:35/_/Hi+Ren)** - 8:35<br/>
 > ∙ **[My Beloved Pet Lobster feat. Hatsune Miku (The Perfect Pet)](https://www.last.fm/music/YukkoEX/_/My+Beloved+Pet+Lobster+feat.+Hatsune+Miku+(The+Perfect+Pet))** - YukkoEX<br/>
 > ∙ **[No Longer You](https://www.last.fm/music/cottontailVA/_/No+Longer+You)** - cottontailVA<br/>
 > ∙ **[Madhouse](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Madhouse)** - Inpatient, Ren, & Chris Webby<br/>
 > ∙ **[Sir Mix-A-Lot](https://www.last.fm/music/Bajiru+(Lowjiru)+sings+Baby+Got+Back/_/Sir+Mix-A-Lot)** - Bajiru (Lowjiru) sings Baby Got Back<br/>
-> ∙ **[Hi Ren](https://www.last.fm/music/Ren/_/Hi+Ren)** - Ren<br/>
-> ∙ **[Illest Of Our Time](https://www.last.fm/music/Ren/_/Illest+Of+Our+Time)** - Ren<br/>
-> ∙ **[Rob A Bank](https://www.last.fm/music/Confetti/_/Rob+A+Bank)** - Confetti<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
