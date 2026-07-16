@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[IRyS](https://www.last.fm/music/Muse/_/IRyS)** - Muse<br/>
+> 🎶 **[Fly Me to the Moon](https://www.last.fm/music/Kasane+Teto/_/Fly+Me+to+the+Moon)** - Kasane Teto<br/>
+> ∙ **[Nanashi Mumei](https://www.last.fm/music/%E3%80%8CCover%E3%80%8D%E3%81%9F%E3%81%A0%E5%A3%B0%E4%B8%80%E3%81%A4+%2F+One+Voice/_/Nanashi+Mumei)** - 「Cover」ただ声一つ / One Voice<br/>
+> ∙ **[REFLECT](https://www.last.fm/music/Gawr+Gura/_/REFLECT)** - Gawr Gura<br/>
+> ∙ **[IRyS](https://www.last.fm/music/Muse/_/IRyS)** - Muse<br/>
 > ∙ **[Evil](https://www.last.fm/music/Boom/_/Evil)** - Boom<br/>
 > ∙ **[Heathens](https://www.last.fm/music/Twenty+One+Pilots/_/Heathens)** - Twenty One Pilots<br/>
 > ∙ **[Trash Can Song](https://www.last.fm/music/Kathy-Chan,+The+Chalkeaters,+Elsie+Lovelock,+&+Michael+Kovach/_/Trash+Can+Song)** - Kathy-Chan, The Chalkeaters, Elsie Lovelock, & Michael Kovach<br/>
 > ∙ **[John Michael Howell, JVKE, ZVC](https://www.last.fm/music/A+Thousand+Years/_/John+Michael+Howell,+JVKE,+ZVC)** - A Thousand Years<br/>
 > ∙ **[Neuro & Vedal (Official Cover Video)](https://www.last.fm/music/Chinatown+Blues/_/Neuro+&+Vedal+(Official+Cover+Video))** - Chinatown Blues<br/>
 > ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
-> ∙ **[Rewinding](https://www.last.fm/music/Isaa+Corva/_/Rewinding)** - Isaa Corva<br/>
-> ∙ **[Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)** - Train<br/>
-> ∙ **[Die With A Smile](https://www.last.fm/music/Isaa+Corva/_/Die+With+A+Smile)** - Isaa Corva<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
