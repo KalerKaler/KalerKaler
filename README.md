@@ -55,25 +55,25 @@
 
 > `106 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `63 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `55 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `57 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `53 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `49 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `49 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
-> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
-> ∙ **[Sick Boi, Pt. 2](https://www.last.fm/music/Ren/_/Sick+Boi,+Pt.+2)** - Ren<br/>
-> ∙ **[Rolling Girl (feat. Kasane Teto)](https://www.last.fm/music/KimaroArt/_/Rolling+Girl+(feat.+Kasane+Teto))** - KimaroArt<br/>
-> ∙ **[Bajiru (Lowjiru) sings Baby Got Back - Sir Mix-A-Lot](https://www.last.fm/music/ImaBeastOP/_/Bajiru+(Lowjiru)+sings+Baby+Got+Back+-+Sir+Mix-A-Lot)** - ImaBeastOP<br/>
-> ∙ **[diamonds are forever](https://www.last.fm/music/bbno$/_/diamonds+are+forever)** - bbno$<br/>
-> ∙ **[Hi Ren](https://www.last.fm/music/8:35/_/Hi+Ren)** - 8:35<br/>
-> ∙ **[My Beloved Pet Lobster feat. Hatsune Miku (The Perfect Pet)](https://www.last.fm/music/YukkoEX/_/My+Beloved+Pet+Lobster+feat.+Hatsune+Miku+(The+Perfect+Pet))** - YukkoEX<br/>
-> ∙ **[No Longer You](https://www.last.fm/music/cottontailVA/_/No+Longer+You)** - cottontailVA<br/>
-> ∙ **[Madhouse](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Madhouse)** - Inpatient, Ren, & Chris Webby<br/>
+> 🎶 **[IRyS](https://www.last.fm/music/Muse/_/IRyS)** - Muse<br/>
+> ∙ **[Evil](https://www.last.fm/music/Boom/_/Evil)** - Boom<br/>
+> ∙ **[Heathens](https://www.last.fm/music/Twenty+One+Pilots/_/Heathens)** - Twenty One Pilots<br/>
+> ∙ **[Trash Can Song](https://www.last.fm/music/Kathy-Chan,+The+Chalkeaters,+Elsie+Lovelock,+&+Michael+Kovach/_/Trash+Can+Song)** - Kathy-Chan, The Chalkeaters, Elsie Lovelock, & Michael Kovach<br/>
+> ∙ **[John Michael Howell, JVKE, ZVC](https://www.last.fm/music/A+Thousand+Years/_/John+Michael+Howell,+JVKE,+ZVC)** - A Thousand Years<br/>
+> ∙ **[Neuro & Vedal (Official Cover Video)](https://www.last.fm/music/Chinatown+Blues/_/Neuro+&+Vedal+(Official+Cover+Video))** - Chinatown Blues<br/>
+> ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
+> ∙ **[Rewinding](https://www.last.fm/music/Isaa+Corva/_/Rewinding)** - Isaa Corva<br/>
+> ∙ **[Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)** - Train<br/>
+> ∙ **[Die With A Smile](https://www.last.fm/music/Isaa+Corva/_/Die+With+A+Smile)** - Isaa Corva<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
