@@ -67,13 +67,13 @@
 > 🎶 **[Neuro-sama](https://www.last.fm/music/Life/_/Neuro-sama)** - Life<br/>
 > ∙ **[BIRDBRAIN by Jamie Paige](https://www.last.fm/music/Evil+Neuro+Karaoke/_/BIRDBRAIN+by+Jamie+Paige)** - Evil Neuro Karaoke<br/>
 > ∙ **[BOOM by Evil Neuro](https://www.last.fm/music/Neuro-sama+karaoke/_/BOOM+by+Evil+Neuro)** - Neuro-sama karaoke<br/>
+> ∙ **[Yung Kai](https://www.last.fm/music/Blue/_/Yung+Kai)** - Blue<br/>
 > ∙ **[Disturbia](https://www.last.fm/music/Isaa+Corva,+The+Oshi+Bar,+&+SixteenInMono/_/Disturbia)** - Isaa Corva, The Oshi Bar, & SixteenInMono<br/>
 > ∙ **[Dadadadadaru](https://www.last.fm/music/%E9%9B%A8%E8%89%AF+Amala/_/Dadadadadaru)** - 雨良 Amala<br/>
 > ∙ **[Original Song](https://www.last.fm/music/Illusion+Night+%EF%BC%8F+Pavolia+Reine/_/Original+Song)** - Illusion Night ／ Pavolia Reine<br/>
 > ∙ **[Rule #34](https://www.last.fm/music/Fish+in+a+Birdcage/_/Rule+%2334)** - Fish in a Birdcage<br/>
 > ∙ **[juliet](https://www.last.fm/music/Emilio+Piano,+JVKE,+&+Bryant+Barnes/_/juliet)** - Emilio Piano, JVKE, & Bryant Barnes<br/>
 > ∙ **[From The Start](https://www.last.fm/music/Sameko+Saba+sings/_/From+The+Start)** - Sameko Saba sings<br/>
-> ∙ **[「Cover」pretty girl I'll make you famous](https://www.last.fm/music/Akuma+Nihmune+Ch/_/%E3%80%8CCover%E3%80%8Dpretty+girl+I%27ll+make+you+famous)** - Akuma Nihmune Ch<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
