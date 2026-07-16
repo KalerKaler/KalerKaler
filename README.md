@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
+> 🎶 **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
+> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
 > ∙ **[Sick Boi, Pt. 2](https://www.last.fm/music/Ren/_/Sick+Boi,+Pt.+2)** - Ren<br/>
 > ∙ **[Rolling Girl (feat. Kasane Teto)](https://www.last.fm/music/KimaroArt/_/Rolling+Girl+(feat.+Kasane+Teto))** - KimaroArt<br/>
 > ∙ **[Bajiru (Lowjiru) sings Baby Got Back - Sir Mix-A-Lot](https://www.last.fm/music/ImaBeastOP/_/Bajiru+(Lowjiru)+sings+Baby+Got+Back+-+Sir+Mix-A-Lot)** - ImaBeastOP<br/>
@@ -73,7 +74,6 @@
 > ∙ **[My Beloved Pet Lobster feat. Hatsune Miku (The Perfect Pet)](https://www.last.fm/music/YukkoEX/_/My+Beloved+Pet+Lobster+feat.+Hatsune+Miku+(The+Perfect+Pet))** - YukkoEX<br/>
 > ∙ **[No Longer You](https://www.last.fm/music/cottontailVA/_/No+Longer+You)** - cottontailVA<br/>
 > ∙ **[Madhouse](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Madhouse)** - Inpatient, Ren, & Chris Webby<br/>
-> ∙ **[Sir Mix-A-Lot](https://www.last.fm/music/Bajiru+(Lowjiru)+sings+Baby+Got+Back/_/Sir+Mix-A-Lot)** - Bajiru (Lowjiru) sings Baby Got Back<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
