@@ -56,7 +56,7 @@
 > `106 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `63 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `57 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `53 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `54 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `49 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Bao The Whale  Jamie Paige, OK Glass ft. Kasane Teto](https://www.last.fm/music/BIRDBRAIN+Cover/_/Bao+The+Whale++Jamie+Paige,+OK+Glass+ft.+Kasane+Teto)** - BIRDBRAIN Cover<br/>
+> 🎶 **[Hey Chat!](https://www.last.fm/music/Levia+&+bitbreaker/_/Hey+Chat!)** - Levia & bitbreaker<br/>
+> ∙ **[Dadadadadaru](https://www.last.fm/music/%E9%9B%A8%E8%89%AF+Amala/_/Dadadadadaru)** - 雨良 Amala<br/>
+> ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
+> ∙ **[Shy Guy](https://www.last.fm/music/XTINA+GG/_/Shy+Guy)** - XTINA GG<br/>
+> ∙ **[Spaced Out](https://www.last.fm/music/nihmune/_/Spaced+Out)** - nihmune<br/>
+> ∙ **[Bao The Whale  Jamie Paige, OK Glass ft. Kasane Teto](https://www.last.fm/music/BIRDBRAIN+Cover/_/Bao+The+Whale++Jamie+Paige,+OK+Glass+ft.+Kasane+Teto)** - BIRDBRAIN Cover<br/>
 > ∙ **[What the ████](https://www.last.fm/music/Netsubi/_/What+the+%E2%96%88%E2%96%88%E2%96%88%E2%96%88)** - Netsubi<br/>
 > ∙ **[Neuro-sama](https://www.last.fm/music/Life/_/Neuro-sama)** - Life<br/>
 > ∙ **[BIRDBRAIN by Jamie Paige](https://www.last.fm/music/Evil+Neuro+Karaoke/_/BIRDBRAIN+by+Jamie+Paige)** - Evil Neuro Karaoke<br/>
 > ∙ **[BOOM by Evil Neuro](https://www.last.fm/music/Neuro-sama+karaoke/_/BOOM+by+Evil+Neuro)** - Neuro-sama karaoke<br/>
-> ∙ **[Yung Kai](https://www.last.fm/music/Blue/_/Yung+Kai)** - Blue<br/>
-> ∙ **[Disturbia](https://www.last.fm/music/Isaa+Corva,+The+Oshi+Bar,+&+SixteenInMono/_/Disturbia)** - Isaa Corva, The Oshi Bar, & SixteenInMono<br/>
-> ∙ **[Dadadadadaru](https://www.last.fm/music/%E9%9B%A8%E8%89%AF+Amala/_/Dadadadadaru)** - 雨良 Amala<br/>
-> ∙ **[Original Song](https://www.last.fm/music/Illusion+Night+%EF%BC%8F+Pavolia+Reine/_/Original+Song)** - Illusion Night ／ Pavolia Reine<br/>
-> ∙ **[Rule #34](https://www.last.fm/music/Fish+in+a+Birdcage/_/Rule+%2334)** - Fish in a Birdcage<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
