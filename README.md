@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Hey Chat!](https://www.last.fm/music/Levia+&+bitbreaker/_/Hey+Chat!)** - Levia & bitbreaker<br/>
+> 🎶 **[LIFE](https://www.last.fm/music/Neuro-sama/_/LIFE)** - Neuro-sama<br/>
+> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
+> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
+> ∙ **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
+> ∙ **[Hey Chat!](https://www.last.fm/music/Levia+&+bitbreaker/_/Hey+Chat!)** - Levia & bitbreaker<br/>
 > ∙ **[Dadadadadaru](https://www.last.fm/music/%E9%9B%A8%E8%89%AF+Amala/_/Dadadadadaru)** - 雨良 Amala<br/>
 > ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
 > ∙ **[Shy Guy](https://www.last.fm/music/XTINA+GG/_/Shy+Guy)** - XTINA GG<br/>
 > ∙ **[Spaced Out](https://www.last.fm/music/nihmune/_/Spaced+Out)** - nihmune<br/>
 > ∙ **[Bao The Whale  Jamie Paige, OK Glass ft. Kasane Teto](https://www.last.fm/music/BIRDBRAIN+Cover/_/Bao+The+Whale++Jamie+Paige,+OK+Glass+ft.+Kasane+Teto)** - BIRDBRAIN Cover<br/>
-> ∙ **[What the ████](https://www.last.fm/music/Netsubi/_/What+the+%E2%96%88%E2%96%88%E2%96%88%E2%96%88)** - Netsubi<br/>
-> ∙ **[Neuro-sama](https://www.last.fm/music/Life/_/Neuro-sama)** - Life<br/>
-> ∙ **[BIRDBRAIN by Jamie Paige](https://www.last.fm/music/Evil+Neuro+Karaoke/_/BIRDBRAIN+by+Jamie+Paige)** - Evil Neuro Karaoke<br/>
-> ∙ **[BOOM by Evil Neuro](https://www.last.fm/music/Neuro-sama+karaoke/_/BOOM+by+Evil+Neuro)** - Neuro-sama karaoke<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
