@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[What the ████](https://www.last.fm/music/Netsubi/_/What+the+%E2%96%88%E2%96%88%E2%96%88%E2%96%88)** - Netsubi<br/>
+> 🎶 **[Bao The Whale  Jamie Paige, OK Glass ft. Kasane Teto](https://www.last.fm/music/BIRDBRAIN+Cover/_/Bao+The+Whale++Jamie+Paige,+OK+Glass+ft.+Kasane+Teto)** - BIRDBRAIN Cover<br/>
+> ∙ **[What the ████](https://www.last.fm/music/Netsubi/_/What+the+%E2%96%88%E2%96%88%E2%96%88%E2%96%88)** - Netsubi<br/>
 > ∙ **[Neuro-sama](https://www.last.fm/music/Life/_/Neuro-sama)** - Life<br/>
 > ∙ **[BIRDBRAIN by Jamie Paige](https://www.last.fm/music/Evil+Neuro+Karaoke/_/BIRDBRAIN+by+Jamie+Paige)** - Evil Neuro Karaoke<br/>
 > ∙ **[BOOM by Evil Neuro](https://www.last.fm/music/Neuro-sama+karaoke/_/BOOM+by+Evil+Neuro)** - Neuro-sama karaoke<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Dadadadadaru](https://www.last.fm/music/%E9%9B%A8%E8%89%AF+Amala/_/Dadadadadaru)** - 雨良 Amala<br/>
 > ∙ **[Original Song](https://www.last.fm/music/Illusion+Night+%EF%BC%8F+Pavolia+Reine/_/Original+Song)** - Illusion Night ／ Pavolia Reine<br/>
 > ∙ **[Rule #34](https://www.last.fm/music/Fish+in+a+Birdcage/_/Rule+%2334)** - Fish in a Birdcage<br/>
-> ∙ **[juliet](https://www.last.fm/music/Emilio+Piano,+JVKE,+&+Bryant+Barnes/_/juliet)** - Emilio Piano, JVKE, & Bryant Barnes<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
