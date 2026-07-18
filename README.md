@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[LIFE](https://www.last.fm/music/Neuro-sama/_/LIFE)** - Neuro-sama<br/>
+> 🎶 **[yezzir](https://www.last.fm/music/bbno$/_/yezzir)** - bbno$<br/>
+> ∙ **[LIFE](https://www.last.fm/music/Neuro-sama/_/LIFE)** - Neuro-sama<br/>
 > ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
 > ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
 > ∙ **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
@@ -73,7 +74,6 @@
 > ∙ **[numb numb](https://www.last.fm/music/Tak/_/numb+numb)** - Tak<br/>
 > ∙ **[Shy Guy](https://www.last.fm/music/XTINA+GG/_/Shy+Guy)** - XTINA GG<br/>
 > ∙ **[Spaced Out](https://www.last.fm/music/nihmune/_/Spaced+Out)** - nihmune<br/>
-> ∙ **[Bao The Whale  Jamie Paige, OK Glass ft. Kasane Teto](https://www.last.fm/music/BIRDBRAIN+Cover/_/Bao+The+Whale++Jamie+Paige,+OK+Glass+ft.+Kasane+Teto)** - BIRDBRAIN Cover<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
