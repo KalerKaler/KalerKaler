@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
-> ∙ **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
-> ∙ **[study to](https://www.last.fm/music/lofi+hip+hop+radio+%F0%9F%93%9A+beats+to+relax/_/study+to)** - lofi hip hop radio 📚 beats to relax<br/>
-> ∙ **[Neuro-sama](https://www.last.fm/music/Colorful+Array/_/Neuro-sama)** - Colorful Array<br/>
-> ∙ **[made](https://www.last.fm/music/Cover+%7C+M@GICAL%E2%98%86CURE!+LOVE+%E2%99%A5+SHOT!++(SAWTONE)+Fan/_/made)** - Cover | M@GICAL☆CURE! LOVE ♥ SHOT!  (SAWTONE) Fan<br/>
-> ∙ **[Evil Neuro](https://www.last.fm/music/Pregnant+Sonic/_/Evil+Neuro)** - Pregnant Sonic<br/>
-> ∙ **[yezzir](https://www.last.fm/music/bbno$/_/yezzir)** - bbno$<br/>
-> ∙ **[LIFE](https://www.last.fm/music/Neuro-sama/_/LIFE)** - Neuro-sama<br/>
-> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
-> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
+> 🎶 **[I don't want to be an engineer](https://www.last.fm/music/_neurosama/_/I+don%27t+want+to+be+an+engineer)** - _neurosama<br/>
+> ∙ **[Dear, Gunrun.](https://www.last.fm/music/Camila/_/Dear,+Gunrun.)** - Camila<br/>
+> ∙ **[Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)** - Shotgun Willy<br/>
+> ∙ **[Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)** - Train<br/>
+> ∙ **[Wellerman](https://www.last.fm/music/Pirate+Neuro-sama+Sings/_/Wellerman)** - Pirate Neuro-sama Sings<br/>
+> ∙ **[Cover by Camila and Evil](https://www.last.fm/music/Camila/_/Cover+by+Camila+and+Evil)** - Camila<br/>
+> ∙ **[SMILE (Original Song) Official Music Video](https://www.last.fm/music/Bao+The+Whale/_/SMILE+(Original+Song)+Official+Music+Video)** - Bao The Whale<br/>
+> ∙ **[Neuro-sama Cover Animation ft. anny](https://www.last.fm/music/Seishun+Complex/_/Neuro-sama+Cover+Animation+ft.+anny)** - Seishun Complex<br/>
+> ∙ **[「Original 」Restricted Future ft. @LeeandLie](https://www.last.fm/music/Akuma+Nihmune+Ch/_/%E3%80%8COriginal+%E3%80%8DRestricted+Future+ft.+@LeeandLie)** - Akuma Nihmune Ch<br/>
+> ∙ **[Dan Dan Don Don](https://www.last.fm/music/Nanashi+Mumei+Ch.+hololive-EN/_/Dan+Dan+Don+Don)** - Nanashi Mumei Ch. hololive-EN<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
