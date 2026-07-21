@@ -55,7 +55,7 @@
 
 > `106 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `63 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `57 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `58 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `55 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `49 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[BOOM](https://www.last.fm/music/Evil+Neuro/_/BOOM)** - Evil Neuro<br/>
-> ∙ **[死ぬのがいいわ - Shinunoga E-Wa](https://www.last.fm/music/Fujii+Kaze/_/%E6%AD%BB%E3%81%AC%E3%81%AE%E3%81%8C%E3%81%84%E3%81%84%E3%82%8F+-+Shinunoga+E-Wa)** - Fujii Kaze<br/>
-> ∙ **[Bottom 2 (feat. Shylily, Bao the Whale, Neuro-Sama & Camila)](https://www.last.fm/music/nihmune/_/Bottom+2+(feat.+Shylily,+Bao+the+Whale,+Neuro-Sama+&+Camila))** - nihmune<br/>
-> ∙ **[NEVER (feat. Evil Neuro)](https://www.last.fm/music/Neuro-sama,+Evil+Neuro/_/NEVER+(feat.+Evil+Neuro))** - Neuro-sama, Evil Neuro<br/>
-> ∙ **[I don't want to be an engineer](https://www.last.fm/music/_neurosama/_/I+don%27t+want+to+be+an+engineer)** - _neurosama<br/>
-> ∙ **[Dear, Gunrun.](https://www.last.fm/music/Camila/_/Dear,+Gunrun.)** - Camila<br/>
-> ∙ **[Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)** - Shotgun Willy<br/>
-> ∙ **[Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)** - Train<br/>
-> ∙ **[Wellerman](https://www.last.fm/music/Pirate+Neuro-sama+Sings/_/Wellerman)** - Pirate Neuro-sama Sings<br/>
-> ∙ **[Cover by Camila and Evil](https://www.last.fm/music/Camila/_/Cover+by+Camila+and+Evil)** - Camila<br/>
+> 🎶 **[MIRA](https://www.last.fm/music/Bao+The+Whale/_/MIRA)** - Bao The Whale<br/>
+> ∙ **[LEMON MELON COOKIE](https://www.last.fm/music/Tak/_/LEMON+MELON+COOKIE)** - Tak<br/>
+> ∙ **[Lost In The Stars (feat. vally.exe)](https://www.last.fm/music/Halacg/_/Lost+In+The+Stars+(feat.+vally.exe))** - Halacg<br/>
+> ∙ **[Window View](https://www.last.fm/music/Farewell225/_/Window+View)** - Farewell225<br/>
+> ∙ **[重音テト](https://www.last.fm/music/%E3%81%8A%E3%81%B0%E3%81%91%E4%BD%93%E9%A8%93/_/%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88)** - おばけ体験<br/>
+> ∙ **[Prisoner (FUWAMOCO ver.)](https://www.last.fm/music/FUWAMOCO/_/Prisoner+(FUWAMOCO+ver.))** - FUWAMOCO<br/>
+> ∙ **[iMAGINAry](https://www.last.fm/music/Nakiso/_/iMAGINAry)** - Nakiso<br/>
+> ∙ **[Martyr](https://www.last.fm/music/Takanashi+Kiara/_/Martyr)** - Takanashi Kiara<br/>
+> ∙ **[Monitoring (Best Friend Remix)](https://www.last.fm/music/DECO*27/_/Monitoring+(Best+Friend+Remix))** - DECO*27<br/>
+> ∙ **[Sound](https://www.last.fm/music/Isaa+Corva/_/Sound)** - Isaa Corva<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
