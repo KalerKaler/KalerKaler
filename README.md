@@ -56,7 +56,7 @@
 > `106 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `63 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `57 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `54 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `55 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `49 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[I don't want to be an engineer](https://www.last.fm/music/_neurosama/_/I+don%27t+want+to+be+an+engineer)** - _neurosama<br/>
+> 🎶 **[BOOM](https://www.last.fm/music/Evil+Neuro/_/BOOM)** - Evil Neuro<br/>
+> ∙ **[死ぬのがいいわ - Shinunoga E-Wa](https://www.last.fm/music/Fujii+Kaze/_/%E6%AD%BB%E3%81%AC%E3%81%AE%E3%81%8C%E3%81%84%E3%81%84%E3%82%8F+-+Shinunoga+E-Wa)** - Fujii Kaze<br/>
+> ∙ **[Bottom 2 (feat. Shylily, Bao the Whale, Neuro-Sama & Camila)](https://www.last.fm/music/nihmune/_/Bottom+2+(feat.+Shylily,+Bao+the+Whale,+Neuro-Sama+&+Camila))** - nihmune<br/>
+> ∙ **[NEVER (feat. Evil Neuro)](https://www.last.fm/music/Neuro-sama,+Evil+Neuro/_/NEVER+(feat.+Evil+Neuro))** - Neuro-sama, Evil Neuro<br/>
+> ∙ **[I don't want to be an engineer](https://www.last.fm/music/_neurosama/_/I+don%27t+want+to+be+an+engineer)** - _neurosama<br/>
 > ∙ **[Dear, Gunrun.](https://www.last.fm/music/Camila/_/Dear,+Gunrun.)** - Camila<br/>
 > ∙ **[Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)** - Shotgun Willy<br/>
 > ∙ **[Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)** - Train<br/>
 > ∙ **[Wellerman](https://www.last.fm/music/Pirate+Neuro-sama+Sings/_/Wellerman)** - Pirate Neuro-sama Sings<br/>
 > ∙ **[Cover by Camila and Evil](https://www.last.fm/music/Camila/_/Cover+by+Camila+and+Evil)** - Camila<br/>
-> ∙ **[SMILE (Original Song) Official Music Video](https://www.last.fm/music/Bao+The+Whale/_/SMILE+(Original+Song)+Official+Music+Video)** - Bao The Whale<br/>
-> ∙ **[Neuro-sama Cover Animation ft. anny](https://www.last.fm/music/Seishun+Complex/_/Neuro-sama+Cover+Animation+ft.+anny)** - Seishun Complex<br/>
-> ∙ **[「Original 」Restricted Future ft. @LeeandLie](https://www.last.fm/music/Akuma+Nihmune+Ch/_/%E3%80%8COriginal+%E3%80%8DRestricted+Future+ft.+@LeeandLie)** - Akuma Nihmune Ch<br/>
-> ∙ **[Dan Dan Don Don](https://www.last.fm/music/Nanashi+Mumei+Ch.+hololive-EN/_/Dan+Dan+Don+Don)** - Nanashi Mumei Ch. hololive-EN<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
