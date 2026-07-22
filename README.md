@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[MIRA](https://www.last.fm/music/Bao+The+Whale/_/MIRA)** - Bao The Whale<br/>
+> 🎶 **[daniwell feat. 重音テト＆小春六花＆宮舞モカ](https://www.last.fm/music/%E3%83%95%E3%83%A9%E3%82%B0%E3%83%A1/_/daniwell+feat.+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88%EF%BC%86%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1%EF%BC%86%E5%AE%AE%E8%88%9E%E3%83%A2%E3%82%AB)** - フラグメ<br/>
+> ∙ **[求＆影(Q&A) 重音テト](https://www.last.fm/music/%E3%81%B4%E3%83%BC%E3%81%AA%E3%81%9F/_/%E6%B1%82%EF%BC%86%E5%BD%B1(Q&A)+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88)** - ぴーなた<br/>
+> ∙ **[MTMTM](https://www.last.fm/music/Tak/_/MTMTM)** - Tak<br/>
+> ∙ **[My Way, So What!](https://www.last.fm/music/%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%81%A7%E4%BD%95%E3%81%8C%E6%82%AA%E3%81%84%EF%BC%81+%2F+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88%E3%83%BB%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF/_/My+Way,+So+What!)** - わがままで何が悪い！ / 重音テト・初音ミク<br/>
+> ∙ **[MIRA](https://www.last.fm/music/Bao+The+Whale/_/MIRA)** - Bao The Whale<br/>
 > ∙ **[LEMON MELON COOKIE](https://www.last.fm/music/Tak/_/LEMON+MELON+COOKIE)** - Tak<br/>
 > ∙ **[Lost In The Stars (feat. vally.exe)](https://www.last.fm/music/Halacg/_/Lost+In+The+Stars+(feat.+vally.exe))** - Halacg<br/>
 > ∙ **[Window View](https://www.last.fm/music/Farewell225/_/Window+View)** - Farewell225<br/>
 > ∙ **[重音テト](https://www.last.fm/music/%E3%81%8A%E3%81%B0%E3%81%91%E4%BD%93%E9%A8%93/_/%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88)** - おばけ体験<br/>
 > ∙ **[Prisoner (FUWAMOCO ver.)](https://www.last.fm/music/FUWAMOCO/_/Prisoner+(FUWAMOCO+ver.))** - FUWAMOCO<br/>
-> ∙ **[iMAGINAry](https://www.last.fm/music/Nakiso/_/iMAGINAry)** - Nakiso<br/>
-> ∙ **[Martyr](https://www.last.fm/music/Takanashi+Kiara/_/Martyr)** - Takanashi Kiara<br/>
-> ∙ **[Monitoring (Best Friend Remix)](https://www.last.fm/music/DECO*27/_/Monitoring+(Best+Friend+Remix))** - DECO*27<br/>
-> ∙ **[Sound](https://www.last.fm/music/Isaa+Corva/_/Sound)** - Isaa Corva<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
