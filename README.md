@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[(Ft. Kasane Teto SV2) (重音テトSV2)](https://www.last.fm/music/Suicide+Note+(OCD)/_/(Ft.+Kasane+Teto+SV2)+(%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88SV2))** - Suicide Note (OCD)<br/>
-> ∙ **[kafu](https://www.last.fm/music/%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A4+%2F+phony/_/kafu)** - フォニイ / phony<br/>
-> ∙ **[Ren x Sam Tompkins - What Went Wrong II](https://www.last.fm/music/Ren/_/Ren+x+Sam+Tompkins+-+What+Went+Wrong+II)** - Ren<br/>
-> ∙ **[Feel Good Inc.](https://www.last.fm/music/+noredirect/Gorillaz,+De+La+Soul/_/Feel+Good+Inc.)** - Gorillaz, De La Soul<br/>
-> ∙ **[daniwell feat. 重音テト＆小春六花＆宮舞モカ](https://www.last.fm/music/%E3%83%95%E3%83%A9%E3%82%B0%E3%83%A1/_/daniwell+feat.+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88%EF%BC%86%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1%EF%BC%86%E5%AE%AE%E8%88%9E%E3%83%A2%E3%82%AB)** - フラグメ<br/>
-> ∙ **[求＆影(Q&A) 重音テト](https://www.last.fm/music/%E3%81%B4%E3%83%BC%E3%81%AA%E3%81%9F/_/%E6%B1%82%EF%BC%86%E5%BD%B1(Q&A)+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88)** - ぴーなた<br/>
-> ∙ **[MTMTM](https://www.last.fm/music/Tak/_/MTMTM)** - Tak<br/>
-> ∙ **[My Way, So What!](https://www.last.fm/music/%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%81%A7%E4%BD%95%E3%81%8C%E6%82%AA%E3%81%84%EF%BC%81+%2F+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88%E3%83%BB%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF/_/My+Way,+So+What!)** - わがままで何が悪い！ / 重音テト・初音ミク<br/>
-> ∙ **[MIRA](https://www.last.fm/music/Bao+The+Whale/_/MIRA)** - Bao The Whale<br/>
-> ∙ **[LEMON MELON COOKIE](https://www.last.fm/music/Tak/_/LEMON+MELON+COOKIE)** - Tak<br/>
+> 🎶 **[Stuckmoth](https://www.last.fm/music/DECO*27/_/Stuckmoth)** - DECO*27<br/>
+> ∙ **[Stuckmoth](https://www.last.fm/music/DECO*27/_/Stuckmoth)** - DECO*27<br/>
+> ∙ **[Seven Dollars](https://www.last.fm/music/Happy+Birthday+Mr.+Baskets/_/Seven+Dollars)** - Happy Birthday Mr. Baskets<br/>
+> ∙ **[FLOP ERA](https://www.last.fm/music/Epiaeon/_/FLOP+ERA)** - Epiaeon<br/>
+> ∙ **[Superfusion](https://www.last.fm/music/Maiku+Tachibana/_/Superfusion)** - Maiku Tachibana<br/>
+> ∙ **[LOG OFF](https://www.last.fm/music/Staircatte/_/LOG+OFF)** - Staircatte<br/>
+> ∙ **[Down Down Down Down](https://www.last.fm/music/FEM&M/_/Down+Down+Down+Down)** - FEM&M<br/>
+> ∙ **[i drink and drive](https://www.last.fm/music/Takumi/_/i+drink+and+drive)** - Takumi<br/>
+> ∙ **[Love Song](https://www.last.fm/music/QKReign/_/Love+Song)** - QKReign<br/>
+> ∙ **[炜WARD ROMANCE](https://www.last.fm/music/Flavor+Foley/_/%E7%82%9CWARD+ROMANCE)** - Flavor Foley<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
