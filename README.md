@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Stuckmoth](https://www.last.fm/music/DECO*27/_/Stuckmoth)** - DECO*27<br/>
+> 🎶 **[strawberry panic](https://www.last.fm/music/Astrid/_/strawberry+panic)** - Astrid<br/>
+> ∙ **[What the ████](https://www.last.fm/music/Netsubi/_/What+the+%E2%96%88%E2%96%88%E2%96%88%E2%96%88)** - Netsubi<br/>
+> ∙ **[sucker punch](https://www.last.fm/music/astrid+&+Clark+Rainbow/_/sucker+punch)** - astrid & Clark Rainbow<br/>
+> ∙ **[Approve Please, Genie!](https://www.last.fm/music/TRAP+CHICK/_/Approve+Please,+Genie!)** - TRAP CHICK<br/>
 > ∙ **[Stuckmoth](https://www.last.fm/music/DECO*27/_/Stuckmoth)** - DECO*27<br/>
 > ∙ **[Seven Dollars](https://www.last.fm/music/Happy+Birthday+Mr.+Baskets/_/Seven+Dollars)** - Happy Birthday Mr. Baskets<br/>
 > ∙ **[FLOP ERA](https://www.last.fm/music/Epiaeon/_/FLOP+ERA)** - Epiaeon<br/>
 > ∙ **[Superfusion](https://www.last.fm/music/Maiku+Tachibana/_/Superfusion)** - Maiku Tachibana<br/>
 > ∙ **[LOG OFF](https://www.last.fm/music/Staircatte/_/LOG+OFF)** - Staircatte<br/>
 > ∙ **[Down Down Down Down](https://www.last.fm/music/FEM&M/_/Down+Down+Down+Down)** - FEM&M<br/>
-> ∙ **[i drink and drive](https://www.last.fm/music/Takumi/_/i+drink+and+drive)** - Takumi<br/>
-> ∙ **[Love Song](https://www.last.fm/music/QKReign/_/Love+Song)** - QKReign<br/>
-> ∙ **[炜WARD ROMANCE](https://www.last.fm/music/Flavor+Foley/_/%E7%82%9CWARD+ROMANCE)** - Flavor Foley<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
