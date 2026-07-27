@@ -66,7 +66,6 @@
 
 > 🎶 **[AutoCorrection](https://www.last.fm/music/NonsenseNH/_/AutoCorrection)** - NonsenseNH<br/>
 > ∙ **[AutoCorrection](https://www.last.fm/music/NonsenseNH/_/AutoCorrection)** - NonsenseNH<br/>
-> ∙ **[AutoCorrection](https://www.last.fm/music/NonsenseNH/_/AutoCorrection)** - NonsenseNH<br/>
 > ∙ **[Disconnect](https://www.last.fm/music/DryftiN/_/Disconnect)** - DryftiN<br/>
 > ∙ **[Heathens](https://www.last.fm/music/Twenty+One+Pilots/_/Heathens)** - Twenty One Pilots<br/>
 > ∙ **[Life kinda sucks](https://www.last.fm/music/Roma/_/Life+kinda+sucks)** - Roma<br/>
@@ -74,6 +73,7 @@
 > ∙ **[Together](https://www.last.fm/music/Ellie+Minibot/_/Together)** - Ellie Minibot<br/>
 > ∙ **[Same Moon](https://www.last.fm/music/Ellie+Minibot/_/Same+Moon)** - Ellie Minibot<br/>
 > ∙ **[Brain Implosion Energy Drink](https://www.last.fm/music/Flanger+Moose/_/Brain+Implosion+Energy+Drink)** - Flanger Moose<br/>
+> ∙ **[strawberry panic](https://www.last.fm/music/Astrid/_/strawberry+panic)** - Astrid<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
