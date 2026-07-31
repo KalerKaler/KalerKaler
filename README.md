@@ -81,7 +81,8 @@
 # I use Nyarch BTW, cause why not
 
 <p align="center">
-<img width="726" height="295" alt="image" src="https://github.com/user-attachments/assets/a6a0a1cd-9cdf-4d2a-9654-126ec5d7ead2" />
+<img width="726" height="295" alt="image" src="https://github.com/user-attachments/assets/7928bf1f-6a61-48e0-972a-d46430bab619" />
+
 </p>
 
 ---
