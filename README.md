@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[AutoCorrection](https://www.last.fm/music/NonsenseNH/_/AutoCorrection)** - NonsenseNH<br/>
+> 🎶 **[ROT FOR CLOUT](https://www.last.fm/music/Jamie+Paige+&+Visualeyes/_/ROT+FOR+CLOUT)** - Jamie Paige & Visualeyes<br/>
+> ∙ **[AutoCorrection](https://www.last.fm/music/NonsenseNH/_/AutoCorrection)** - NonsenseNH<br/>
 > ∙ **[AutoCorrection](https://www.last.fm/music/NonsenseNH/_/AutoCorrection)** - NonsenseNH<br/>
 > ∙ **[Disconnect](https://www.last.fm/music/DryftiN/_/Disconnect)** - DryftiN<br/>
 > ∙ **[Heathens](https://www.last.fm/music/Twenty+One+Pilots/_/Heathens)** - Twenty One Pilots<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Together](https://www.last.fm/music/Ellie+Minibot/_/Together)** - Ellie Minibot<br/>
 > ∙ **[Same Moon](https://www.last.fm/music/Ellie+Minibot/_/Same+Moon)** - Ellie Minibot<br/>
 > ∙ **[Brain Implosion Energy Drink](https://www.last.fm/music/Flanger+Moose/_/Brain+Implosion+Energy+Drink)** - Flanger Moose<br/>
-> ∙ **[strawberry panic](https://www.last.fm/music/Astrid/_/strawberry+panic)** - Astrid<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
