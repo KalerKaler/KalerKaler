@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[That Girl](https://www.last.fm/music/Amrinder+Gill,+Dr+Zeus,+Raj+Ranjodh/_/That+Girl)** - Amrinder Gill, Dr Zeus, Raj Ranjodh<br/>
+> 🎶 **[The Beast](https://www.last.fm/music/Cheema+Y,+Gur+Sidhu/_/The+Beast)** - Cheema Y, Gur Sidhu<br/>
+> ∙ **[Butterfly](https://www.last.fm/music/Jass+Manak/_/Butterfly)** - Jass Manak<br/>
+> ∙ **[One In A Million](https://www.last.fm/music/Jordan+Sandhu/_/One+In+A+Million)** - Jordan Sandhu<br/>
+> ∙ **[Haseen](https://www.last.fm/music/Talwiinder,+NDS,+Rippy+Grewal/_/Haseen)** - Talwiinder, NDS, Rippy Grewal<br/>
+> ∙ **[Pandit Kehnda | Kabal Singh Sohi | Malhi Jarnail | Arig Music | Latest Punjabi Song | Punjabi Song](https://www.last.fm/music/Malhi+Jarnail/_/Pandit+Kehnda+%7C+Kabal+Singh+Sohi+%7C+Malhi+Jarnail+%7C+Arig+Music+%7C+Latest+Punjabi+Song+%7C+Punjabi+Song)** - Malhi Jarnail<br/>
+> ∙ **[That Girl](https://www.last.fm/music/Amrinder+Gill,+Dr+Zeus,+Raj+Ranjodh/_/That+Girl)** - Amrinder Gill, Dr Zeus, Raj Ranjodh<br/>
 > ∙ **[COFFEE](https://www.last.fm/music/Jasmeen+Akhtar,+Amrinder+Gill,+Raj+Ranjodh/_/COFFEE)** - Jasmeen Akhtar, Amrinder Gill, Raj Ranjodh<br/>
 > ∙ **[Singh Nihang](https://www.last.fm/music/Kabal+Singh+Sohi+&+Malhi+Jarnail/_/Singh+Nihang)** - Kabal Singh Sohi & Malhi Jarnail<br/>
 > ∙ **[Pandit Kehnda | Kabal Singh Sohi | Malhi Jarnail | Arig Music | Latest Punjabi Song | Punjabi Song](https://www.last.fm/music/Malhi+Jarnail/_/Pandit+Kehnda+%7C+Kabal+Singh+Sohi+%7C+Malhi+Jarnail+%7C+Arig+Music+%7C+Latest+Punjabi+Song+%7C+Punjabi+Song)** - Malhi Jarnail<br/>
 > ∙ **[Shoulder (Full Audio Song) | Diljit Dosanjh | Punjabi Song Collection | Speed Records](https://www.last.fm/music/Mankirt+Aulakh/_/Shoulder+(Full+Audio+Song)+%7C+Diljit+Dosanjh+%7C+Punjabi+Song+Collection+%7C+Speed+Records)** - Mankirt Aulakh<br/>
-> ∙ **[ROT FOR CLOUT](https://www.last.fm/music/Jamie+Paige+&+Visualeyes/_/ROT+FOR+CLOUT)** - Jamie Paige & Visualeyes<br/>
-> ∙ **[AutoCorrection](https://www.last.fm/music/NonsenseNH/_/AutoCorrection)** - NonsenseNH<br/>
-> ∙ **[AutoCorrection](https://www.last.fm/music/NonsenseNH/_/AutoCorrection)** - NonsenseNH<br/>
-> ∙ **[Disconnect](https://www.last.fm/music/DryftiN/_/Disconnect)** - DryftiN<br/>
-> ∙ **[Heathens](https://www.last.fm/music/Twenty+One+Pilots/_/Heathens)** - Twenty One Pilots<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
