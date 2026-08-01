@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[The Beast](https://www.last.fm/music/Cheema+Y,+Gur+Sidhu/_/The+Beast)** - Cheema Y, Gur Sidhu<br/>
-> ∙ **[Butterfly](https://www.last.fm/music/Jass+Manak/_/Butterfly)** - Jass Manak<br/>
-> ∙ **[One In A Million](https://www.last.fm/music/Jordan+Sandhu/_/One+In+A+Million)** - Jordan Sandhu<br/>
-> ∙ **[Haseen](https://www.last.fm/music/Talwiinder,+NDS,+Rippy+Grewal/_/Haseen)** - Talwiinder, NDS, Rippy Grewal<br/>
-> ∙ **[Pandit Kehnda | Kabal Singh Sohi | Malhi Jarnail | Arig Music | Latest Punjabi Song | Punjabi Song](https://www.last.fm/music/Malhi+Jarnail/_/Pandit+Kehnda+%7C+Kabal+Singh+Sohi+%7C+Malhi+Jarnail+%7C+Arig+Music+%7C+Latest+Punjabi+Song+%7C+Punjabi+Song)** - Malhi Jarnail<br/>
-> ∙ **[That Girl](https://www.last.fm/music/Amrinder+Gill,+Dr+Zeus,+Raj+Ranjodh/_/That+Girl)** - Amrinder Gill, Dr Zeus, Raj Ranjodh<br/>
-> ∙ **[COFFEE](https://www.last.fm/music/Jasmeen+Akhtar,+Amrinder+Gill,+Raj+Ranjodh/_/COFFEE)** - Jasmeen Akhtar, Amrinder Gill, Raj Ranjodh<br/>
-> ∙ **[Singh Nihang](https://www.last.fm/music/Kabal+Singh+Sohi+&+Malhi+Jarnail/_/Singh+Nihang)** - Kabal Singh Sohi & Malhi Jarnail<br/>
-> ∙ **[Pandit Kehnda | Kabal Singh Sohi | Malhi Jarnail | Arig Music | Latest Punjabi Song | Punjabi Song](https://www.last.fm/music/Malhi+Jarnail/_/Pandit+Kehnda+%7C+Kabal+Singh+Sohi+%7C+Malhi+Jarnail+%7C+Arig+Music+%7C+Latest+Punjabi+Song+%7C+Punjabi+Song)** - Malhi Jarnail<br/>
-> ∙ **[Shoulder (Full Audio Song) | Diljit Dosanjh | Punjabi Song Collection | Speed Records](https://www.last.fm/music/Mankirt+Aulakh/_/Shoulder+(Full+Audio+Song)+%7C+Diljit+Dosanjh+%7C+Punjabi+Song+Collection+%7C+Speed+Records)** - Mankirt Aulakh<br/>
+> 🎶 **[What We Do](https://www.last.fm/music/Jxggi,+Sickboi/_/What+We+Do)** - Jxggi, Sickboi<br/>
+> ∙ **[CEO](https://www.last.fm/music/Cheema+Y,+Gur+Sidhu/_/CEO)** - Cheema Y, Gur Sidhu<br/>
+> ∙ **[Waalian](https://www.last.fm/music/HARNOOR/_/Waalian)** - HARNOOR<br/>
+> ∙ **[Panga (feat. Jasmeen Akhtar)](https://www.last.fm/music/Jordan+Sandhu,+Jasmine+Akhtar,+Rav+Hanjra,+and+The+Kidd/_/Panga+(feat.+Jasmeen+Akhtar))** - Jordan Sandhu, Jasmine Akhtar, Rav Hanjra, and The Kidd<br/>
+> ∙ **[Low Fade](https://www.last.fm/music/Karan+Aujla,+Mxrci/_/Low+Fade)** - Karan Aujla, Mxrci<br/>
+> ∙ **[Money 2X](https://www.last.fm/music/Cheema+Y,+Gur+Sidhu/_/Money+2X)** - Cheema Y, Gur Sidhu<br/>
+> ∙ **[Munda Si Koole Pat Warga (Remix)](https://www.last.fm/music/Smoke+ride/_/Munda+Si+Koole+Pat+Warga+(Remix))** - Smoke ride<br/>
+> ∙ **[Can't Be Us](https://www.last.fm/music/Prem+Dhillon,+Sudesh+Kumari,+The+Kidd/_/Can%27t+Be+Us)** - Prem Dhillon, Sudesh Kumari, The Kidd<br/>
+> ∙ **[California Retro](https://www.last.fm/music/Young+Gill/_/California+Retro)** - Young Gill<br/>
+> ∙ **[God’s Favorite (feat. Sultaan)](https://www.last.fm/music/Jordan+Sandhu,+Sultaan,+Kaptaan,+and+Avvy+Sra/_/God%E2%80%99s+Favorite+(feat.+Sultaan))** - Jordan Sandhu, Sultaan, Kaptaan, and Avvy Sra<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
