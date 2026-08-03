@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[What We Do](https://www.last.fm/music/Jxggi,+Sickboi/_/What+We+Do)** - Jxggi, Sickboi<br/>
+> 🎶 **[ROT FOR CLOUT](https://www.last.fm/music/Jamie+Paige+&+Visualeyes/_/ROT+FOR+CLOUT)** - Jamie Paige & Visualeyes<br/>
+> ∙ **[What We Do](https://www.last.fm/music/Jxggi,+Sickboi/_/What+We+Do)** - Jxggi, Sickboi<br/>
 > ∙ **[CEO](https://www.last.fm/music/Cheema+Y,+Gur+Sidhu/_/CEO)** - Cheema Y, Gur Sidhu<br/>
 > ∙ **[Waalian](https://www.last.fm/music/HARNOOR/_/Waalian)** - HARNOOR<br/>
 > ∙ **[Panga (feat. Jasmeen Akhtar)](https://www.last.fm/music/Jordan+Sandhu,+Jasmine+Akhtar,+Rav+Hanjra,+and+The+Kidd/_/Panga+(feat.+Jasmeen+Akhtar))** - Jordan Sandhu, Jasmine Akhtar, Rav Hanjra, and The Kidd<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Munda Si Koole Pat Warga (Remix)](https://www.last.fm/music/Smoke+ride/_/Munda+Si+Koole+Pat+Warga+(Remix))** - Smoke ride<br/>
 > ∙ **[Can't Be Us](https://www.last.fm/music/Prem+Dhillon,+Sudesh+Kumari,+The+Kidd/_/Can%27t+Be+Us)** - Prem Dhillon, Sudesh Kumari, The Kidd<br/>
 > ∙ **[California Retro](https://www.last.fm/music/Young+Gill/_/California+Retro)** - Young Gill<br/>
-> ∙ **[God’s Favorite (feat. Sultaan)](https://www.last.fm/music/Jordan+Sandhu,+Sultaan,+Kaptaan,+and+Avvy+Sra/_/God%E2%80%99s+Favorite+(feat.+Sultaan))** - Jordan Sandhu, Sultaan, Kaptaan, and Avvy Sra<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
