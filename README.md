@@ -64,8 +64,7 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[少女Aに夜露死苦](https://www.last.fm/music/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%81%AE%E3%83%A4%E3%83%B3%E3%82%AD%E3%83%BC%EF%BD%A5%E3%83%9E%E3%83%B3%E3%82%AC%E6%9B%B2/_/%E5%B0%91%E5%A5%B3A%E3%81%AB%E5%A4%9C%E9%9C%B2%E6%AD%BB%E8%8B%A6)** - 初音ミクのヤンキー･マンガ曲<br/>
-> ∙ **[ROT FOR CLOUT](https://www.last.fm/music/Jamie+Paige+&+Visualeyes/_/ROT+FOR+CLOUT)** - Jamie Paige & Visualeyes<br/>
+> 🎶 **[ROT FOR CLOUT](https://www.last.fm/music/Jamie+Paige+&+Visualeyes/_/ROT+FOR+CLOUT)** - Jamie Paige & Visualeyes<br/>
 > ∙ **[ROT FOR CLOUT](https://www.last.fm/music/Jamie+Paige+&+Visualeyes/_/ROT+FOR+CLOUT)** - Jamie Paige & Visualeyes<br/>
 > ∙ **[What We Do](https://www.last.fm/music/Jxggi,+Sickboi/_/What+We+Do)** - Jxggi, Sickboi<br/>
 > ∙ **[CEO](https://www.last.fm/music/Cheema+Y,+Gur+Sidhu/_/CEO)** - Cheema Y, Gur Sidhu<br/>
@@ -74,6 +73,7 @@
 > ∙ **[Low Fade](https://www.last.fm/music/Karan+Aujla,+Mxrci/_/Low+Fade)** - Karan Aujla, Mxrci<br/>
 > ∙ **[Money 2X](https://www.last.fm/music/Cheema+Y,+Gur+Sidhu/_/Money+2X)** - Cheema Y, Gur Sidhu<br/>
 > ∙ **[Munda Si Koole Pat Warga (Remix)](https://www.last.fm/music/Smoke+ride/_/Munda+Si+Koole+Pat+Warga+(Remix))** - Smoke ride<br/>
+> ∙ **[Can't Be Us](https://www.last.fm/music/Prem+Dhillon,+Sudesh+Kumari,+The+Kidd/_/Can%27t+Be+Us)** - Prem Dhillon, Sudesh Kumari, The Kidd<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
