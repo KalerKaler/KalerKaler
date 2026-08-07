@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `106 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `109 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `65 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `58 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `55 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Dream Fantasy](https://www.last.fm/music/Andora/_/Dream+Fantasy)** - Andora<br/>
+> 🎶 **[Tone Deaf](https://www.last.fm/music/Eminem/_/Tone+Deaf)** - Eminem<br/>
+> ∙ **[Alfred's Theme](https://www.last.fm/music/Eminem/_/Alfred%27s+Theme)** - Eminem<br/>
+> ∙ **[Alfred's Theme](https://www.last.fm/music/Eminem/_/Alfred%27s+Theme)** - Eminem<br/>
+> ∙ **[Dream Fantasy](https://www.last.fm/music/Andora/_/Dream+Fantasy)** - Andora<br/>
 > ∙ **[natori┃Raon cover](https://www.last.fm/music/%E7%8C%BF%E8%8A%9D%E5%B1%85+(Sarushibai)/_/natori%E2%94%83Raon+cover)** - 猿芝居 (Sarushibai)<br/>
 > ∙ **[UFO](https://www.last.fm/music/Suu+Usuwa/_/UFO)** - Suu Usuwa<br/>
 > ∙ **[My Brightest Light](https://www.last.fm/music/Mugendai+Mewtype/_/My+Brightest+Light)** - Mugendai Mewtype<br/>
 > ∙ **[IRIS OUT](https://www.last.fm/music/Kenshi+Yonezu/_/IRIS+OUT)** - Kenshi Yonezu<br/>
 > ∙ **[Orpheus](https://www.last.fm/music/Mori+Calliope/_/Orpheus)** - Mori Calliope<br/>
 > ∙ **[PROJECT: Trauma Team](https://www.last.fm/music/sinxa/_/PROJECT:+Trauma+Team)** - sinxa<br/>
-> ∙ **[My Way, So What!](https://www.last.fm/music/%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%81%A7%E4%BD%95%E3%81%8C%E6%82%AA%E3%81%84%EF%BC%81+%2F+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88%E3%83%BB%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF/_/My+Way,+So+What!)** - わがままで何が悪い！ / 重音テト・初音ミク<br/>
-> ∙ **[Neurodivergence](https://www.last.fm/music/Roma/_/Neurodivergence)** - Roma<br/>
-> ∙ **[Bang-Bang-Born](https://www.last.fm/music/Bling/_/Bang-Bang-Born)** - Bling<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
