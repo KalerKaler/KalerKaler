@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Otonoke](https://www.last.fm/music/Creepy+Nuts/_/Otonoke)** - Creepy Nuts<br/>
-> ∙ **[Shinunoga E-Wa](https://www.last.fm/music/Fujii+Kaze/_/Shinunoga+E-Wa)** - Fujii Kaze<br/>
-> ∙ **[まどろみ幽園劇団](https://www.last.fm/music/%E3%81%8A%E3%81%84%E3%81%A7%E3%82%88%E9%9B%BB%E6%B3%A2%E5%B9%BD%E5%9C%92/_/%E3%81%BE%E3%81%A9%E3%82%8D%E3%81%BF%E5%B9%BD%E5%9C%92%E5%8A%87%E5%9B%A3)** - おいでよ電波幽園<br/>
-> ∙ **[Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)** - Train<br/>
-> ∙ **[Set Fire to the Rain](https://www.last.fm/music/Adele/_/Set+Fire+to+the+Rain)** - Adele<br/>
-> ∙ **[OSTER project feat. 重音テト](https://www.last.fm/music/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%8B%E3%81%B6%E3%82%8C/_/OSTER+project+feat.+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88)** - フランスかぶれ<br/>
-> ∙ **[HoYoHoYoにしてあげる](https://www.last.fm/music/Hatsune+Miku/_/HoYoHoYo%E3%81%AB%E3%81%97%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B)** - Hatsune Miku<br/>
-> ∙ **[少女Aに夜露死苦](https://www.last.fm/music/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%81%AE%E3%83%A4%E3%83%B3%E3%82%AD%E3%83%BC%EF%BD%A5%E3%83%9E%E3%83%B3%E3%82%AC%E6%9B%B2/_/%E5%B0%91%E5%A5%B3A%E3%81%AB%E5%A4%9C%E9%9C%B2%E6%AD%BB%E8%8B%A6)** - 初音ミクのヤンキー･マンガ曲<br/>
-> ∙ **[ROT FOR CLOUT](https://www.last.fm/music/Jamie+Paige+&+Visualeyes/_/ROT+FOR+CLOUT)** - Jamie Paige & Visualeyes<br/>
-> ∙ **[ROT FOR CLOUT](https://www.last.fm/music/Jamie+Paige+&+Visualeyes/_/ROT+FOR+CLOUT)** - Jamie Paige & Visualeyes<br/>
+> 🎶 **[Dream Fantasy](https://www.last.fm/music/Andora/_/Dream+Fantasy)** - Andora<br/>
+> ∙ **[natori┃Raon cover](https://www.last.fm/music/%E7%8C%BF%E8%8A%9D%E5%B1%85+(Sarushibai)/_/natori%E2%94%83Raon+cover)** - 猿芝居 (Sarushibai)<br/>
+> ∙ **[UFO](https://www.last.fm/music/Suu+Usuwa/_/UFO)** - Suu Usuwa<br/>
+> ∙ **[My Brightest Light](https://www.last.fm/music/Mugendai+Mewtype/_/My+Brightest+Light)** - Mugendai Mewtype<br/>
+> ∙ **[IRIS OUT](https://www.last.fm/music/Kenshi+Yonezu/_/IRIS+OUT)** - Kenshi Yonezu<br/>
+> ∙ **[Orpheus](https://www.last.fm/music/Mori+Calliope/_/Orpheus)** - Mori Calliope<br/>
+> ∙ **[PROJECT: Trauma Team](https://www.last.fm/music/sinxa/_/PROJECT:+Trauma+Team)** - sinxa<br/>
+> ∙ **[My Way, So What!](https://www.last.fm/music/%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%81%A7%E4%BD%95%E3%81%8C%E6%82%AA%E3%81%84%EF%BC%81+%2F+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88%E3%83%BB%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF/_/My+Way,+So+What!)** - わがままで何が悪い！ / 重音テト・初音ミク<br/>
+> ∙ **[Neurodivergence](https://www.last.fm/music/Roma/_/Neurodivergence)** - Roma<br/>
+> ∙ **[Bang-Bang-Born](https://www.last.fm/music/Bling/_/Bang-Bang-Born)** - Bling<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
