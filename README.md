@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `109 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `110 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `65 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `58 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `55 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
+> 🎶 **[When I Grow Up](https://www.last.fm/music/NF/_/When+I+Grow+Up)** - NF<br/>
+> ∙ **[California Love (Feat. Roger Troutman & Dr. Dre)](https://www.last.fm/music/2Pac/_/California+Love+(Feat.+Roger+Troutman+&+Dr.+Dre))** - 2Pac<br/>
+> ∙ **[The Conspiracy Freestyle](https://www.last.fm/music/Eminem/_/The+Conspiracy+Freestyle)** - Eminem<br/>
+> ∙ **[Alvafro](https://www.last.fm/music/LATIN+MAFIA,+Fred+again../_/Alvafro)** - LATIN MAFIA, Fred again..<br/>
+> ∙ **[Hey Hey](https://www.last.fm/music/LATIN+MAFIA,+Fred+again../_/Hey+Hey)** - LATIN MAFIA, Fred again..<br/>
+> ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
+> ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
 > ∙ **[Im Sorry Mom](https://www.last.fm/music/Marino/_/Im+Sorry+Mom)** - Marino<br/>
 > ∙ **[Chord Progression (feat. Chiruki)](https://www.last.fm/music/DannyHO/_/Chord+Progression+(feat.+Chiruki))** - DannyHO<br/>
 > ∙ **[Chord Progression (feat. Chiruki)](https://www.last.fm/music/DannyHO/_/Chord+Progression+(feat.+Chiruki))** - DannyHO<br/>
-> ∙ **[Luv (Sic)](https://www.last.fm/music/Nujabes/_/Luv+(Sic))** - Nujabes<br/>
-> ∙ **[Luv(sic) - Mori Calliope (Nujabes Cover)](https://www.last.fm/music/Mori+Calliope/_/Luv(sic)+-+Mori+Calliope+(Nujabes+Cover))** - Mori Calliope<br/>
-> ∙ **[Tone Deaf](https://www.last.fm/music/Eminem/_/Tone+Deaf)** - Eminem<br/>
-> ∙ **[Alfred's Theme](https://www.last.fm/music/Eminem/_/Alfred%27s+Theme)** - Eminem<br/>
-> ∙ **[Alfred's Theme](https://www.last.fm/music/Eminem/_/Alfred%27s+Theme)** - Eminem<br/>
-> ∙ **[Dream Fantasy](https://www.last.fm/music/Andora/_/Dream+Fantasy)** - Andora<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
