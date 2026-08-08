@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Tone Deaf](https://www.last.fm/music/Eminem/_/Tone+Deaf)** - Eminem<br/>
+> 🎶 **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
+> ∙ **[Im Sorry Mom](https://www.last.fm/music/Marino/_/Im+Sorry+Mom)** - Marino<br/>
+> ∙ **[Chord Progression (feat. Chiruki)](https://www.last.fm/music/DannyHO/_/Chord+Progression+(feat.+Chiruki))** - DannyHO<br/>
+> ∙ **[Chord Progression (feat. Chiruki)](https://www.last.fm/music/DannyHO/_/Chord+Progression+(feat.+Chiruki))** - DannyHO<br/>
+> ∙ **[Luv (Sic)](https://www.last.fm/music/Nujabes/_/Luv+(Sic))** - Nujabes<br/>
+> ∙ **[Luv(sic) - Mori Calliope (Nujabes Cover)](https://www.last.fm/music/Mori+Calliope/_/Luv(sic)+-+Mori+Calliope+(Nujabes+Cover))** - Mori Calliope<br/>
+> ∙ **[Tone Deaf](https://www.last.fm/music/Eminem/_/Tone+Deaf)** - Eminem<br/>
 > ∙ **[Alfred's Theme](https://www.last.fm/music/Eminem/_/Alfred%27s+Theme)** - Eminem<br/>
 > ∙ **[Alfred's Theme](https://www.last.fm/music/Eminem/_/Alfred%27s+Theme)** - Eminem<br/>
 > ∙ **[Dream Fantasy](https://www.last.fm/music/Andora/_/Dream+Fantasy)** - Andora<br/>
-> ∙ **[natori┃Raon cover](https://www.last.fm/music/%E7%8C%BF%E8%8A%9D%E5%B1%85+(Sarushibai)/_/natori%E2%94%83Raon+cover)** - 猿芝居 (Sarushibai)<br/>
-> ∙ **[UFO](https://www.last.fm/music/Suu+Usuwa/_/UFO)** - Suu Usuwa<br/>
-> ∙ **[My Brightest Light](https://www.last.fm/music/Mugendai+Mewtype/_/My+Brightest+Light)** - Mugendai Mewtype<br/>
-> ∙ **[IRIS OUT](https://www.last.fm/music/Kenshi+Yonezu/_/IRIS+OUT)** - Kenshi Yonezu<br/>
-> ∙ **[Orpheus](https://www.last.fm/music/Mori+Calliope/_/Orpheus)** - Mori Calliope<br/>
-> ∙ **[PROJECT: Trauma Team](https://www.last.fm/music/sinxa/_/PROJECT:+Trauma+Team)** - sinxa<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
