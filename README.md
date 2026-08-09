@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[When I Grow Up](https://www.last.fm/music/NF/_/When+I+Grow+Up)** - NF<br/>
+> 🎶 **[NEVER (feat. Evil Neuro)](https://www.last.fm/music/Neuro-sama,+Evil+Neuro/_/NEVER+(feat.+Evil+Neuro))** - Neuro-sama, Evil Neuro<br/>
+> ∙ **[When I Grow Up](https://www.last.fm/music/NF/_/When+I+Grow+Up)** - NF<br/>
 > ∙ **[California Love (Feat. Roger Troutman & Dr. Dre)](https://www.last.fm/music/2Pac/_/California+Love+(Feat.+Roger+Troutman+&+Dr.+Dre))** - 2Pac<br/>
 > ∙ **[The Conspiracy Freestyle](https://www.last.fm/music/Eminem/_/The+Conspiracy+Freestyle)** - Eminem<br/>
 > ∙ **[Alvafro](https://www.last.fm/music/LATIN+MAFIA,+Fred+again../_/Alvafro)** - LATIN MAFIA, Fred again..<br/>
@@ -72,7 +73,6 @@
 > ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
 > ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
 > ∙ **[Im Sorry Mom](https://www.last.fm/music/Marino/_/Im+Sorry+Mom)** - Marino<br/>
-> ∙ **[Chord Progression (feat. Chiruki)](https://www.last.fm/music/DannyHO/_/Chord+Progression+(feat.+Chiruki))** - DannyHO<br/>
 > ∙ **[Chord Progression (feat. Chiruki)](https://www.last.fm/music/DannyHO/_/Chord+Progression+(feat.+Chiruki))** - DannyHO<br/>
 <!--END_LASTFM_RECENT-->
 
