@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `111 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `113 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `65 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `58 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `55 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Legacy](https://www.last.fm/music/Eminem/_/Legacy)** - Eminem<br/>
-> ∙ **[NEVER (feat. Evil Neuro)](https://www.last.fm/music/Neuro-sama,+Evil+Neuro/_/NEVER+(feat.+Evil+Neuro))** - Neuro-sama, Evil Neuro<br/>
-> ∙ **[NEVER (feat. Evil Neuro)](https://www.last.fm/music/Neuro-sama,+Evil+Neuro/_/NEVER+(feat.+Evil+Neuro))** - Neuro-sama, Evil Neuro<br/>
-> ∙ **[When I Grow Up](https://www.last.fm/music/NF/_/When+I+Grow+Up)** - NF<br/>
-> ∙ **[California Love (Feat. Roger Troutman & Dr. Dre)](https://www.last.fm/music/2Pac/_/California+Love+(Feat.+Roger+Troutman+&+Dr.+Dre))** - 2Pac<br/>
-> ∙ **[The Conspiracy Freestyle](https://www.last.fm/music/Eminem/_/The+Conspiracy+Freestyle)** - Eminem<br/>
-> ∙ **[Alvafro](https://www.last.fm/music/LATIN+MAFIA,+Fred+again../_/Alvafro)** - LATIN MAFIA, Fred again..<br/>
-> ∙ **[Hey Hey](https://www.last.fm/music/LATIN+MAFIA,+Fred+again../_/Hey+Hey)** - LATIN MAFIA, Fred again..<br/>
-> ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
-> ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
+> 🎶 **[Zeishi](https://www.last.fm/music/No+Escape/_/Zeishi)** - No Escape<br/>
+> ∙ **[Zeishi](https://www.last.fm/music/No+Escape/_/Zeishi)** - No Escape<br/>
+> ∙ **[Like Chocolate](https://www.last.fm/music/Zeishi+%7C+%E3%82%BC%E3%82%A4%E3%82%B7/_/Like+Chocolate)** - Zeishi | ゼイシ<br/>
+> ∙ **[Temporary](https://www.last.fm/music/Eminem+&+Skylar+Grey/_/Temporary)** - Eminem & Skylar Grey<br/>
+> ∙ **[Guns Blazing](https://www.last.fm/music/Eminem/_/Guns+Blazing)** - Eminem<br/>
+> ∙ **[Favorite Bitch](https://www.last.fm/music/Eminem/_/Favorite+Bitch)** - Eminem<br/>
+> ∙ **[Book of Rhymes (feat. DJ Premier)](https://www.last.fm/music/Eminem+&+Juice+WRLD/_/Book+of+Rhymes+(feat.+DJ+Premier))** - Eminem & Juice WRLD<br/>
+> ∙ **[Cycle](https://www.last.fm/music/Derivakat/_/Cycle)** - Derivakat<br/>
+> ∙ **[Live in Life](https://www.last.fm/music/Will+Stetson/_/Live+in+Life)** - Will Stetson<br/>
+> ∙ **[Messing Around](https://www.last.fm/music/Fahlberg,+Layer+J/_/Messing+Around)** - Fahlberg, Layer J<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
