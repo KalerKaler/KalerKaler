@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[(Don't) Give Hate a Chance](https://www.last.fm/music/Jamiroquai/_/(Don%27t)+Give+Hate+a+Chance)** - Jamiroquai<br/>
+> 🎶 **[Saturate](https://www.last.fm/music/The+Chemical+Brothers/_/Saturate)** - The Chemical Brothers<br/>
+> ∙ **[Northern Whale](https://www.last.fm/music/The+Good,+the+Bad+&+the+Queen/_/Northern+Whale)** - The Good, the Bad & the Queen<br/>
+> ∙ **[Processed Beats](https://www.last.fm/music/Kasabian/_/Processed+Beats)** - Kasabian<br/>
+> ∙ **[(Don't) Give Hate a Chance](https://www.last.fm/music/Jamiroquai/_/(Don%27t)+Give+Hate+a+Chance)** - Jamiroquai<br/>
 > ∙ **[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)** - Gorillaz<br/>
 > ∙ **[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)** - Gorillaz<br/>
 > ∙ **[TTHHEE PPAARRTTYY](https://www.last.fm/music/Justice/_/TTHHEE+PPAARRTTYY)** - Justice<br/>
 > ∙ **[The Party](https://www.last.fm/music/+noredirect/Justice/_/The+Party)** - Justice<br/>
 > ∙ **[TTHHEE PPAARRTTYY](https://www.last.fm/music/Justice/_/TTHHEE+PPAARRTTYY)** - Justice<br/>
 > ∙ **[Another World](https://www.last.fm/music/The+Chemical+Brothers/_/Another+World)** - The Chemical Brothers<br/>
-> ∙ **[Another World](https://www.last.fm/music/The+Chemical+Brothers/_/Another+World)** - The Chemical Brothers<br/>
-> ∙ **[19-2000](https://www.last.fm/music/Gorillaz/_/19-2000)** - Gorillaz<br/>
-> ∙ **[19-2000](https://www.last.fm/music/Gorillaz/_/19-2000)** - Gorillaz<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
