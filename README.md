@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Zeishi](https://www.last.fm/music/No+Escape/_/Zeishi)** - No Escape<br/>
-> ∙ **[Like Chocolate](https://www.last.fm/music/Zeishi+%7C+%E3%82%BC%E3%82%A4%E3%82%B7/_/Like+Chocolate)** - Zeishi | ゼイシ<br/>
-> ∙ **[Temporary](https://www.last.fm/music/Eminem+&+Skylar+Grey/_/Temporary)** - Eminem & Skylar Grey<br/>
-> ∙ **[Guns Blazing](https://www.last.fm/music/Eminem/_/Guns+Blazing)** - Eminem<br/>
-> ∙ **[Favorite Bitch](https://www.last.fm/music/Eminem/_/Favorite+Bitch)** - Eminem<br/>
-> ∙ **[Book of Rhymes (feat. DJ Premier)](https://www.last.fm/music/Eminem+&+Juice+WRLD/_/Book+of+Rhymes+(feat.+DJ+Premier))** - Eminem & Juice WRLD<br/>
-> ∙ **[Cycle](https://www.last.fm/music/Derivakat/_/Cycle)** - Derivakat<br/>
-> ∙ **[Live in Life](https://www.last.fm/music/Will+Stetson/_/Live+in+Life)** - Will Stetson<br/>
-> ∙ **[Messing Around](https://www.last.fm/music/Fahlberg,+Layer+J/_/Messing+Around)** - Fahlberg, Layer J<br/>
-> ∙ **[Never Know](https://www.last.fm/music/Discrete,+Maria+Mathea/_/Never+Know)** - Discrete, Maria Mathea<br/>
+> 🎶 **[(Don't) Give Hate a Chance](https://www.last.fm/music/Jamiroquai/_/(Don%27t)+Give+Hate+a+Chance)** - Jamiroquai<br/>
+> ∙ **[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)** - Gorillaz<br/>
+> ∙ **[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)** - Gorillaz<br/>
+> ∙ **[TTHHEE PPAARRTTYY](https://www.last.fm/music/Justice/_/TTHHEE+PPAARRTTYY)** - Justice<br/>
+> ∙ **[The Party](https://www.last.fm/music/+noredirect/Justice/_/The+Party)** - Justice<br/>
+> ∙ **[TTHHEE PPAARRTTYY](https://www.last.fm/music/Justice/_/TTHHEE+PPAARRTTYY)** - Justice<br/>
+> ∙ **[Another World](https://www.last.fm/music/The+Chemical+Brothers/_/Another+World)** - The Chemical Brothers<br/>
+> ∙ **[Another World](https://www.last.fm/music/The+Chemical+Brothers/_/Another+World)** - The Chemical Brothers<br/>
+> ∙ **[19-2000](https://www.last.fm/music/Gorillaz/_/19-2000)** - Gorillaz<br/>
+> ∙ **[19-2000](https://www.last.fm/music/Gorillaz/_/19-2000)** - Gorillaz<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
