@@ -55,7 +55,7 @@
 
 > `113 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `65 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `58 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `59 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `55 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `49 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Alan Walker - Sing Me To Sleep](https://www.last.fm/music/Alan+Walker/_/Alan+Walker+-+Sing+Me+To+Sleep)** - Alan Walker<br/>
+> 🎶 **[DARE (feat. Shaun Ryder & Roses Gabor)](https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor))** - Gorillaz<br/>
+> ∙ **[DARE (feat. Shaun Ryder & Roses Gabor)](https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor))** - Gorillaz<br/>
+> ∙ **[Self Aware](https://www.last.fm/music/Temper+City/_/Self+Aware)** - Temper City<br/>
+> ∙ **[Stephen Sanchez with Em Beihold (Isaa Cover)](https://www.last.fm/music/Until+I+Found+You/_/Stephen+Sanchez+with+Em+Beihold+(Isaa+Cover))** - Until I Found You<br/>
+> ∙ **[OVER MY HEAD](https://www.last.fm/music/Neoni/_/OVER+MY+HEAD)** - Neoni<br/>
+> ∙ **[Run Your Mouth](https://www.last.fm/music/Isaa+Corva+&+hope+jss/_/Run+Your+Mouth)** - Isaa Corva & hope jss<br/>
+> ∙ **[Love Me Not](https://www.last.fm/music/Isaa+Corva/_/Love+Me+Not)** - Isaa Corva<br/>
+> ∙ **[Alan Walker - Sing Me To Sleep](https://www.last.fm/music/Alan+Walker/_/Alan+Walker+-+Sing+Me+To+Sleep)** - Alan Walker<br/>
 > ∙ **[Take You to Hell](https://www.last.fm/music/Ava+Max/_/Take+You+to+Hell)** - Ava Max<br/>
 > ∙ **[Saturate](https://www.last.fm/music/The+Chemical+Brothers/_/Saturate)** - The Chemical Brothers<br/>
-> ∙ **[Northern Whale](https://www.last.fm/music/The+Good,+the+Bad+&+the+Queen/_/Northern+Whale)** - The Good, the Bad & the Queen<br/>
-> ∙ **[Processed Beats](https://www.last.fm/music/Kasabian/_/Processed+Beats)** - Kasabian<br/>
-> ∙ **[(Don't) Give Hate a Chance](https://www.last.fm/music/Jamiroquai/_/(Don%27t)+Give+Hate+a+Chance)** - Jamiroquai<br/>
-> ∙ **[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)** - Gorillaz<br/>
-> ∙ **[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)** - Gorillaz<br/>
-> ∙ **[TTHHEE PPAARRTTYY](https://www.last.fm/music/Justice/_/TTHHEE+PPAARRTTYY)** - Justice<br/>
-> ∙ **[The Party](https://www.last.fm/music/+noredirect/Justice/_/The+Party)** - Justice<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
