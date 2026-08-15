@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Chord Progression (feat. Chiruki)](https://www.last.fm/music/DannyHO/_/Chord+Progression+(feat.+Chiruki))** - DannyHO<br/>
+> 🎶 **[Lady Brown (feat. Cise Starr)](https://www.last.fm/music/Nujabes/_/Lady+Brown+(feat.+Cise+Starr))** - Nujabes<br/>
+> ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
+> ∙ **[Chord Progression (feat. Chiruki)](https://www.last.fm/music/DannyHO/_/Chord+Progression+(feat.+Chiruki))** - DannyHO<br/>
+> ∙ **[Chord Progression (feat. Chiruki)](https://www.last.fm/music/DannyHO/_/Chord+Progression+(feat.+Chiruki))** - DannyHO<br/>
 > ∙ **[NEVER (feat. Evil Neuro)](https://www.last.fm/music/Neuro-sama,+Evil+Neuro/_/NEVER+(feat.+Evil+Neuro))** - Neuro-sama, Evil Neuro<br/>
 > ∙ **[Luv (Sic)](https://www.last.fm/music/Nujabes/_/Luv+(Sic))** - Nujabes<br/>
 > ∙ **[Luv(sic.),  Pt. 3 (feat. Shing02)](https://www.last.fm/music/Nujabes/_/Luv(sic.),++Pt.+3+(feat.+Shing02))** - Nujabes<br/>
 > ∙ **[DARE (feat. Shaun Ryder & Roses Gabor)](https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor))** - Gorillaz<br/>
 > ∙ **[DARE (feat. Shaun Ryder & Roses Gabor)](https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor))** - Gorillaz<br/>
 > ∙ **[Self Aware](https://www.last.fm/music/Temper+City/_/Self+Aware)** - Temper City<br/>
-> ∙ **[Stephen Sanchez with Em Beihold (Isaa Cover)](https://www.last.fm/music/Until+I+Found+You/_/Stephen+Sanchez+with+Em+Beihold+(Isaa+Cover))** - Until I Found You<br/>
-> ∙ **[OVER MY HEAD](https://www.last.fm/music/Neoni/_/OVER+MY+HEAD)** - Neoni<br/>
-> ∙ **[Run Your Mouth](https://www.last.fm/music/Isaa+Corva+&+hope+jss/_/Run+Your+Mouth)** - Isaa Corva & hope jss<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
