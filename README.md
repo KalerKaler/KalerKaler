@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `113 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `117 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `65 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `59 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `55 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `49 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
+> `50 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Lady Brown (feat. Cise Starr)](https://www.last.fm/music/Nujabes/_/Lady+Brown+(feat.+Cise+Starr))** - Nujabes<br/>
-> ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
-> ∙ **[Chord Progression (feat. Chiruki)](https://www.last.fm/music/DannyHO/_/Chord+Progression+(feat.+Chiruki))** - DannyHO<br/>
-> ∙ **[Chord Progression (feat. Chiruki)](https://www.last.fm/music/DannyHO/_/Chord+Progression+(feat.+Chiruki))** - DannyHO<br/>
-> ∙ **[NEVER (feat. Evil Neuro)](https://www.last.fm/music/Neuro-sama,+Evil+Neuro/_/NEVER+(feat.+Evil+Neuro))** - Neuro-sama, Evil Neuro<br/>
-> ∙ **[Luv (Sic)](https://www.last.fm/music/Nujabes/_/Luv+(Sic))** - Nujabes<br/>
-> ∙ **[Luv(sic.),  Pt. 3 (feat. Shing02)](https://www.last.fm/music/Nujabes/_/Luv(sic.),++Pt.+3+(feat.+Shing02))** - Nujabes<br/>
-> ∙ **[DARE (feat. Shaun Ryder & Roses Gabor)](https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor))** - Gorillaz<br/>
-> ∙ **[DARE (feat. Shaun Ryder & Roses Gabor)](https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor))** - Gorillaz<br/>
-> ∙ **[Self Aware](https://www.last.fm/music/Temper+City/_/Self+Aware)** - Temper City<br/>
+> 🎶 **[Jimmy, Brian and Mike](https://www.last.fm/music/Eminem/_/Jimmy,+Brian+and+Mike)** - Eminem<br/>
+> ∙ **[Delta (feat. Mel Balu & Joey Cool)](https://www.last.fm/music/JL/_/Delta+(feat.+Mel+Balu+&+Joey+Cool))** - JL<br/>
+> ∙ **[Ego Trippin (feat. Krizz Kaliko)](https://www.last.fm/music/Tech+N9ne/_/Ego+Trippin+(feat.+Krizz+Kaliko))** - Tech N9ne<br/>
+> ∙ **[KNIFE FIGHT](https://www.last.fm/music/LaLion/_/KNIFE+FIGHT)** - LaLion<br/>
+> ∙ **[Kill You](https://www.last.fm/music/Eminem/_/Kill+You)** - Eminem<br/>
+> ∙ **[Where Is The Love?](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Where+Is+The+Love%3F)** - The Black Eyed Peas<br/>
+> ∙ **[Welcome 2 Hell](https://www.last.fm/music/Bad+Meets+Evil/_/Welcome+2+Hell)** - Bad Meets Evil<br/>
+> ∙ **[Money Game, Pt. 2](https://www.last.fm/music/Ren/_/Money+Game,+Pt.+2)** - Ren<br/>
+> ∙ **[Hello](https://www.last.fm/music/Eminem/_/Hello)** - Eminem<br/>
+> ∙ **[Elevator](https://www.last.fm/music/Eminem/_/Elevator)** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
