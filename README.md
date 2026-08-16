@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[What the ████](https://www.last.fm/music/Netsubi/_/What+the+%E2%96%88%E2%96%88%E2%96%88%E2%96%88)** - Netsubi<br/>
-> ∙ **[What the ████](https://www.last.fm/music/Netsubi/_/What+the+%E2%96%88%E2%96%88%E2%96%88%E2%96%88)** - Netsubi<br/>
-> ∙ **[Anarchy Station](https://www.last.fm/music/rai_/_/Anarchy+Station)** - rai_<br/>
-> ∙ **[RUNNING](https://www.last.fm/music/NF/_/RUNNING)** - NF<br/>
-> ∙ **[HOPE](https://www.last.fm/music/NF/_/HOPE)** - NF<br/>
-> ∙ **[Tired](https://www.last.fm/music/Alan+Walker,+Gavin+James/_/Tired)** - Alan Walker, Gavin James<br/>
-> ∙ **[The Ocean (feat. Shy Martin)](https://www.last.fm/music/Mike+Perry/_/The+Ocean+(feat.+Shy+Martin))** - Mike Perry<br/>
-> ∙ **[Routine](https://www.last.fm/music/Alan+Walker,+David+Whistle/_/Routine)** - Alan Walker, David Whistle<br/>
-> ∙ **[Sing Me to Sleep](https://www.last.fm/music/Alan+Walker/_/Sing+Me+to+Sleep)** - Alan Walker<br/>
-> ∙ **[Jimmy, Brian and Mike](https://www.last.fm/music/Eminem/_/Jimmy,+Brian+and+Mike)** - Eminem<br/>
+> 🎶 **[ORIGINAL SONG](https://www.last.fm/music/Infinite+Death/_/ORIGINAL+SONG)** - Infinite Death<br/>
+> ∙ **[HEAVENLY JUMPSTYLE](https://www.last.fm/music/TWXNY,+Sxilwix,+&+Innxcence/_/HEAVENLY+JUMPSTYLE)** - TWXNY, Sxilwix, & Innxcence<br/>
+> ∙ **[HEAVENLY JUMPSTYLE](https://www.last.fm/music/TWXNY,+Sxilwix,+&+Innxcence/_/HEAVENLY+JUMPSTYLE)** - TWXNY, Sxilwix, & Innxcence<br/>
+> ∙ **[Heavenly jumpstyle (But it hits hard)](https://www.last.fm/music/TWXNY,+Sxilwix,+&+Innxcence/_/Heavenly+jumpstyle+(But+it+hits+hard))** - TWXNY, Sxilwix, & Innxcence<br/>
+> ∙ **[Whisper Whisper Whisper ft. Kasane Teto (cover)](https://www.last.fm/music/mekaloton/_/Whisper+Whisper+Whisper+ft.+Kasane+Teto+(cover))** - mekaloton<br/>
+> ∙ **[INSOMNIA](https://www.last.fm/music/Roma/_/INSOMNIA)** - Roma<br/>
+> ∙ **[(Ft. Kasane Teto SV2) (重音テトSV2)](https://www.last.fm/music/I%27ll+Always+Kill+Myself+Too+Late/_/(Ft.+Kasane+Teto+SV2)+(%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88SV2))** - I'll Always Kill Myself Too Late<br/>
+> ∙ **[Yi Xi 奕夕](https://www.last.fm/music/Lemonade/_/Yi+Xi+%E5%A5%95%E5%A4%95)** - Lemonade<br/>
+> ∙ **[Misophonic Insomnia](https://www.last.fm/music/Netsubi/_/Misophonic+Insomnia)** - Netsubi<br/>
+> ∙ **[Kings & Queens](https://www.last.fm/music/Ava+Max/_/Kings+&+Queens)** - Ava Max<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
