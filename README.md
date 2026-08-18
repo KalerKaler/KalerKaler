@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Pull the Trigger](https://www.last.fm/music/VocaloKAT/_/Pull+the+Trigger)** - VocaloKAT<br/>
-> ∙ **[BUTCHER VANITY](https://www.last.fm/music/Flavor+Foley/_/BUTCHER+VANITY)** - Flavor Foley<br/>
-> ∙ **[Goodness and Beauty](https://www.last.fm/music/rai_/_/Goodness+and+Beauty)** - rai_<br/>
-> ∙ **[Knight of Swords](https://www.last.fm/music/Alexandria/_/Knight+of+Swords)** - Alexandria<br/>
-> ∙ **[ヤラララ](https://www.last.fm/music/AnythingBecomeMoe/_/%E3%83%A4%E3%83%A9%E3%83%A9%E3%83%A9)** - AnythingBecomeMoe<br/>
-> ∙ **[Voices In My Head](https://www.last.fm/music/NIJUUGO*A/_/Voices+In+My+Head)** - NIJUUGO*A<br/>
-> ∙ **[Periwinkle](https://www.last.fm/music/The+Vanished+People/_/Periwinkle)** - The Vanished People<br/>
-> ∙ **[IT'S GOING DOWN](https://www.last.fm/music/The+Vanished+People+&+WAMI/_/IT%27S+GOING+DOWN)** - The Vanished People & WAMI<br/>
-> ∙ **[ORIGINAL SONG](https://www.last.fm/music/Infinite+Death/_/ORIGINAL+SONG)** - Infinite Death<br/>
-> ∙ **[HEAVENLY JUMPSTYLE](https://www.last.fm/music/TWXNY,+Sxilwix,+&+Innxcence/_/HEAVENLY+JUMPSTYLE)** - TWXNY, Sxilwix, & Innxcence<br/>
+> 🎶 **[kurarin](https://www.last.fm/music/kyu/_/kurarin)** - kyu<br/>
+> ∙ **[FASHION ICON](https://www.last.fm/music/Z%C3%98MB/_/FASHION+ICON)** - ZØMB<br/>
+> ∙ **[STARDUST PHARMACY](https://www.last.fm/music/Z%C3%98MB/_/STARDUST+PHARMACY)** - ZØMB<br/>
+> ∙ **[NO STRINGS ATTACHED](https://www.last.fm/music/Z%C3%98MB/_/NO+STRINGS+ATTACHED)** - ZØMB<br/>
+> ∙ **[BAD INTENTIONS](https://www.last.fm/music/Z%C3%98MB/_/BAD+INTENTIONS)** - ZØMB<br/>
+> ∙ **[Possessive Love Disorder](https://www.last.fm/music/Z%C3%98MB+&+durpo1x/_/Possessive+Love+Disorder)** - ZØMB & durpo1x<br/>
+> ∙ **[YUKI EXPRESS!](https://www.last.fm/music/Z%C3%98MB/_/YUKI+EXPRESS!)** - ZØMB<br/>
+> ∙ **[STRIKE A POSE!](https://www.last.fm/music/Z%C3%98MB/_/STRIKE+A+POSE!)** - ZØMB<br/>
+> ∙ **[4K](https://www.last.fm/music/Takopi%27s+Original+Sin+OP+%2F+Opening+1/_/4K)** - Takopi's Original Sin OP / Opening 1<br/>
+> ∙ **[HYSTERIA!](https://www.last.fm/music/Z%C3%98MB/_/HYSTERIA!)** - ZØMB<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
