@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[kurarin](https://www.last.fm/music/kyu/_/kurarin)** - kyu<br/>
+> 🎶 **[Konton Boogie](https://www.last.fm/music/jon-YAKITORY/_/Konton+Boogie)** - jon-YAKITORY<br/>
+> ∙ **[Monitoring](https://www.last.fm/music/DECO*27/_/Monitoring)** - DECO*27<br/>
+> ∙ **[LEFT RIGHT](https://www.last.fm/music/Shirobeats,+Ironmouse,+Kiwwi,+&+Swoodeasu/_/LEFT+RIGHT)** - Shirobeats, Ironmouse, Kiwwi, & Swoodeasu<br/>
+> ∙ **[kurarin](https://www.last.fm/music/kyu/_/kurarin)** - kyu<br/>
 > ∙ **[FASHION ICON](https://www.last.fm/music/Z%C3%98MB/_/FASHION+ICON)** - ZØMB<br/>
 > ∙ **[STARDUST PHARMACY](https://www.last.fm/music/Z%C3%98MB/_/STARDUST+PHARMACY)** - ZØMB<br/>
 > ∙ **[NO STRINGS ATTACHED](https://www.last.fm/music/Z%C3%98MB/_/NO+STRINGS+ATTACHED)** - ZØMB<br/>
 > ∙ **[BAD INTENTIONS](https://www.last.fm/music/Z%C3%98MB/_/BAD+INTENTIONS)** - ZØMB<br/>
 > ∙ **[Possessive Love Disorder](https://www.last.fm/music/Z%C3%98MB+&+durpo1x/_/Possessive+Love+Disorder)** - ZØMB & durpo1x<br/>
 > ∙ **[YUKI EXPRESS!](https://www.last.fm/music/Z%C3%98MB/_/YUKI+EXPRESS!)** - ZØMB<br/>
-> ∙ **[STRIKE A POSE!](https://www.last.fm/music/Z%C3%98MB/_/STRIKE+A+POSE!)** - ZØMB<br/>
-> ∙ **[4K](https://www.last.fm/music/Takopi%27s+Original+Sin+OP+%2F+Opening+1/_/4K)** - Takopi's Original Sin OP / Opening 1<br/>
-> ∙ **[HYSTERIA!](https://www.last.fm/music/Z%C3%98MB/_/HYSTERIA!)** - ZØMB<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
