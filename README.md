@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Down The Road](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Down+The+Road)** - Inpatient, Ren, & Chris Webby<br/>
+> 🎶 **[Dr Meyers](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Dr+Meyers)** - Inpatient (Ren x Chris Webby)<br/>
+> ∙ **[Silence (Visualiser)](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Silence+(Visualiser))** - Inpatient (Ren x Chris Webby)<br/>
+> ∙ **[Mason Jar (Visualiser)](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Mason+Jar+(Visualiser))** - Inpatient (Ren x Chris Webby)<br/>
+> ∙ **[Tarantula](https://www.last.fm/music/Ren/_/Tarantula)** - Ren<br/>
+> ∙ **[Smoking Gun](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Smoking+Gun)** - Inpatient (Ren x Chris Webby)<br/>
+> ∙ **[Me and My Monster](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Me+and+My+Monster)** - Inpatient (Ren x Chris Webby)<br/>
+> ∙ **[Asylum](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Asylum)** - Inpatient (Ren x Chris Webby)<br/>
+> ∙ **[Bad Company](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Bad+Company)** - Inpatient (Ren x Chris Webby)<br/>
 > ∙ **[Down The Road](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Down+The+Road)** - Inpatient, Ren, & Chris Webby<br/>
 > ∙ **[Neurodivergent](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Neurodivergent)** - Inpatient (Ren x Chris Webby)<br/>
-> ∙ **[Instigator](https://www.last.fm/music/Inpatient,+Chris+Webby,+&+Ren/_/Instigator)** - Inpatient, Chris Webby, & Ren<br/>
-> ∙ **[Madhouse](https://www.last.fm/music/Ren/_/Madhouse)** - Ren<br/>
-> ∙ **[Tarantula](https://www.last.fm/music/Inpatient,+Ren,+Chris+Webby/_/Tarantula)** - Inpatient, Ren, Chris Webby<br/>
-> ∙ **[Aruarian Dance](https://www.last.fm/music/Nujabes/_/Aruarian+Dance)** - Nujabes<br/>
-> ∙ **[Jimmy, Brian and Mike](https://www.last.fm/music/Eminem/_/Jimmy,+Brian+and+Mike)** - Eminem<br/>
-> ∙ **[Konton Boogie](https://www.last.fm/music/jon-YAKITORY/_/Konton+Boogie)** - jon-YAKITORY<br/>
-> ∙ **[Monitoring](https://www.last.fm/music/DECO*27/_/Monitoring)** - DECO*27<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
