@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Tarantula](https://www.last.fm/music/Inpatient,+Ren,+Chris+Webby/_/Tarantula)** - Inpatient, Ren, Chris Webby<br/>
+> 🎶 **[Down The Road](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Down+The+Road)** - Inpatient, Ren, & Chris Webby<br/>
+> ∙ **[Down The Road](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Down+The+Road)** - Inpatient, Ren, & Chris Webby<br/>
+> ∙ **[Neurodivergent](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Neurodivergent)** - Inpatient (Ren x Chris Webby)<br/>
+> ∙ **[Instigator](https://www.last.fm/music/Inpatient,+Chris+Webby,+&+Ren/_/Instigator)** - Inpatient, Chris Webby, & Ren<br/>
+> ∙ **[Madhouse](https://www.last.fm/music/Ren/_/Madhouse)** - Ren<br/>
+> ∙ **[Tarantula](https://www.last.fm/music/Inpatient,+Ren,+Chris+Webby/_/Tarantula)** - Inpatient, Ren, Chris Webby<br/>
 > ∙ **[Aruarian Dance](https://www.last.fm/music/Nujabes/_/Aruarian+Dance)** - Nujabes<br/>
 > ∙ **[Jimmy, Brian and Mike](https://www.last.fm/music/Eminem/_/Jimmy,+Brian+and+Mike)** - Eminem<br/>
 > ∙ **[Konton Boogie](https://www.last.fm/music/jon-YAKITORY/_/Konton+Boogie)** - jon-YAKITORY<br/>
 > ∙ **[Monitoring](https://www.last.fm/music/DECO*27/_/Monitoring)** - DECO*27<br/>
-> ∙ **[LEFT RIGHT](https://www.last.fm/music/Shirobeats,+Ironmouse,+Kiwwi,+&+Swoodeasu/_/LEFT+RIGHT)** - Shirobeats, Ironmouse, Kiwwi, & Swoodeasu<br/>
-> ∙ **[kurarin](https://www.last.fm/music/kyu/_/kurarin)** - kyu<br/>
-> ∙ **[FASHION ICON](https://www.last.fm/music/Z%C3%98MB/_/FASHION+ICON)** - ZØMB<br/>
-> ∙ **[STARDUST PHARMACY](https://www.last.fm/music/Z%C3%98MB/_/STARDUST+PHARMACY)** - ZØMB<br/>
-> ∙ **[NO STRINGS ATTACHED](https://www.last.fm/music/Z%C3%98MB/_/NO+STRINGS+ATTACHED)** - ZØMB<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
