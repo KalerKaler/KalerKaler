@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Supreme](https://www.last.fm/music/Shubh/_/Supreme)** - Shubh<br/>
-> ∙ **[Wavy](https://www.last.fm/music/Karan+Aujla+&+Jay+Trak/_/Wavy)** - Karan Aujla & Jay Trak<br/>
-> ∙ **[STFU](https://www.last.fm/music/AP+Dhillon+&+Shinda+Kahlon/_/STFU)** - AP Dhillon & Shinda Kahlon<br/>
-> ∙ **[Take Notes](https://www.last.fm/music/Sidhu+Moose+Wala+&+Jay+B/_/Take+Notes)** - Sidhu Moose Wala & Jay B<br/>
-> ∙ **[Morni](https://www.last.fm/music/DILJIT+DOSANJH,+Tru-Skool,+&+Chani+Nattan/_/Morni)** - DILJIT DOSANJH, Tru-Skool, & Chani Nattan<br/>
-> ∙ **[Moves](https://www.last.fm/music/Shubh/_/Moves)** - Shubh<br/>
-> ∙ **[7](https://www.last.fm/music/5/_/7)** - 5<br/>
-> ∙ **[2 WAYS](https://www.last.fm/music/Tarsem+Jassar+&+Wazir+Patar/_/2+WAYS)** - Tarsem Jassar & Wazir Patar<br/>
-> ∙ **[Drippy](https://www.last.fm/music/Sidhu+Moose+Wala,+Mxrci,+&+AR+Paisley/_/Drippy)** - Sidhu Moose Wala, Mxrci, & AR Paisley<br/>
-> ∙ **[Daku](https://www.last.fm/music/Chani+Nattan,+Mad+Mix,+&+Inderpal+Moga/_/Daku)** - Chani Nattan, Mad Mix, & Inderpal Moga<br/>
+> 🎶 **[Carnival](https://www.last.fm/music/John+Michael+Howell/_/Carnival)** - John Michael Howell<br/>
+> ∙ **[Air](https://www.last.fm/music/Maria+Mathea/_/Air)** - Maria Mathea<br/>
+> ∙ **[Without You.](https://www.last.fm/music/Discrete+&+Mary+Cicilia/_/Without+You.)** - Discrete & Mary Cicilia<br/>
+> ∙ **[DRUM GO DUM](https://www.last.fm/music/K%2FDA,+Wolftyla,+&+Bekuh+Boom/_/DRUM+GO+DUM)** - K/DA, Wolftyla, & Bekuh Boom<br/>
+> ∙ **[Don't You Cry](https://www.last.fm/music/Sunday+Scaries+&+Discrete/_/Don%27t+You+Cry)** - Sunday Scaries & Discrete<br/>
+> ∙ **[Never Know](https://www.last.fm/music/Discrete+&+Maria+Mathea/_/Never+Know)** - Discrete & Maria Mathea<br/>
+> ∙ **[Feel The Heat](https://www.last.fm/music/kunaru/_/Feel+The+Heat)** - kunaru<br/>
+> ∙ **[Quicksand](https://www.last.fm/music/Michi+Mochievee/_/Quicksand)** - Michi Mochievee<br/>
+> ∙ **[Keep cold](https://www.last.fm/music/Miniko+Mew+&+Ellie+Minibot/_/Keep+cold)** - Miniko Mew & Ellie Minibot<br/>
+> ∙ **[505](https://www.last.fm/music/Miniko+Mew/_/505)** - Miniko Mew<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
