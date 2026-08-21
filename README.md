@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Dr Meyers](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Dr+Meyers)** - Inpatient (Ren x Chris Webby)<br/>
-> ∙ **[Silence (Visualiser)](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Silence+(Visualiser))** - Inpatient (Ren x Chris Webby)<br/>
-> ∙ **[Mason Jar (Visualiser)](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Mason+Jar+(Visualiser))** - Inpatient (Ren x Chris Webby)<br/>
-> ∙ **[Tarantula](https://www.last.fm/music/Ren/_/Tarantula)** - Ren<br/>
-> ∙ **[Smoking Gun](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Smoking+Gun)** - Inpatient (Ren x Chris Webby)<br/>
-> ∙ **[Me and My Monster](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Me+and+My+Monster)** - Inpatient (Ren x Chris Webby)<br/>
-> ∙ **[Asylum](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Asylum)** - Inpatient (Ren x Chris Webby)<br/>
-> ∙ **[Bad Company](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Bad+Company)** - Inpatient (Ren x Chris Webby)<br/>
-> ∙ **[Down The Road](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Down+The+Road)** - Inpatient, Ren, & Chris Webby<br/>
-> ∙ **[Neurodivergent](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Neurodivergent)** - Inpatient (Ren x Chris Webby)<br/>
+> 🎶 **[Drippy](https://www.last.fm/music/Sidhu+Moose+Wala,+Mxrci,+&+AR+Paisley/_/Drippy)** - Sidhu Moose Wala, Mxrci, & AR Paisley<br/>
+> ∙ **[Drippy](https://www.last.fm/music/Sidhu+Moose+Wala,+Mxrci,+&+AR+Paisley/_/Drippy)** - Sidhu Moose Wala, Mxrci, & AR Paisley<br/>
+> ∙ **[Daku](https://www.last.fm/music/Chani+Nattan,+Mad+Mix,+&+Inderpal+Moga/_/Daku)** - Chani Nattan, Mad Mix, & Inderpal Moga<br/>
+> ∙ **[Lalkaara](https://www.last.fm/music/Diljit+Dosanjh+&+Sultaan/_/Lalkaara)** - Diljit Dosanjh & Sultaan<br/>
+> ∙ **[Wavy](https://www.last.fm/music/Karan+Aujla+&+Jay+Trak/_/Wavy)** - Karan Aujla & Jay Trak<br/>
+> ∙ **[Safety Off](https://www.last.fm/music/Shubh/_/Safety+Off)** - Shubh<br/>
+> ∙ **[Mercy](https://www.last.fm/music/Top+Music+Videos/_/Mercy)** - Top Music Videos<br/>
+> ∙ **[Glorious](https://www.last.fm/music/Arjan+Dhillon/_/Glorious)** - Arjan Dhillon<br/>
+> ∙ **[Take Notes](https://www.last.fm/music/Sidhu+Moose+Wala+&+Jay+B/_/Take+Notes)** - Sidhu Moose Wala & Jay B<br/>
+> ∙ **[Morni](https://www.last.fm/music/DILJIT+DOSANJH,+Tru-Skool,+&+Chani+Nattan/_/Morni)** - DILJIT DOSANJH, Tru-Skool, & Chani Nattan<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
