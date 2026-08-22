@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Carnival](https://www.last.fm/music/John+Michael+Howell/_/Carnival)** - John Michael Howell<br/>
+> 🎶 **[Just Forget](https://www.last.fm/music/Force+of+Nature/_/Just+Forget)** - Force of Nature<br/>
+> ∙ **[[FREE] NUJABES X UYAMA HIROTO TYPE BEAT "FEBRUARY 7TH" | 2025](https://www.last.fm/music/Remdolla/_/%5BFREE%5D+NUJABES+X+UYAMA+HIROTO+TYPE+BEAT+%22FEBRUARY+7TH%22+%7C+2025)** - Remdolla<br/>
+> ∙ **[Carnival](https://www.last.fm/music/John+Michael+Howell/_/Carnival)** - John Michael Howell<br/>
 > ∙ **[Air](https://www.last.fm/music/Maria+Mathea/_/Air)** - Maria Mathea<br/>
 > ∙ **[Without You.](https://www.last.fm/music/Discrete+&+Mary+Cicilia/_/Without+You.)** - Discrete & Mary Cicilia<br/>
 > ∙ **[DRUM GO DUM](https://www.last.fm/music/K%2FDA,+Wolftyla,+&+Bekuh+Boom/_/DRUM+GO+DUM)** - K/DA, Wolftyla, & Bekuh Boom<br/>
@@ -72,8 +74,6 @@
 > ∙ **[Never Know](https://www.last.fm/music/Discrete+&+Maria+Mathea/_/Never+Know)** - Discrete & Maria Mathea<br/>
 > ∙ **[Feel The Heat](https://www.last.fm/music/kunaru/_/Feel+The+Heat)** - kunaru<br/>
 > ∙ **[Quicksand](https://www.last.fm/music/Michi+Mochievee/_/Quicksand)** - Michi Mochievee<br/>
-> ∙ **[Keep cold](https://www.last.fm/music/Miniko+Mew+&+Ellie+Minibot/_/Keep+cold)** - Miniko Mew & Ellie Minibot<br/>
-> ∙ **[505](https://www.last.fm/music/Miniko+Mew/_/505)** - Miniko Mew<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
