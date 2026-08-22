@@ -55,7 +55,7 @@
 
 > `118 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `65 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `59 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `60 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `55 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `50 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Just Forget](https://www.last.fm/music/Force+of+Nature/_/Just+Forget)** - Force of Nature<br/>
-> ∙ **[[FREE] NUJABES X UYAMA HIROTO TYPE BEAT "FEBRUARY 7TH" | 2025](https://www.last.fm/music/Remdolla/_/%5BFREE%5D+NUJABES+X+UYAMA+HIROTO+TYPE+BEAT+%22FEBRUARY+7TH%22+%7C+2025)** - Remdolla<br/>
-> ∙ **[Carnival](https://www.last.fm/music/John+Michael+Howell/_/Carnival)** - John Michael Howell<br/>
-> ∙ **[Air](https://www.last.fm/music/Maria+Mathea/_/Air)** - Maria Mathea<br/>
-> ∙ **[Without You.](https://www.last.fm/music/Discrete+&+Mary+Cicilia/_/Without+You.)** - Discrete & Mary Cicilia<br/>
-> ∙ **[DRUM GO DUM](https://www.last.fm/music/K%2FDA,+Wolftyla,+&+Bekuh+Boom/_/DRUM+GO+DUM)** - K/DA, Wolftyla, & Bekuh Boom<br/>
-> ∙ **[Don't You Cry](https://www.last.fm/music/Sunday+Scaries+&+Discrete/_/Don%27t+You+Cry)** - Sunday Scaries & Discrete<br/>
-> ∙ **[Never Know](https://www.last.fm/music/Discrete+&+Maria+Mathea/_/Never+Know)** - Discrete & Maria Mathea<br/>
-> ∙ **[Feel The Heat](https://www.last.fm/music/kunaru/_/Feel+The+Heat)** - kunaru<br/>
-> ∙ **[Quicksand](https://www.last.fm/music/Michi+Mochievee/_/Quicksand)** - Michi Mochievee<br/>
+> 🎶 **[Love Me Not](https://www.last.fm/music/Emei/_/Love+Me+Not)** - Emei<br/>
+> ∙ **[WUWAHAHAHA (English Version)](https://www.last.fm/music/PeachyFranny/_/WUWAHAHAHA+(English+Version))** - PeachyFranny<br/>
+> ∙ **[Sick Boy](https://www.last.fm/music/The+Chainsmokers/_/Sick+Boy)** - The Chainsmokers<br/>
+> ∙ **[Villain](https://www.last.fm/music/Just+Pete/_/Villain)** - Just Pete<br/>
+> ∙ **[Hallucination](https://www.last.fm/music/Sissal/_/Hallucination)** - Sissal<br/>
+> ∙ **[I'm About to Lose It, but I'm Doing Fine](https://www.last.fm/music/Frugit/_/I%27m+About+to+Lose+It,+but+I%27m+Doing+Fine)** - Frugit<br/>
+> ∙ **[sensitive](https://www.last.fm/music/Mothica/_/sensitive)** - Mothica<br/>
+> ∙ **[JOLT](https://www.last.fm/music/Unlike+Pluto/_/JOLT)** - Unlike Pluto<br/>
+> ∙ **[Guts](https://www.last.fm/music/Ellie+Dixon/_/Guts)** - Ellie Dixon<br/>
+> ∙ **[Love Me Not](https://www.last.fm/music/Isaa+Corva/_/Love+Me+Not)** - Isaa Corva<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
