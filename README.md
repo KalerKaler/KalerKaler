@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `118 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `119 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `65 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `60 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `55 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Love Me Not](https://www.last.fm/music/Emei/_/Love+Me+Not)** - Emei<br/>
+> 🎶 **[Hello](https://www.last.fm/music/Eminem/_/Hello)** - Eminem<br/>
+> ∙ **[Love Me Not](https://www.last.fm/music/Emei/_/Love+Me+Not)** - Emei<br/>
 > ∙ **[WUWAHAHAHA (English Version)](https://www.last.fm/music/PeachyFranny/_/WUWAHAHAHA+(English+Version))** - PeachyFranny<br/>
 > ∙ **[Sick Boy](https://www.last.fm/music/The+Chainsmokers/_/Sick+Boy)** - The Chainsmokers<br/>
 > ∙ **[Villain](https://www.last.fm/music/Just+Pete/_/Villain)** - Just Pete<br/>
@@ -73,7 +74,6 @@
 > ∙ **[sensitive](https://www.last.fm/music/Mothica/_/sensitive)** - Mothica<br/>
 > ∙ **[JOLT](https://www.last.fm/music/Unlike+Pluto/_/JOLT)** - Unlike Pluto<br/>
 > ∙ **[Guts](https://www.last.fm/music/Ellie+Dixon/_/Guts)** - Ellie Dixon<br/>
-> ∙ **[Love Me Not](https://www.last.fm/music/Isaa+Corva/_/Love+Me+Not)** - Isaa Corva<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
