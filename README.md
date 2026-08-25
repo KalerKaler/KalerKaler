@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Greatest](https://www.last.fm/music/Eminem/_/Greatest)** - Eminem<br/>
+> 🎶 **[Long Way from Home](https://www.last.fm/music/Rule+%2336/_/Long+Way+from+Home)** - Rule #36<br/>
+> ∙ **[Microphone](https://www.last.fm/music/Rule+%2335/_/Microphone)** - Rule #35<br/>
+> ∙ **[Greatest](https://www.last.fm/music/Eminem/_/Greatest)** - Eminem<br/>
 > ∙ **[Book of Rhymes (feat. DJ Premier)](https://www.last.fm/music/Eminem/_/Book+of+Rhymes+(feat.+DJ+Premier))** - Eminem<br/>
 > ∙ **[Crown](https://www.last.fm/music/NEFFEX/_/Crown)** - NEFFEX<br/>
 > ∙ **[Same Song & Dance](https://www.last.fm/music/Eminem/_/Same+Song+&+Dance)** - Eminem<br/>
@@ -72,8 +74,6 @@
 > ∙ **[Love Me Not](https://www.last.fm/music/Emei/_/Love+Me+Not)** - Emei<br/>
 > ∙ **[WUWAHAHAHA (English Version)](https://www.last.fm/music/PeachyFranny/_/WUWAHAHAHA+(English+Version))** - PeachyFranny<br/>
 > ∙ **[Sick Boy](https://www.last.fm/music/The+Chainsmokers/_/Sick+Boy)** - The Chainsmokers<br/>
-> ∙ **[Villain](https://www.last.fm/music/Just+Pete/_/Villain)** - Just Pete<br/>
-> ∙ **[Hallucination](https://www.last.fm/music/Sissal/_/Hallucination)** - Sissal<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
