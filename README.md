@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Downfall](https://www.last.fm/music/Derivakat/_/Downfall)** - Derivakat<br/>
+> 🎶 **[Shabad Kirtan Read Along - New Lyrical Shabad - Amritt Saagar](https://www.last.fm/music/Mere+Ram+Rai+Tu+Santa+Ka+Sant+Tere/_/Shabad+Kirtan+Read+Along+-+New+Lyrical+Shabad+-+Amritt+Saagar)** - Mere Ram Rai Tu Santa Ka Sant Tere<br/>
+> ∙ **[Downfall](https://www.last.fm/music/Derivakat/_/Downfall)** - Derivakat<br/>
 > ∙ **[Greedy](https://www.last.fm/music/Isaa+Corva+&+hope+jss/_/Greedy)** - Isaa Corva & hope jss<br/>
 > ∙ **[Espresso](https://www.last.fm/music/Nerissa+Ravencroft/_/Espresso)** - Nerissa Ravencroft<br/>
 > ∙ **[Good Riddance](https://www.last.fm/music/Ellie+Minibot+&+Shoomimi/_/Good+Riddance)** - Ellie Minibot & Shoomimi<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Come Down](https://www.last.fm/music/nihmune/_/Come+Down)** - nihmune<br/>
 > ∙ **[Love Me Not](https://www.last.fm/music/Isaa+Corva/_/Love+Me+Not)** - Isaa Corva<br/>
 > ∙ **[Wanna Be Her](https://www.last.fm/music/Isaa+Corva+&+Derivakat/_/Wanna+Be+Her)** - Isaa Corva & Derivakat<br/>
-> ∙ **[FOMO](https://www.last.fm/music/Tokyo+Manaka/_/FOMO)** - Tokyo Manaka<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
