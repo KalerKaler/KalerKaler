@@ -55,8 +55,8 @@
 
 > `124 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `65 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `60 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `55 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `61 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `56 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `50 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Rain Man](https://www.last.fm/music/Eminem/_/Rain+Man)** - Eminem<br/>
-> ∙ **[Problem Child](https://www.last.fm/music/Khantrast/_/Problem+Child)** - Khantrast<br/>
-> ∙ **[Up!](https://www.last.fm/music/Khantrast/_/Up!)** - Khantrast<br/>
-> ∙ **[Head Honcho](https://www.last.fm/music/Eminem,+Ez+Mil/_/Head+Honcho)** - Eminem, Ez Mil<br/>
-> ∙ **[Bully](https://www.last.fm/music/Khantrast/_/Bully)** - Khantrast<br/>
-> ∙ **[Greatest](https://www.last.fm/music/Eminem/_/Greatest)** - Eminem<br/>
-> ∙ **[Long Way from Home](https://www.last.fm/music/Rule+%2336/_/Long+Way+from+Home)** - Rule #36<br/>
-> ∙ **[Microphone](https://www.last.fm/music/Rule+%2335/_/Microphone)** - Rule #35<br/>
-> ∙ **[Greatest](https://www.last.fm/music/Eminem/_/Greatest)** - Eminem<br/>
-> ∙ **[Book of Rhymes (feat. DJ Premier)](https://www.last.fm/music/Eminem/_/Book+of+Rhymes+(feat.+DJ+Premier))** - Eminem<br/>
+> 🎶 **[Downfall](https://www.last.fm/music/Derivakat/_/Downfall)** - Derivakat<br/>
+> ∙ **[Greedy](https://www.last.fm/music/Isaa+Corva+&+hope+jss/_/Greedy)** - Isaa Corva & hope jss<br/>
+> ∙ **[Espresso](https://www.last.fm/music/Nerissa+Ravencroft/_/Espresso)** - Nerissa Ravencroft<br/>
+> ∙ **[Good Riddance](https://www.last.fm/music/Ellie+Minibot+&+Shoomimi/_/Good+Riddance)** - Ellie Minibot & Shoomimi<br/>
+> ∙ **[Stephen Sanchez with Em Beihold (Isaa Cover)](https://www.last.fm/music/Until+I+Found+You/_/Stephen+Sanchez+with+Em+Beihold+(Isaa+Cover))** - Until I Found You<br/>
+> ∙ **[Butcher Vanity](https://www.last.fm/music/cottontailVA/_/Butcher+Vanity)** - cottontailVA<br/>
+> ∙ **[Come Down](https://www.last.fm/music/nihmune/_/Come+Down)** - nihmune<br/>
+> ∙ **[Love Me Not](https://www.last.fm/music/Isaa+Corva/_/Love+Me+Not)** - Isaa Corva<br/>
+> ∙ **[Wanna Be Her](https://www.last.fm/music/Isaa+Corva+&+Derivakat/_/Wanna+Be+Her)** - Isaa Corva & Derivakat<br/>
+> ∙ **[FOMO](https://www.last.fm/music/Tokyo+Manaka/_/FOMO)** - Tokyo Manaka<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
