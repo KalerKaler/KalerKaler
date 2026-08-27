@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `122 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `124 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `65 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `60 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `55 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Long Way from Home](https://www.last.fm/music/Rule+%2336/_/Long+Way+from+Home)** - Rule #36<br/>
+> 🎶 **[Rain Man](https://www.last.fm/music/Eminem/_/Rain+Man)** - Eminem<br/>
+> ∙ **[Problem Child](https://www.last.fm/music/Khantrast/_/Problem+Child)** - Khantrast<br/>
+> ∙ **[Up!](https://www.last.fm/music/Khantrast/_/Up!)** - Khantrast<br/>
+> ∙ **[Head Honcho](https://www.last.fm/music/Eminem,+Ez+Mil/_/Head+Honcho)** - Eminem, Ez Mil<br/>
+> ∙ **[Bully](https://www.last.fm/music/Khantrast/_/Bully)** - Khantrast<br/>
+> ∙ **[Greatest](https://www.last.fm/music/Eminem/_/Greatest)** - Eminem<br/>
+> ∙ **[Long Way from Home](https://www.last.fm/music/Rule+%2336/_/Long+Way+from+Home)** - Rule #36<br/>
 > ∙ **[Microphone](https://www.last.fm/music/Rule+%2335/_/Microphone)** - Rule #35<br/>
 > ∙ **[Greatest](https://www.last.fm/music/Eminem/_/Greatest)** - Eminem<br/>
 > ∙ **[Book of Rhymes (feat. DJ Premier)](https://www.last.fm/music/Eminem/_/Book+of+Rhymes+(feat.+DJ+Premier))** - Eminem<br/>
-> ∙ **[Crown](https://www.last.fm/music/NEFFEX/_/Crown)** - NEFFEX<br/>
-> ∙ **[Same Song & Dance](https://www.last.fm/music/Eminem/_/Same+Song+&+Dance)** - Eminem<br/>
-> ∙ **[Hello](https://www.last.fm/music/Eminem/_/Hello)** - Eminem<br/>
-> ∙ **[Love Me Not](https://www.last.fm/music/Emei/_/Love+Me+Not)** - Emei<br/>
-> ∙ **[WUWAHAHAHA (English Version)](https://www.last.fm/music/PeachyFranny/_/WUWAHAHAHA+(English+Version))** - PeachyFranny<br/>
-> ∙ **[Sick Boy](https://www.last.fm/music/The+Chainsmokers/_/Sick+Boy)** - The Chainsmokers<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
