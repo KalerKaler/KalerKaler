@@ -53,8 +53,8 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `124 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `65 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `126 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `72 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `61 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `56 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Shabad Kirtan Read Along - New Lyrical Shabad - Amritt Saagar](https://www.last.fm/music/Mere+Ram+Rai+Tu+Santa+Ka+Sant+Tere/_/Shabad+Kirtan+Read+Along+-+New+Lyrical+Shabad+-+Amritt+Saagar)** - Mere Ram Rai Tu Santa Ka Sant Tere<br/>
-> ∙ **[Downfall](https://www.last.fm/music/Derivakat/_/Downfall)** - Derivakat<br/>
-> ∙ **[Greedy](https://www.last.fm/music/Isaa+Corva+&+hope+jss/_/Greedy)** - Isaa Corva & hope jss<br/>
-> ∙ **[Espresso](https://www.last.fm/music/Nerissa+Ravencroft/_/Espresso)** - Nerissa Ravencroft<br/>
-> ∙ **[Good Riddance](https://www.last.fm/music/Ellie+Minibot+&+Shoomimi/_/Good+Riddance)** - Ellie Minibot & Shoomimi<br/>
-> ∙ **[Stephen Sanchez with Em Beihold (Isaa Cover)](https://www.last.fm/music/Until+I+Found+You/_/Stephen+Sanchez+with+Em+Beihold+(Isaa+Cover))** - Until I Found You<br/>
-> ∙ **[Butcher Vanity](https://www.last.fm/music/cottontailVA/_/Butcher+Vanity)** - cottontailVA<br/>
-> ∙ **[Come Down](https://www.last.fm/music/nihmune/_/Come+Down)** - nihmune<br/>
-> ∙ **[Love Me Not](https://www.last.fm/music/Isaa+Corva/_/Love+Me+Not)** - Isaa Corva<br/>
-> ∙ **[Wanna Be Her](https://www.last.fm/music/Isaa+Corva+&+Derivakat/_/Wanna+Be+Her)** - Isaa Corva & Derivakat<br/>
+> 🎶 **[A Promise](https://www.last.fm/music/Ellie+Minibot/_/A+Promise)** - Ellie Minibot<br/>
+> ∙ **[Ferns and Flowers](https://www.last.fm/music/Ellie+Minibot/_/Ferns+and+Flowers)** - Ellie Minibot<br/>
+> ∙ **[From the Backseat](https://www.last.fm/music/Ellie+Minibot/_/From+the+Backseat)** - Ellie Minibot<br/>
+> ∙ **[Don't Look Down](https://www.last.fm/music/Ellie+Minibot/_/Don%27t+Look+Down)** - Ellie Minibot<br/>
+> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
+> ∙ **[Wherever I Go](https://www.last.fm/music/Ellie+Minibot/_/Wherever+I+Go)** - Ellie Minibot<br/>
+> ∙ **[Same Moon](https://www.last.fm/music/Ellie+Minibot/_/Same+Moon)** - Ellie Minibot<br/>
+> ∙ **[Kill You](https://www.last.fm/music/Eminem/_/Kill+You)** - Eminem<br/>
+> ∙ **[Alright (Ma Don't Cry)](https://www.last.fm/music/Khantrast/_/Alright+(Ma+Don%27t+Cry))** - Khantrast<br/>
+> ∙ **[Rain Man](https://www.last.fm/music/Eminem/_/Rain+Man)** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
