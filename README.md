@@ -66,7 +66,6 @@
 
 > 🎶 **[Doomsday Pt. 2](https://www.last.fm/music/Lyrical+Lemonade,+Eminem/_/Doomsday+Pt.+2)** - Lyrical Lemonade, Eminem<br/>
 > ∙ **[Doomsday Pt. 2](https://www.last.fm/music/Lyrical+Lemonade,+Eminem/_/Doomsday+Pt.+2)** - Lyrical Lemonade, Eminem<br/>
-> ∙ **[Doomsday Pt. 2](https://www.last.fm/music/Lyrical+Lemonade,+Eminem/_/Doomsday+Pt.+2)** - Lyrical Lemonade, Eminem<br/>
 > ∙ **[IDFWY](https://www.last.fm/music/Khantrast/_/IDFWY)** - Khantrast<br/>
 > ∙ **[MOTTO](https://www.last.fm/music/NF/_/MOTTO)** - NF<br/>
 > ∙ **[Alright (Ma Don't Cry)](https://www.last.fm/music/Khantrast/_/Alright+(Ma+Don%27t+Cry))** - Khantrast<br/>
@@ -74,6 +73,7 @@
 > ∙ **[Ferns and Flowers](https://www.last.fm/music/Ellie+Minibot/_/Ferns+and+Flowers)** - Ellie Minibot<br/>
 > ∙ **[From the Backseat](https://www.last.fm/music/Ellie+Minibot/_/From+the+Backseat)** - Ellie Minibot<br/>
 > ∙ **[Don't Look Down](https://www.last.fm/music/Ellie+Minibot/_/Don%27t+Look+Down)** - Ellie Minibot<br/>
+> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
