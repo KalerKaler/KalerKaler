@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Doomsday Pt. 2](https://www.last.fm/music/Lyrical+Lemonade,+Eminem/_/Doomsday+Pt.+2)** - Lyrical Lemonade, Eminem<br/>
-> ∙ **[Doomsday Pt. 2](https://www.last.fm/music/Lyrical+Lemonade,+Eminem/_/Doomsday+Pt.+2)** - Lyrical Lemonade, Eminem<br/>
-> ∙ **[IDFWY](https://www.last.fm/music/Khantrast/_/IDFWY)** - Khantrast<br/>
-> ∙ **[MOTTO](https://www.last.fm/music/NF/_/MOTTO)** - NF<br/>
-> ∙ **[Alright (Ma Don't Cry)](https://www.last.fm/music/Khantrast/_/Alright+(Ma+Don%27t+Cry))** - Khantrast<br/>
-> ∙ **[A Promise](https://www.last.fm/music/Ellie+Minibot/_/A+Promise)** - Ellie Minibot<br/>
-> ∙ **[Ferns and Flowers](https://www.last.fm/music/Ellie+Minibot/_/Ferns+and+Flowers)** - Ellie Minibot<br/>
-> ∙ **[From the Backseat](https://www.last.fm/music/Ellie+Minibot/_/From+the+Backseat)** - Ellie Minibot<br/>
-> ∙ **[Don't Look Down](https://www.last.fm/music/Ellie+Minibot/_/Don%27t+Look+Down)** - Ellie Minibot<br/>
-> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
+> 🎶 **[Great](https://www.last.fm/music/Khantrast/_/Great)** - Khantrast<br/>
+> ∙ **[Let's Ride](https://www.last.fm/music/Khantrast/_/Let%27s+Ride)** - Khantrast<br/>
+> ∙ **[Lovesick](https://www.last.fm/music/Khantrast+&+Poodee/_/Lovesick)** - Khantrast & Poodee<br/>
+> ∙ **[Man of the Year](https://www.last.fm/music/Khantrast/_/Man+of+the+Year)** - Khantrast<br/>
+> ∙ **[Serve](https://www.last.fm/music/Khantrast/_/Serve)** - Khantrast<br/>
+> ∙ **[ADD](https://www.last.fm/music/Khantrast/_/ADD)** - Khantrast<br/>
+> ∙ **[Poster Child](https://www.last.fm/music/Khantrast/_/Poster+Child)** - Khantrast<br/>
+> ∙ **[Landed In Brooklyn](https://www.last.fm/music/Khantrast/_/Landed+In+Brooklyn)** - Khantrast<br/>
+> ∙ **[Up!](https://www.last.fm/music/Khantrast/_/Up!)** - Khantrast<br/>
+> ∙ **[She Bugging (Whatchu Gonna Do)](https://www.last.fm/music/Mr+Flintstone+&+Khantrast/_/She+Bugging+(Whatchu+Gonna+Do))** - Mr Flintstone & Khantrast<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
