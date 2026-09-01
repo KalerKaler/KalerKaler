@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `128 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `129 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `72 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `61 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `56 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[So Much Better](https://www.last.fm/music/Eminem/_/So+Much+Better)** - Eminem<br/>
+> 🎶 **[When I Grow Up](https://www.last.fm/music/NF/_/When+I+Grow+Up)** - NF<br/>
+> ∙ **[Poster Child](https://www.last.fm/music/Khantrast/_/Poster+Child)** - Khantrast<br/>
+> ∙ **[So Much Better](https://www.last.fm/music/Eminem/_/So+Much+Better)** - Eminem<br/>
+> ∙ **[So Much Better](https://www.last.fm/music/Eminem/_/So+Much+Better)** - Eminem<br/>
 > ∙ **[Space Bound](https://www.last.fm/music/Eminem/_/Space+Bound)** - Eminem<br/>
 > ∙ **[Doomsday Pt. 2](https://www.last.fm/music/Lyrical+Lemonade,+Eminem/_/Doomsday+Pt.+2)** - Lyrical Lemonade, Eminem<br/>
 > ∙ **[Great](https://www.last.fm/music/Khantrast/_/Great)** - Khantrast<br/>
 > ∙ **[Let's Ride](https://www.last.fm/music/Khantrast/_/Let%27s+Ride)** - Khantrast<br/>
 > ∙ **[Lovesick](https://www.last.fm/music/Khantrast+&+Poodee/_/Lovesick)** - Khantrast & Poodee<br/>
 > ∙ **[Man of the Year](https://www.last.fm/music/Khantrast/_/Man+of+the+Year)** - Khantrast<br/>
-> ∙ **[Serve](https://www.last.fm/music/Khantrast/_/Serve)** - Khantrast<br/>
-> ∙ **[ADD](https://www.last.fm/music/Khantrast/_/ADD)** - Khantrast<br/>
-> ∙ **[Poster Child](https://www.last.fm/music/Khantrast/_/Poster+Child)** - Khantrast<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
