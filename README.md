@@ -54,9 +54,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `129 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `73 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `74 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `61 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `57 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `50 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Don't Know Yet](https://www.last.fm/music/nihmune/_/Don%27t+Know+Yet)** - nihmune<br/>
+> 🎶 **[Universe (feat. Vienna)](https://www.last.fm/music/nihmune/_/Universe+(feat.+Vienna))** - nihmune<br/>
+> ∙ **[Still Alive (cover)](https://www.last.fm/music/Ellie_Minibot/_/Still+Alive+(cover))** - Ellie_Minibot<br/>
+> ∙ **[Ferns and Flowers](https://www.last.fm/music/Ellie+Minibot/_/Ferns+and+Flowers)** - Ellie Minibot<br/>
+> ∙ **[Born Twice](https://www.last.fm/music/Manos+Mars/_/Born+Twice)** - Manos Mars<br/>
+> ∙ **[Hazard-Light Click](https://www.last.fm/music/DannyHO/_/Hazard-Light+Click)** - DannyHO<br/>
+> ∙ **[Don't Know Yet](https://www.last.fm/music/nihmune/_/Don%27t+Know+Yet)** - nihmune<br/>
 > ∙ **[A Promise](https://www.last.fm/music/Ellie+Minibot/_/A+Promise)** - Ellie Minibot<br/>
 > ∙ **[When I Grow Up](https://www.last.fm/music/NF/_/When+I+Grow+Up)** - NF<br/>
 > ∙ **[Poster Child](https://www.last.fm/music/Khantrast/_/Poster+Child)** - Khantrast<br/>
 > ∙ **[So Much Better](https://www.last.fm/music/Eminem/_/So+Much+Better)** - Eminem<br/>
-> ∙ **[So Much Better](https://www.last.fm/music/Eminem/_/So+Much+Better)** - Eminem<br/>
-> ∙ **[Space Bound](https://www.last.fm/music/Eminem/_/Space+Bound)** - Eminem<br/>
-> ∙ **[Doomsday Pt. 2](https://www.last.fm/music/Lyrical+Lemonade,+Eminem/_/Doomsday+Pt.+2)** - Lyrical Lemonade, Eminem<br/>
-> ∙ **[Great](https://www.last.fm/music/Khantrast/_/Great)** - Khantrast<br/>
-> ∙ **[Let's Ride](https://www.last.fm/music/Khantrast/_/Let%27s+Ride)** - Khantrast<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
