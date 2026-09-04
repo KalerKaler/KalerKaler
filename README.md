@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Universe (feat. Vienna)](https://www.last.fm/music/nihmune/_/Universe+(feat.+Vienna))** - nihmune<br/>
-> ∙ **[Still Alive (cover)](https://www.last.fm/music/Ellie_Minibot/_/Still+Alive+(cover))** - Ellie_Minibot<br/>
-> ∙ **[Ferns and Flowers](https://www.last.fm/music/Ellie+Minibot/_/Ferns+and+Flowers)** - Ellie Minibot<br/>
-> ∙ **[Born Twice](https://www.last.fm/music/Manos+Mars/_/Born+Twice)** - Manos Mars<br/>
-> ∙ **[Hazard-Light Click](https://www.last.fm/music/DannyHO/_/Hazard-Light+Click)** - DannyHO<br/>
-> ∙ **[Don't Know Yet](https://www.last.fm/music/nihmune/_/Don%27t+Know+Yet)** - nihmune<br/>
-> ∙ **[A Promise](https://www.last.fm/music/Ellie+Minibot/_/A+Promise)** - Ellie Minibot<br/>
-> ∙ **[When I Grow Up](https://www.last.fm/music/NF/_/When+I+Grow+Up)** - NF<br/>
-> ∙ **[Poster Child](https://www.last.fm/music/Khantrast/_/Poster+Child)** - Khantrast<br/>
-> ∙ **[So Much Better](https://www.last.fm/music/Eminem/_/So+Much+Better)** - Eminem<br/>
+> 🎶 **[Get My Way](https://www.last.fm/music/Vosai/_/Get+My+Way)** - Vosai<br/>
+> ∙ **[Nightmare](https://www.last.fm/music/Besomorph/_/Nightmare)** - Besomorph<br/>
+> ∙ **[Lie To Me](https://www.last.fm/music/Riell/_/Lie+To+Me)** - Riell<br/>
+> ∙ **[Sacrifice](https://www.last.fm/music/Besomorph/_/Sacrifice)** - Besomorph<br/>
+> ∙ **[Hostage](https://www.last.fm/music/Besomorph/_/Hostage)** - Besomorph<br/>
+> ∙ **[Poison](https://www.last.fm/music/Riell/_/Poison)** - Riell<br/>
+> ∙ **[Winter](https://www.last.fm/music/Riell/_/Winter)** - Riell<br/>
+> ∙ **[I'd Rather Lose You Than My Mind](https://www.last.fm/music/Riell/_/I%27d+Rather+Lose+You+Than+My+Mind)** - Riell<br/>
+> ∙ **[By The Ocean](https://www.last.fm/music/Besomorph/_/By+The+Ocean)** - Besomorph<br/>
+> ∙ **[Cruel Summer](https://www.last.fm/music/Riell/_/Cruel+Summer)** - Riell<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
