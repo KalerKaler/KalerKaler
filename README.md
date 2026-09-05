@@ -54,26 +54,26 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `129 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `74 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `61 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `75 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `64 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
-> `51 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `52 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `50 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Asylum](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Asylum)** - Inpatient (Ren x Chris Webby)<br/>
-> ∙ **[Bad Company](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Bad+Company)** - Inpatient (Ren x Chris Webby)<br/>
-> ∙ **[Down The Road](https://www.last.fm/music/Inpatient,+Ren,+&+Chris+Webby/_/Down+The+Road)** - Inpatient, Ren, & Chris Webby<br/>
-> ∙ **[Neurodivergent](https://www.last.fm/music/Inpatient+(Ren+x+Chris+Webby)/_/Neurodivergent)** - Inpatient (Ren x Chris Webby)<br/>
-> ∙ **[Instigator](https://www.last.fm/music/Inpatient,+Chris+Webby,+&+Ren/_/Instigator)** - Inpatient, Chris Webby, & Ren<br/>
-> ∙ **[505](https://www.last.fm/music/Miniko+Mew/_/505)** - Miniko Mew<br/>
-> ∙ **[Madhouse](https://www.last.fm/music/Ren/_/Madhouse)** - Ren<br/>
-> ∙ **[kasane teto (synthesizer v cover)](https://www.last.fm/music/Rainbow+Factory/_/kasane+teto+(synthesizer+v+cover))** - Rainbow Factory<br/>
-> ∙ **[ヤババイナ](https://www.last.fm/music/SatapanP/_/%E3%83%A4%E3%83%90%E3%83%90%E3%82%A4%E3%83%8A)** - SatapanP<br/>
-> ∙ **[Kasane territory ～ Zutto Teto no Turn](https://www.last.fm/music/Kasane+Teto/_/Kasane+territory+%EF%BD%9E+Zutto+Teto+no+Turn)** - Kasane Teto<br/>
+> 🎶 **[Too Sweet](https://www.last.fm/music/Isaa+Corva/_/Too+Sweet)** - Isaa Corva<br/>
+> ∙ **[thank you i guess](https://www.last.fm/music/Isaa+Corva/_/thank+you+i+guess)** - Isaa Corva<br/>
+> ∙ **[Love Me Not](https://www.last.fm/music/Isaa+Corva/_/Love+Me+Not)** - Isaa Corva<br/>
+> ∙ **[Telephone](https://www.last.fm/music/The+Oshi+Bar/_/Telephone)** - The Oshi Bar<br/>
+> ∙ **[Wanna Be Her](https://www.last.fm/music/Isaa+Corva/_/Wanna+Be+Her)** - Isaa Corva<br/>
+> ∙ **[I Bet You Look Good on the Dancefloor](https://www.last.fm/music/Arctic+Monkeys/_/I+Bet+You+Look+Good+on+the+Dancefloor)** - Arctic Monkeys<br/>
+> ∙ **[El Mañana](https://www.last.fm/music/Gorillaz/_/El+Ma%C3%B1ana)** - Gorillaz<br/>
+> ∙ **[Lily](https://www.last.fm/music/Kanaya/_/Lily)** - Kanaya<br/>
+> ∙ **[Salem](https://www.last.fm/music/Lo+&+the+High+Road/_/Salem)** - Lo & the High Road<br/>
+> ∙ **[Venus](https://www.last.fm/music/Suko/_/Venus)** - Suko<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
