@@ -55,7 +55,7 @@
 
 > `129 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `75 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `64 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `69 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 > `52 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `50 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Too Sweet](https://www.last.fm/music/Isaa+Corva/_/Too+Sweet)** - Isaa Corva<br/>
+> 🎶 **[Padam Padam](https://www.last.fm/music/Isaa+Corva/_/Padam+Padam)** - Isaa Corva<br/>
+> ∙ **[Dream of Me](https://www.last.fm/music/Isaa+Corva/_/Dream+of+Me)** - Isaa Corva<br/>
+> ∙ **[Breaking the Habit](https://www.last.fm/music/Isaa+Corva/_/Breaking+the+Habit)** - Isaa Corva<br/>
+> ∙ **[Blackout](https://www.last.fm/music/Isaa+Corva/_/Blackout)** - Isaa Corva<br/>
+> ∙ **[Disturbia](https://www.last.fm/music/The+Oshi+Bar/_/Disturbia)** - The Oshi Bar<br/>
+> ∙ **[Too Sweet](https://www.last.fm/music/Isaa+Corva/_/Too+Sweet)** - Isaa Corva<br/>
 > ∙ **[thank you i guess](https://www.last.fm/music/Isaa+Corva/_/thank+you+i+guess)** - Isaa Corva<br/>
 > ∙ **[Love Me Not](https://www.last.fm/music/Isaa+Corva/_/Love+Me+Not)** - Isaa Corva<br/>
 > ∙ **[Telephone](https://www.last.fm/music/The+Oshi+Bar/_/Telephone)** - The Oshi Bar<br/>
 > ∙ **[Wanna Be Her](https://www.last.fm/music/Isaa+Corva/_/Wanna+Be+Her)** - Isaa Corva<br/>
-> ∙ **[I Bet You Look Good on the Dancefloor](https://www.last.fm/music/Arctic+Monkeys/_/I+Bet+You+Look+Good+on+the+Dancefloor)** - Arctic Monkeys<br/>
-> ∙ **[El Mañana](https://www.last.fm/music/Gorillaz/_/El+Ma%C3%B1ana)** - Gorillaz<br/>
-> ∙ **[Lily](https://www.last.fm/music/Kanaya/_/Lily)** - Kanaya<br/>
-> ∙ **[Salem](https://www.last.fm/music/Lo+&+the+High+Road/_/Salem)** - Lo & the High Road<br/>
-> ∙ **[Venus](https://www.last.fm/music/Suko/_/Venus)** - Suko<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
