@@ -54,26 +54,26 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `129 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `77 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `75 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `69 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `58 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
-> `52 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `50 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Padam Padam](https://www.last.fm/music/Isaa+Corva/_/Padam+Padam)** - Isaa Corva<br/>
-> ∙ **[Dream of Me](https://www.last.fm/music/Isaa+Corva/_/Dream+of+Me)** - Isaa Corva<br/>
-> ∙ **[Breaking the Habit](https://www.last.fm/music/Isaa+Corva/_/Breaking+the+Habit)** - Isaa Corva<br/>
-> ∙ **[Blackout](https://www.last.fm/music/Isaa+Corva/_/Blackout)** - Isaa Corva<br/>
-> ∙ **[Disturbia](https://www.last.fm/music/The+Oshi+Bar/_/Disturbia)** - The Oshi Bar<br/>
-> ∙ **[Too Sweet](https://www.last.fm/music/Isaa+Corva/_/Too+Sweet)** - Isaa Corva<br/>
-> ∙ **[thank you i guess](https://www.last.fm/music/Isaa+Corva/_/thank+you+i+guess)** - Isaa Corva<br/>
-> ∙ **[Love Me Not](https://www.last.fm/music/Isaa+Corva/_/Love+Me+Not)** - Isaa Corva<br/>
-> ∙ **[Telephone](https://www.last.fm/music/The+Oshi+Bar/_/Telephone)** - The Oshi Bar<br/>
-> ∙ **[Wanna Be Her](https://www.last.fm/music/Isaa+Corva/_/Wanna+Be+Her)** - Isaa Corva<br/>
+> 🎶 **[Who’s Toxic ? It’s You!](https://www.last.fm/music/Moona+Hoshinova/_/Who%E2%80%99s+Toxic+%3F+It%E2%80%99s+You!)** - Moona Hoshinova<br/>
+> ∙ **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
+> ∙ **[Multiverse](https://www.last.fm/music/Moona+Hoshinova/_/Multiverse)** - Moona Hoshinova<br/>
+> ∙ **[story time](https://www.last.fm/music/Hoshimachi+Suisei/_/story+time)** - Hoshimachi Suisei<br/>
+> ∙ **[HI:STREET TIME](https://www.last.fm/music/Ayunda+Risu/_/HI:STREET+TIME)** - Ayunda Risu<br/>
+> ∙ **[Distortion](https://www.last.fm/music/Moona+Hoshinova/_/Distortion)** - Moona Hoshinova<br/>
+> ∙ **[Distortion](https://www.last.fm/music/Moona+Hoshinova/_/Distortion)** - Moona Hoshinova<br/>
+> ∙ **[High Tide](https://www.last.fm/music/Moona+Hoshinova/_/High+Tide)** - Moona Hoshinova<br/>
+> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
+> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
