@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Teeth](https://www.last.fm/music/5+Seconds+of+Summer/_/Teeth)** - 5 Seconds of Summer<br/>
+> 🎶 **[Alright (Ma Don't Cry)](https://www.last.fm/music/Khantrast/_/Alright+(Ma+Don%27t+Cry))** - Khantrast<br/>
+> ∙ **[Problem Child](https://www.last.fm/music/Khantrast/_/Problem+Child)** - Khantrast<br/>
+> ∙ **[Teeth](https://www.last.fm/music/5+Seconds+of+Summer/_/Teeth)** - 5 Seconds of Summer<br/>
 > ∙ **[Self Control](https://www.last.fm/music/Bebe+Rexha/_/Self+Control)** - Bebe Rexha<br/>
 > ∙ **[Break My Heart Myself (feat. Travis Barker)](https://www.last.fm/music/Bebe+Rexha/_/Break+My+Heart+Myself+(feat.+Travis+Barker))** - Bebe Rexha<br/>
 > ∙ **[Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)](https://www.last.fm/music/Bebe+Rexha/_/Break+My+Heart+Myself+(feat.+YEJI+&+RYUJIN+of+ITZY))** - Bebe Rexha<br/>
@@ -72,8 +74,6 @@
 > ∙ **[I'm a Mess](https://www.last.fm/music/Bebe+Rexha/_/I%27m+a+Mess)** - Bebe Rexha<br/>
 > ∙ **[Tell me what's on your mind](https://www.last.fm/music/Light+Skin+%C5%8Ctsutsuki/_/Tell+me+what%27s+on+your+mind)** - Light Skin Ōtsutsuki<br/>
 > ∙ **[say it again !](https://www.last.fm/music/gl!ch/_/say+it+again+!)** - gl!ch<br/>
-> ∙ **[What You Mean](https://www.last.fm/music/gl!ch/_/What+You+Mean)** - gl!ch<br/>
-> ∙ **[EVERSINCE](https://www.last.fm/music/temcandoanything/_/EVERSINCE)** - temcandoanything<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
