@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `131 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `132 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `77 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `75 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `68 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Alright (Ma Don't Cry)](https://www.last.fm/music/Khantrast/_/Alright+(Ma+Don%27t+Cry))** - Khantrast<br/>
+> 🎶 **[wild mirror pulsing](https://www.last.fm/music/The+Dolly+Rocker+Movement/_/wild+mirror+pulsing)** - The Dolly Rocker Movement<br/>
+> ∙ **[gawr gura - bad guy](https://www.last.fm/music/5.6M+views/_/gawr+gura+-+bad+guy)** - 5.6M views<br/>
+> ∙ **[Shake That (Official Music Video)](https://www.last.fm/music/Eminem/_/Shake+That+(Official+Music+Video))** - Eminem<br/>
+> ∙ **[Realest](https://www.last.fm/music/Ez+Mil,+Eminem/_/Realest)** - Ez Mil, Eminem<br/>
+> ∙ **[Alright (Ma Don't Cry)](https://www.last.fm/music/Khantrast/_/Alright+(Ma+Don%27t+Cry))** - Khantrast<br/>
 > ∙ **[Problem Child](https://www.last.fm/music/Khantrast/_/Problem+Child)** - Khantrast<br/>
 > ∙ **[Teeth](https://www.last.fm/music/5+Seconds+of+Summer/_/Teeth)** - 5 Seconds of Summer<br/>
 > ∙ **[Self Control](https://www.last.fm/music/Bebe+Rexha/_/Self+Control)** - Bebe Rexha<br/>
 > ∙ **[Break My Heart Myself (feat. Travis Barker)](https://www.last.fm/music/Bebe+Rexha/_/Break+My+Heart+Myself+(feat.+Travis+Barker))** - Bebe Rexha<br/>
 > ∙ **[Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)](https://www.last.fm/music/Bebe+Rexha/_/Break+My+Heart+Myself+(feat.+YEJI+&+RYUJIN+of+ITZY))** - Bebe Rexha<br/>
-> ∙ **[New Religion](https://www.last.fm/music/Bebe+Rexha/_/New+Religion)** - Bebe Rexha<br/>
-> ∙ **[I'm a Mess](https://www.last.fm/music/Bebe+Rexha/_/I%27m+a+Mess)** - Bebe Rexha<br/>
-> ∙ **[Tell me what's on your mind](https://www.last.fm/music/Light+Skin+%C5%8Ctsutsuki/_/Tell+me+what%27s+on+your+mind)** - Light Skin Ōtsutsuki<br/>
-> ∙ **[say it again !](https://www.last.fm/music/gl!ch/_/say+it+again+!)** - gl!ch<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
