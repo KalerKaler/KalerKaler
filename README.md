@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[gigolo](https://www.last.fm/music/bbno$/_/gigolo)** - bbno$<br/>
+> 🎶 **[Say My Name](https://www.last.fm/music/David+Guetta/_/Say+My+Name)** - David Guetta<br/>
+> ∙ **[gigolo](https://www.last.fm/music/bbno$/_/gigolo)** - bbno$<br/>
 > ∙ **[IDFWY](https://www.last.fm/music/Khantrast/_/IDFWY)** - Khantrast<br/>
 > ∙ **[Perfect Circle](https://www.last.fm/music/Nujabes/_/Perfect+Circle)** - Nujabes<br/>
 > ∙ **[Sakura Eater](https://www.last.fm/music/Electronic+Music+Zone/_/Sakura+Eater)** - Electronic Music Zone<br/>
 > ∙ **[bbno$ & Rich Brian - edamame (Official Video)](https://www.last.fm/music/bbno$/_/bbno$+&+Rich+Brian+-+edamame+(Official+Video))** - bbno$<br/>
 > ∙ **[Still Talking To You](https://www.last.fm/music/Nujabes/_/Still+Talking+To+You)** - Nujabes<br/>
+> ∙ **[Typhoeus EP - Fragmented Dreams┃ Arknights: Endfield](https://www.last.fm/music/cattpur/_/Typhoeus+EP+-+Fragmented+Dreams%E2%94%83+Arknights:+Endfield)** - cattpur<br/>
 > ∙ **[Curtains Close](https://www.last.fm/music/Eminem/_/Curtains+Close)** - Eminem<br/>
 > ∙ **[My Dad's Gone Crazy](https://www.last.fm/music/Eminem/_/My+Dad%27s+Gone+Crazy)** - Eminem<br/>
-> ∙ **[Till I Collapse](https://www.last.fm/music/Eminem/_/Till+I+Collapse)** - Eminem<br/>
-> ∙ **[Say What You Say](https://www.last.fm/music/Eminem/_/Say+What+You+Say)** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
