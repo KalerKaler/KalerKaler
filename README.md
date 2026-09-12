@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `138 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `141 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `88 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `77 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `68 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Tip Toe](https://www.last.fm/music/Neuro+-+HYBS/_/Tip+Toe)** - Neuro - HYBS<br/>
-> ∙ **[Delete Me](https://www.last.fm/music/Evil+-+ShallowSky/_/Delete+Me)** - Evil - ShallowSky<br/>
-> ∙ **[ぽかぽかの星 (Poka Poka Planet)](https://www.last.fm/music/Neuro+-+Harumaki+Gohan/_/%E3%81%BD%E3%81%8B%E3%81%BD%E3%81%8B%E3%81%AE%E6%98%9F+(Poka+Poka+Planet))** - Neuro - Harumaki Gohan<br/>
-> ∙ **[Higher](https://www.last.fm/music/Eminem/_/Higher)** - Eminem<br/>
-> ∙ **[Same Moon](https://www.last.fm/music/Ellie+Minibot/_/Same+Moon)** - Ellie Minibot<br/>
-> ∙ **[Same Moon](https://www.last.fm/music/Ellie+Minibot/_/Same+Moon)** - Ellie Minibot<br/>
-> ∙ **[Hold the Line](https://www.last.fm/music/Neuro-sama/_/Hold+the+Line)** - Neuro-sama<br/>
-> ∙ **[A Promise](https://www.last.fm/music/Ellie+Minibot/_/A+Promise)** - Ellie Minibot<br/>
-> ∙ **[Ferns and Flowers](https://www.last.fm/music/Ellie+Minibot/_/Ferns+and+Flowers)** - Ellie Minibot<br/>
-> ∙ **[From the Backseat](https://www.last.fm/music/Ellie+Minibot/_/From+the+Backseat)** - Ellie Minibot<br/>
+> 🎶 **[Come Alive Stripped.](https://www.last.fm/music/HOYO-MiX/_/Come+Alive+Stripped.)** - HOYO-MiX<br/>
+> ∙ **[Ed Sheeran - Shape of You (Official Music Video)](https://www.last.fm/music/Ed+Sheeran/_/Ed+Sheeran+-+Shape+of+You+(Official+Music+Video))** - Ed Sheeran<br/>
+> ∙ **[I'm Shady](https://www.last.fm/music/Eminem/_/I%27m+Shady)** - Eminem<br/>
+> ∙ **[Premonition (Intro)](https://www.last.fm/music/Eminem/_/Premonition+(Intro))** - Eminem<br/>
+> ∙ **[Who will know - furusato](https://www.last.fm/music/Neuro+-+Yoko+Yakahashi/_/Who+will+know+-+furusato)** - Neuro - Yoko Yakahashi<br/>
+> ∙ **[On Fire](https://www.last.fm/music/Eminem/_/On+Fire)** - Eminem<br/>
+> ∙ **[ツユ - アサガオの散る頃に MV](https://www.last.fm/music/%E3%83%84%E3%83%A6/_/%E3%83%84%E3%83%A6+-+%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA%E3%81%AE%E6%95%A3%E3%82%8B%E9%A0%83%E3%81%AB+MV)** - ツユ<br/>
+> ∙ **[【Ado】Tot Musica（ウタ from ONE PIECE FILM RED）](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91Tot+Musica%EF%BC%88%E3%82%A6%E3%82%BF+from+ONE+PIECE+FILM+RED%EF%BC%89)** - Ado<br/>
+> ∙ **[Burning Desires](https://www.last.fm/music/S%C4%81n-Z/_/Burning+Desires)** - Sān-Z<br/>
+> ∙ **[Tip Toe](https://www.last.fm/music/Neuro+-+HYBS/_/Tip+Toe)** - Neuro - HYBS<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
