@@ -58,22 +58,22 @@
 > `77 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `68 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
-> `50 ▶️` ∙ **[The Black Eyed Peas](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas)**<br/>
+> `57 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Photograph](https://www.last.fm/music/Ed+Sheeran/_/Photograph)** - Ed Sheeran<br/>
-> ∙ **[Perfect](https://www.last.fm/music/Ed+Sheeran/_/Perfect)** - Ed Sheeran<br/>
-> ∙ **[Tip Toe](https://www.last.fm/music/HYBS/_/Tip+Toe)** - HYBS<br/>
-> ∙ **[Boy in the Bubble](https://www.last.fm/music/Alec+Benjamin/_/Boy+in+the+Bubble)** - Alec Benjamin<br/>
-> ∙ **[Shape of You](https://www.last.fm/music/Ed+Sheeran/_/Shape+of+You)** - Ed Sheeran<br/>
-> ∙ **[The Way You Make Me Feel - 2012 Remaster](https://www.last.fm/music/Michael+Jackson/_/The+Way+You+Make+Me+Feel+-+2012+Remaster)** - Michael Jackson<br/>
-> ∙ **[P.Y.T. (Pretty Young Thing)](https://www.last.fm/music/Michael+Jackson/_/P.Y.T.+(Pretty+Young+Thing))** - Michael Jackson<br/>
-> ∙ **[Love Never Felt So Good](https://www.last.fm/music/Michael+Jackson/_/Love+Never+Felt+So+Good)** - Michael Jackson<br/>
-> ∙ **[Heaven Can Wait](https://www.last.fm/music/Michael+Jackson/_/Heaven+Can+Wait)** - Michael Jackson<br/>
-> ∙ **[Rock With You - Single Version](https://www.last.fm/music/Michael+Jackson/_/Rock+With+You+-+Single+Version)** - Michael Jackson<br/>
+> 🎶 **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
+> ∙ **[Oreo](https://www.last.fm/music/Shotgun+Willy/_/Oreo)** - Shotgun Willy<br/>
+> ∙ **[Cheat Codes for Hoes](https://www.last.fm/music/Shotgun+Willy/_/Cheat+Codes+for+Hoes)** - Shotgun Willy<br/>
+> ∙ **[Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)** - Shotgun Willy<br/>
+> ∙ **[Oreo](https://www.last.fm/music/Shotgun+Willy/_/Oreo)** - Shotgun Willy<br/>
+> ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
+> ∙ **[Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)** - Shotgun Willy<br/>
+> ∙ **[Dalai Lama](https://www.last.fm/music/Shotgun+Willy/_/Dalai+Lama)** - Shotgun Willy<br/>
+> ∙ **[Winnebago](https://www.last.fm/music/Shotgun+Willy/_/Winnebago)** - Shotgun Willy<br/>
+> ∙ **[Thinking Out Loud](https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud)** - Ed Sheeran<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
