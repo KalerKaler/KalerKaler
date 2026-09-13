@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Come Alive Stripped.](https://www.last.fm/music/HOYO-MiX/_/Come+Alive+Stripped.)** - HOYO-MiX<br/>
-> ∙ **[Ed Sheeran - Shape of You (Official Music Video)](https://www.last.fm/music/Ed+Sheeran/_/Ed+Sheeran+-+Shape+of+You+(Official+Music+Video))** - Ed Sheeran<br/>
-> ∙ **[I'm Shady](https://www.last.fm/music/Eminem/_/I%27m+Shady)** - Eminem<br/>
-> ∙ **[Premonition (Intro)](https://www.last.fm/music/Eminem/_/Premonition+(Intro))** - Eminem<br/>
-> ∙ **[Who will know - furusato](https://www.last.fm/music/Neuro+-+Yoko+Yakahashi/_/Who+will+know+-+furusato)** - Neuro - Yoko Yakahashi<br/>
-> ∙ **[On Fire](https://www.last.fm/music/Eminem/_/On+Fire)** - Eminem<br/>
-> ∙ **[ツユ - アサガオの散る頃に MV](https://www.last.fm/music/%E3%83%84%E3%83%A6/_/%E3%83%84%E3%83%A6+-+%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA%E3%81%AE%E6%95%A3%E3%82%8B%E9%A0%83%E3%81%AB+MV)** - ツユ<br/>
-> ∙ **[【Ado】Tot Musica（ウタ from ONE PIECE FILM RED）](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91Tot+Musica%EF%BC%88%E3%82%A6%E3%82%BF+from+ONE+PIECE+FILM+RED%EF%BC%89)** - Ado<br/>
-> ∙ **[Burning Desires](https://www.last.fm/music/S%C4%81n-Z/_/Burning+Desires)** - Sān-Z<br/>
-> ∙ **[Tip Toe](https://www.last.fm/music/Neuro+-+HYBS/_/Tip+Toe)** - Neuro - HYBS<br/>
+> 🎶 **[Photograph](https://www.last.fm/music/Ed+Sheeran/_/Photograph)** - Ed Sheeran<br/>
+> ∙ **[Perfect](https://www.last.fm/music/Ed+Sheeran/_/Perfect)** - Ed Sheeran<br/>
+> ∙ **[Tip Toe](https://www.last.fm/music/HYBS/_/Tip+Toe)** - HYBS<br/>
+> ∙ **[Boy in the Bubble](https://www.last.fm/music/Alec+Benjamin/_/Boy+in+the+Bubble)** - Alec Benjamin<br/>
+> ∙ **[Shape of You](https://www.last.fm/music/Ed+Sheeran/_/Shape+of+You)** - Ed Sheeran<br/>
+> ∙ **[The Way You Make Me Feel - 2012 Remaster](https://www.last.fm/music/Michael+Jackson/_/The+Way+You+Make+Me+Feel+-+2012+Remaster)** - Michael Jackson<br/>
+> ∙ **[P.Y.T. (Pretty Young Thing)](https://www.last.fm/music/Michael+Jackson/_/P.Y.T.+(Pretty+Young+Thing))** - Michael Jackson<br/>
+> ∙ **[Love Never Felt So Good](https://www.last.fm/music/Michael+Jackson/_/Love+Never+Felt+So+Good)** - Michael Jackson<br/>
+> ∙ **[Heaven Can Wait](https://www.last.fm/music/Michael+Jackson/_/Heaven+Can+Wait)** - Michael Jackson<br/>
+> ∙ **[Rock With You - Single Version](https://www.last.fm/music/Michael+Jackson/_/Rock+With+You+-+Single+Version)** - Michael Jackson<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
