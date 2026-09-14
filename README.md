@@ -56,24 +56,24 @@
 > `141 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `88 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `77 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `68 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `71 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `67 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
-> `57 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[【Ado】オールナイトレディオ](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%AC%E3%83%87%E3%82%A3%E3%82%AA)** - Ado<br/>
-> ∙ **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
-> ∙ **[Oreo](https://www.last.fm/music/Shotgun+Willy/_/Oreo)** - Shotgun Willy<br/>
-> ∙ **[Cheat Codes for Hoes](https://www.last.fm/music/Shotgun+Willy/_/Cheat+Codes+for+Hoes)** - Shotgun Willy<br/>
-> ∙ **[Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)** - Shotgun Willy<br/>
-> ∙ **[Oreo](https://www.last.fm/music/Shotgun+Willy/_/Oreo)** - Shotgun Willy<br/>
-> ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
-> ∙ **[Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)** - Shotgun Willy<br/>
-> ∙ **[Dalai Lama](https://www.last.fm/music/Shotgun+Willy/_/Dalai+Lama)** - Shotgun Willy<br/>
-> ∙ **[Winnebago](https://www.last.fm/music/Shotgun+Willy/_/Winnebago)** - Shotgun Willy<br/>
+> 🎶 **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
+> ∙ **[HI:STREET TIME](https://www.last.fm/music/Ayunda+Risu/_/HI:STREET+TIME)** - Ayunda Risu<br/>
+> ∙ **[Distortion](https://www.last.fm/music/Moona+Hoshinova/_/Distortion)** - Moona Hoshinova<br/>
+> ∙ **[High Tide](https://www.last.fm/music/Moona+Hoshinova/_/High+Tide)** - Moona Hoshinova<br/>
+> ∙ **[Guy Fieri](https://www.last.fm/music/Shotgun+Willy/_/Guy+Fieri)** - Shotgun Willy<br/>
+> ∙ **[OMG Shawty](https://www.last.fm/music/Shotgun+Willy/_/OMG+Shawty)** - Shotgun Willy<br/>
+> ∙ **[Fuego](https://www.last.fm/music/Shotgun+Willy/_/Fuego)** - Shotgun Willy<br/>
+> ∙ **[Come and It Go](https://www.last.fm/music/Shotgun+Willy/_/Come+and+It+Go)** - Shotgun Willy<br/>
+> ∙ **[Master Sword](https://www.last.fm/music/Shotgun+Willy/_/Master+Sword)** - Shotgun Willy<br/>
+> ∙ **[Wendy](https://www.last.fm/music/Shotgun+Willy/_/Wendy)** - Shotgun Willy<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
