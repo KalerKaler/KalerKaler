@@ -53,9 +53,9 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `141 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `88 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `77 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `144 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `89 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `78 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `71 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `67 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
@@ -65,15 +65,15 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
 > 🎶 **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
-> ∙ **[HI:STREET TIME](https://www.last.fm/music/Ayunda+Risu/_/HI:STREET+TIME)** - Ayunda Risu<br/>
-> ∙ **[Distortion](https://www.last.fm/music/Moona+Hoshinova/_/Distortion)** - Moona Hoshinova<br/>
-> ∙ **[High Tide](https://www.last.fm/music/Moona+Hoshinova/_/High+Tide)** - Moona Hoshinova<br/>
-> ∙ **[Guy Fieri](https://www.last.fm/music/Shotgun+Willy/_/Guy+Fieri)** - Shotgun Willy<br/>
-> ∙ **[OMG Shawty](https://www.last.fm/music/Shotgun+Willy/_/OMG+Shawty)** - Shotgun Willy<br/>
-> ∙ **[Fuego](https://www.last.fm/music/Shotgun+Willy/_/Fuego)** - Shotgun Willy<br/>
-> ∙ **[Come and It Go](https://www.last.fm/music/Shotgun+Willy/_/Come+and+It+Go)** - Shotgun Willy<br/>
-> ∙ **[Master Sword](https://www.last.fm/music/Shotgun+Willy/_/Master+Sword)** - Shotgun Willy<br/>
-> ∙ **[Wendy](https://www.last.fm/music/Shotgun+Willy/_/Wendy)** - Shotgun Willy<br/>
+> ∙ **[Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://www.last.fm/music/Teriyaki+Boyz/_/Tokyo+Drift+(Fast+&+Furious)+-+From+%22The+Fast+And+The+Furious:+Tokyo+Drift%22+Soundtrack)** - Teriyaki Boyz<br/>
+> ∙ **[It's the Most Wonderful Time of the Year](https://www.last.fm/music/Duet+(Neuro/_/It%27s+the+Most+Wonderful+Time+of+the+Year)** - Duet (Neuro<br/>
+> ∙ **[MINIMUM RAGE (feat. Kasane Teto)](https://www.last.fm/music/MonochroMenace/_/MINIMUM+RAGE+(feat.+Kasane+Teto))** - MonochroMenace<br/>
+> ∙ **[【Ado】Episode X](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91Episode+X)** - Ado<br/>
+> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
+> ∙ **[Doom Bloom](https://www.last.fm/music/HOYO-MiX/_/Doom+Bloom)** - HOYO-MiX<br/>
+> ∙ **[LET THE WORLD BURN](https://www.last.fm/music/Evil+-+Chris+Grey/_/LET+THE+WORLD+BURN)** - Evil - Chris Grey<br/>
+> ∙ **[When Sandwiches Come A Knockin'](https://www.last.fm/music/HOYO-MiX/_/When+Sandwiches+Come+A+Knockin%27)** - HOYO-MiX<br/>
+> ∙ **[Sound](https://www.last.fm/music/Isaa+Corva/_/Sound)** - Isaa Corva<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
