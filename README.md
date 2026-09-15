@@ -56,7 +56,7 @@
 > `144 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `89 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `78 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `71 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `72 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `67 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
+> 🎶 **[GET TO ME](https://www.last.fm/music/temcandoanything/_/GET+TO+ME)** - temcandoanything<br/>
+> ∙ **[This is a song, okay, hello, bye.](https://www.last.fm/music/gl!ch/_/This+is+a+song,+okay,+hello,+bye.)** - gl!ch<br/>
+> ∙ **[PPPP (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/PPPP+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
+> ∙ **[Claret:«Link up» | Zenless Zone Zero](https://www.last.fm/music/cattpur/_/Claret:%C2%ABLink+up%C2%BB+%7C+Zenless+Zone+Zero)** - cattpur<br/>
+> ∙ **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
 > ∙ **[Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://www.last.fm/music/Teriyaki+Boyz/_/Tokyo+Drift+(Fast+&+Furious)+-+From+%22The+Fast+And+The+Furious:+Tokyo+Drift%22+Soundtrack)** - Teriyaki Boyz<br/>
 > ∙ **[It's the Most Wonderful Time of the Year](https://www.last.fm/music/Duet+(Neuro/_/It%27s+the+Most+Wonderful+Time+of+the+Year)** - Duet (Neuro<br/>
 > ∙ **[MINIMUM RAGE (feat. Kasane Teto)](https://www.last.fm/music/MonochroMenace/_/MINIMUM+RAGE+(feat.+Kasane+Teto))** - MonochroMenace<br/>
 > ∙ **[【Ado】Episode X](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91Episode+X)** - Ado<br/>
 > ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
-> ∙ **[Doom Bloom](https://www.last.fm/music/HOYO-MiX/_/Doom+Bloom)** - HOYO-MiX<br/>
-> ∙ **[LET THE WORLD BURN](https://www.last.fm/music/Evil+-+Chris+Grey/_/LET+THE+WORLD+BURN)** - Evil - Chris Grey<br/>
-> ∙ **[When Sandwiches Come A Knockin'](https://www.last.fm/music/HOYO-MiX/_/When+Sandwiches+Come+A+Knockin%27)** - HOYO-MiX<br/>
-> ∙ **[Sound](https://www.last.fm/music/Isaa+Corva/_/Sound)** - Isaa Corva<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
