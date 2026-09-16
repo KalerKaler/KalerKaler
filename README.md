@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `145 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `146 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `89 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `78 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `74 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Heaven's Not Too Far](https://www.last.fm/music/We+Three/_/Heaven%27s+Not+Too+Far)** - We Three<br/>
-> ∙ **[Sara](https://www.last.fm/music/We+Three/_/Sara)** - We Three<br/>
-> ∙ **[Night Train to Nowhere - Instrumental](https://www.last.fm/music/Moona+Hoshinova/_/Night+Train+to+Nowhere+-+Instrumental)** - Moona Hoshinova<br/>
-> ∙ **[Night Train to Nowhere](https://www.last.fm/music/Moona+Hoshinova/_/Night+Train+to+Nowhere)** - Moona Hoshinova<br/>
-> ∙ **[Wendy](https://www.last.fm/music/Shotgun+Willy/_/Wendy)** - Shotgun Willy<br/>
-> ∙ **[Fabulous](https://www.last.fm/music/Shotgun+Willy/_/Fabulous)** - Shotgun Willy<br/>
-> ∙ **[everything sucks](https://www.last.fm/music/VaultBoy/_/everything+sucks)** - VaultBoy<br/>
-> ∙ **[Headlock](https://www.last.fm/music/Imogen+Heap/_/Headlock)** - Imogen Heap<br/>
+> 🎶 **[97' Bonnie & Clyde](https://www.last.fm/music/Eminem/_/97%27+Bonnie+&+Clyde)** - Eminem<br/>
+> ∙ **[Robot Stop](https://www.last.fm/music/Evil+-+King+Gizzard/_/Robot+Stop)** - Evil - King Gizzard<br/>
+> ∙ **[LEVITATE](https://www.last.fm/music/Neoni/_/LEVITATE)** - Neoni<br/>
+> ∙ **[One Last Kiss](https://www.last.fm/music/Neuro+-+Utada/_/One+Last+Kiss)** - Neuro - Utada<br/>
+> ∙ **[One Last Kiss](https://www.last.fm/music/Neuro+-+Utada/_/One+Last+Kiss)** - Neuro - Utada<br/>
+> ∙ **[you're not gone, you're just dead!](https://www.last.fm/music/Evil+-+VIOLENT+VIRA/_/you%27re+not+gone,+you%27re+just+dead!)** - Evil - VIOLENT VIRA<br/>
+> ∙ **[NEVER](https://www.last.fm/music/Neuro-sama/_/NEVER)** - Neuro-sama<br/>
+> ∙ **[Extremely](https://www.last.fm/music/HOYO-MiX/_/Extremely)** - HOYO-MiX<br/>
+> ∙ **[Imaginary Arcadia](https://www.last.fm/music/Neuro+-+nayuta/_/Imaginary+Arcadia)** - Neuro - nayuta<br/>
 > ∙ **[Headlock](https://www.last.fm/music/Neuro+-+Imogen+Heap/_/Headlock)** - Neuro - Imogen Heap<br/>
-> ∙ **[When Business Comes Knocking (Remix)](https://www.last.fm/music/S%C4%81n-Z/_/When+Business+Comes+Knocking+(Remix))** - Sān-Z<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
