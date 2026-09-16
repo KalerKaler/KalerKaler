@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `144 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `145 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `89 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `78 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `72 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `67 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `74 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `69 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[GET TO ME](https://www.last.fm/music/temcandoanything/_/GET+TO+ME)** - temcandoanything<br/>
-> ∙ **[This is a song, okay, hello, bye.](https://www.last.fm/music/gl!ch/_/This+is+a+song,+okay,+hello,+bye.)** - gl!ch<br/>
-> ∙ **[PPPP (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/PPPP+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
-> ∙ **[Claret:«Link up» | Zenless Zone Zero](https://www.last.fm/music/cattpur/_/Claret:%C2%ABLink+up%C2%BB+%7C+Zenless+Zone+Zero)** - cattpur<br/>
-> ∙ **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
-> ∙ **[Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://www.last.fm/music/Teriyaki+Boyz/_/Tokyo+Drift+(Fast+&+Furious)+-+From+%22The+Fast+And+The+Furious:+Tokyo+Drift%22+Soundtrack)** - Teriyaki Boyz<br/>
-> ∙ **[It's the Most Wonderful Time of the Year](https://www.last.fm/music/Duet+(Neuro/_/It%27s+the+Most+Wonderful+Time+of+the+Year)** - Duet (Neuro<br/>
-> ∙ **[MINIMUM RAGE (feat. Kasane Teto)](https://www.last.fm/music/MonochroMenace/_/MINIMUM+RAGE+(feat.+Kasane+Teto))** - MonochroMenace<br/>
-> ∙ **[【Ado】Episode X](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91Episode+X)** - Ado<br/>
-> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
+> 🎶 **[Heaven's Not Too Far](https://www.last.fm/music/We+Three/_/Heaven%27s+Not+Too+Far)** - We Three<br/>
+> ∙ **[Sara](https://www.last.fm/music/We+Three/_/Sara)** - We Three<br/>
+> ∙ **[Night Train to Nowhere - Instrumental](https://www.last.fm/music/Moona+Hoshinova/_/Night+Train+to+Nowhere+-+Instrumental)** - Moona Hoshinova<br/>
+> ∙ **[Night Train to Nowhere](https://www.last.fm/music/Moona+Hoshinova/_/Night+Train+to+Nowhere)** - Moona Hoshinova<br/>
+> ∙ **[Wendy](https://www.last.fm/music/Shotgun+Willy/_/Wendy)** - Shotgun Willy<br/>
+> ∙ **[Fabulous](https://www.last.fm/music/Shotgun+Willy/_/Fabulous)** - Shotgun Willy<br/>
+> ∙ **[everything sucks](https://www.last.fm/music/VaultBoy/_/everything+sucks)** - VaultBoy<br/>
+> ∙ **[Headlock](https://www.last.fm/music/Imogen+Heap/_/Headlock)** - Imogen Heap<br/>
+> ∙ **[Headlock](https://www.last.fm/music/Neuro+-+Imogen+Heap/_/Headlock)** - Neuro - Imogen Heap<br/>
+> ∙ **[When Business Comes Knocking (Remix)](https://www.last.fm/music/S%C4%81n-Z/_/When+Business+Comes+Knocking+(Remix))** - Sān-Z<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
