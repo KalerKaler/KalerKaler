@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `146 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `149 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `90 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `78 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `74 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[97' Bonnie & Clyde](https://www.last.fm/music/Eminem/_/97%27+Bonnie+&+Clyde)** - Eminem<br/>
+> 🎶 **[Bianca](https://www.last.fm/music/%E7%A4%BC%E8%A1%A3/_/Bianca)** - 礼衣<br/>
+> ∙ **[Dynasty](https://www.last.fm/music/Neoni/_/Dynasty)** - Neoni<br/>
+> ∙ **[Tragic Endings](https://www.last.fm/music/Eminem/_/Tragic+Endings)** - Eminem<br/>
+> ∙ **[Remind Me](https://www.last.fm/music/Eminem/_/Remind+Me)** - Eminem<br/>
+> ∙ **[Bad Husband](https://www.last.fm/music/Eminem/_/Bad+Husband)** - Eminem<br/>
+> ∙ **[ハートマーク – 礼衣 feat.川谷絵音 Music Video](https://www.last.fm/music/%E7%A4%BC%E8%A1%A3/_/%E3%83%8F%E3%83%BC%E3%83%88%E3%83%9E%E3%83%BC%E3%82%AF+%E2%80%93+%E7%A4%BC%E8%A1%A3+feat.%E5%B7%9D%E8%B0%B7%E7%B5%B5%E9%9F%B3+Music+Video)** - 礼衣<br/>
+> ∙ **[ツユ - 風薫る空の下 MV](https://www.last.fm/music/%E3%83%84%E3%83%A6/_/%E3%83%84%E3%83%A6+-+%E9%A2%A8%E8%96%AB%E3%82%8B%E7%A9%BA%E3%81%AE%E4%B8%8B+MV)** - ツユ<br/>
+> ∙ **[【Ado】抜け空](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E6%8A%9C%E3%81%91%E7%A9%BA)** - Ado<br/>
+> ∙ **[97' Bonnie & Clyde](https://www.last.fm/music/Eminem/_/97%27+Bonnie+&+Clyde)** - Eminem<br/>
 > ∙ **[Robot Stop](https://www.last.fm/music/Evil+-+King+Gizzard/_/Robot+Stop)** - Evil - King Gizzard<br/>
-> ∙ **[LEVITATE](https://www.last.fm/music/Neoni/_/LEVITATE)** - Neoni<br/>
-> ∙ **[One Last Kiss](https://www.last.fm/music/Neuro+-+Utada/_/One+Last+Kiss)** - Neuro - Utada<br/>
-> ∙ **[One Last Kiss](https://www.last.fm/music/Neuro+-+Utada/_/One+Last+Kiss)** - Neuro - Utada<br/>
-> ∙ **[you're not gone, you're just dead!](https://www.last.fm/music/Evil+-+VIOLENT+VIRA/_/you%27re+not+gone,+you%27re+just+dead!)** - Evil - VIOLENT VIRA<br/>
-> ∙ **[NEVER](https://www.last.fm/music/Neuro-sama/_/NEVER)** - Neuro-sama<br/>
-> ∙ **[Extremely](https://www.last.fm/music/HOYO-MiX/_/Extremely)** - HOYO-MiX<br/>
-> ∙ **[Imaginary Arcadia](https://www.last.fm/music/Neuro+-+nayuta/_/Imaginary+Arcadia)** - Neuro - nayuta<br/>
-> ∙ **[Headlock](https://www.last.fm/music/Neuro+-+Imogen+Heap/_/Headlock)** - Neuro - Imogen Heap<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
