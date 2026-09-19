@@ -53,8 +53,8 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `149 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `90 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `150 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `91 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `78 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `74 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `69 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Bianca](https://www.last.fm/music/%E7%A4%BC%E8%A1%A3/_/Bianca)** - 礼衣<br/>
-> ∙ **[Dynasty](https://www.last.fm/music/Neoni/_/Dynasty)** - Neoni<br/>
-> ∙ **[Tragic Endings](https://www.last.fm/music/Eminem/_/Tragic+Endings)** - Eminem<br/>
-> ∙ **[Remind Me](https://www.last.fm/music/Eminem/_/Remind+Me)** - Eminem<br/>
-> ∙ **[Bad Husband](https://www.last.fm/music/Eminem/_/Bad+Husband)** - Eminem<br/>
-> ∙ **[ハートマーク – 礼衣 feat.川谷絵音 Music Video](https://www.last.fm/music/%E7%A4%BC%E8%A1%A3/_/%E3%83%8F%E3%83%BC%E3%83%88%E3%83%9E%E3%83%BC%E3%82%AF+%E2%80%93+%E7%A4%BC%E8%A1%A3+feat.%E5%B7%9D%E8%B0%B7%E7%B5%B5%E9%9F%B3+Music+Video)** - 礼衣<br/>
-> ∙ **[ツユ - 風薫る空の下 MV](https://www.last.fm/music/%E3%83%84%E3%83%A6/_/%E3%83%84%E3%83%A6+-+%E9%A2%A8%E8%96%AB%E3%82%8B%E7%A9%BA%E3%81%AE%E4%B8%8B+MV)** - ツユ<br/>
-> ∙ **[【Ado】抜け空](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E6%8A%9C%E3%81%91%E7%A9%BA)** - Ado<br/>
-> ∙ **[97' Bonnie & Clyde](https://www.last.fm/music/Eminem/_/97%27+Bonnie+&+Clyde)** - Eminem<br/>
-> ∙ **[Robot Stop](https://www.last.fm/music/Evil+-+King+Gizzard/_/Robot+Stop)** - Evil - King Gizzard<br/>
+> 🎶 **[SexyBack (feat. Timbaland)](https://www.last.fm/music/+noredirect/Justin+Timberlake/_/SexyBack+(feat.+Timbaland))** - Justin Timberlake<br/>
+> ∙ **[Levitating](https://www.last.fm/music/Dua+Lipa/_/Levitating)** - Dua Lipa<br/>
+> ∙ **[Toxic](https://www.last.fm/music/Britney+Spears/_/Toxic)** - Britney Spears<br/>
+> ∙ **[Don't Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)** - Rihanna<br/>
+> ∙ **[Monstruo](https://www.last.fm/music/Ado/_/Monstruo)** - Ado<br/>
+> ∙ **[Billie Jean](https://www.last.fm/music/Michael+Jackson/_/Billie+Jean)** - Michael Jackson<br/>
+> ∙ **[The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)** - Eminem<br/>
+> ∙ **[Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)** - $atori Zoom<br/>
+> ∙ **[Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://www.last.fm/music/Teriyaki+Boyz/_/Tokyo+Drift+(Fast+&+Furious)+-+From+%22The+Fast+And+The+Furious:+Tokyo+Drift%22+Soundtrack)** - Teriyaki Boyz<br/>
+> ∙ **[...Baby One More Time](https://www.last.fm/music/Britney+Spears/_/...Baby+One+More+Time)** - Britney Spears<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
