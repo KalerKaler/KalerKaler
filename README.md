@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `150 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `151 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `91 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `78 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `74 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `69 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `70 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[SexyBack (feat. Timbaland)](https://www.last.fm/music/+noredirect/Justin+Timberlake/_/SexyBack+(feat.+Timbaland))** - Justin Timberlake<br/>
-> ∙ **[Levitating](https://www.last.fm/music/Dua+Lipa/_/Levitating)** - Dua Lipa<br/>
-> ∙ **[Toxic](https://www.last.fm/music/Britney+Spears/_/Toxic)** - Britney Spears<br/>
-> ∙ **[Don't Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)** - Rihanna<br/>
-> ∙ **[Monstruo](https://www.last.fm/music/Ado/_/Monstruo)** - Ado<br/>
-> ∙ **[Billie Jean](https://www.last.fm/music/Michael+Jackson/_/Billie+Jean)** - Michael Jackson<br/>
-> ∙ **[The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)** - Eminem<br/>
-> ∙ **[Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)** - $atori Zoom<br/>
-> ∙ **[Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://www.last.fm/music/Teriyaki+Boyz/_/Tokyo+Drift+(Fast+&+Furious)+-+From+%22The+Fast+And+The+Furious:+Tokyo+Drift%22+Soundtrack)** - Teriyaki Boyz<br/>
-> ∙ **[...Baby One More Time](https://www.last.fm/music/Britney+Spears/_/...Baby+One+More+Time)** - Britney Spears<br/>
+> 🎶 **[Words, Words, Words (Studio)](https://www.last.fm/music/Bo+Burnham/_/Words,+Words,+Words+(Studio))** - Bo Burnham<br/>
+> ∙ **[I Just Had Sex](https://www.last.fm/music/The+Lonely+Island/_/I+Just+Had+Sex)** - The Lonely Island<br/>
+> ∙ **[White & Nerdy (Parody Of "Ridin'" By Chamillionaire Feat. Krayzie Bone)](https://www.last.fm/music/%22Weird+Al%22+Yankovic/_/White+&+Nerdy+(Parody+Of+%22Ridin%27%22+By+Chamillionaire+Feat.+Krayzie+Bone))** - "Weird Al" Yankovic<br/>
+> ∙ **[I'm On A Boat](https://www.last.fm/music/The+Lonely+Island/_/I%27m+On+A+Boat)** - The Lonely Island<br/>
+> ∙ **[Sax Man](https://www.last.fm/music/The+Lonely+Island/_/Sax+Man)** - The Lonely Island<br/>
+> ∙ **[No Homo](https://www.last.fm/music/The+Lonely+Island/_/No+Homo)** - The Lonely Island<br/>
+> ∙ **[At a Medium Pace](https://www.last.fm/music/Adam+Sandler/_/At+a+Medium+Pace)** - Adam Sandler<br/>
+> ∙ **[COME SAY SUM (ft. Fred Durst)](https://www.last.fm/music/Lauren+Sanderson/_/COME+SAY+SUM+(ft.+Fred+Durst))** - Lauren Sanderson<br/>
+> ∙ **[COME SAY SUM (ft. Fred Durst)](https://www.last.fm/music/Lauren+Sanderson/_/COME+SAY+SUM+(ft.+Fred+Durst))** - Lauren Sanderson<br/>
+> ∙ **[COME SAY SUM (ft. Fred Durst)](https://www.last.fm/music/Lauren+Sanderson/_/COME+SAY+SUM+(ft.+Fred+Durst))** - Lauren Sanderson<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
