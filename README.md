@@ -54,7 +54,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `152 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `91 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `92 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `79 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `74 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `70 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[COME SAY SUM (ft. Fred Durst)](https://www.last.fm/music/Lauren+Sanderson/_/COME+SAY+SUM+(ft.+Fred+Durst))** - Lauren Sanderson<br/>
-> ∙ **[Cooler Than Me](https://www.last.fm/music/Isaa+Corva/_/Cooler+Than+Me)** - Isaa Corva<br/>
-> ∙ **[Come Alive (Instrumental)](https://www.last.fm/music/S%C4%81n-Z/_/Come+Alive+(Instrumental))** - Sān-Z<br/>
-> ∙ **[Like a Bullet Through the Wind](https://www.last.fm/music/HOYO-MiX/_/Like+a+Bullet+Through+the+Wind)** - HOYO-MiX<br/>
-> ∙ **[Early summer](https://www.last.fm/music/Tuyu/_/Early+summer)** - Tuyu<br/>
-> ∙ **[My 1st Single](https://www.last.fm/music/Eminem/_/My+1st+Single)** - Eminem<br/>
-> ∙ **[Bianca](https://www.last.fm/music/%E7%A4%BC%E8%A1%A3/_/Bianca)** - 礼衣<br/>
-> ∙ **[Words, Words, Words (Studio)](https://www.last.fm/music/Bo+Burnham/_/Words,+Words,+Words+(Studio))** - Bo Burnham<br/>
-> ∙ **[I Just Had Sex](https://www.last.fm/music/The+Lonely+Island/_/I+Just+Had+Sex)** - The Lonely Island<br/>
-> ∙ **[White & Nerdy (Parody Of "Ridin'" By Chamillionaire Feat. Krayzie Bone)](https://www.last.fm/music/%22Weird+Al%22+Yankovic/_/White+&+Nerdy+(Parody+Of+%22Ridin%27%22+By+Chamillionaire+Feat.+Krayzie+Bone))** - "Weird Al" Yankovic<br/>
+> 🎶 **[In This Beautiful World](https://www.last.fm/music/Milisen/_/In+This+Beautiful+World)** - Milisen<br/>
+> ∙ **[DOLL](https://www.last.fm/music/Milisen/_/DOLL)** - Milisen<br/>
+> ∙ **[Cover by Mini .°˖✧](https://www.last.fm/music/Life/_/Cover+by+Mini+.%C2%B0%CB%96%E2%9C%A7)** - Life<br/>
+> ∙ **[Neuro & Vedal (Official Cover Video)](https://www.last.fm/music/Chinatown+Blues/_/Neuro+&+Vedal+(Official+Cover+Video))** - Chinatown Blues<br/>
+> ∙ **[Crazy Effin' Robot Body](https://www.last.fm/music/%F0%9F%92%94Evil+Neuro+MV/_/Crazy+Effin%27+Robot+Body)** - 💔Evil Neuro MV<br/>
+> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
+> ∙ **[Neuro-sama x ODDEEO](https://www.last.fm/music/Pattern+Recognition/_/Neuro-sama+x+ODDEEO)** - Pattern Recognition<br/>
+> ∙ **[Say My Name](https://www.last.fm/music/David+Guetta/_/Say+My+Name)** - David Guetta<br/>
+> ∙ **[Animals](https://www.last.fm/music/Maroon+5/_/Animals)** - Maroon 5<br/>
+> ∙ **[Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)** - Sabrina Carpenter<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
