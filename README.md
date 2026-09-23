@@ -55,7 +55,7 @@
 
 > `152 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `91 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `78 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `79 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `74 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `70 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Come Alive (Instrumental)](https://www.last.fm/music/S%C4%81n-Z/_/Come+Alive+(Instrumental))** - Sān-Z<br/>
+> 🎶 **[COME SAY SUM (ft. Fred Durst)](https://www.last.fm/music/Lauren+Sanderson/_/COME+SAY+SUM+(ft.+Fred+Durst))** - Lauren Sanderson<br/>
+> ∙ **[Cooler Than Me](https://www.last.fm/music/Isaa+Corva/_/Cooler+Than+Me)** - Isaa Corva<br/>
+> ∙ **[Come Alive (Instrumental)](https://www.last.fm/music/S%C4%81n-Z/_/Come+Alive+(Instrumental))** - Sān-Z<br/>
 > ∙ **[Like a Bullet Through the Wind](https://www.last.fm/music/HOYO-MiX/_/Like+a+Bullet+Through+the+Wind)** - HOYO-MiX<br/>
 > ∙ **[Early summer](https://www.last.fm/music/Tuyu/_/Early+summer)** - Tuyu<br/>
 > ∙ **[My 1st Single](https://www.last.fm/music/Eminem/_/My+1st+Single)** - Eminem<br/>
@@ -72,8 +74,6 @@
 > ∙ **[Words, Words, Words (Studio)](https://www.last.fm/music/Bo+Burnham/_/Words,+Words,+Words+(Studio))** - Bo Burnham<br/>
 > ∙ **[I Just Had Sex](https://www.last.fm/music/The+Lonely+Island/_/I+Just+Had+Sex)** - The Lonely Island<br/>
 > ∙ **[White & Nerdy (Parody Of "Ridin'" By Chamillionaire Feat. Krayzie Bone)](https://www.last.fm/music/%22Weird+Al%22+Yankovic/_/White+&+Nerdy+(Parody+Of+%22Ridin%27%22+By+Chamillionaire+Feat.+Krayzie+Bone))** - "Weird Al" Yankovic<br/>
-> ∙ **[I'm On A Boat](https://www.last.fm/music/The+Lonely+Island/_/I%27m+On+A+Boat)** - The Lonely Island<br/>
-> ∙ **[Sax Man](https://www.last.fm/music/The+Lonely+Island/_/Sax+Man)** - The Lonely Island<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
