@@ -57,23 +57,23 @@
 > `93 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `79 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `75 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `70 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `71 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Billie Jean](https://www.last.fm/music/Michael+Jackson/_/Billie+Jean)** - Michael Jackson<br/>
-> ∙ **[GET TO ME](https://www.last.fm/music/temcandoanything/_/GET+TO+ME)** - temcandoanything<br/>
-> ∙ **[PPPP (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/PPPP+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
-> ∙ **[What You Mean](https://www.last.fm/music/gl!ch/_/What+You+Mean)** - gl!ch<br/>
-> ∙ **[bite marks](https://www.last.fm/music/Logan+Levi/_/bite+marks)** - Logan Levi<br/>
-> ∙ **[Why Do I](https://www.last.fm/music/Will+Stetson/_/Why+Do+I)** - Will Stetson<br/>
-> ∙ **[Punching Bag](https://www.last.fm/music/Set+It+Off/_/Punching+Bag)** - Set It Off<br/>
-> ∙ **[1-800](https://www.last.fm/music/bbno$/_/1-800)** - bbno$<br/>
-> ∙ **[Beat It](https://www.last.fm/music/Michael+Jackson/_/Beat+It)** - Michael Jackson<br/>
-> ∙ **[High Tide](https://www.last.fm/music/Moona+Hoshinova/_/High+Tide)** - Moona Hoshinova<br/>
+> 🎶 **[Claret:«Link up» | Zenless Zone Zero](https://www.last.fm/music/cattpur/_/Claret:%C2%ABLink+up%C2%BB+%7C+Zenless+Zone+Zero)** - cattpur<br/>
+> ∙ **[Hentai Bitch](https://www.last.fm/music/Shiki-TMNS/_/Hentai+Bitch)** - Shiki-TMNS<br/>
+> ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
+> ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
+> ∙ **[SPELL IT OUT](https://www.last.fm/music/Lauren+Sanderson/_/SPELL+IT+OUT)** - Lauren Sanderson<br/>
+> ∙ **[COME SAY SUM (ft. Fred Durst)](https://www.last.fm/music/Lauren+Sanderson/_/COME+SAY+SUM+(ft.+Fred+Durst))** - Lauren Sanderson<br/>
+> ∙ **[Shy Ronnie 2: Ronnie & Clyde](https://www.last.fm/music/The+Lonely+Island/_/Shy+Ronnie+2:+Ronnie+&+Clyde)** - The Lonely Island<br/>
+> ∙ **[Winnebago](https://www.last.fm/music/Shotgun+Willy/_/Winnebago)** - Shotgun Willy<br/>
+> ∙ **[3-Way (The Golden Rule)](https://www.last.fm/music/The+Lonely+Island/_/3-Way+(The+Golden+Rule))** - The Lonely Island<br/>
+> ∙ **[Billie Jean](https://www.last.fm/music/Michael+Jackson/_/Billie+Jean)** - Michael Jackson<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
