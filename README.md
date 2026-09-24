@@ -54,9 +54,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `152 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `92 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `93 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `79 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `74 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `75 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `70 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[In This Beautiful World](https://www.last.fm/music/Milisen/_/In+This+Beautiful+World)** - Milisen<br/>
-> ∙ **[DOLL](https://www.last.fm/music/Milisen/_/DOLL)** - Milisen<br/>
-> ∙ **[Cover by Mini .°˖✧](https://www.last.fm/music/Life/_/Cover+by+Mini+.%C2%B0%CB%96%E2%9C%A7)** - Life<br/>
-> ∙ **[Neuro & Vedal (Official Cover Video)](https://www.last.fm/music/Chinatown+Blues/_/Neuro+&+Vedal+(Official+Cover+Video))** - Chinatown Blues<br/>
-> ∙ **[Crazy Effin' Robot Body](https://www.last.fm/music/%F0%9F%92%94Evil+Neuro+MV/_/Crazy+Effin%27+Robot+Body)** - 💔Evil Neuro MV<br/>
-> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
-> ∙ **[Neuro-sama x ODDEEO](https://www.last.fm/music/Pattern+Recognition/_/Neuro-sama+x+ODDEEO)** - Pattern Recognition<br/>
-> ∙ **[Say My Name](https://www.last.fm/music/David+Guetta/_/Say+My+Name)** - David Guetta<br/>
-> ∙ **[Animals](https://www.last.fm/music/Maroon+5/_/Animals)** - Maroon 5<br/>
-> ∙ **[Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)** - Sabrina Carpenter<br/>
+> 🎶 **[Billie Jean](https://www.last.fm/music/Michael+Jackson/_/Billie+Jean)** - Michael Jackson<br/>
+> ∙ **[GET TO ME](https://www.last.fm/music/temcandoanything/_/GET+TO+ME)** - temcandoanything<br/>
+> ∙ **[PPPP (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/PPPP+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
+> ∙ **[What You Mean](https://www.last.fm/music/gl!ch/_/What+You+Mean)** - gl!ch<br/>
+> ∙ **[bite marks](https://www.last.fm/music/Logan+Levi/_/bite+marks)** - Logan Levi<br/>
+> ∙ **[Why Do I](https://www.last.fm/music/Will+Stetson/_/Why+Do+I)** - Will Stetson<br/>
+> ∙ **[Punching Bag](https://www.last.fm/music/Set+It+Off/_/Punching+Bag)** - Set It Off<br/>
+> ∙ **[1-800](https://www.last.fm/music/bbno$/_/1-800)** - bbno$<br/>
+> ∙ **[Beat It](https://www.last.fm/music/Michael+Jackson/_/Beat+It)** - Michael Jackson<br/>
+> ∙ **[High Tide](https://www.last.fm/music/Moona+Hoshinova/_/High+Tide)** - Moona Hoshinova<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
