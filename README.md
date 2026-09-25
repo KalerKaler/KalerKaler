@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `153 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `154 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `93 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `80 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `75 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[GUM&DROP](https://www.last.fm/music/Hoshimachi+Suisei/_/GUM&DROP)** - Hoshimachi Suisei<br/>
+> 🎶 **[The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)** - Eminem<br/>
+> ∙ **[Narcissistic](https://www.last.fm/music/The+Vanished+People/_/Narcissistic)** - The Vanished People<br/>
+> ∙ **[Ventriloquism](https://www.last.fm/music/rai1367/_/Ventriloquism)** - rai1367<br/>
+> ∙ **[If The Sun Burns Out Tonight](https://www.last.fm/music/Valorant/_/If+The+Sun+Burns+Out+Tonight)** - Valorant<br/>
+> ∙ **[The Jester and The Queen](https://www.last.fm/music/Alexandria/_/The+Jester+and+The+Queen)** - Alexandria<br/>
+> ∙ **[GUM&DROP](https://www.last.fm/music/Hoshimachi+Suisei/_/GUM&DROP)** - Hoshimachi Suisei<br/>
 > ∙ **[Death of Me](https://www.last.fm/music/Derivakat/_/Death+of+Me)** - Derivakat<br/>
 > ∙ **[洗脳](https://www.last.fm/music/DECO*27/_/%E6%B4%97%E8%84%B3)** - DECO*27<br/>
 > ∙ **[Rip Out Your Eyes](https://www.last.fm/music/Marino/_/Rip+Out+Your+Eyes)** - Marino<br/>
 > ∙ **[THE ANTIHUMAN](https://www.last.fm/music/ivycomb/_/THE+ANTIHUMAN)** - ivycomb<br/>
-> ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
-> ∙ **[Eyes up on me](https://www.last.fm/music/FrogMori/_/Eyes+up+on+me)** - FrogMori<br/>
-> ∙ **[Nobody's Bay Bay](https://www.last.fm/music/HELLUVA+BOSS/_/Nobody%27s+Bay+Bay)** - HELLUVA BOSS<br/>
-> ∙ **[Link Up](https://www.last.fm/music/HOYO-MiX/_/Link+Up)** - HOYO-MiX<br/>
-> ∙ **[Suki de ite](https://www.last.fm/music/Ado/_/Suki+de+ite)** - Ado<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
