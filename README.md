@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `152 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `153 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `93 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `79 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `80 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `75 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `71 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `72 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Usseewa](https://www.last.fm/music/Ado/_/Usseewa)** - Ado<br/>
-> ∙ **[Claret:«Link up» | Zenless Zone Zero](https://www.last.fm/music/cattpur/_/Claret:%C2%ABLink+up%C2%BB+%7C+Zenless+Zone+Zero)** - cattpur<br/>
-> ∙ **[Hentai Bitch](https://www.last.fm/music/Shiki-TMNS/_/Hentai+Bitch)** - Shiki-TMNS<br/>
+> 🎶 **[GUM&DROP](https://www.last.fm/music/Hoshimachi+Suisei/_/GUM&DROP)** - Hoshimachi Suisei<br/>
+> ∙ **[Death of Me](https://www.last.fm/music/Derivakat/_/Death+of+Me)** - Derivakat<br/>
+> ∙ **[洗脳](https://www.last.fm/music/DECO*27/_/%E6%B4%97%E8%84%B3)** - DECO*27<br/>
+> ∙ **[Rip Out Your Eyes](https://www.last.fm/music/Marino/_/Rip+Out+Your+Eyes)** - Marino<br/>
+> ∙ **[THE ANTIHUMAN](https://www.last.fm/music/ivycomb/_/THE+ANTIHUMAN)** - ivycomb<br/>
 > ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
-> ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
-> ∙ **[SPELL IT OUT](https://www.last.fm/music/Lauren+Sanderson/_/SPELL+IT+OUT)** - Lauren Sanderson<br/>
-> ∙ **[COME SAY SUM (ft. Fred Durst)](https://www.last.fm/music/Lauren+Sanderson/_/COME+SAY+SUM+(ft.+Fred+Durst))** - Lauren Sanderson<br/>
-> ∙ **[Shy Ronnie 2: Ronnie & Clyde](https://www.last.fm/music/The+Lonely+Island/_/Shy+Ronnie+2:+Ronnie+&+Clyde)** - The Lonely Island<br/>
-> ∙ **[Winnebago](https://www.last.fm/music/Shotgun+Willy/_/Winnebago)** - Shotgun Willy<br/>
-> ∙ **[3-Way (The Golden Rule)](https://www.last.fm/music/The+Lonely+Island/_/3-Way+(The+Golden+Rule))** - The Lonely Island<br/>
+> ∙ **[Eyes up on me](https://www.last.fm/music/FrogMori/_/Eyes+up+on+me)** - FrogMori<br/>
+> ∙ **[Nobody's Bay Bay](https://www.last.fm/music/HELLUVA+BOSS/_/Nobody%27s+Bay+Bay)** - HELLUVA BOSS<br/>
+> ∙ **[Link Up](https://www.last.fm/music/HOYO-MiX/_/Link+Up)** - HOYO-MiX<br/>
+> ∙ **[Suki de ite](https://www.last.fm/music/Ado/_/Suki+de+ite)** - Ado<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
