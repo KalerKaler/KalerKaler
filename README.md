@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Claret:«Link up» | Zenless Zone Zero](https://www.last.fm/music/cattpur/_/Claret:%C2%ABLink+up%C2%BB+%7C+Zenless+Zone+Zero)** - cattpur<br/>
+> 🎶 **[Usseewa](https://www.last.fm/music/Ado/_/Usseewa)** - Ado<br/>
+> ∙ **[Claret:«Link up» | Zenless Zone Zero](https://www.last.fm/music/cattpur/_/Claret:%C2%ABLink+up%C2%BB+%7C+Zenless+Zone+Zero)** - cattpur<br/>
 > ∙ **[Hentai Bitch](https://www.last.fm/music/Shiki-TMNS/_/Hentai+Bitch)** - Shiki-TMNS<br/>
 > ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
 > ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Shy Ronnie 2: Ronnie & Clyde](https://www.last.fm/music/The+Lonely+Island/_/Shy+Ronnie+2:+Ronnie+&+Clyde)** - The Lonely Island<br/>
 > ∙ **[Winnebago](https://www.last.fm/music/Shotgun+Willy/_/Winnebago)** - Shotgun Willy<br/>
 > ∙ **[3-Way (The Golden Rule)](https://www.last.fm/music/The+Lonely+Island/_/3-Way+(The+Golden+Rule))** - The Lonely Island<br/>
-> ∙ **[Billie Jean](https://www.last.fm/music/Michael+Jackson/_/Billie+Jean)** - Michael Jackson<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
