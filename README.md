@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `154 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `156 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `93 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `80 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `75 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[螺旋 - RASEN](https://www.last.fm/music/9Lana/_/%E8%9E%BA%E6%97%8B+-+RASEN)** - 9Lana<br/>
-> ∙ **[Gimme Chocolate!!](https://www.last.fm/music/BABYMETAL/_/Gimme+Chocolate!!)** - BABYMETAL<br/>
-> ∙ **[mosi mosi?](https://www.last.fm/music/%E6%A5%BD%E9%9F%B3/_/mosi+mosi%3F)** - 楽音<br/>
-> ∙ **[GUM&DROP](https://www.last.fm/music/Hoshimachi+Suisei/_/GUM&DROP)** - Hoshimachi Suisei<br/>
-> ∙ **[紅蓮華](https://www.last.fm/music/Lisa/_/%E7%B4%85%E8%93%AE%E8%8F%AF)** - Lisa<br/>
-> ∙ **[They Don't Want Music](https://www.last.fm/music/Black+Eyed+Peas/_/They+Don%27t+Want+Music)** - Black Eyed Peas<br/>
-> ∙ **[They Don't Want Music](https://www.last.fm/music/Black+Eyed+Peas/_/They+Don%27t+Want+Music)** - Black Eyed Peas<br/>
-> ∙ **[DND](https://www.last.fm/music/Ado/_/DND)** - Ado<br/>
-> ∙ **[They Don't Want Music](https://www.last.fm/music/Black+Eyed+Peas/_/They+Don%27t+Want+Music)** - Black Eyed Peas<br/>
-> ∙ **[NIGHTBREAK](https://www.last.fm/music/Mori+Calliope/_/NIGHTBREAK)** - Mori Calliope<br/>
+> 🎶 **[No Love](https://www.last.fm/music/Eminem/_/No+Love)** - Eminem<br/>
+> ∙ **[Long Live the King](https://www.last.fm/music/HOYO-MiX/_/Long+Live+the+King)** - HOYO-MiX<br/>
+> ∙ **[Mephisto](https://www.last.fm/music/Ironmouse/_/Mephisto)** - Ironmouse<br/>
+> ∙ **[Linger](https://www.last.fm/music/Evil+-+The+Cranberries/_/Linger)** - Evil - The Cranberries<br/>
+> ∙ **[Marunouchi Sadistic](https://www.last.fm/music/d0tc0mmie+ft.+Hanakuma+Chifuyu/_/Marunouchi+Sadistic)** - d0tc0mmie ft. Hanakuma Chifuyu<br/>
+> ∙ **[Preposterous Nursery Rhyme](https://www.last.fm/music/HOYO-MiX/_/Preposterous+Nursery+Rhyme)** - HOYO-MiX<br/>
+> ∙ **[Up-Up-Down-Down-Left-Left-Right-Right](https://www.last.fm/music/HOYO-MiX/_/Up-Up-Down-Down-Left-Left-Right-Right)** - HOYO-MiX<br/>
+> ∙ **[Rivals and Equals](https://www.last.fm/music/Mori+Calliope/_/Rivals+and+Equals)** - Mori Calliope<br/>
+> ∙ **[Greg (acapella Version)](https://www.last.fm/music/Eminem/_/Greg+(acapella+Version))** - Eminem<br/>
+> ∙ **[螺旋 - RASEN](https://www.last.fm/music/9Lana/_/%E8%9E%BA%E6%97%8B+-+RASEN)** - 9Lana<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
