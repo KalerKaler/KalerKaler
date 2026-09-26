@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)** - Eminem<br/>
-> ∙ **[Narcissistic](https://www.last.fm/music/The+Vanished+People/_/Narcissistic)** - The Vanished People<br/>
-> ∙ **[Ventriloquism](https://www.last.fm/music/rai1367/_/Ventriloquism)** - rai1367<br/>
-> ∙ **[If The Sun Burns Out Tonight](https://www.last.fm/music/Valorant/_/If+The+Sun+Burns+Out+Tonight)** - Valorant<br/>
-> ∙ **[The Jester and The Queen](https://www.last.fm/music/Alexandria/_/The+Jester+and+The+Queen)** - Alexandria<br/>
+> 🎶 **[螺旋 - RASEN](https://www.last.fm/music/9Lana/_/%E8%9E%BA%E6%97%8B+-+RASEN)** - 9Lana<br/>
+> ∙ **[Gimme Chocolate!!](https://www.last.fm/music/BABYMETAL/_/Gimme+Chocolate!!)** - BABYMETAL<br/>
+> ∙ **[mosi mosi?](https://www.last.fm/music/%E6%A5%BD%E9%9F%B3/_/mosi+mosi%3F)** - 楽音<br/>
 > ∙ **[GUM&DROP](https://www.last.fm/music/Hoshimachi+Suisei/_/GUM&DROP)** - Hoshimachi Suisei<br/>
-> ∙ **[Death of Me](https://www.last.fm/music/Derivakat/_/Death+of+Me)** - Derivakat<br/>
-> ∙ **[洗脳](https://www.last.fm/music/DECO*27/_/%E6%B4%97%E8%84%B3)** - DECO*27<br/>
-> ∙ **[Rip Out Your Eyes](https://www.last.fm/music/Marino/_/Rip+Out+Your+Eyes)** - Marino<br/>
-> ∙ **[THE ANTIHUMAN](https://www.last.fm/music/ivycomb/_/THE+ANTIHUMAN)** - ivycomb<br/>
+> ∙ **[紅蓮華](https://www.last.fm/music/Lisa/_/%E7%B4%85%E8%93%AE%E8%8F%AF)** - Lisa<br/>
+> ∙ **[They Don't Want Music](https://www.last.fm/music/Black+Eyed+Peas/_/They+Don%27t+Want+Music)** - Black Eyed Peas<br/>
+> ∙ **[They Don't Want Music](https://www.last.fm/music/Black+Eyed+Peas/_/They+Don%27t+Want+Music)** - Black Eyed Peas<br/>
+> ∙ **[DND](https://www.last.fm/music/Ado/_/DND)** - Ado<br/>
+> ∙ **[They Don't Want Music](https://www.last.fm/music/Black+Eyed+Peas/_/They+Don%27t+Want+Music)** - Black Eyed Peas<br/>
+> ∙ **[NIGHTBREAK](https://www.last.fm/music/Mori+Calliope/_/NIGHTBREAK)** - Mori Calliope<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
