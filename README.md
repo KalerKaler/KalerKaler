@@ -56,24 +56,24 @@
 > `156 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `93 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `80 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `77 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `75 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `74 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Lemons and Limes](https://www.last.fm/music/Yung+Craka/_/Lemons+and+Limes)** - Yung Craka<br/>
-> ∙ **[i see london i see france](https://www.last.fm/music/bbno$/_/i+see+london+i+see+france)** - bbno$<br/>
-> ∙ **[Senpai (feat. Hentai Dude)](https://www.last.fm/music/Shiki-TMNS/_/Senpai+(feat.+Hentai+Dude))** - Shiki-TMNS<br/>
-> ∙ **[Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)** - Shotgun Willy<br/>
-> ∙ **[Guy Fieri](https://www.last.fm/music/Shotgun+Willy/_/Guy+Fieri)** - Shotgun Willy<br/>
-> ∙ **[No Love](https://www.last.fm/music/Eminem/_/No+Love)** - Eminem<br/>
-> ∙ **[Long Live the King](https://www.last.fm/music/HOYO-MiX/_/Long+Live+the+King)** - HOYO-MiX<br/>
-> ∙ **[Mephisto](https://www.last.fm/music/Ironmouse/_/Mephisto)** - Ironmouse<br/>
-> ∙ **[Linger](https://www.last.fm/music/Evil+-+The+Cranberries/_/Linger)** - Evil - The Cranberries<br/>
-> ∙ **[Marunouchi Sadistic](https://www.last.fm/music/d0tc0mmie+ft.+Hanakuma+Chifuyu/_/Marunouchi+Sadistic)** - d0tc0mmie ft. Hanakuma Chifuyu<br/>
+> 🎶 **[Million Cash](https://www.last.fm/music/Connor+Price/_/Million+Cash)** - Connor Price<br/>
+> ∙ **[Anime Girl](https://www.last.fm/music/Shiki-TMNS/_/Anime+Girl)** - Shiki-TMNS<br/>
+> ∙ **[Gas Pedal](https://www.last.fm/music/Slevpy808/_/Gas+Pedal)** - Slevpy808<br/>
+> ∙ **[VIOLENCE](https://www.last.fm/music/Westphal/_/VIOLENCE)** - Westphal<br/>
+> ∙ **[DAMN SON](https://www.last.fm/music/Faaris/_/DAMN+SON)** - Faaris<br/>
+> ∙ **[Fuego](https://www.last.fm/music/Shotgun+Willy/_/Fuego)** - Shotgun Willy<br/>
+> ∙ **[Move!](https://www.last.fm/music/1NONLY/_/Move!)** - 1NONLY<br/>
+> ∙ **[DIP](https://www.last.fm/music/Connor+Price/_/DIP)** - Connor Price<br/>
+> ∙ **[Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)** - $atori Zoom<br/>
+> ∙ **[Daredevil](https://www.last.fm/music/Stellar/_/Daredevil)** - Stellar<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
