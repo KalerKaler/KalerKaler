@@ -57,23 +57,23 @@
 > `93 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `80 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `75 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `72 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `74 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[No Love](https://www.last.fm/music/Eminem/_/No+Love)** - Eminem<br/>
+> 🎶 **[Lemons and Limes](https://www.last.fm/music/Yung+Craka/_/Lemons+and+Limes)** - Yung Craka<br/>
+> ∙ **[i see london i see france](https://www.last.fm/music/bbno$/_/i+see+london+i+see+france)** - bbno$<br/>
+> ∙ **[Senpai (feat. Hentai Dude)](https://www.last.fm/music/Shiki-TMNS/_/Senpai+(feat.+Hentai+Dude))** - Shiki-TMNS<br/>
+> ∙ **[Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)** - Shotgun Willy<br/>
+> ∙ **[Guy Fieri](https://www.last.fm/music/Shotgun+Willy/_/Guy+Fieri)** - Shotgun Willy<br/>
+> ∙ **[No Love](https://www.last.fm/music/Eminem/_/No+Love)** - Eminem<br/>
 > ∙ **[Long Live the King](https://www.last.fm/music/HOYO-MiX/_/Long+Live+the+King)** - HOYO-MiX<br/>
 > ∙ **[Mephisto](https://www.last.fm/music/Ironmouse/_/Mephisto)** - Ironmouse<br/>
 > ∙ **[Linger](https://www.last.fm/music/Evil+-+The+Cranberries/_/Linger)** - Evil - The Cranberries<br/>
 > ∙ **[Marunouchi Sadistic](https://www.last.fm/music/d0tc0mmie+ft.+Hanakuma+Chifuyu/_/Marunouchi+Sadistic)** - d0tc0mmie ft. Hanakuma Chifuyu<br/>
-> ∙ **[Preposterous Nursery Rhyme](https://www.last.fm/music/HOYO-MiX/_/Preposterous+Nursery+Rhyme)** - HOYO-MiX<br/>
-> ∙ **[Up-Up-Down-Down-Left-Left-Right-Right](https://www.last.fm/music/HOYO-MiX/_/Up-Up-Down-Down-Left-Left-Right-Right)** - HOYO-MiX<br/>
-> ∙ **[Rivals and Equals](https://www.last.fm/music/Mori+Calliope/_/Rivals+and+Equals)** - Mori Calliope<br/>
-> ∙ **[Greg (acapella Version)](https://www.last.fm/music/Eminem/_/Greg+(acapella+Version))** - Eminem<br/>
-> ∙ **[螺旋 - RASEN](https://www.last.fm/music/9Lana/_/%E8%9E%BA%E6%97%8B+-+RASEN)** - 9Lana<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
