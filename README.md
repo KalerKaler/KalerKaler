@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `156 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `93 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `80 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `77 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `75 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `159 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `99 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `83 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `81 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `77 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Million Cash](https://www.last.fm/music/Connor+Price/_/Million+Cash)** - Connor Price<br/>
-> ∙ **[Anime Girl](https://www.last.fm/music/Shiki-TMNS/_/Anime+Girl)** - Shiki-TMNS<br/>
-> ∙ **[Gas Pedal](https://www.last.fm/music/Slevpy808/_/Gas+Pedal)** - Slevpy808<br/>
-> ∙ **[VIOLENCE](https://www.last.fm/music/Westphal/_/VIOLENCE)** - Westphal<br/>
-> ∙ **[DAMN SON](https://www.last.fm/music/Faaris/_/DAMN+SON)** - Faaris<br/>
-> ∙ **[Fuego](https://www.last.fm/music/Shotgun+Willy/_/Fuego)** - Shotgun Willy<br/>
-> ∙ **[Move!](https://www.last.fm/music/1NONLY/_/Move!)** - 1NONLY<br/>
-> ∙ **[DIP](https://www.last.fm/music/Connor+Price/_/DIP)** - Connor Price<br/>
-> ∙ **[Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)** - $atori Zoom<br/>
-> ∙ **[Daredevil](https://www.last.fm/music/Stellar/_/Daredevil)** - Stellar<br/>
+> 🎶 **[TIMES TWO](https://www.last.fm/music/Adam+Oh/_/TIMES+TWO)** - Adam Oh<br/>
+> ∙ **[Viral!](https://www.last.fm/music/Yung+Craka/_/Viral!)** - Yung Craka<br/>
+> ∙ **[Cheat Codes for Hoes](https://www.last.fm/music/Shotgun+Willy/_/Cheat+Codes+for+Hoes)** - Shotgun Willy<br/>
+> ∙ **[Stranger](https://www.last.fm/music/Stellar/_/Stranger)** - Stellar<br/>
+> ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
+> ∙ **[Sugar Mama (with IshDARR)](https://www.last.fm/music/Yung+Gravy/_/Sugar+Mama+(with+IshDARR))** - Yung Gravy<br/>
+> ∙ **[Ghost](https://www.last.fm/music/Confetti/_/Ghost)** - Confetti<br/>
+> ∙ **[Oh Pretty Baby!](https://www.last.fm/music/Double+A-ron/_/Oh+Pretty+Baby!)** - Double A-ron<br/>
+> ∙ **[Big Dipper](https://www.last.fm/music/Conscience/_/Big+Dipper)** - Conscience<br/>
+> ∙ **[Bumpin’](https://www.last.fm/music/MC+Virgins/_/Bumpin%E2%80%99)** - MC Virgins<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
