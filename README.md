@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `159 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `160 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `99 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `83 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `84 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `81 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `77 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `81 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[TIMES TWO](https://www.last.fm/music/Adam+Oh/_/TIMES+TWO)** - Adam Oh<br/>
-> ∙ **[Viral!](https://www.last.fm/music/Yung+Craka/_/Viral!)** - Yung Craka<br/>
-> ∙ **[Cheat Codes for Hoes](https://www.last.fm/music/Shotgun+Willy/_/Cheat+Codes+for+Hoes)** - Shotgun Willy<br/>
-> ∙ **[Stranger](https://www.last.fm/music/Stellar/_/Stranger)** - Stellar<br/>
-> ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
-> ∙ **[Sugar Mama (with IshDARR)](https://www.last.fm/music/Yung+Gravy/_/Sugar+Mama+(with+IshDARR))** - Yung Gravy<br/>
-> ∙ **[Ghost](https://www.last.fm/music/Confetti/_/Ghost)** - Confetti<br/>
-> ∙ **[Oh Pretty Baby!](https://www.last.fm/music/Double+A-ron/_/Oh+Pretty+Baby!)** - Double A-ron<br/>
-> ∙ **[Big Dipper](https://www.last.fm/music/Conscience/_/Big+Dipper)** - Conscience<br/>
-> ∙ **[Bumpin’](https://www.last.fm/music/MC+Virgins/_/Bumpin%E2%80%99)** - MC Virgins<br/>
+> 🎶 **[At a Medium Pace](https://www.last.fm/music/Adam+Sandler/_/At+a+Medium+Pace)** - Adam Sandler<br/>
+> ∙ **[Stay Strapped](https://www.last.fm/music/MC+Virgins/_/Stay+Strapped)** - MC Virgins<br/>
+> ∙ **[Hentai Bitch](https://www.last.fm/music/Shiki-TMNS/_/Hentai+Bitch)** - Shiki-TMNS<br/>
+> ∙ **[Mamacita](https://www.last.fm/music/Black+Eyed+Peas/_/Mamacita)** - Black Eyed Peas<br/>
+> ∙ **[Feel the Beat](https://www.last.fm/music/Black+Eyed+Peas/_/Feel+the+Beat)** - Black Eyed Peas<br/>
+> ∙ **[RITMO (Bad Boys For Life)](https://www.last.fm/music/Black+Eyed+Peas/_/RITMO+(Bad+Boys+For+Life))** - Black Eyed Peas<br/>
+> ∙ **[Where Is the Love?](https://www.last.fm/music/+noredirect/Black+Eyed+Peas/_/Where+Is+the+Love%3F)** - Black Eyed Peas<br/>
+> ∙ **[Bebot](https://www.last.fm/music/Black+Eyed+Peas/_/Bebot)** - Black Eyed Peas<br/>
+> ∙ **[BIG WIN!](https://www.last.fm/music/Coolguy_Diet+%E3%82%B8%E3%82%A7%E3%83%95/_/BIG+WIN!)** - Coolguy_Diet ジェフ<br/>
+> ∙ **[TIMBER LAKE](https://www.last.fm/music/Crispy+Concords/_/TIMBER+LAKE)** - Crispy Concords<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
