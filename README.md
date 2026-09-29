@@ -54,7 +54,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `160 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `99 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `100 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `84 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `81 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `81 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[At a Medium Pace](https://www.last.fm/music/Adam+Sandler/_/At+a+Medium+Pace)** - Adam Sandler<br/>
+> 🎶 **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
+> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
+> ∙ **[Ferns and Flowers](https://www.last.fm/music/Ellie+Minibot/_/Ferns+and+Flowers)** - Ellie Minibot<br/>
+> ∙ **[March!](https://www.last.fm/music/XANAKIN+SKYWOK/_/March!)** - XANAKIN SKYWOK<br/>
+> ∙ **[ITTY BITTY TITTY COMMITTEE](https://www.last.fm/music/Ham+Sandwich/_/ITTY+BITTY+TITTY+COMMITTEE)** - Ham Sandwich<br/>
+> ∙ **[Buy U](https://www.last.fm/music/Yung+Craka/_/Buy+U)** - Yung Craka<br/>
+> ∙ **[Bunny Thot](https://www.last.fm/music/Khantrast/_/Bunny+Thot)** - Khantrast<br/>
+> ∙ **[At a Medium Pace](https://www.last.fm/music/Adam+Sandler/_/At+a+Medium+Pace)** - Adam Sandler<br/>
 > ∙ **[Stay Strapped](https://www.last.fm/music/MC+Virgins/_/Stay+Strapped)** - MC Virgins<br/>
 > ∙ **[Hentai Bitch](https://www.last.fm/music/Shiki-TMNS/_/Hentai+Bitch)** - Shiki-TMNS<br/>
-> ∙ **[Mamacita](https://www.last.fm/music/Black+Eyed+Peas/_/Mamacita)** - Black Eyed Peas<br/>
-> ∙ **[Feel the Beat](https://www.last.fm/music/Black+Eyed+Peas/_/Feel+the+Beat)** - Black Eyed Peas<br/>
-> ∙ **[RITMO (Bad Boys For Life)](https://www.last.fm/music/Black+Eyed+Peas/_/RITMO+(Bad+Boys+For+Life))** - Black Eyed Peas<br/>
-> ∙ **[Where Is the Love?](https://www.last.fm/music/+noredirect/Black+Eyed+Peas/_/Where+Is+the+Love%3F)** - Black Eyed Peas<br/>
-> ∙ **[Bebot](https://www.last.fm/music/Black+Eyed+Peas/_/Bebot)** - Black Eyed Peas<br/>
-> ∙ **[BIG WIN!](https://www.last.fm/music/Coolguy_Diet+%E3%82%B8%E3%82%A7%E3%83%95/_/BIG+WIN!)** - Coolguy_Diet ジェフ<br/>
-> ∙ **[TIMBER LAKE](https://www.last.fm/music/Crispy+Concords/_/TIMBER+LAKE)** - Crispy Concords<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
