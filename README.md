@@ -57,23 +57,23 @@
 > `103 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `84 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `81 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `82 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[tides - patterns remix](https://www.last.fm/music/chrchie/_/tides+-+patterns+remix)** - chrchie<br/>
-> ∙ **[Let Me Let You Go](https://www.last.fm/music/Derivakat/_/Let+Me+Let+You+Go)** - Derivakat<br/>
-> ∙ **[ABOVE BELOW](https://www.last.fm/music/Elizabeth+Rose+Bloodflame/_/ABOVE+BELOW)** - Elizabeth Rose Bloodflame<br/>
-> ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
-> ∙ **[OVER//RIDE - English ver.](https://www.last.fm/music/Mori+Calliope/_/OVER%2F%2FRIDE+-+English+ver.)** - Mori Calliope<br/>
-> ∙ **[Blue & Gold](https://www.last.fm/music/Takanashi+Kiara/_/Blue+&+Gold)** - Takanashi Kiara<br/>
-> ∙ **[Fight Me Bite Me](https://www.last.fm/music/GuitarHeroPianoZero/_/Fight+Me+Bite+Me)** - GuitarHeroPianoZero<br/>
-> ∙ **[stranger](https://www.last.fm/music/chrchie/_/stranger)** - chrchie<br/>
-> ∙ **[Muse](https://www.last.fm/music/Derivakat/_/Muse)** - Derivakat<br/>
-> ∙ **[Arrow Through My Heart](https://www.last.fm/music/Suko/_/Arrow+Through+My+Heart)** - Suko<br/>
+> 🎶 **[Bad News](https://www.last.fm/music/Stellar/_/Bad+News)** - Stellar<br/>
+> ∙ **[Orpheus](https://www.last.fm/music/Mori+Calliope/_/Orpheus)** - Mori Calliope<br/>
+> ∙ **[THE ANTIHUMAN](https://www.last.fm/music/ivycomb/_/THE+ANTIHUMAN)** - ivycomb<br/>
+> ∙ **[Periwinkle](https://www.last.fm/music/The+Vanished+People/_/Periwinkle)** - The Vanished People<br/>
+> ∙ **[EASIER](https://www.last.fm/music/The+Vanished+People/_/EASIER)** - The Vanished People<br/>
+> ∙ **[IT'S GOING DOWN](https://www.last.fm/music/The+Vanished+People/_/IT%27S+GOING+DOWN)** - The Vanished People<br/>
+> ∙ **[Narcissistic](https://www.last.fm/music/The+Vanished+People/_/Narcissistic)** - The Vanished People<br/>
+> ∙ **[Cooler Than Me](https://www.last.fm/music/Isaa+Corva/_/Cooler+Than+Me)** - Isaa Corva<br/>
+> ∙ **[Take Me to the Beach (feat. Ado)](https://www.last.fm/music/Imagine+Dragons/_/Take+Me+to+the+Beach+(feat.+Ado))** - Imagine Dragons<br/>
+> ∙ **[PPPP (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/PPPP+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
