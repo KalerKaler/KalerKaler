@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Bad News](https://www.last.fm/music/Stellar/_/Bad+News)** - Stellar<br/>
-> ∙ **[Orpheus](https://www.last.fm/music/Mori+Calliope/_/Orpheus)** - Mori Calliope<br/>
-> ∙ **[THE ANTIHUMAN](https://www.last.fm/music/ivycomb/_/THE+ANTIHUMAN)** - ivycomb<br/>
-> ∙ **[Periwinkle](https://www.last.fm/music/The+Vanished+People/_/Periwinkle)** - The Vanished People<br/>
-> ∙ **[EASIER](https://www.last.fm/music/The+Vanished+People/_/EASIER)** - The Vanished People<br/>
-> ∙ **[IT'S GOING DOWN](https://www.last.fm/music/The+Vanished+People/_/IT%27S+GOING+DOWN)** - The Vanished People<br/>
-> ∙ **[Narcissistic](https://www.last.fm/music/The+Vanished+People/_/Narcissistic)** - The Vanished People<br/>
-> ∙ **[Cooler Than Me](https://www.last.fm/music/Isaa+Corva/_/Cooler+Than+Me)** - Isaa Corva<br/>
-> ∙ **[Take Me to the Beach (feat. Ado)](https://www.last.fm/music/Imagine+Dragons/_/Take+Me+to+the+Beach+(feat.+Ado))** - Imagine Dragons<br/>
-> ∙ **[PPPP (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/PPPP+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
+> 🎶 **[Tiny Giant](https://www.last.fm/music/S%C4%81n-Z/_/Tiny+Giant)** - Sān-Z<br/>
+> ∙ **[Love Me No More](https://www.last.fm/music/Stellar/_/Love+Me+No+More)** - Stellar<br/>
+> ∙ **[DONMAI](https://www.last.fm/music/Mori+Calliope/_/DONMAI)** - Mori Calliope<br/>
+> ∙ **[INFAMOUS](https://www.last.fm/music/ivycomb/_/INFAMOUS)** - ivycomb<br/>
+> ∙ **[DANCE ALONE](https://www.last.fm/music/The+Vanished+People/_/DANCE+ALONE)** - The Vanished People<br/>
+> ∙ **[Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)](https://www.last.fm/music/David+Guetta/_/Hey+Mama+(feat.+Nicki+Minaj,+Bebe+Rexha+&+Afrojack))** - David Guetta<br/>
+> ∙ **[Monstruo](https://www.last.fm/music/Ado/_/Monstruo)** - Ado<br/>
+> ∙ **[ニャニャニャチュニャ (feat. Kotoha)](https://www.last.fm/music/Tak/_/%E3%83%8B%E3%83%A3%E3%83%8B%E3%83%A3%E3%83%8B%E3%83%A3%E3%83%81%E3%83%A5%E3%83%8B%E3%83%A3+(feat.+Kotoha))** - Tak<br/>
+> ∙ **[Take Me Out](https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out)** - Franz Ferdinand<br/>
+> ∙ **[DIP](https://www.last.fm/music/Connor+Price/_/DIP)** - Connor Price<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
