@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Tiny Giant](https://www.last.fm/music/S%C4%81n-Z/_/Tiny+Giant)** - Sān-Z<br/>
+> 🎶 **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
+> ∙ **[Tiny Giant](https://www.last.fm/music/S%C4%81n-Z/_/Tiny+Giant)** - Sān-Z<br/>
 > ∙ **[Love Me No More](https://www.last.fm/music/Stellar/_/Love+Me+No+More)** - Stellar<br/>
 > ∙ **[DONMAI](https://www.last.fm/music/Mori+Calliope/_/DONMAI)** - Mori Calliope<br/>
 > ∙ **[INFAMOUS](https://www.last.fm/music/ivycomb/_/INFAMOUS)** - ivycomb<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Monstruo](https://www.last.fm/music/Ado/_/Monstruo)** - Ado<br/>
 > ∙ **[ニャニャニャチュニャ (feat. Kotoha)](https://www.last.fm/music/Tak/_/%E3%83%8B%E3%83%A3%E3%83%8B%E3%83%A3%E3%83%8B%E3%83%A3%E3%83%81%E3%83%A5%E3%83%8B%E3%83%A3+(feat.+Kotoha))** - Tak<br/>
 > ∙ **[Take Me Out](https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out)** - Franz Ferdinand<br/>
-> ∙ **[DIP](https://www.last.fm/music/Connor+Price/_/DIP)** - Connor Price<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
