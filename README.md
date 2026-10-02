@@ -55,25 +55,25 @@
 
 > `160 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `103 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `84 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `85 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `82 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `58 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `61 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
-> ∙ **[Tiny Giant](https://www.last.fm/music/S%C4%81n-Z/_/Tiny+Giant)** - Sān-Z<br/>
-> ∙ **[Love Me No More](https://www.last.fm/music/Stellar/_/Love+Me+No+More)** - Stellar<br/>
-> ∙ **[DONMAI](https://www.last.fm/music/Mori+Calliope/_/DONMAI)** - Mori Calliope<br/>
-> ∙ **[INFAMOUS](https://www.last.fm/music/ivycomb/_/INFAMOUS)** - ivycomb<br/>
-> ∙ **[DANCE ALONE](https://www.last.fm/music/The+Vanished+People/_/DANCE+ALONE)** - The Vanished People<br/>
-> ∙ **[Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)](https://www.last.fm/music/David+Guetta/_/Hey+Mama+(feat.+Nicki+Minaj,+Bebe+Rexha+&+Afrojack))** - David Guetta<br/>
-> ∙ **[Monstruo](https://www.last.fm/music/Ado/_/Monstruo)** - Ado<br/>
-> ∙ **[ニャニャニャチュニャ (feat. Kotoha)](https://www.last.fm/music/Tak/_/%E3%83%8B%E3%83%A3%E3%83%8B%E3%83%A3%E3%83%8B%E3%83%A3%E3%83%81%E3%83%A5%E3%83%8B%E3%83%A3+(feat.+Kotoha))** - Tak<br/>
-> ∙ **[Take Me Out](https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out)** - Franz Ferdinand<br/>
+> 🎶 **[Looking at Me](https://www.last.fm/music/Sabrina+Carpenter/_/Looking+at+Me)** - Sabrina Carpenter<br/>
+> ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - Black Eyed Peas<br/>
+> ∙ **[Cake by the Ocean](https://www.last.fm/music/DNCE/_/Cake+by+the+Ocean)** - DNCE<br/>
+> ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - Black Eyed Peas<br/>
+> ∙ **[Bebot](https://www.last.fm/music/Black+Eyed+Peas/_/Bebot)** - Black Eyed Peas<br/>
+> ∙ **[Dum Diddly](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly)** - Black Eyed Peas<br/>
+> ∙ **[Dum Diddly](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly)** - Black Eyed Peas<br/>
+> ∙ **[Dum Diddly](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly)** - Black Eyed Peas<br/>
+> ∙ **[Dum Diddly](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly)** - Black Eyed Peas<br/>
+> ∙ **[Don't Phunk with My Heart](https://www.last.fm/music/Black+Eyed+Peas/_/Don%27t+Phunk+with+My+Heart)** - Black Eyed Peas<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
