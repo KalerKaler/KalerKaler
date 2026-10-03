@@ -58,22 +58,22 @@
 > `85 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `82 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `61 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
+> `63 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Looking at Me](https://www.last.fm/music/Sabrina+Carpenter/_/Looking+at+Me)** - Sabrina Carpenter<br/>
+> 🎶 **[She's My Collar (feat. Kali Uchis)](https://www.last.fm/music/Gorillaz/_/She%27s+My+Collar+(feat.+Kali+Uchis))** - Gorillaz<br/>
+> ∙ **[The God of Lying (feat. IDLES)](https://www.last.fm/music/Gorillaz/_/The+God+of+Lying+(feat.+IDLES))** - Gorillaz<br/>
+> ∙ **[Dum Diddly](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly)** - Black Eyed Peas<br/>
+> ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - Black Eyed Peas<br/>
+> ∙ **[Animals](https://www.last.fm/music/Maroon+5/_/Animals)** - Maroon 5<br/>
+> ∙ **[Looking at Me](https://www.last.fm/music/Sabrina+Carpenter/_/Looking+at+Me)** - Sabrina Carpenter<br/>
 > ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - Black Eyed Peas<br/>
 > ∙ **[Cake by the Ocean](https://www.last.fm/music/DNCE/_/Cake+by+the+Ocean)** - DNCE<br/>
 > ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - Black Eyed Peas<br/>
 > ∙ **[Bebot](https://www.last.fm/music/Black+Eyed+Peas/_/Bebot)** - Black Eyed Peas<br/>
-> ∙ **[Dum Diddly](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly)** - Black Eyed Peas<br/>
-> ∙ **[Dum Diddly](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly)** - Black Eyed Peas<br/>
-> ∙ **[Dum Diddly](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly)** - Black Eyed Peas<br/>
-> ∙ **[Dum Diddly](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly)** - Black Eyed Peas<br/>
-> ∙ **[Don't Phunk with My Heart](https://www.last.fm/music/Black+Eyed+Peas/_/Don%27t+Phunk+with+My+Heart)** - Black Eyed Peas<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
