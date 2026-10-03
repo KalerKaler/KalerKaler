@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `160 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `163 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `103 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `85 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `83 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `82 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `63 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[She's My Collar (feat. Kali Uchis)](https://www.last.fm/music/Gorillaz/_/She%27s+My+Collar+(feat.+Kali+Uchis))** - Gorillaz<br/>
+> 🎶 **[ツユ - それでも雨は降るんだね MV](https://www.last.fm/music/%E3%83%84%E3%83%A6/_/%E3%83%84%E3%83%A6+-+%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E9%9B%A8%E3%81%AF%E9%99%8D%E3%82%8B%E3%82%93%E3%81%A0%E3%81%AD+MV)** - ツユ<br/>
+> ∙ **[Taking My Ball](https://www.last.fm/music/Eminem/_/Taking+My+Ball)** - Eminem<br/>
+> ∙ **[Love You More](https://www.last.fm/music/Eminem/_/Love+You+More)** - Eminem<br/>
+> ∙ **[Stepping Stone](https://www.last.fm/music/Eminem/_/Stepping+Stone)** - Eminem<br/>
+> ∙ **[Take Me Hand](https://www.last.fm/music/Neuro+-+DAISHI+DANCE/_/Take+Me+Hand)** - Neuro - DAISHI DANCE<br/>
+> ∙ **[Isaa Corva - Dream of Me (ft. tommy.)](https://www.last.fm/music/Isaa+Corva/_/Isaa+Corva+-+Dream+of+Me+(ft.+tommy.))** - Isaa Corva<br/>
+> ∙ **[Astra Yao | We Are the World - for "Zenless Zone Zero"](https://www.last.fm/music/seernebuch/_/Astra+Yao+%7C+We+Are+the+World+-+for+%22Zenless+Zone+Zero%22)** - seernebuch<br/>
+> ∙ **[FUNERAL](https://www.last.fm/music/Neoni/_/FUNERAL)** - Neoni<br/>
+> ∙ **[She's My Collar (feat. Kali Uchis)](https://www.last.fm/music/Gorillaz/_/She%27s+My+Collar+(feat.+Kali+Uchis))** - Gorillaz<br/>
 > ∙ **[The God of Lying (feat. IDLES)](https://www.last.fm/music/Gorillaz/_/The+God+of+Lying+(feat.+IDLES))** - Gorillaz<br/>
-> ∙ **[Dum Diddly](https://www.last.fm/music/Black+Eyed+Peas/_/Dum+Diddly)** - Black Eyed Peas<br/>
-> ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - Black Eyed Peas<br/>
-> ∙ **[Animals](https://www.last.fm/music/Maroon+5/_/Animals)** - Maroon 5<br/>
-> ∙ **[Looking at Me](https://www.last.fm/music/Sabrina+Carpenter/_/Looking+at+Me)** - Sabrina Carpenter<br/>
-> ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - Black Eyed Peas<br/>
-> ∙ **[Cake by the Ocean](https://www.last.fm/music/DNCE/_/Cake+by+the+Ocean)** - DNCE<br/>
-> ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - Black Eyed Peas<br/>
-> ∙ **[Bebot](https://www.last.fm/music/Black+Eyed+Peas/_/Bebot)** - Black Eyed Peas<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
