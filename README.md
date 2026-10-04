@@ -58,7 +58,7 @@
 > `85 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `83 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `63 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
+> `64 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
