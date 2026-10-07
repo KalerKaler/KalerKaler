@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `164 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `165 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `103 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `85 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `83 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Offering to Sacrifice - Bringer](https://www.last.fm/music/HOYO-MiX/_/Offering+to+Sacrifice+-+Bringer)** - HOYO-MiX<br/>
-> ∙ **[Unknown Area, Signal Disconnected...](https://www.last.fm/music/S%C4%81n-Z/_/Unknown+Area,+Signal+Disconnected...)** - Sān-Z<br/>
-> ∙ **[Extended Vacation!](https://www.last.fm/music/HOYO-MiX/_/Extended+Vacation!)** - HOYO-MiX<br/>
-> ∙ **[Shrimp Fried Rice!](https://www.last.fm/music/Neuro+-+Jamie+Paige/_/Shrimp+Fried+Rice!)** - Neuro - Jamie Paige<br/>
-> ∙ **[We as Americans](https://www.last.fm/music/Eminem/_/We+as+Americans)** - Eminem<br/>
-> ∙ **[Audio Delite at Low Fidelity](https://www.last.fm/music/Black+Eyed+Peas/_/Audio+Delite+at+Low+Fidelity)** - Black Eyed Peas<br/>
-> ∙ **[ツユ - それでも雨は降るんだね MV](https://www.last.fm/music/%E3%83%84%E3%83%A6/_/%E3%83%84%E3%83%A6+-+%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E9%9B%A8%E3%81%AF%E9%99%8D%E3%82%8B%E3%82%93%E3%81%A0%E3%81%AD+MV)** - ツユ<br/>
-> ∙ **[Taking My Ball](https://www.last.fm/music/Eminem/_/Taking+My+Ball)** - Eminem<br/>
-> ∙ **[Love You More](https://www.last.fm/music/Eminem/_/Love+You+More)** - Eminem<br/>
-> ∙ **[Stepping Stone](https://www.last.fm/music/Eminem/_/Stepping+Stone)** - Eminem<br/>
+> 🎶 **[Stellar Stellar](https://www.last.fm/music/Hoshimachi+Suisei/_/Stellar+Stellar)** - Hoshimachi Suisei<br/>
+> ∙ **[ビビデバ](https://www.last.fm/music/Hoshimachi+Suisei/_/%E3%83%93%E3%83%93%E3%83%87%E3%83%90)** - Hoshimachi Suisei<br/>
+> ∙ **[XSTA-Z](https://www.last.fm/music/YFU+BABY/_/XSTA-Z)** - YFU BABY<br/>
+> ∙ **[K on my D+C](https://www.last.fm/music/Levia/_/K+on+my+D%252BC)** - Levia<br/>
+> ∙ **[Just Desserts](https://www.last.fm/music/RHUSE/_/Just+Desserts)** - RHUSE<br/>
+> ∙ **[SUCKER PUNCH](https://www.last.fm/music/Aleyna+Moon/_/SUCKER+PUNCH)** - Aleyna Moon<br/>
+> ∙ **[gacha](https://www.last.fm/music/Aleyna+Moon/_/gacha)** - Aleyna Moon<br/>
+> ∙ **[downbad4u](https://www.last.fm/music/Aleyna+Moon/_/downbad4u)** - Aleyna Moon<br/>
+> ∙ **[1UP](https://www.last.fm/music/Aleyna+Moon/_/1UP)** - Aleyna Moon<br/>
+> ∙ **[EXTRA!](https://www.last.fm/music/Aleyna+Moon/_/EXTRA!)** - Aleyna Moon<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
