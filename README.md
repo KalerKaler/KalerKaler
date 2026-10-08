@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `165 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `166 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `103 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `85 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `83 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `64 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
+> `65 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Stellar Stellar](https://www.last.fm/music/Hoshimachi+Suisei/_/Stellar+Stellar)** - Hoshimachi Suisei<br/>
-> ∙ **[ビビデバ](https://www.last.fm/music/Hoshimachi+Suisei/_/%E3%83%93%E3%83%93%E3%83%87%E3%83%90)** - Hoshimachi Suisei<br/>
-> ∙ **[XSTA-Z](https://www.last.fm/music/YFU+BABY/_/XSTA-Z)** - YFU BABY<br/>
-> ∙ **[K on my D+C](https://www.last.fm/music/Levia/_/K+on+my+D%252BC)** - Levia<br/>
-> ∙ **[Just Desserts](https://www.last.fm/music/RHUSE/_/Just+Desserts)** - RHUSE<br/>
-> ∙ **[SUCKER PUNCH](https://www.last.fm/music/Aleyna+Moon/_/SUCKER+PUNCH)** - Aleyna Moon<br/>
-> ∙ **[gacha](https://www.last.fm/music/Aleyna+Moon/_/gacha)** - Aleyna Moon<br/>
-> ∙ **[downbad4u](https://www.last.fm/music/Aleyna+Moon/_/downbad4u)** - Aleyna Moon<br/>
-> ∙ **[1UP](https://www.last.fm/music/Aleyna+Moon/_/1UP)** - Aleyna Moon<br/>
-> ∙ **[EXTRA!](https://www.last.fm/music/Aleyna+Moon/_/EXTRA!)** - Aleyna Moon<br/>
+> 🎶 **[DANCE ALONE](https://www.last.fm/music/The+Vanished+People/_/DANCE+ALONE)** - The Vanished People<br/>
+> ∙ **[Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://www.last.fm/music/Teriyaki+Boyz/_/Tokyo+Drift+(Fast+&+Furious)+-+From+%22The+Fast+And+The+Furious:+Tokyo+Drift%22+Soundtrack)** - Teriyaki Boyz<br/>
+> ∙ **[Original Me](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me)** - Sān-Z<br/>
+> ∙ **[Live in Life](https://www.last.fm/music/Will+Stetson/_/Live+in+Life)** - Will Stetson<br/>
+> ∙ **[Bang Bang Bang](https://www.last.fm/music/Lixu_rio/_/Bang+Bang+Bang)** - Lixu_rio<br/>
+> ∙ **[Baby Got Back](https://www.last.fm/music/Sir+Mix-A-Lot/_/Baby+Got+Back)** - Sir Mix-A-Lot<br/>
+> ∙ **[S&M](https://www.last.fm/music/Rihanna/_/S&M)** - Rihanna<br/>
+> ∙ **[Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)** - Gorillaz<br/>
+> ∙ **[Million Cash](https://www.last.fm/music/Connor+Price/_/Million+Cash)** - Connor Price<br/>
+> ∙ **[Carbonated Love](https://www.last.fm/music/IRyS/_/Carbonated+Love)** - IRyS<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
