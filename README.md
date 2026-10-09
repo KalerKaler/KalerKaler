@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `166 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `169 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `103 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `85 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `83 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[DANCE ALONE](https://www.last.fm/music/The+Vanished+People/_/DANCE+ALONE)** - The Vanished People<br/>
-> ∙ **[Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://www.last.fm/music/Teriyaki+Boyz/_/Tokyo+Drift+(Fast+&+Furious)+-+From+%22The+Fast+And+The+Furious:+Tokyo+Drift%22+Soundtrack)** - Teriyaki Boyz<br/>
-> ∙ **[Original Me](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me)** - Sān-Z<br/>
-> ∙ **[Live in Life](https://www.last.fm/music/Will+Stetson/_/Live+in+Life)** - Will Stetson<br/>
-> ∙ **[Bang Bang Bang](https://www.last.fm/music/Lixu_rio/_/Bang+Bang+Bang)** - Lixu_rio<br/>
-> ∙ **[Baby Got Back](https://www.last.fm/music/Sir+Mix-A-Lot/_/Baby+Got+Back)** - Sir Mix-A-Lot<br/>
-> ∙ **[S&M](https://www.last.fm/music/Rihanna/_/S&M)** - Rihanna<br/>
-> ∙ **[Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)** - Gorillaz<br/>
-> ∙ **[Million Cash](https://www.last.fm/music/Connor+Price/_/Million+Cash)** - Connor Price<br/>
-> ∙ **[Carbonated Love](https://www.last.fm/music/IRyS/_/Carbonated+Love)** - IRyS<br/>
+> 🎶 **[Sirens](https://www.last.fm/music/Shiori+Novella/_/Sirens)** - Shiori Novella<br/>
+> ∙ **[Never Have I Ever](https://www.last.fm/music/chrchie/_/Never+Have+I+Ever)** - chrchie<br/>
+> ∙ **[Kill V. Maim](https://www.last.fm/music/Michi+Mochievee/_/Kill+V.+Maim)** - Michi Mochievee<br/>
+> ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
+> ∙ **[Choke](https://www.last.fm/music/cottontailVA/_/Choke)** - cottontailVA<br/>
+> ∙ **[DONMAI](https://www.last.fm/music/Mori+Calliope/_/DONMAI)** - Mori Calliope<br/>
+> ∙ **[Underground](https://www.last.fm/music/Eminem/_/Underground)** - Eminem<br/>
+> ∙ **[Numbers III](https://www.last.fm/music/Vedal987/_/Numbers+III)** - Vedal987<br/>
+> ∙ **[BOO HOO](https://www.last.fm/music/Neoni/_/BOO+HOO)** - Neoni<br/>
+> ∙ **[Steve Berman (Skit)](https://www.last.fm/music/Eminem/_/Steve+Berman+(Skit))** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
