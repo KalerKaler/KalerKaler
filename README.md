@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `172 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `174 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `103 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `85 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `83 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[【Ado】風のゆくえ（ウタ from ONE PIECE FILM RED）](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E9%A2%A8%E3%81%AE%E3%82%86%E3%81%8F%E3%81%88%EF%BC%88%E3%82%A6%E3%82%BF+from+ONE+PIECE+FILM+RED%EF%BC%89)** - Ado<br/>
+> 🎶 **[Wicked](https://www.last.fm/music/Evil+-+Crusher/_/Wicked)** - Evil - Crusher<br/>
+> ∙ **[【Ado】ロックスター](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC)** - Ado<br/>
+> ∙ **[Evil Twin](https://www.last.fm/music/Eminem/_/Evil+Twin)** - Eminem<br/>
+> ∙ **[Habits](https://www.last.fm/music/Eminem/_/Habits)** - Eminem<br/>
+> ∙ **[Mech Mania](https://www.last.fm/music/S%C4%81n-Z/_/Mech+Mania)** - Sān-Z<br/>
+> ∙ **[【Ado】風のゆくえ（ウタ from ONE PIECE FILM RED）](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E9%A2%A8%E3%81%AE%E3%82%86%E3%81%8F%E3%81%88%EF%BC%88%E3%82%A6%E3%82%BF+from+ONE+PIECE+FILM+RED%EF%BC%89)** - Ado<br/>
 > ∙ **[ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)** - XYLØ<br/>
 > ∙ **[Leave Out All The Rest](https://www.last.fm/music/Evil+-+Linkin+Park/_/Leave+Out+All+The+Rest)** - Evil - Linkin Park<br/>
 > ∙ **[Love You Like a Love Song](https://www.last.fm/music/nihmune/_/Love+You+Like+a+Love+Song)** - nihmune<br/>
 > ∙ **[Evil Eye](https://www.last.fm/music/Evil+-+Franz+Ferdinand/_/Evil+Eye)** - Evil - Franz Ferdinand<br/>
-> ∙ **[Evil Eye](https://www.last.fm/music/Evil+-+Franz+Ferdinand/_/Evil+Eye)** - Evil - Franz Ferdinand<br/>
-> ∙ **[Going Through Changes](https://www.last.fm/music/Eminem/_/Going+Through+Changes)** - Eminem<br/>
-> ∙ **[Same Song & Dance](https://www.last.fm/music/Eminem/_/Same+Song+&+Dance)** - Eminem<br/>
-> ∙ **[Tonya - Skit](https://www.last.fm/music/Eminem/_/Tonya+-+Skit)** - Eminem<br/>
-> ∙ **[Sirens](https://www.last.fm/music/Shiori+Novella/_/Sirens)** - Shiori Novella<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
