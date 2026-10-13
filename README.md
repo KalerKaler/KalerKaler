@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Evil Eye](https://www.last.fm/music/Evil+-+Franz+Ferdinand/_/Evil+Eye)** - Evil - Franz Ferdinand<br/>
+> 🎶 **[【Ado】風のゆくえ（ウタ from ONE PIECE FILM RED）](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E9%A2%A8%E3%81%AE%E3%82%86%E3%81%8F%E3%81%88%EF%BC%88%E3%82%A6%E3%82%BF+from+ONE+PIECE+FILM+RED%EF%BC%89)** - Ado<br/>
+> ∙ **[ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)** - XYLØ<br/>
+> ∙ **[Leave Out All The Rest](https://www.last.fm/music/Evil+-+Linkin+Park/_/Leave+Out+All+The+Rest)** - Evil - Linkin Park<br/>
+> ∙ **[Love You Like a Love Song](https://www.last.fm/music/nihmune/_/Love+You+Like+a+Love+Song)** - nihmune<br/>
+> ∙ **[Evil Eye](https://www.last.fm/music/Evil+-+Franz+Ferdinand/_/Evil+Eye)** - Evil - Franz Ferdinand<br/>
+> ∙ **[Evil Eye](https://www.last.fm/music/Evil+-+Franz+Ferdinand/_/Evil+Eye)** - Evil - Franz Ferdinand<br/>
 > ∙ **[Going Through Changes](https://www.last.fm/music/Eminem/_/Going+Through+Changes)** - Eminem<br/>
 > ∙ **[Same Song & Dance](https://www.last.fm/music/Eminem/_/Same+Song+&+Dance)** - Eminem<br/>
 > ∙ **[Tonya - Skit](https://www.last.fm/music/Eminem/_/Tonya+-+Skit)** - Eminem<br/>
 > ∙ **[Sirens](https://www.last.fm/music/Shiori+Novella/_/Sirens)** - Shiori Novella<br/>
-> ∙ **[Never Have I Ever](https://www.last.fm/music/chrchie/_/Never+Have+I+Ever)** - chrchie<br/>
-> ∙ **[Kill V. Maim](https://www.last.fm/music/Michi+Mochievee/_/Kill+V.+Maim)** - Michi Mochievee<br/>
-> ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
-> ∙ **[Choke](https://www.last.fm/music/cottontailVA/_/Choke)** - cottontailVA<br/>
-> ∙ **[DONMAI](https://www.last.fm/music/Mori+Calliope/_/DONMAI)** - Mori Calliope<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
