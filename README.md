@@ -53,10 +53,10 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `174 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `176 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `103 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `85 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `85 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `83 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `65 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Animals](https://www.last.fm/music/Maroon+5/_/Animals)** - Maroon 5<br/>
-> ∙ **[ニャニャニャチュニャ (feat. Kotoha)](https://www.last.fm/music/Tak/_/%E3%83%8B%E3%83%A3%E3%83%8B%E3%83%A3%E3%83%8B%E3%83%A3%E3%83%81%E3%83%A5%E3%83%8B%E3%83%A3+(feat.+Kotoha))** - Tak<br/>
-> ∙ **[IRIS OUT](https://www.last.fm/music/Trickle/_/IRIS+OUT)** - Trickle<br/>
-> ∙ **[Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)** - Sabrina Carpenter<br/>
-> ∙ **[Drift Barbie](https://www.last.fm/music/Blueberry/_/Drift+Barbie)** - Blueberry<br/>
-> ∙ **[LUCKY2](https://www.last.fm/music/Aleyna+Moon/_/LUCKY2)** - Aleyna Moon<br/>
-> ∙ **[Wicked](https://www.last.fm/music/Evil+-+Crusher/_/Wicked)** - Evil - Crusher<br/>
-> ∙ **[【Ado】ロックスター](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC)** - Ado<br/>
-> ∙ **[Evil Twin](https://www.last.fm/music/Eminem/_/Evil+Twin)** - Eminem<br/>
-> ∙ **[Habits](https://www.last.fm/music/Eminem/_/Habits)** - Eminem<br/>
+> 🎶 **[Die With A Smile](https://www.last.fm/music/Isaa+Corva/_/Die+With+A+Smile)** - Isaa Corva<br/>
+> ∙ **[Qingyi / Neo-Genesis (From "Zenless Zone Zero")](https://www.last.fm/music/seernebuch/_/Qingyi+%2F+Neo-Genesis+(From+%22Zenless+Zone+Zero%22))** - seernebuch<br/>
+> ∙ **[Big Time Rush](https://www.last.fm/music/Duet+(Neuro/_/Big+Time+Rush)** - Duet (Neuro<br/>
+> ∙ **[Frog On The Floor](https://www.last.fm/music/Isaa+Corva/_/Frog+On+The+Floor)** - Isaa Corva<br/>
+> ∙ **[Summer Jam](https://www.last.fm/music/HOYO-MiX/_/Summer+Jam)** - HOYO-MiX<br/>
+> ∙ **[Storm Petrel](https://www.last.fm/music/HOYO-MiX/_/Storm+Petrel)** - HOYO-MiX<br/>
+> ∙ **[1000年生きてる (Living Millennium)](https://www.last.fm/music/Neuro+-+Iyowa/_/1000%E5%B9%B4%E7%94%9F%E3%81%8D%E3%81%A6%E3%82%8B+(Living+Millennium))** - Neuro - Iyowa<br/>
+> ∙ **[Endless Construction Day - Day](https://www.last.fm/music/HOYO-MiX/_/Endless+Construction+Day+-+Day)** - HOYO-MiX<br/>
+> ∙ **[Crack a Bottle](https://www.last.fm/music/Eminem/_/Crack+a+Bottle)** - Eminem<br/>
+> ∙ **[DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)** - YFU BABY<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
