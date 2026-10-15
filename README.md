@@ -53,10 +53,10 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `176 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `177 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `103 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `85 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `85 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `90 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `86 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `65 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Die With A Smile](https://www.last.fm/music/Isaa+Corva/_/Die+With+A+Smile)** - Isaa Corva<br/>
-> ∙ **[Qingyi / Neo-Genesis (From "Zenless Zone Zero")](https://www.last.fm/music/seernebuch/_/Qingyi+%2F+Neo-Genesis+(From+%22Zenless+Zone+Zero%22))** - seernebuch<br/>
-> ∙ **[Big Time Rush](https://www.last.fm/music/Duet+(Neuro/_/Big+Time+Rush)** - Duet (Neuro<br/>
-> ∙ **[Frog On The Floor](https://www.last.fm/music/Isaa+Corva/_/Frog+On+The+Floor)** - Isaa Corva<br/>
-> ∙ **[Summer Jam](https://www.last.fm/music/HOYO-MiX/_/Summer+Jam)** - HOYO-MiX<br/>
-> ∙ **[Storm Petrel](https://www.last.fm/music/HOYO-MiX/_/Storm+Petrel)** - HOYO-MiX<br/>
-> ∙ **[1000年生きてる (Living Millennium)](https://www.last.fm/music/Neuro+-+Iyowa/_/1000%E5%B9%B4%E7%94%9F%E3%81%8D%E3%81%A6%E3%82%8B+(Living+Millennium))** - Neuro - Iyowa<br/>
-> ∙ **[Endless Construction Day - Day](https://www.last.fm/music/HOYO-MiX/_/Endless+Construction+Day+-+Day)** - HOYO-MiX<br/>
-> ∙ **[Crack a Bottle](https://www.last.fm/music/Eminem/_/Crack+a+Bottle)** - Eminem<br/>
-> ∙ **[DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)** - YFU BABY<br/>
+> 🎶 **[NIGHTBREAK](https://www.last.fm/music/Mori+Calliope/_/NIGHTBREAK)** - Mori Calliope<br/>
+> ∙ **[Cooler Than Me](https://www.last.fm/music/Isaa+Corva/_/Cooler+Than+Me)** - Isaa Corva<br/>
+> ∙ **[So What?](https://www.last.fm/music/Shotgun+Willy/_/So+What%3F)** - Shotgun Willy<br/>
+> ∙ **[Tip Toe](https://www.last.fm/music/HYBS/_/Tip+Toe)** - HYBS<br/>
+> ∙ **[Splat](https://www.last.fm/music/Shotgun+Willy/_/Splat)** - Shotgun Willy<br/>
+> ∙ **[Evil Eye](https://www.last.fm/music/Franz+Ferdinand/_/Evil+Eye)** - Franz Ferdinand<br/>
+> ∙ **[Mr. Money Bags](https://www.last.fm/music/Shotgun+Willy/_/Mr.+Money+Bags)** - Shotgun Willy<br/>
+> ∙ **[Killer](https://www.last.fm/music/Eminem/_/Killer)** - Eminem<br/>
+> ∙ **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
+> ∙ **[Die With A Smile](https://www.last.fm/music/Isaa+Corva/_/Die+With+A+Smile)** - Isaa Corva<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
