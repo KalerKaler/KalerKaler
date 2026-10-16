@@ -56,7 +56,7 @@
 > `177 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `103 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `90 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `87 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `65 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[raven sky](https://www.last.fm/music/Ado/_/raven+sky)** - Ado<br/>
+> 🎶 **[Dark Depths](https://www.last.fm/music/HOYO-MiX/_/Dark+Depths)** - HOYO-MiX<br/>
+> ∙ **[Die With A Smile](https://www.last.fm/music/Isaa+Corva/_/Die+With+A+Smile)** - Isaa Corva<br/>
+> ∙ **[raven sky](https://www.last.fm/music/Ado/_/raven+sky)** - Ado<br/>
 > ∙ **[Tip Toe](https://www.last.fm/music/HYBS/_/Tip+Toe)** - HYBS<br/>
 > ∙ **[Love Me Not](https://www.last.fm/music/Isaa+Corva/_/Love+Me+Not)** - Isaa Corva<br/>
 > ∙ **[NIGHTBREAK](https://www.last.fm/music/Mori+Calliope/_/NIGHTBREAK)** - Mori Calliope<br/>
@@ -72,8 +74,6 @@
 > ∙ **[So What?](https://www.last.fm/music/Shotgun+Willy/_/So+What%3F)** - Shotgun Willy<br/>
 > ∙ **[Tip Toe](https://www.last.fm/music/HYBS/_/Tip+Toe)** - HYBS<br/>
 > ∙ **[Splat](https://www.last.fm/music/Shotgun+Willy/_/Splat)** - Shotgun Willy<br/>
-> ∙ **[Evil Eye](https://www.last.fm/music/Franz+Ferdinand/_/Evil+Eye)** - Franz Ferdinand<br/>
-> ∙ **[Mr. Money Bags](https://www.last.fm/music/Shotgun+Willy/_/Mr.+Money+Bags)** - Shotgun Willy<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
