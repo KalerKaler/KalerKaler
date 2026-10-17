@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Dark Depths](https://www.last.fm/music/HOYO-MiX/_/Dark+Depths)** - HOYO-MiX<br/>
+> 🎶 **[vedal987](https://www.last.fm/music/Streaming+The+Long+Drive/_/vedal987)** - Streaming The Long Drive<br/>
+> ∙ **[Dark Depths](https://www.last.fm/music/HOYO-MiX/_/Dark+Depths)** - HOYO-MiX<br/>
 > ∙ **[Die With A Smile](https://www.last.fm/music/Isaa+Corva/_/Die+With+A+Smile)** - Isaa Corva<br/>
 > ∙ **[raven sky](https://www.last.fm/music/Ado/_/raven+sky)** - Ado<br/>
 > ∙ **[Tip Toe](https://www.last.fm/music/HYBS/_/Tip+Toe)** - HYBS<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Cooler Than Me](https://www.last.fm/music/Isaa+Corva/_/Cooler+Than+Me)** - Isaa Corva<br/>
 > ∙ **[So What?](https://www.last.fm/music/Shotgun+Willy/_/So+What%3F)** - Shotgun Willy<br/>
 > ∙ **[Tip Toe](https://www.last.fm/music/HYBS/_/Tip+Toe)** - HYBS<br/>
-> ∙ **[Splat](https://www.last.fm/music/Shotgun+Willy/_/Splat)** - Shotgun Willy<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
