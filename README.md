@@ -54,7 +54,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `179 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `103 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `104 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `90 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Hareruya Rettosei (feat.Kasane Teto)](https://www.last.fm/music/Sh%C3%BC/_/Hareruya+Rettosei+(feat.Kasane+Teto))** - Shü<br/>
-> ∙ **[Cleanin Out My Closet](https://www.last.fm/music/Eminem/_/Cleanin+Out+My+Closet)** - Eminem<br/>
-> ∙ **[Have Yourself a Merry Little Christmas](https://www.last.fm/music/Duet+(Neuro/_/Have+Yourself+a+Merry+Little+Christmas)** - Duet (Neuro<br/>
-> ∙ **[Venom](https://www.last.fm/music/Eminem/_/Venom)** - Eminem<br/>
-> ∙ **[vedal987](https://www.last.fm/music/Streaming+The+Long+Drive/_/vedal987)** - Streaming The Long Drive<br/>
-> ∙ **[Dark Depths](https://www.last.fm/music/HOYO-MiX/_/Dark+Depths)** - HOYO-MiX<br/>
-> ∙ **[Die With A Smile](https://www.last.fm/music/Isaa+Corva/_/Die+With+A+Smile)** - Isaa Corva<br/>
-> ∙ **[raven sky](https://www.last.fm/music/Ado/_/raven+sky)** - Ado<br/>
-> ∙ **[Tip Toe](https://www.last.fm/music/HYBS/_/Tip+Toe)** - HYBS<br/>
-> ∙ **[Love Me Not](https://www.last.fm/music/Isaa+Corva/_/Love+Me+Not)** - Isaa Corva<br/>
+> 🎶 **[The Bird Song](https://www.last.fm/music/Noah+Floersch/_/The+Bird+Song)** - Noah Floersch<br/>
+> ∙ **[Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits)** - Steven Universe<br/>
+> ∙ **[home](https://www.last.fm/music/Cavetown/_/home)** - Cavetown<br/>
+> ∙ **[City of Angels](https://www.last.fm/music/Em+Beihold/_/City+of+Angels)** - Em Beihold<br/>
+> ∙ **[Fly, My Wings](https://www.last.fm/music/Mili/_/Fly,+My+Wings)** - Mili<br/>
+> ∙ **[Falling Faster](https://www.last.fm/music/Dylan+Espeseth/_/Falling+Faster)** - Dylan Espeseth<br/>
+> ∙ **[A Promise](https://www.last.fm/music/Ellie+Minibot/_/A+Promise)** - Ellie Minibot<br/>
+> ∙ **[stranger](https://www.last.fm/music/chrchie/_/stranger)** - chrchie<br/>
+> ∙ **[Rip Out Your Eyes](https://www.last.fm/music/Marino/_/Rip+Out+Your+Eyes)** - Marino<br/>
+> ∙ **[Devil on My Shoulder](https://www.last.fm/music/Faith+Marie/_/Devil+on+My+Shoulder)** - Faith Marie<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
