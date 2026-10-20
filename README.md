@@ -54,7 +54,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `179 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `104 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `105 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `90 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[The Bird Song](https://www.last.fm/music/Noah+Floersch/_/The+Bird+Song)** - Noah Floersch<br/>
+> 🎶 **[Worst Enemy](https://www.last.fm/music/Marino/_/Worst+Enemy)** - Marino<br/>
+> ∙ **[Passing Through (Can't the Future Just Wait)](https://www.last.fm/music/Kaden+MacKay/_/Passing+Through+(Can%27t+the+Future+Just+Wait))** - Kaden MacKay<br/>
+> ∙ **[Not Supposed To Love Me](https://www.last.fm/music/CG5/_/Not+Supposed+To+Love+Me)** - CG5<br/>
+> ∙ **[Wherever I Go](https://www.last.fm/music/Ellie+Minibot/_/Wherever+I+Go)** - Ellie Minibot<br/>
 > ∙ **[Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits)** - Steven Universe<br/>
+> ∙ **[why am i like this](https://www.last.fm/music/bbno$/_/why+am+i+like+this)** - bbno$<br/>
+> ∙ **[Sara](https://www.last.fm/music/We+Three/_/Sara)** - We Three<br/>
 > ∙ **[home](https://www.last.fm/music/Cavetown/_/home)** - Cavetown<br/>
-> ∙ **[City of Angels](https://www.last.fm/music/Em+Beihold/_/City+of+Angels)** - Em Beihold<br/>
-> ∙ **[Fly, My Wings](https://www.last.fm/music/Mili/_/Fly,+My+Wings)** - Mili<br/>
 > ∙ **[Falling Faster](https://www.last.fm/music/Dylan+Espeseth/_/Falling+Faster)** - Dylan Espeseth<br/>
-> ∙ **[A Promise](https://www.last.fm/music/Ellie+Minibot/_/A+Promise)** - Ellie Minibot<br/>
-> ∙ **[stranger](https://www.last.fm/music/chrchie/_/stranger)** - chrchie<br/>
-> ∙ **[Rip Out Your Eyes](https://www.last.fm/music/Marino/_/Rip+Out+Your+Eyes)** - Marino<br/>
-> ∙ **[Devil on My Shoulder](https://www.last.fm/music/Faith+Marie/_/Devil+on+My+Shoulder)** - Faith Marie<br/>
+> ∙ **[Sex With Myself](https://www.last.fm/music/Jordy/_/Sex+With+Myself)** - Jordy<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
