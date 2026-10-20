@@ -53,8 +53,8 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `179 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `105 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `180 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `106 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `90 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Worst Enemy](https://www.last.fm/music/Marino/_/Worst+Enemy)** - Marino<br/>
-> ∙ **[Passing Through (Can't the Future Just Wait)](https://www.last.fm/music/Kaden+MacKay/_/Passing+Through+(Can%27t+the+Future+Just+Wait))** - Kaden MacKay<br/>
-> ∙ **[Not Supposed To Love Me](https://www.last.fm/music/CG5/_/Not+Supposed+To+Love+Me)** - CG5<br/>
-> ∙ **[Wherever I Go](https://www.last.fm/music/Ellie+Minibot/_/Wherever+I+Go)** - Ellie Minibot<br/>
-> ∙ **[Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits)** - Steven Universe<br/>
-> ∙ **[why am i like this](https://www.last.fm/music/bbno$/_/why+am+i+like+this)** - bbno$<br/>
-> ∙ **[Sara](https://www.last.fm/music/We+Three/_/Sara)** - We Three<br/>
-> ∙ **[home](https://www.last.fm/music/Cavetown/_/home)** - Cavetown<br/>
-> ∙ **[Falling Faster](https://www.last.fm/music/Dylan+Espeseth/_/Falling+Faster)** - Dylan Espeseth<br/>
-> ∙ **[Sex With Myself](https://www.last.fm/music/Jordy/_/Sex+With+Myself)** - Jordy<br/>
+> 🎶 **[Falling for You](https://www.last.fm/music/BoyWithUke/_/Falling+for+You)** - BoyWithUke<br/>
+> ∙ **[Way Too Much](https://www.last.fm/music/Dylan+Espeseth/_/Way+Too+Much)** - Dylan Espeseth<br/>
+> ∙ **[Two Birds](https://www.last.fm/music/Regina+Spektor/_/Two+Birds)** - Regina Spektor<br/>
+> ∙ **[Don't Look Down](https://www.last.fm/music/Ellie+Minibot/_/Don%27t+Look+Down)** - Ellie Minibot<br/>
+> ∙ **[It's Raining After All](https://www.last.fm/music/Tuyu/_/It%27s+Raining+After+All)** - Tuyu<br/>
+> ∙ **[The Fresh Princess of Bel-Air](https://www.last.fm/music/Neuro+-+DJ+Jazzy+Jeff/_/The+Fresh+Princess+of+Bel-Air)** - Neuro - DJ Jazzy Jeff<br/>
+> ∙ **[絶対敵対メチャキライヤー (Unfriendly Hater)](https://www.last.fm/music/Duet+(Neuro/_/%E7%B5%B6%E5%AF%BE%E6%95%B5%E5%AF%BE%E3%83%A1%E3%83%81%E3%83%A3%E3%82%AD%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC+(Unfriendly+Hater))** - Duet (Neuro<br/>
+> ∙ **[ordinary](https://www.last.fm/music/XYL%C3%98/_/ordinary)** - XYLØ<br/>
+> ∙ **[Stronger Than I Was](https://www.last.fm/music/Eminem/_/Stronger+Than+I+Was)** - Eminem<br/>
+> ∙ **[Cheesetopia Menu](https://www.last.fm/music/HOYO-MiX/_/Cheesetopia+Menu)** - HOYO-MiX<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
