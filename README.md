@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Falling for You](https://www.last.fm/music/BoyWithUke/_/Falling+for+You)** - BoyWithUke<br/>
-> ∙ **[Way Too Much](https://www.last.fm/music/Dylan+Espeseth/_/Way+Too+Much)** - Dylan Espeseth<br/>
-> ∙ **[Two Birds](https://www.last.fm/music/Regina+Spektor/_/Two+Birds)** - Regina Spektor<br/>
-> ∙ **[Don't Look Down](https://www.last.fm/music/Ellie+Minibot/_/Don%27t+Look+Down)** - Ellie Minibot<br/>
-> ∙ **[It's Raining After All](https://www.last.fm/music/Tuyu/_/It%27s+Raining+After+All)** - Tuyu<br/>
-> ∙ **[The Fresh Princess of Bel-Air](https://www.last.fm/music/Neuro+-+DJ+Jazzy+Jeff/_/The+Fresh+Princess+of+Bel-Air)** - Neuro - DJ Jazzy Jeff<br/>
-> ∙ **[絶対敵対メチャキライヤー (Unfriendly Hater)](https://www.last.fm/music/Duet+(Neuro/_/%E7%B5%B6%E5%AF%BE%E6%95%B5%E5%AF%BE%E3%83%A1%E3%83%81%E3%83%A3%E3%82%AD%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC+(Unfriendly+Hater))** - Duet (Neuro<br/>
-> ∙ **[ordinary](https://www.last.fm/music/XYL%C3%98/_/ordinary)** - XYLØ<br/>
-> ∙ **[Stronger Than I Was](https://www.last.fm/music/Eminem/_/Stronger+Than+I+Was)** - Eminem<br/>
-> ∙ **[Cheesetopia Menu](https://www.last.fm/music/HOYO-MiX/_/Cheesetopia+Menu)** - HOYO-MiX<br/>
+> 🎶 **[Monster (feat. Olivia Olson & Half Shy)](https://www.last.fm/music/Adventure+Time/_/Monster+(feat.+Olivia+Olson+&+Half+Shy))** - Adventure Time<br/>
+> ∙ **[this is what heartbreak feels like](https://www.last.fm/music/JVKE/_/this+is+what+heartbreak+feels+like)** - JVKE<br/>
+> ∙ **[Hate Me!](https://www.last.fm/music/MASN/_/Hate+Me!)** - MASN<br/>
+> ∙ **[Wishes](https://www.last.fm/music/Carter+Ryan/_/Wishes)** - Carter Ryan<br/>
+> ∙ **[What Could Have Been - from the series Arcane League of Legends](https://www.last.fm/music/Sting/_/What+Could+Have+Been+-+from+the+series+Arcane+League+of+Legends)** - Sting<br/>
+> ∙ **[XO](https://www.last.fm/music/Eden/_/XO)** - Eden<br/>
+> ∙ **[they'll post it online](https://www.last.fm/music/overtonight/_/they%27ll+post+it+online)** - overtonight<br/>
+> ∙ **[As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)** - Sarah Cothran<br/>
+> ∙ **[Guns for Hire - From the series Arcane League of Legends](https://www.last.fm/music/Woodkid/_/Guns+for+Hire+-+From+the+series+Arcane+League+of+Legends)** - Woodkid<br/>
+> ∙ **[Virtual Addiction](https://www.last.fm/music/PiNKii/_/Virtual+Addiction)** - PiNKii<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
