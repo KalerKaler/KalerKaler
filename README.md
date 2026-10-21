@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `180 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `181 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `106 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `90 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `83 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `84 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `65 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Monster (feat. Olivia Olson & Half Shy)](https://www.last.fm/music/Adventure+Time/_/Monster+(feat.+Olivia+Olson+&+Half+Shy))** - Adventure Time<br/>
-> ∙ **[this is what heartbreak feels like](https://www.last.fm/music/JVKE/_/this+is+what+heartbreak+feels+like)** - JVKE<br/>
-> ∙ **[Hate Me!](https://www.last.fm/music/MASN/_/Hate+Me!)** - MASN<br/>
-> ∙ **[Wishes](https://www.last.fm/music/Carter+Ryan/_/Wishes)** - Carter Ryan<br/>
+> 🎶 **[Who Am I To You? - Nightcore](https://www.last.fm/music/Sinnon+Nightcore/_/Who+Am+I+To+You%3F+-+Nightcore)** - Sinnon Nightcore<br/>
+> ∙ **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
+> ∙ **[Everybody Gets High](https://www.last.fm/music/MISSIO/_/Everybody+Gets+High)** - MISSIO<br/>
+> ∙ **[Everybody Dies](https://www.last.fm/music/Rory+Webley/_/Everybody+Dies)** - Rory Webley<br/>
+> ∙ **[Six Pills](https://www.last.fm/music/Rosendale/_/Six+Pills)** - Rosendale<br/>
+> ∙ **[Right Behind You (run away)](https://www.last.fm/music/Jack+Harris/_/Right+Behind+You+(run+away))** - Jack Harris<br/>
+> ∙ **[Devil on My Shoulder](https://www.last.fm/music/Faith+Marie/_/Devil+on+My+Shoulder)** - Faith Marie<br/>
 > ∙ **[What Could Have Been - from the series Arcane League of Legends](https://www.last.fm/music/Sting/_/What+Could+Have+Been+-+from+the+series+Arcane+League+of+Legends)** - Sting<br/>
-> ∙ **[XO](https://www.last.fm/music/Eden/_/XO)** - Eden<br/>
-> ∙ **[they'll post it online](https://www.last.fm/music/overtonight/_/they%27ll+post+it+online)** - overtonight<br/>
-> ∙ **[As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)** - Sarah Cothran<br/>
-> ∙ **[Guns for Hire - From the series Arcane League of Legends](https://www.last.fm/music/Woodkid/_/Guns+for+Hire+-+From+the+series+Arcane+League+of+Legends)** - Woodkid<br/>
-> ∙ **[Virtual Addiction](https://www.last.fm/music/PiNKii/_/Virtual+Addiction)** - PiNKii<br/>
+> ∙ **[Rip Out Your Eyes](https://www.last.fm/music/Marino/_/Rip+Out+Your+Eyes)** - Marino<br/>
+> ∙ **[どりーみんチュチュ (Dreamin Chuchu)](https://www.last.fm/music/Neuro+-+emon/_/%E3%81%A9%E3%82%8A%E3%83%BC%E3%81%BF%E3%82%93%E3%83%81%E3%83%A5%E3%83%81%E3%83%A5+(Dreamin+Chuchu))** - Neuro - emon<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
