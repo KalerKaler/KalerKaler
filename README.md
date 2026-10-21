@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Who Am I To You? - Nightcore](https://www.last.fm/music/Sinnon+Nightcore/_/Who+Am+I+To+You%3F+-+Nightcore)** - Sinnon Nightcore<br/>
+> 🎶 **[Hiding in the Dark](https://www.last.fm/music/iAmJakeHill/_/Hiding+in+the+Dark)** - iAmJakeHill<br/>
+> ∙ **[Life Is Cruel, Death Is Kind](https://www.last.fm/music/Falconshield/_/Life+Is+Cruel,+Death+Is+Kind)** - Falconshield<br/>
+> ∙ **[In My Head](https://www.last.fm/music/Alfie+Castley/_/In+My+Head)** - Alfie Castley<br/>
+> ∙ **[why do I still care?](https://www.last.fm/music/Grim+Salvo/_/why+do+I+still+care%3F)** - Grim Salvo<br/>
 > ∙ **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
 > ∙ **[Everybody Gets High](https://www.last.fm/music/MISSIO/_/Everybody+Gets+High)** - MISSIO<br/>
 > ∙ **[Everybody Dies](https://www.last.fm/music/Rory+Webley/_/Everybody+Dies)** - Rory Webley<br/>
 > ∙ **[Six Pills](https://www.last.fm/music/Rosendale/_/Six+Pills)** - Rosendale<br/>
 > ∙ **[Right Behind You (run away)](https://www.last.fm/music/Jack+Harris/_/Right+Behind+You+(run+away))** - Jack Harris<br/>
 > ∙ **[Devil on My Shoulder](https://www.last.fm/music/Faith+Marie/_/Devil+on+My+Shoulder)** - Faith Marie<br/>
-> ∙ **[What Could Have Been - from the series Arcane League of Legends](https://www.last.fm/music/Sting/_/What+Could+Have+Been+-+from+the+series+Arcane+League+of+Legends)** - Sting<br/>
-> ∙ **[Rip Out Your Eyes](https://www.last.fm/music/Marino/_/Rip+Out+Your+Eyes)** - Marino<br/>
-> ∙ **[どりーみんチュチュ (Dreamin Chuchu)](https://www.last.fm/music/Neuro+-+emon/_/%E3%81%A9%E3%82%8A%E3%83%BC%E3%81%BF%E3%82%93%E3%83%81%E3%83%A5%E3%83%81%E3%83%A5+(Dreamin+Chuchu))** - Neuro - emon<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
