@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `182 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `184 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `106 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `90 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[this is what heartbreak feels like](https://www.last.fm/music/JVKE/_/this+is+what+heartbreak+feels+like)** - JVKE<br/>
+> 🎶 **[Evil Deeds](https://www.last.fm/music/Eminem/_/Evil+Deeds)** - Eminem<br/>
+> ∙ **[Superman](https://www.last.fm/music/Eminem/_/Superman)** - Eminem<br/>
+> ∙ **[Original Me](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me)** - Sān-Z<br/>
+> ∙ **[Rain of Stars](https://www.last.fm/music/Neuro+-+nelward/_/Rain+of+Stars)** - Neuro - nelward<br/>
+> ∙ **[this is what heartbreak feels like](https://www.last.fm/music/JVKE/_/this+is+what+heartbreak+feels+like)** - JVKE<br/>
 > ∙ **[Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits)** - Steven Universe<br/>
 > ∙ **[trapped in the thought of free - Remix](https://www.last.fm/music/UUin/_/trapped+in+the+thought+of+free+-+Remix)** - UUin<br/>
 > ∙ **[In My Head](https://www.last.fm/music/Alfie+Castley/_/In+My+Head)** - Alfie Castley<br/>
 > ∙ **[why am i like this](https://www.last.fm/music/bbno$/_/why+am+i+like+this)** - bbno$<br/>
 > ∙ **[Antidote](https://www.last.fm/music/Faith+Marie/_/Antidote)** - Faith Marie<br/>
-> ∙ **[かなしばりに遭ったら](https://www.last.fm/music/avaraya+%E2%80%A2+Neuro+&+Evil/_/%E3%81%8B%E3%81%AA%E3%81%97%E3%81%B0%E3%82%8A%E3%81%AB%E9%81%AD%E3%81%A3%E3%81%9F%E3%82%89)** - avaraya • Neuro & Evil<br/>
-> ∙ **[can u see me in the dark?](https://www.last.fm/music/Halestorm,+I+Prevail+%E2%80%A2+Neuro+&+Evil/_/can+u+see+me+in+the+dark%3F)** - Halestorm, I Prevail • Neuro & Evil<br/>
-> ∙ **[Hush](https://www.last.fm/music/Muse,+Ellie+Goulding+%E2%80%A2+Neuro+&+Evil/_/Hush)** - Muse, Ellie Goulding • Neuro & Evil<br/>
-> ∙ **[1x1](https://www.last.fm/music/Bring+Me+The+Horizon+%E2%80%A2+Neuro+&+Evil/_/1x1)** - Bring Me The Horizon • Neuro & Evil<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
