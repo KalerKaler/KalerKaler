@@ -55,25 +55,25 @@
 
 > `184 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `106 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `90 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `91 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `84 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `85 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `65 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Evil Deeds](https://www.last.fm/music/Eminem/_/Evil+Deeds)** - Eminem<br/>
-> ∙ **[Superman](https://www.last.fm/music/Eminem/_/Superman)** - Eminem<br/>
-> ∙ **[Original Me](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me)** - Sān-Z<br/>
-> ∙ **[Rain of Stars](https://www.last.fm/music/Neuro+-+nelward/_/Rain+of+Stars)** - Neuro - nelward<br/>
-> ∙ **[this is what heartbreak feels like](https://www.last.fm/music/JVKE/_/this+is+what+heartbreak+feels+like)** - JVKE<br/>
-> ∙ **[Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits)** - Steven Universe<br/>
-> ∙ **[trapped in the thought of free - Remix](https://www.last.fm/music/UUin/_/trapped+in+the+thought+of+free+-+Remix)** - UUin<br/>
-> ∙ **[In My Head](https://www.last.fm/music/Alfie+Castley/_/In+My+Head)** - Alfie Castley<br/>
-> ∙ **[why am i like this](https://www.last.fm/music/bbno$/_/why+am+i+like+this)** - bbno$<br/>
-> ∙ **[Antidote](https://www.last.fm/music/Faith+Marie/_/Antidote)** - Faith Marie<br/>
+> 🎶 **[How She Walk](https://www.last.fm/music/TheGrimLynn/_/How+She+Walk)** - TheGrimLynn<br/>
+> ∙ **[How She Walk](https://www.last.fm/music/TheGrimLynn/_/How+She+Walk)** - TheGrimLynn<br/>
+> ∙ **[Meet Me Halfway (Radio Edit)](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Meet+Me+Halfway+(Radio+Edit))** - The Black Eyed Peas<br/>
+> ∙ **[How to Be a Heartbreaker](https://www.last.fm/music/Marina/_/How+to+Be+a+Heartbreaker)** - Marina<br/>
+> ∙ **[Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)** - $atori Zoom<br/>
+> ∙ **['Til The Dawn (Main Version)](https://www.last.fm/music/Drew+Sidora/_/%27Til+The+Dawn+(Main+Version))** - Drew Sidora<br/>
+> ∙ **[So Long](https://www.last.fm/music/YonKaGor/_/So+Long)** - YonKaGor<br/>
+> ∙ **[Go Kindergarten](https://www.last.fm/music/The+Lonely+Island/_/Go+Kindergarten)** - The Lonely Island<br/>
+> ∙ **[They Don't Care About Us](https://www.last.fm/music/Michael+Jackson/_/They+Don%27t+Care+About+Us)** - Michael Jackson<br/>
+> ∙ **[Free Woman](https://www.last.fm/music/Marina/_/Free+Woman)** - Marina<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
