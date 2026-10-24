@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Greenlight (feat. Flo Rida & LunchMoney Lewis)](https://www.last.fm/music/Pitbull/_/Greenlight+(feat.+Flo+Rida+&+LunchMoney+Lewis))** - Pitbull<br/>
+> 🎶 **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
+> ∙ **[Guns for Hire - From the series Arcane League of Legends](https://www.last.fm/music/Woodkid/_/Guns+for+Hire+-+From+the+series+Arcane+League+of+Legends)** - Woodkid<br/>
+> ∙ **[Human Nature](https://www.last.fm/music/Michael+Jackson/_/Human+Nature)** - Michael Jackson<br/>
+> ∙ **[unbreak](https://www.last.fm/music/Camylio/_/unbreak)** - Camylio<br/>
+> ∙ **[Fantastic (from the series Arcane League of Legends)](https://www.last.fm/music/King+Princess/_/Fantastic+(from+the+series+Arcane+League+of+Legends))** - King Princess<br/>
+> ∙ **[i wish u knew](https://www.last.fm/music/VaultBoy/_/i+wish+u+knew)** - VaultBoy<br/>
+> ∙ **[You Don't Know Me](https://www.last.fm/music/Jax+Jones+&+Raye/_/You+Don%27t+Know+Me)** - Jax Jones & Raye<br/>
+> ∙ **[Dancing All Alone](https://www.last.fm/music/Clinton+Kane/_/Dancing+All+Alone)** - Clinton Kane<br/>
+> ∙ **[Greenlight (feat. Flo Rida & LunchMoney Lewis)](https://www.last.fm/music/Pitbull/_/Greenlight+(feat.+Flo+Rida+&+LunchMoney+Lewis))** - Pitbull<br/>
 > ∙ **[Devil Doesn’t Bargain (Acoustic)](https://www.last.fm/music/Alec+Benjamin/_/Devil+Doesn%E2%80%99t+Bargain+(Acoustic))** - Alec Benjamin<br/>
-> ∙ **[Nightlight](https://www.last.fm/music/We+Three/_/Nightlight)** - We Three<br/>
-> ∙ **[Villain](https://www.last.fm/music/Bella+Poarch/_/Villain)** - Bella Poarch<br/>
-> ∙ **[Remember the Time](https://www.last.fm/music/Michael+Jackson/_/Remember+the+Time)** - Michael Jackson<br/>
-> ∙ **[HOES DEPRESSED](https://www.last.fm/music/THOT+SQUAD/_/HOES+DEPRESSED)** - THOT SQUAD<br/>
-> ∙ **[Without You (feat. Usher)](https://www.last.fm/music/David+Guetta/_/Without+You+(feat.+Usher))** - David Guetta<br/>
-> ∙ **[Not Going Back](https://www.last.fm/music/Jared+Benjamin/_/Not+Going+Back)** - Jared Benjamin<br/>
-> ∙ **[Irresponsible](https://www.last.fm/music/Emei/_/Irresponsible)** - Emei<br/>
-> ∙ **[Can You Hear Me?](https://www.last.fm/music/Munn/_/Can+You+Hear+Me%3F)** - Munn<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
