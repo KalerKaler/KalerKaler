@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Don’t Stop The Party](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Don%E2%80%99t+Stop+The+Party)** - The Black Eyed Peas<br/>
-> ∙ **[Cadmium Colors](https://www.last.fm/music/Jamie+Paige/_/Cadmium+Colors)** - Jamie Paige<br/>
-> ∙ **[BANDAGE](https://www.last.fm/music/Ayumu+Imazu/_/BANDAGE)** - Ayumu Imazu<br/>
-> ∙ **[COPYCAT](https://www.last.fm/music/Billie+Eilish/_/COPYCAT)** - Billie Eilish<br/>
-> ∙ **[Sara](https://www.last.fm/music/We+Three/_/Sara)** - We Three<br/>
-> ∙ **[Greenlight (feat. Flo Rida & LunchMoney Lewis)](https://www.last.fm/music/Pitbull/_/Greenlight+(feat.+Flo+Rida+&+LunchMoney+Lewis))** - Pitbull<br/>
-> ∙ **[777 (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)](https://www.last.fm/music/YAO/_/777+(feat.+Awich,+CHICO+CARLITO,+ONE+OK+ROCK+&+Paledusk))** - YAO<br/>
-> ∙ **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
-> ∙ **[Rest In Harmony](https://www.last.fm/music/Halacg/_/Rest+In+Harmony)** - Halacg<br/>
-> ∙ **[Shinunoga E-Wa](https://www.last.fm/music/Fujii+Kaze/_/Shinunoga+E-Wa)** - Fujii Kaze<br/>
+> 🎶 **[They Don't Care About Us (Remastered Version)](https://www.last.fm/music/Michael+Jackson/_/They+Don%27t+Care+About+Us+(Remastered+Version))** - Michael Jackson<br/>
+> ∙ **[Ghosting](https://www.last.fm/music/Isaa+Corva+&+Ellie+Minibot/_/Ghosting)** - Isaa Corva & Ellie Minibot<br/>
+> ∙ **[How to Be a Heartbreaker](https://www.last.fm/music/Marina/_/How+to+Be+a+Heartbreaker)** - Marina<br/>
+> ∙ **[The Sweet Escape](https://www.last.fm/music/Gwen+Stefani+&+Akon/_/The+Sweet+Escape)** - Gwen Stefani & Akon<br/>
+> ∙ **[Remember the Time](https://www.last.fm/music/Michael+Jackson/_/Remember+the+Time)** - Michael Jackson<br/>
+> ∙ **[Bebot](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Bebot)** - The Black Eyed Peas<br/>
+> ∙ **[Older](https://www.last.fm/music/Isabel+LaRosa/_/Older)** - Isabel LaRosa<br/>
+> ∙ **[Older](https://www.last.fm/music/Isabel+LaRosa/_/Older)** - Isabel LaRosa<br/>
+> ∙ **[Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)** - $atori Zoom<br/>
+> ∙ **[You're an Ace, Kid](https://www.last.fm/music/DEMONDICE/_/You%27re+an+Ace,+Kid)** - DEMONDICE<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
