@@ -54,7 +54,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `185 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `107 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `108 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `91 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `86 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[They Don't Care About Us (Remastered Version)](https://www.last.fm/music/Michael+Jackson/_/They+Don%27t+Care+About+Us+(Remastered+Version))** - Michael Jackson<br/>
+> 🎶 **[Shiwaawase](https://www.last.fm/music/Vaundy/_/Shiwaawase)** - Vaundy<br/>
+> ∙ **[hobbies](https://www.last.fm/music/Aleyna+Moon/_/hobbies)** - Aleyna Moon<br/>
+> ∙ **[Drift Barbie](https://www.last.fm/music/Blueberry/_/Drift+Barbie)** - Blueberry<br/>
+> ∙ **[THE SEASON](https://www.last.fm/music/robopup/_/THE+SEASON)** - robopup<br/>
+> ∙ **[NEVER (feat. Evil Neuro)](https://www.last.fm/music/Neuro-sama/_/NEVER+(feat.+Evil+Neuro))** - Neuro-sama<br/>
+> ∙ **[1% Low Battery Girl](https://www.last.fm/music/S%C4%81n-Z/_/1%25+Low+Battery+Girl)** - Sān-Z<br/>
+> ∙ **[Rent Free](https://www.last.fm/music/Ellie+Minibot/_/Rent+Free)** - Ellie Minibot<br/>
+> ∙ **[+Matter](https://www.last.fm/music/ONE+OK+ROCK/_/%252BMatter)** - ONE OK ROCK<br/>
+> ∙ **[They Don't Care About Us (Remastered Version)](https://www.last.fm/music/Michael+Jackson/_/They+Don%27t+Care+About+Us+(Remastered+Version))** - Michael Jackson<br/>
 > ∙ **[Ghosting](https://www.last.fm/music/Isaa+Corva+&+Ellie+Minibot/_/Ghosting)** - Isaa Corva & Ellie Minibot<br/>
-> ∙ **[How to Be a Heartbreaker](https://www.last.fm/music/Marina/_/How+to+Be+a+Heartbreaker)** - Marina<br/>
-> ∙ **[The Sweet Escape](https://www.last.fm/music/Gwen+Stefani+&+Akon/_/The+Sweet+Escape)** - Gwen Stefani & Akon<br/>
-> ∙ **[Remember the Time](https://www.last.fm/music/Michael+Jackson/_/Remember+the+Time)** - Michael Jackson<br/>
-> ∙ **[Bebot](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Bebot)** - The Black Eyed Peas<br/>
-> ∙ **[Older](https://www.last.fm/music/Isabel+LaRosa/_/Older)** - Isabel LaRosa<br/>
-> ∙ **[Older](https://www.last.fm/music/Isabel+LaRosa/_/Older)** - Isabel LaRosa<br/>
-> ∙ **[Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)** - $atori Zoom<br/>
-> ∙ **[You're an Ace, Kid](https://www.last.fm/music/DEMONDICE/_/You%27re+an+Ace,+Kid)** - DEMONDICE<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
