@@ -64,7 +64,9 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Shiwaawase](https://www.last.fm/music/Vaundy/_/Shiwaawase)** - Vaundy<br/>
+> 🎶 **[Flames](https://www.last.fm/music/David+Guetta+&+Sia/_/Flames)** - David Guetta & Sia<br/>
+> ∙ **[They Don't Care About Us (Remastered Version)](https://www.last.fm/music/Michael+Jackson/_/They+Don%27t+Care+About+Us+(Remastered+Version))** - Michael Jackson<br/>
+> ∙ **[Shiwaawase](https://www.last.fm/music/Vaundy/_/Shiwaawase)** - Vaundy<br/>
 > ∙ **[hobbies](https://www.last.fm/music/Aleyna+Moon/_/hobbies)** - Aleyna Moon<br/>
 > ∙ **[Drift Barbie](https://www.last.fm/music/Blueberry/_/Drift+Barbie)** - Blueberry<br/>
 > ∙ **[THE SEASON](https://www.last.fm/music/robopup/_/THE+SEASON)** - robopup<br/>
@@ -72,8 +74,6 @@
 > ∙ **[1% Low Battery Girl](https://www.last.fm/music/S%C4%81n-Z/_/1%25+Low+Battery+Girl)** - Sān-Z<br/>
 > ∙ **[Rent Free](https://www.last.fm/music/Ellie+Minibot/_/Rent+Free)** - Ellie Minibot<br/>
 > ∙ **[+Matter](https://www.last.fm/music/ONE+OK+ROCK/_/%252BMatter)** - ONE OK ROCK<br/>
-> ∙ **[They Don't Care About Us (Remastered Version)](https://www.last.fm/music/Michael+Jackson/_/They+Don%27t+Care+About+Us+(Remastered+Version))** - Michael Jackson<br/>
-> ∙ **[Ghosting](https://www.last.fm/music/Isaa+Corva+&+Ellie+Minibot/_/Ghosting)** - Isaa Corva & Ellie Minibot<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
