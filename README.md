@@ -64,8 +64,7 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Stronger Than You (Sans Version)](https://www.last.fm/music/XanduIsBored/_/Stronger+Than+You+(Sans+Version))** - XanduIsBored<br/>
-> ∙ **[When the Crows Perch](https://www.last.fm/music/S%C4%81n-Z/_/When+the+Crows+Perch)** - Sān-Z<br/>
+> 🎶 **[When the Crows Perch](https://www.last.fm/music/S%C4%81n-Z/_/When+the+Crows+Perch)** - Sān-Z<br/>
 > ∙ **[In Too Deep](https://www.last.fm/music/Eminem/_/In+Too+Deep)** - Eminem<br/>
 > ∙ **[Dancing Queen](https://www.last.fm/music/Neuro+-+ABBA/_/Dancing+Queen)** - Neuro - ABBA<br/>
 > ∙ **[ツユ - かくれんぼっち MV](https://www.last.fm/music/%E3%83%84%E3%83%A6/_/%E3%83%84%E3%83%A6+-+%E3%81%8B%E3%81%8F%E3%82%8C%E3%82%93%E3%81%BC%E3%81%A3%E3%81%A1+MV)** - ツユ<br/>
@@ -74,6 +73,7 @@
 > ∙ **[Numbers](https://www.last.fm/music/Vedal987/_/Numbers)** - Vedal987<br/>
 > ∙ **[PPPP (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/PPPP+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
 > ∙ **[NIGHTBREAK](https://www.last.fm/music/Mori+Calliope/_/NIGHTBREAK)** - Mori Calliope<br/>
+> ∙ **[High Tide](https://www.last.fm/music/Moona+Hoshinova/_/High+Tide)** - Moona Hoshinova<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
