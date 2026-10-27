@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `185 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `186 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `108 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `95 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[PPPP (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/PPPP+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
+> 🎶 **[Stronger Than You (Sans Version)](https://www.last.fm/music/XanduIsBored/_/Stronger+Than+You+(Sans+Version))** - XanduIsBored<br/>
+> ∙ **[When the Crows Perch](https://www.last.fm/music/S%C4%81n-Z/_/When+the+Crows+Perch)** - Sān-Z<br/>
+> ∙ **[In Too Deep](https://www.last.fm/music/Eminem/_/In+Too+Deep)** - Eminem<br/>
+> ∙ **[Dancing Queen](https://www.last.fm/music/Neuro+-+ABBA/_/Dancing+Queen)** - Neuro - ABBA<br/>
+> ∙ **[ツユ - かくれんぼっち MV](https://www.last.fm/music/%E3%83%84%E3%83%A6/_/%E3%83%84%E3%83%A6+-+%E3%81%8B%E3%81%8F%E3%82%8C%E3%82%93%E3%81%BC%E3%81%A3%E3%81%A1+MV)** - ツユ<br/>
+> ∙ **[しっくおぶはうす！(Sick of House!)](https://www.last.fm/music/Duet+(Neuro/_/%E3%81%97%E3%81%A3%E3%81%8F%E3%81%8A%E3%81%B6%E3%81%AF%E3%81%86%E3%81%99%EF%BC%81(Sick+of+House!))** - Duet (Neuro<br/>
+> ∙ **[Bay Bay SeKai (feat.Kasane Teto)](https://www.last.fm/music/Sh%C3%BC/_/Bay+Bay+SeKai+(feat.Kasane+Teto))** - Shü<br/>
+> ∙ **[Numbers](https://www.last.fm/music/Vedal987/_/Numbers)** - Vedal987<br/>
+> ∙ **[PPPP (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/PPPP+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
 > ∙ **[NIGHTBREAK](https://www.last.fm/music/Mori+Calliope/_/NIGHTBREAK)** - Mori Calliope<br/>
-> ∙ **[High Tide](https://www.last.fm/music/Moona+Hoshinova/_/High+Tide)** - Moona Hoshinova<br/>
-> ∙ **[Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)** - Shotgun Willy<br/>
-> ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
-> ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
-> ∙ **[Stronger Than You (Sans Version)](https://www.last.fm/music/XanduIsBored/_/Stronger+Than+You+(Sans+Version))** - XanduIsBored<br/>
-> ∙ **[muddy](https://www.last.fm/music/Sophie+Powers/_/muddy)** - Sophie Powers<br/>
-> ∙ **[BENDER](https://www.last.fm/music/UPSAHL/_/BENDER)** - UPSAHL<br/>
-> ∙ **[God Games](https://www.last.fm/music/Jorge+Rivera-Herrans/_/God+Games)** - Jorge Rivera-Herrans<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
