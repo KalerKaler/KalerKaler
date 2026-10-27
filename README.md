@@ -55,25 +55,25 @@
 
 > `185 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `108 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `93 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `95 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `86 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `87 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `67 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Stronger Than You (Sans Version)](https://www.last.fm/music/XanduIsBored/_/Stronger+Than+You+(Sans+Version))** - XanduIsBored<br/>
+> 🎶 **[PPPP (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/PPPP+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
+> ∙ **[NIGHTBREAK](https://www.last.fm/music/Mori+Calliope/_/NIGHTBREAK)** - Mori Calliope<br/>
+> ∙ **[High Tide](https://www.last.fm/music/Moona+Hoshinova/_/High+Tide)** - Moona Hoshinova<br/>
+> ∙ **[Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)** - Shotgun Willy<br/>
+> ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
+> ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
+> ∙ **[Stronger Than You (Sans Version)](https://www.last.fm/music/XanduIsBored/_/Stronger+Than+You+(Sans+Version))** - XanduIsBored<br/>
 > ∙ **[muddy](https://www.last.fm/music/Sophie+Powers/_/muddy)** - Sophie Powers<br/>
 > ∙ **[BENDER](https://www.last.fm/music/UPSAHL/_/BENDER)** - UPSAHL<br/>
 > ∙ **[God Games](https://www.last.fm/music/Jorge+Rivera-Herrans/_/God+Games)** - Jorge Rivera-Herrans<br/>
-> ∙ **[Love in Paradise](https://www.last.fm/music/Jorge+Rivera-Herrans/_/Love+in+Paradise)** - Jorge Rivera-Herrans<br/>
-> ∙ **[Love in Paradise](https://www.last.fm/music/Jorge+Rivera-Herrans/_/Love+in+Paradise)** - Jorge Rivera-Herrans<br/>
-> ∙ **[Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)** - Shotgun Willy<br/>
-> ∙ **[Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)** - Shotgun Willy<br/>
-> ∙ **[The Final Sadhana](https://www.last.fm/music/S%C4%81n-Z/_/The+Final+Sadhana)** - Sān-Z<br/>
-> ∙ **[Flames](https://www.last.fm/music/David+Guetta+&+Sia/_/Flames)** - David Guetta & Sia<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
