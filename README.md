@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `186 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `188 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `108 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `95 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `87 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `67 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `68 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Sweetest Scarlet](https://www.last.fm/music/Nerissa+Ravencroft/_/Sweetest+Scarlet)** - Nerissa Ravencroft<br/>
-> ∙ **[chaos.exe](https://www.last.fm/music/S%C4%81n-Z/_/chaos.exe)** - Sān-Z<br/>
-> ∙ **[Two to Tango](https://www.last.fm/music/HOYO-MiX/_/Two+to+Tango)** - HOYO-MiX<br/>
-> ∙ **[Link Up](https://www.last.fm/music/HOYO-MiX/_/Link+Up)** - HOYO-MiX<br/>
-> ∙ **[Prophecy](https://www.last.fm/music/S%C4%81n-Z/_/Prophecy)** - Sān-Z<br/>
-> ∙ **[1% Low Battery Girl](https://www.last.fm/music/S%C4%81n-Z/_/1%25+Low+Battery+Girl)** - Sān-Z<br/>
-> ∙ **[1% Low Battery Girl](https://www.last.fm/music/S%C4%81n-Z/_/1%25+Low+Battery+Girl)** - Sān-Z<br/>
-> ∙ **[When the Crows Perch](https://www.last.fm/music/S%C4%81n-Z/_/When+the+Crows+Perch)** - Sān-Z<br/>
-> ∙ **[In Too Deep](https://www.last.fm/music/Eminem/_/In+Too+Deep)** - Eminem<br/>
-> ∙ **[Dancing Queen](https://www.last.fm/music/Neuro+-+ABBA/_/Dancing+Queen)** - Neuro - ABBA<br/>
+> 🎶 **[Pain](https://www.last.fm/music/Nessa+Barrett/_/Pain)** - Nessa Barrett<br/>
+> ∙ **[if depression gets the best of me](https://www.last.fm/music/Zevia/_/if+depression+gets+the+best+of+me)** - Zevia<br/>
+> ∙ **[Painful Truth](https://www.last.fm/music/Em+Beihold/_/Painful+Truth)** - Em Beihold<br/>
+> ∙ **[Painful Truth](https://www.last.fm/music/Em+Beihold/_/Painful+Truth)** - Em Beihold<br/>
+> ∙ **[More Than I Am](https://www.last.fm/music/Faith+Marie+&+UUin/_/More+Than+I+Am)** - Faith Marie & UUin<br/>
+> ∙ **[Pink Panther](https://www.last.fm/music/Scene+Queen/_/Pink+Panther)** - Scene Queen<br/>
+> ∙ **[Antichrist](https://www.last.fm/music/Eminem/_/Antichrist)** - Eminem<br/>
+> ∙ **[How She Walk](https://www.last.fm/music/TheGrimLynn/_/How+She+Walk)** - TheGrimLynn<br/>
+> ∙ **[Beauty In The Hurting](https://www.last.fm/music/Jared+Benjamin/_/Beauty+In+The+Hurting)** - Jared Benjamin<br/>
+> ∙ **[Emotional Machine](https://www.last.fm/music/Marina/_/Emotional+Machine)** - Marina<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
