@@ -54,9 +54,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `189 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `108 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `95 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `88 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `111 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `99 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `89 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `87 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `68 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Sara](https://www.last.fm/music/We+Three/_/Sara)** - We Three<br/>
-> ∙ **[Sara](https://www.last.fm/music/We+Three/_/Sara)** - We Three<br/>
-> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
-> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
-> ∙ **[All Falls Down](https://www.last.fm/music/Duet+(Neuro/_/All+Falls+Down)** - Duet (Neuro<br/>
-> ∙ **[All Falls Down](https://www.last.fm/music/Duet+(Neuro/_/All+Falls+Down)** - Duet (Neuro<br/>
-> ∙ **[When the Crows Perch](https://www.last.fm/music/S%C4%81n-Z/_/When+the+Crows+Perch)** - Sān-Z<br/>
-> ∙ **[In Too Deep](https://www.last.fm/music/Eminem/_/In+Too+Deep)** - Eminem<br/>
-> ∙ **[Pain](https://www.last.fm/music/Nessa+Barrett/_/Pain)** - Nessa Barrett<br/>
-> ∙ **[if depression gets the best of me](https://www.last.fm/music/Zevia/_/if+depression+gets+the+best+of+me)** - Zevia<br/>
+> 🎶 **[Pink Panther](https://www.last.fm/music/Scene+Queen/_/Pink+Panther)** - Scene Queen<br/>
+> ∙ **[Pink Panther](https://www.last.fm/music/Scene+Queen/_/Pink+Panther)** - Scene Queen<br/>
+> ∙ **[The Bottom 3](https://www.last.fm/music/NYANA+BANYANA/_/The+Bottom+3)** - NYANA BANYANA<br/>
+> ∙ **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
+> ∙ **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
+> ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
+> ∙ **[Ghosting](https://www.last.fm/music/Isaa+Corva/_/Ghosting)** - Isaa Corva<br/>
+> ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
+> ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
+> ∙ **[Pattern Recognition (feat. ODDEEO)](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition+(feat.+ODDEEO))** - Neuro-sama<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
