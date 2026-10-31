@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Breakfast](https://www.last.fm/music/Dove+Cameron/_/Breakfast)** - Dove Cameron<br/>
-> ∙ **[Stay By My Side (feat. Isaa Corva)](https://www.last.fm/music/shirobeats/_/Stay+By+My+Side+(feat.+Isaa+Corva))** - shirobeats<br/>
-> ∙ **[Same Moon](https://www.last.fm/music/Ellie+Minibot/_/Same+Moon)** - Ellie Minibot<br/>
-> ∙ **[Same Moon](https://www.last.fm/music/Ellie+Minibot/_/Same+Moon)** - Ellie Minibot<br/>
-> ∙ **[Pink Panther](https://www.last.fm/music/Scene+Queen/_/Pink+Panther)** - Scene Queen<br/>
-> ∙ **[Pink Panther](https://www.last.fm/music/Scene+Queen/_/Pink+Panther)** - Scene Queen<br/>
-> ∙ **[The Bottom 3](https://www.last.fm/music/NYANA+BANYANA/_/The+Bottom+3)** - NYANA BANYANA<br/>
-> ∙ **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
-> ∙ **[Good Morning Vietnam](https://www.last.fm/music/Shotgun+Willy/_/Good+Morning+Vietnam)** - Shotgun Willy<br/>
-> ∙ **[Bombs Away](https://www.last.fm/music/Shotgun+Willy/_/Bombs+Away)** - Shotgun Willy<br/>
+> 🎶 **[Missing You](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Missing+You)** - The Black Eyed Peas<br/>
+> ∙ **[stupid song](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)** - Olivia Rodrigo<br/>
+> ∙ **[Jaded](https://www.last.fm/music/Koe+Wetzel+&+Ella+Langley/_/Jaded)** - Koe Wetzel & Ella Langley<br/>
+> ∙ **[Patient Zero](https://www.last.fm/music/Taylor+Swift/_/Patient+Zero)** - Taylor Swift<br/>
+> ∙ **[Yes! Tokyo](https://www.last.fm/music/EBiDAN+Ebisu+Gakuen+Boys+Club,+chotokkyu,+M!lk,+SUPER+DRAGON,+Sakurashimeji,+ONE+N%27+ONLY,+GNJB,+BUDDiiS,+Icex+&+Lienel/_/Yes!+Tokyo)** - EBiDAN Ebisu Gakuen Boys Club, chotokkyu, M!lk, SUPER DRAGON, Sakurashimeji, ONE N' ONLY, GNJB, BUDDiiS, Icex & Lienel<br/>
+> ∙ **[There Must Be an Angel (Playing with My Heart)](https://www.last.fm/music/Eurythmics,+Annie+Lennox+&+Dave+Stewart/_/There+Must+Be+an+Angel+(Playing+with+My+Heart))** - Eurythmics, Annie Lennox & Dave Stewart<br/>
+> ∙ **[Super Elastic](https://www.last.fm/music/Valencia+Grace/_/Super+Elastic)** - Valencia Grace<br/>
+> ∙ **[Carousel](https://www.last.fm/music/Melanie+Martinez/_/Carousel)** - Melanie Martinez<br/>
+> ∙ **[Life, I'm Over You](https://www.last.fm/music/Zevia/_/Life,+I%27m+Over+You)** - Zevia<br/>
+> ∙ **[Human Nature](https://www.last.fm/music/Michael+Jackson/_/Human+Nature)** - Michael Jackson<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
