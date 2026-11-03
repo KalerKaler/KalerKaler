@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[60% Fantasy - Passion](https://www.last.fm/music/HOYO-MiX/_/60%25+Fantasy+-+Passion)** - HOYO-MiX<br/>
-> ∙ **[Compared Child](https://www.last.fm/music/Tuyu/_/Compared+Child)** - Tuyu<br/>
-> ∙ **[Berzerk](https://www.last.fm/music/Eminem/_/Berzerk)** - Eminem<br/>
-> ∙ **[Breakthrough](https://www.last.fm/music/HOYO-MiX/_/Breakthrough)** - HOYO-MiX<br/>
-> ∙ **[(O)rdinary](https://www.last.fm/music/Evil+-+Avenged+Sevenfold/_/(O)rdinary)** - Evil - Avenged Sevenfold<br/>
-> ∙ **[ReDreaming Angel](https://www.last.fm/music/S%C4%81n-Z/_/ReDreaming+Angel)** - Sān-Z<br/>
+> 🎶 **[What is mindfulness?](https://www.last.fm/music/Will/_/What+is+mindfulness%3F)** - Will<br/>
+> ∙ **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
+> ∙ **[Thriller](https://www.last.fm/music/Michael+Jackson/_/Thriller)** - Michael Jackson<br/>
+> ∙ **[Pink Rover](https://www.last.fm/music/Scene+Queen/_/Pink+Rover)** - Scene Queen<br/>
+> ∙ **[Older](https://www.last.fm/music/Isabel+LaRosa/_/Older)** - Isabel LaRosa<br/>
+> ∙ **[DARE (feat. Shaun Ryder & Roses Gabor)](https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor))** - Gorillaz<br/>
 > ∙ **[Missing You](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Missing+You)** - The Black Eyed Peas<br/>
-> ∙ **[stupid song](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)** - Olivia Rodrigo<br/>
-> ∙ **[Jaded](https://www.last.fm/music/Koe+Wetzel+&+Ella+Langley/_/Jaded)** - Koe Wetzel & Ella Langley<br/>
-> ∙ **[Patient Zero](https://www.last.fm/music/Taylor+Swift/_/Patient+Zero)** - Taylor Swift<br/>
+> ∙ **[Missing You](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Missing+You)** - The Black Eyed Peas<br/>
+> ∙ **[60% Fantasy - Passion](https://www.last.fm/music/HOYO-MiX/_/60%25+Fantasy+-+Passion)** - HOYO-MiX<br/>
+> ∙ **[Compared Child](https://www.last.fm/music/Tuyu/_/Compared+Child)** - Tuyu<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
