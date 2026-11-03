@@ -54,26 +54,26 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `190 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `113 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `99 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `116 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `100 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `90 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `89 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `87 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `68 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[A Comfortable Day](https://www.last.fm/music/HOYO-MiX/_/A+Comfortable+Day)** - HOYO-MiX<br/>
-> ∙ **[Piper Wheel | Leisure Moment - for "Zenless Zone Zero"](https://www.last.fm/music/seernebuch/_/Piper+Wheel+%7C+Leisure+Moment+-+for+%22Zenless+Zone+Zero%22)** - seernebuch<br/>
-> ∙ **[60% Fantasy - Passion](https://www.last.fm/music/HOYO-MiX/_/60%25+Fantasy+-+Passion)** - HOYO-MiX<br/>
-> ∙ **[Baby Got Back](https://www.last.fm/music/Sir+Mix-A-Lot/_/Baby+Got+Back)** - Sir Mix-A-Lot<br/>
-> ∙ **[No Te Hagas (Remix)](https://www.last.fm/music/Pitbull,+Lil+Jon+&+Sensato/_/No+Te+Hagas+(Remix))** - Pitbull, Lil Jon & Sensato<br/>
-> ∙ **[Alone in Crowds](https://www.last.fm/music/Jared+Benjamin/_/Alone+in+Crowds)** - Jared Benjamin<br/>
-> ∙ **[Down Under](https://www.last.fm/music/Men+at+Work/_/Down+Under)** - Men at Work<br/>
-> ∙ **[Lies](https://www.last.fm/music/Marina/_/Lies)** - Marina<br/>
-> ∙ **[Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)** - Carly Rae Jepsen<br/>
-> ∙ **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
+> 🎶 **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
+> ∙ **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
+> ∙ **[What the ████](https://www.last.fm/music/Netsubi/_/What+the+%E2%96%88%E2%96%88%E2%96%88%E2%96%88)** - Netsubi<br/>
+> ∙ **[Pattern Recognition (feat. ODDEEO)](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition+(feat.+ODDEEO))** - Neuro-sama<br/>
+> ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
+> ∙ **[Sara](https://www.last.fm/music/We+Three/_/Sara)** - We Three<br/>
+> ∙ **[High Tide](https://www.last.fm/music/Moona+Hoshinova/_/High+Tide)** - Moona Hoshinova<br/>
+> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
+> ∙ **[Same Moon](https://www.last.fm/music/Ellie+Minibot/_/Same+Moon)** - Ellie Minibot<br/>
+> ∙ **[Distortion](https://www.last.fm/music/Moona+Hoshinova/_/Distortion)** - Moona Hoshinova<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
