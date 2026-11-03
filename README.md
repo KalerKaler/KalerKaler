@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[What is mindfulness?](https://www.last.fm/music/Will/_/What+is+mindfulness%3F)** - Will<br/>
-> ∙ **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
-> ∙ **[Thriller](https://www.last.fm/music/Michael+Jackson/_/Thriller)** - Michael Jackson<br/>
-> ∙ **[Pink Rover](https://www.last.fm/music/Scene+Queen/_/Pink+Rover)** - Scene Queen<br/>
-> ∙ **[Older](https://www.last.fm/music/Isabel+LaRosa/_/Older)** - Isabel LaRosa<br/>
-> ∙ **[DARE (feat. Shaun Ryder & Roses Gabor)](https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor))** - Gorillaz<br/>
-> ∙ **[Missing You](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Missing+You)** - The Black Eyed Peas<br/>
-> ∙ **[Missing You](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Missing+You)** - The Black Eyed Peas<br/>
+> 🎶 **[A Comfortable Day](https://www.last.fm/music/HOYO-MiX/_/A+Comfortable+Day)** - HOYO-MiX<br/>
+> ∙ **[Piper Wheel | Leisure Moment - for "Zenless Zone Zero"](https://www.last.fm/music/seernebuch/_/Piper+Wheel+%7C+Leisure+Moment+-+for+%22Zenless+Zone+Zero%22)** - seernebuch<br/>
 > ∙ **[60% Fantasy - Passion](https://www.last.fm/music/HOYO-MiX/_/60%25+Fantasy+-+Passion)** - HOYO-MiX<br/>
-> ∙ **[Compared Child](https://www.last.fm/music/Tuyu/_/Compared+Child)** - Tuyu<br/>
+> ∙ **[Baby Got Back](https://www.last.fm/music/Sir+Mix-A-Lot/_/Baby+Got+Back)** - Sir Mix-A-Lot<br/>
+> ∙ **[No Te Hagas (Remix)](https://www.last.fm/music/Pitbull,+Lil+Jon+&+Sensato/_/No+Te+Hagas+(Remix))** - Pitbull, Lil Jon & Sensato<br/>
+> ∙ **[Alone in Crowds](https://www.last.fm/music/Jared+Benjamin/_/Alone+in+Crowds)** - Jared Benjamin<br/>
+> ∙ **[Down Under](https://www.last.fm/music/Men+at+Work/_/Down+Under)** - Men at Work<br/>
+> ∙ **[Lies](https://www.last.fm/music/Marina/_/Lies)** - Marina<br/>
+> ∙ **[Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)** - Carly Rae Jepsen<br/>
+> ∙ **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
