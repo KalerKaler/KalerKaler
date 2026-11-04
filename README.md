@@ -54,7 +54,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `190 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `116 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `120 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `100 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `90 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `89 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
-> ∙ **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
-> ∙ **[What the ████](https://www.last.fm/music/Netsubi/_/What+the+%E2%96%88%E2%96%88%E2%96%88%E2%96%88)** - Netsubi<br/>
-> ∙ **[Pattern Recognition (feat. ODDEEO)](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition+(feat.+ODDEEO))** - Neuro-sama<br/>
-> ∙ **[SNAKE EYES](https://www.last.fm/music/Hakos+Baelz/_/SNAKE+EYES)** - Hakos Baelz<br/>
-> ∙ **[Sara](https://www.last.fm/music/We+Three/_/Sara)** - We Three<br/>
-> ∙ **[High Tide](https://www.last.fm/music/Moona+Hoshinova/_/High+Tide)** - Moona Hoshinova<br/>
-> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
-> ∙ **[Same Moon](https://www.last.fm/music/Ellie+Minibot/_/Same+Moon)** - Ellie Minibot<br/>
-> ∙ **[Distortion](https://www.last.fm/music/Moona+Hoshinova/_/Distortion)** - Moona Hoshinova<br/>
+> 🎶 **[Pattern Recognition (feat. ODDEEO)](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition+(feat.+ODDEEO))** - Neuro-sama<br/>
+> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
+> ∙ **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
+> ∙ **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
+> ∙ **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
+> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
+> ∙ **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
+> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
+> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
+> ∙ **[Red Flags (feat. Montaigne)](https://www.last.fm/music/Tom+Cardy/_/Red+Flags+(feat.+Montaigne))** - Tom Cardy<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
