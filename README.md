@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Sara](https://www.last.fm/music/We+Three/_/Sara)** - We Three<br/>
+> 🎶 **[I'm Good (Blue)](https://www.last.fm/music/David+Guetta+&+Bebe+Rexha/_/I%27m+Good+(Blue))** - David Guetta & Bebe Rexha<br/>
+> ∙ **[I'm Good (Blue)](https://www.last.fm/music/David+Guetta+&+Bebe+Rexha/_/I%27m+Good+(Blue))** - David Guetta & Bebe Rexha<br/>
+> ∙ **[I'm Good (Blue)](https://www.last.fm/music/David+Guetta+&+Bebe+Rexha/_/I%27m+Good+(Blue))** - David Guetta & Bebe Rexha<br/>
+> ∙ **[I'm Good (Blue)](https://www.last.fm/music/David+Guetta+&+Bebe+Rexha/_/I%27m+Good+(Blue))** - David Guetta & Bebe Rexha<br/>
+> ∙ **[Sara](https://www.last.fm/music/We+Three/_/Sara)** - We Three<br/>
 > ∙ **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
 > ∙ **[Crasher-Vania](https://www.last.fm/music/Starbomb/_/Crasher-Vania)** - Starbomb<br/>
 > ∙ **[Periwinkle](https://www.last.fm/music/The+Vanished+People/_/Periwinkle)** - The Vanished People<br/>
 > ∙ **[To the Bone](https://www.last.fm/music/JT+Music/_/To+the+Bone)** - JT Music<br/>
 > ∙ **[Discord](https://www.last.fm/music/The+Living+Tombstone+&+Eurobeat+Brony/_/Discord)** - The Living Tombstone & Eurobeat Brony<br/>
-> ∙ **[Red Flags (feat. Montaigne)](https://www.last.fm/music/Tom+Cardy/_/Red+Flags+(feat.+Montaigne))** - Tom Cardy<br/>
-> ∙ **[Help Me](https://www.last.fm/music/OR3O/_/Help+Me)** - OR3O<br/>
-> ∙ **[Absolute Territory](https://www.last.fm/music/Ken+Ashcorp/_/Absolute+Territory)** - Ken Ashcorp<br/>
-> ∙ **[Been By Now](https://www.last.fm/music/Morgan+Wallen/_/Been+By+Now)** - Morgan Wallen<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
