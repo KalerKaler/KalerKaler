@@ -64,8 +64,7 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Hi Ren](https://www.last.fm/music/Ren/_/Hi+Ren)** - Ren<br/>
-> ∙ **[Masochist](https://www.last.fm/music/Ren/_/Masochist)** - Ren<br/>
+> 🎶 **[Masochist](https://www.last.fm/music/Ren/_/Masochist)** - Ren<br/>
 > ∙ **[Bad Apple (feat. Adriana Figueroa & the Musical Ghost)](https://www.last.fm/music/OR3O/_/Bad+Apple+(feat.+Adriana+Figueroa+&+the+Musical+Ghost))** - OR3O<br/>
 > ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
 > ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
@@ -74,6 +73,7 @@
 > ∙ **[1% Low Battery Girl](https://www.last.fm/music/S%C4%81n-Z/_/1%25+Low+Battery+Girl)** - Sān-Z<br/>
 > ∙ **[Sway to My Beat in Cosmos](https://www.last.fm/music/Robin/_/Sway+to+My+Beat+in+Cosmos)** - Robin<br/>
 > ∙ **[Gold-Triumph](https://www.last.fm/music/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B7%E3%83%83%E3%83%97+(CV.+%E4%B8%8A%E7%94%B0+%E7%9E%B3)/_/Gold-Triumph)** - ゴールドシップ (CV. 上田 瞳)<br/>
+> ∙ **[Lights Down Low (feat. Waka Flocka Flame)](https://www.last.fm/music/Maejor/_/Lights+Down+Low+(feat.+Waka+Flocka+Flame))** - Maejor<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
