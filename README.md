@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[So Good](https://www.last.fm/music/Jhen%C3%A9+Aiko/_/So+Good)** - Jhené Aiko<br/>
-> ∙ **[Dead Fresh](https://www.last.fm/music/Lil+Baby/_/Dead+Fresh)** - Lil Baby<br/>
-> ∙ **[Janice STFU](https://www.last.fm/music/Drake/_/Janice+STFU)** - Drake<br/>
-> ∙ **[You Need Me, I Don't Need You](https://www.last.fm/music/M%C3%A5neskin/_/You+Need+Me,+I+Don%27t+Need+You)** - Måneskin<br/>
-> ∙ **[Hi Ren](https://www.last.fm/music/Ren/_/Hi+Ren)** - Ren<br/>
-> ∙ **[Hi Ren](https://www.last.fm/music/Ren/_/Hi+Ren)** - Ren<br/>
-> ∙ **[Masochist](https://www.last.fm/music/Ren/_/Masochist)** - Ren<br/>
-> ∙ **[Bad Apple (feat. Adriana Figueroa & the Musical Ghost)](https://www.last.fm/music/OR3O/_/Bad+Apple+(feat.+Adriana+Figueroa+&+the+Musical+Ghost))** - OR3O<br/>
-> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
-> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
+> 🎶 **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
+> ∙ **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
+> ∙ **[I’m Spent](https://www.last.fm/music/Drake/_/I%E2%80%99m+Spent)** - Drake<br/>
+> ∙ **[Thriller](https://www.last.fm/music/Michael+Jackson/_/Thriller)** - Michael Jackson<br/>
+> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
+> ∙ **[Watching Us](https://www.last.fm/music/Wale/_/Watching+Us)** - Wale<br/>
+> ∙ **[Tell Her](https://www.last.fm/music/Ella+Mai/_/Tell+Her)** - Ella Mai<br/>
+> ∙ **[MORNING DEW (DONK)](https://www.last.fm/music/Beyonc%C3%A9/_/MORNING+DEW+(DONK))** - Beyoncé<br/>
+> ∙ **[I Just Might](https://www.last.fm/music/Bruno+Mars/_/I+Just+Might)** - Bruno Mars<br/>
+> ∙ **[I Just Might](https://www.last.fm/music/Bruno+Mars/_/I+Just+Might)** - Bruno Mars<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
