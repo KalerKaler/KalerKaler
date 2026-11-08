@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `190 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `191 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `123 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `100 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `91 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Arrival](https://www.last.fm/music/Tak/_/Arrival)** - Tak<br/>
-> ∙ **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
-> ∙ **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
-> ∙ **[I’m Spent](https://www.last.fm/music/Drake/_/I%E2%80%99m+Spent)** - Drake<br/>
-> ∙ **[Thriller](https://www.last.fm/music/Michael+Jackson/_/Thriller)** - Michael Jackson<br/>
-> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
-> ∙ **[Watching Us](https://www.last.fm/music/Wale/_/Watching+Us)** - Wale<br/>
-> ∙ **[Tell Her](https://www.last.fm/music/Ella+Mai/_/Tell+Her)** - Ella Mai<br/>
-> ∙ **[MORNING DEW (DONK)](https://www.last.fm/music/Beyonc%C3%A9/_/MORNING+DEW+(DONK))** - Beyoncé<br/>
-> ∙ **[I Just Might](https://www.last.fm/music/Bruno+Mars/_/I+Just+Might)** - Bruno Mars<br/>
+> 🎶 **[All We Have](https://www.last.fm/music/Machine+Gun+Kelly/_/All+We+Have)** - Machine Gun Kelly<br/>
+> ∙ **[PEAK](https://www.last.fm/music/S%C4%81n-Z/_/PEAK)** - Sān-Z<br/>
+> ∙ **[Bad Husband](https://www.last.fm/music/Eminem/_/Bad+Husband)** - Eminem<br/>
+> ∙ **[I'll Always Kill Myself Too Late](https://www.last.fm/music/Reclaimant+of+Life/_/I%27ll+Always+Kill+Myself+Too+Late)** - Reclaimant of Life<br/>
+> ∙ **[ADHD](https://www.last.fm/music/Reclaimant+of+Life/_/ADHD)** - Reclaimant of Life<br/>
+> ∙ **[Mixed Messages](https://www.last.fm/music/Tom+Cardy/_/Mixed+Messages)** - Tom Cardy<br/>
+> ∙ **[Mixed Messages](https://www.last.fm/music/Tom+Cardy/_/Mixed+Messages)** - Tom Cardy<br/>
+> ∙ **[Original Me (1St Take Ver.)](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me+(1St+Take+Ver.))** - Sān-Z<br/>
+> ∙ **[Original Me](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me)** - Sān-Z<br/>
+> ∙ **[Original Me](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me)** - Sān-Z<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
