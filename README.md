@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
+> 🎶 **[Arrival](https://www.last.fm/music/Tak/_/Arrival)** - Tak<br/>
+> ∙ **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
 > ∙ **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
 > ∙ **[I’m Spent](https://www.last.fm/music/Drake/_/I%E2%80%99m+Spent)** - Drake<br/>
 > ∙ **[Thriller](https://www.last.fm/music/Michael+Jackson/_/Thriller)** - Michael Jackson<br/>
@@ -72,7 +73,6 @@
 > ∙ **[Watching Us](https://www.last.fm/music/Wale/_/Watching+Us)** - Wale<br/>
 > ∙ **[Tell Her](https://www.last.fm/music/Ella+Mai/_/Tell+Her)** - Ella Mai<br/>
 > ∙ **[MORNING DEW (DONK)](https://www.last.fm/music/Beyonc%C3%A9/_/MORNING+DEW+(DONK))** - Beyoncé<br/>
-> ∙ **[I Just Might](https://www.last.fm/music/Bruno+Mars/_/I+Just+Might)** - Bruno Mars<br/>
 > ∙ **[I Just Might](https://www.last.fm/music/Bruno+Mars/_/I+Just+Might)** - Bruno Mars<br/>
 <!--END_LASTFM_RECENT-->
 
