@@ -54,8 +54,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `191 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `123 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `100 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
+> `126 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `101 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `92 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `89 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `68 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[The Outsider](https://www.last.fm/music/Marina/_/The+Outsider)** - Marina<br/>
-> ∙ **[Brittle Bones Nicky 2](https://www.last.fm/music/Rare+Americans/_/Brittle+Bones+Nicky+2)** - Rare Americans<br/>
-> ∙ **[Transcendental Cha Cha Cha](https://www.last.fm/music/Tom+Cardy/_/Transcendental+Cha+Cha+Cha)** - Tom Cardy<br/>
-> ∙ **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
-> ∙ **[You](https://www.last.fm/music/Fujii+Kaze/_/You)** - Fujii Kaze<br/>
-> ∙ **[Like a Rolling Stone](https://www.last.fm/music/Bob+Dylan/_/Like+a+Rolling+Stone)** - Bob Dylan<br/>
-> ∙ **[Purple Rain (7" Single Edit; 2017 Remaster)](https://www.last.fm/music/Prince/_/Purple+Rain+(7%22+Single+Edit;+2017+Remaster))** - Prince<br/>
-> ∙ **[Thriller](https://www.last.fm/music/Michael+Jackson/_/Thriller)** - Michael Jackson<br/>
-> ∙ **[Dark Hour](https://www.last.fm/music/DEMONDICE/_/Dark+Hour)** - DEMONDICE<br/>
-> ∙ **[Pattern Recognition (feat. ODDEEO)](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition+(feat.+ODDEEO))** - Neuro-sama<br/>
+> 🎶 **[Midnight Sun](https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun)** - Zara Larsson<br/>
+> ∙ **[Who Run It](https://www.last.fm/music/Swidt/_/Who+Run+It)** - Swidt<br/>
+> ∙ **[Everything Reminds Me Of You](https://www.last.fm/music/Valencia+Grace/_/Everything+Reminds+Me+Of+You)** - Valencia Grace<br/>
+> ∙ **[Nurse's Office](https://www.last.fm/music/Melanie+Martinez/_/Nurse%27s+Office)** - Melanie Martinez<br/>
+> ∙ **[Hazy Skyscraper](https://www.last.fm/music/DEMONDICE/_/Hazy+Skyscraper)** - DEMONDICE<br/>
+> ∙ **[Together](https://www.last.fm/music/Ellie+Minibot/_/Together)** - Ellie Minibot<br/>
+> ∙ **[Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)** - Ashnikko<br/>
+> ∙ **[Miss Nectarine](https://www.last.fm/music/Ashnikko/_/Miss+Nectarine)** - Ashnikko<br/>
+> ∙ **[BUTTERFLY](https://www.last.fm/music/Marina/_/BUTTERFLY)** - Marina<br/>
+> ∙ **[Sushi Glory Hole](https://www.last.fm/music/The+Lonely+Island/_/Sushi+Glory+Hole)** - The Lonely Island<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
