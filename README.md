@@ -56,7 +56,7 @@
 > `191 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `123 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `100 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `91 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
+> `92 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `89 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `68 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[All We Have](https://www.last.fm/music/Machine+Gun+Kelly/_/All+We+Have)** - Machine Gun Kelly<br/>
-> ∙ **[PEAK](https://www.last.fm/music/S%C4%81n-Z/_/PEAK)** - Sān-Z<br/>
-> ∙ **[Bad Husband](https://www.last.fm/music/Eminem/_/Bad+Husband)** - Eminem<br/>
-> ∙ **[I'll Always Kill Myself Too Late](https://www.last.fm/music/Reclaimant+of+Life/_/I%27ll+Always+Kill+Myself+Too+Late)** - Reclaimant of Life<br/>
-> ∙ **[ADHD](https://www.last.fm/music/Reclaimant+of+Life/_/ADHD)** - Reclaimant of Life<br/>
-> ∙ **[Mixed Messages](https://www.last.fm/music/Tom+Cardy/_/Mixed+Messages)** - Tom Cardy<br/>
-> ∙ **[Mixed Messages](https://www.last.fm/music/Tom+Cardy/_/Mixed+Messages)** - Tom Cardy<br/>
-> ∙ **[Original Me (1St Take Ver.)](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me+(1St+Take+Ver.))** - Sān-Z<br/>
-> ∙ **[Original Me](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me)** - Sān-Z<br/>
-> ∙ **[Original Me](https://www.last.fm/music/S%C4%81n-Z/_/Original+Me)** - Sān-Z<br/>
+> 🎶 **[The Outsider](https://www.last.fm/music/Marina/_/The+Outsider)** - Marina<br/>
+> ∙ **[Brittle Bones Nicky 2](https://www.last.fm/music/Rare+Americans/_/Brittle+Bones+Nicky+2)** - Rare Americans<br/>
+> ∙ **[Transcendental Cha Cha Cha](https://www.last.fm/music/Tom+Cardy/_/Transcendental+Cha+Cha+Cha)** - Tom Cardy<br/>
+> ∙ **[Perisai Jitu](https://www.last.fm/music/Moona+Hoshinova/_/Perisai+Jitu)** - Moona Hoshinova<br/>
+> ∙ **[You](https://www.last.fm/music/Fujii+Kaze/_/You)** - Fujii Kaze<br/>
+> ∙ **[Like a Rolling Stone](https://www.last.fm/music/Bob+Dylan/_/Like+a+Rolling+Stone)** - Bob Dylan<br/>
+> ∙ **[Purple Rain (7" Single Edit; 2017 Remaster)](https://www.last.fm/music/Prince/_/Purple+Rain+(7%22+Single+Edit;+2017+Remaster))** - Prince<br/>
+> ∙ **[Thriller](https://www.last.fm/music/Michael+Jackson/_/Thriller)** - Michael Jackson<br/>
+> ∙ **[Dark Hour](https://www.last.fm/music/DEMONDICE/_/Dark+Hour)** - DEMONDICE<br/>
+> ∙ **[Pattern Recognition (feat. ODDEEO)](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition+(feat.+ODDEEO))** - Neuro-sama<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
