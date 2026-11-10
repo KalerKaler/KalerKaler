@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Closer](https://www.last.fm/music/Nine+Inch+Nails/_/Closer)** - Nine Inch Nails<br/>
+> 🎶 **[What the Ripple Sees](https://www.last.fm/music/Mili/_/What+the+Ripple+Sees)** - Mili<br/>
+> ∙ **[Seasons (feat. Shiki Miyoshino)](https://www.last.fm/music/Alohaii/_/Seasons+(feat.+Shiki+Miyoshino))** - Alohaii<br/>
+> ∙ **[GIMME MORE](https://www.last.fm/music/Hakos+Baelz/_/GIMME+MORE)** - Hakos Baelz<br/>
+> ∙ **[Stars Align](https://www.last.fm/music/S%C4%81n-Z/_/Stars+Align)** - Sān-Z<br/>
+> ∙ **[phony](https://www.last.fm/music/Will+Stetson/_/phony)** - Will Stetson<br/>
+> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
+> ∙ **[Pattern Recognition (feat. ODDEEO)](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition+(feat.+ODDEEO))** - Neuro-sama<br/>
+> ∙ **[Pattern Recognition (feat. ODDEEO)](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition+(feat.+ODDEEO))** - Neuro-sama<br/>
+> ∙ **[Closer](https://www.last.fm/music/Nine+Inch+Nails/_/Closer)** - Nine Inch Nails<br/>
 > ∙ **[Like That](https://www.last.fm/music/The+Black+Eyed+Peas,+Q-Tip,+Talib+Kweli,+CeeLo+Green+&+John+Legend/_/Like+That)** - The Black Eyed Peas, Q-Tip, Talib Kweli, CeeLo Green & John Legend<br/>
-> ∙ **[My Humps](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/My+Humps)** - The Black Eyed Peas<br/>
-> ∙ **[Don't Lie](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Don%27t+Lie)** - The Black Eyed Peas<br/>
-> ∙ **[My Style](https://www.last.fm/music/The+Black+Eyed+Peas,+Justin+Timberlake+&+Timbaland/_/My+Style)** - The Black Eyed Peas, Justin Timberlake & Timbaland<br/>
-> ∙ **[Don't Phunk With My Heart](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Don%27t+Phunk+With+My+Heart)** - The Black Eyed Peas<br/>
-> ∙ **[Pump It](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Pump+It)** - The Black Eyed Peas<br/>
-> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
-> ∙ **[Stupid Heart](https://www.last.fm/music/Ellie+Minibot/_/Stupid+Heart)** - Ellie Minibot<br/>
-> ∙ **[I Knew It, I Knew You (from "Toy Story 5")](https://www.last.fm/music/Taylor+Swift/_/I+Knew+It,+I+Knew+You+(from+%22Toy+Story+5%22))** - Taylor Swift<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
