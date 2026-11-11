@@ -64,15 +64,15 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Closer](https://www.last.fm/music/Nine+Inch+Nails/_/Closer)** - Nine Inch Nails<br/>
-> ∙ **[What the Ripple Sees](https://www.last.fm/music/Mili/_/What+the+Ripple+Sees)** - Mili<br/>
-> ∙ **[Seasons (feat. Shiki Miyoshino)](https://www.last.fm/music/Alohaii/_/Seasons+(feat.+Shiki+Miyoshino))** - Alohaii<br/>
-> ∙ **[GIMME MORE](https://www.last.fm/music/Hakos+Baelz/_/GIMME+MORE)** - Hakos Baelz<br/>
-> ∙ **[Stars Align](https://www.last.fm/music/S%C4%81n-Z/_/Stars+Align)** - Sān-Z<br/>
-> ∙ **[phony](https://www.last.fm/music/Will+Stetson/_/phony)** - Will Stetson<br/>
-> ∙ **[Colorful Array](https://www.last.fm/music/Neuro-sama/_/Colorful+Array)** - Neuro-sama<br/>
-> ∙ **[Pattern Recognition (feat. ODDEEO)](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition+(feat.+ODDEEO))** - Neuro-sama<br/>
-> ∙ **[Pattern Recognition (feat. ODDEEO)](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition+(feat.+ODDEEO))** - Neuro-sama<br/>
+> 🎶 **[What the Ripple Sees](https://www.last.fm/music/Mili/_/What+the+Ripple+Sees)** - Mili<br/>
+> ∙ **[Drift Barbie](https://www.last.fm/music/blueberry+&+PiNKII/_/Drift+Barbie)** - blueberry & PiNKII<br/>
+> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
+> ∙ **[Bad Husband](https://www.last.fm/music/Eminem+&+X+Ambassadors/_/Bad+Husband)** - Eminem & X Ambassadors<br/>
+> ∙ **[take a trip](https://www.last.fm/music/ceo@business.net,+jungle+bobby,+bbno$+&+Lentra/_/take+a+trip)** - ceo@business.net, jungle bobby, bbno$ & Lentra<br/>
+> ∙ **[Fun (feat. Chris Brown)](https://www.last.fm/music/Pitbull/_/Fun+(feat.+Chris+Brown))** - Pitbull<br/>
+> ∙ **[You Need Jesus](https://www.last.fm/music/BABY+GRAVY,+Yung+Gravy+&+bbno$/_/You+Need+Jesus)** - BABY GRAVY, Yung Gravy & bbno$<br/>
+> ∙ **[Shut Up](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Shut+Up)** - The Black Eyed Peas<br/>
+> ∙ **[i see london i see france](https://www.last.fm/music/bbno$/_/i+see+london+i+see+france)** - bbno$<br/>
 > ∙ **[Closer](https://www.last.fm/music/Nine+Inch+Nails/_/Closer)** - Nine Inch Nails<br/>
 <!--END_LASTFM_RECENT-->
 
