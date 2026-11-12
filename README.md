@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[I Gotta Feeling](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/I+Gotta+Feeling)** - The Black Eyed Peas<br/>
-> ∙ **[Drift Barbie](https://www.last.fm/music/blueberry+&+PiNKII/_/Drift+Barbie)** - blueberry & PiNKII<br/>
-> ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
-> ∙ **[Bad Husband](https://www.last.fm/music/Eminem+&+X+Ambassadors/_/Bad+Husband)** - Eminem & X Ambassadors<br/>
-> ∙ **[take a trip](https://www.last.fm/music/ceo@business.net,+jungle+bobby,+bbno$+&+Lentra/_/take+a+trip)** - ceo@business.net, jungle bobby, bbno$ & Lentra<br/>
-> ∙ **[Fun (feat. Chris Brown)](https://www.last.fm/music/Pitbull/_/Fun+(feat.+Chris+Brown))** - Pitbull<br/>
-> ∙ **[You Need Jesus](https://www.last.fm/music/BABY+GRAVY,+Yung+Gravy+&+bbno$/_/You+Need+Jesus)** - BABY GRAVY, Yung Gravy & bbno$<br/>
-> ∙ **[Shut Up](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/Shut+Up)** - The Black Eyed Peas<br/>
-> ∙ **[i see london i see france](https://www.last.fm/music/bbno$/_/i+see+london+i+see+france)** - bbno$<br/>
-> ∙ **[Closer](https://www.last.fm/music/Nine+Inch+Nails/_/Closer)** - Nine Inch Nails<br/>
+> 🎶 **[Shut Up and Dance](https://www.last.fm/music/Neuro+-+WALK+THE+MOON/_/Shut+Up+and+Dance)** - Neuro - WALK THE MOON<br/>
+> ∙ **[Metal Chimera](https://www.last.fm/music/HOYO-MiX/_/Metal+Chimera)** - HOYO-MiX<br/>
+> ∙ **[I Love Rock N' Roll](https://www.last.fm/music/Evil+-+Joan+Jett/_/I+Love+Rock+N%27+Roll)** - Evil - Joan Jett<br/>
+> ∙ **[A Comfortable Day](https://www.last.fm/music/HOYO-MiX/_/A+Comfortable+Day)** - HOYO-MiX<br/>
+> ∙ **[Bass Persuades](https://www.last.fm/music/Miley+Cyrus/_/Bass+Persuades)** - Miley Cyrus<br/>
+> ∙ **[SWIM](https://www.last.fm/music/BTS/_/SWIM)** - BTS<br/>
+> ∙ **[Minibar](https://www.last.fm/music/Gracie+Abrams/_/Minibar)** - Gracie Abrams<br/>
+> ∙ **[Hit the Wall](https://www.last.fm/music/Gracie+Abrams/_/Hit+the+Wall)** - Gracie Abrams<br/>
+> ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
+> ∙ **[Saturday Night](https://www.last.fm/music/Ravyn+Lenae/_/Saturday+Night)** - Ravyn Lenae<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
