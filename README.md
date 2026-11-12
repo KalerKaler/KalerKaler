@@ -64,7 +64,7 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[What the Ripple Sees](https://www.last.fm/music/Mili/_/What+the+Ripple+Sees)** - Mili<br/>
+> 🎶 **[I Gotta Feeling](https://www.last.fm/music/+noredirect/The+Black+Eyed+Peas/_/I+Gotta+Feeling)** - The Black Eyed Peas<br/>
 > ∙ **[Drift Barbie](https://www.last.fm/music/blueberry+&+PiNKII/_/Drift+Barbie)** - blueberry & PiNKII<br/>
 > ∙ **[Crazy Fuckin' Robot Body](https://www.last.fm/music/Evil+Neuro/_/Crazy+Fuckin%27+Robot+Body)** - Evil Neuro<br/>
 > ∙ **[Bad Husband](https://www.last.fm/music/Eminem+&+X+Ambassadors/_/Bad+Husband)** - Eminem & X Ambassadors<br/>
