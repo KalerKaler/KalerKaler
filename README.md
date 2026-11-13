@@ -53,27 +53,27 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `191 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `192 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `127 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `101 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `92 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `89 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `68 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `69 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Shut Up and Dance](https://www.last.fm/music/Neuro+-+WALK+THE+MOON/_/Shut+Up+and+Dance)** - Neuro - WALK THE MOON<br/>
+> 🎶 **[Fallen Angel](https://www.last.fm/music/Neuro+-+LiSA/_/Fallen+Angel)** - Neuro - LiSA<br/>
+> ∙ **[More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)** - GIRLI<br/>
+> ∙ **[Come Alive (Instrumental)](https://www.last.fm/music/S%C4%81n-Z/_/Come+Alive+(Instrumental))** - Sān-Z<br/>
+> ∙ **[Music Box](https://www.last.fm/music/Eminem/_/Music+Box)** - Eminem<br/>
+> ∙ **[Come Down](https://www.last.fm/music/nihmune/_/Come+Down)** - nihmune<br/>
+> ∙ **[Shut Up and Dance](https://www.last.fm/music/Neuro+-+WALK+THE+MOON/_/Shut+Up+and+Dance)** - Neuro - WALK THE MOON<br/>
 > ∙ **[Metal Chimera](https://www.last.fm/music/HOYO-MiX/_/Metal+Chimera)** - HOYO-MiX<br/>
 > ∙ **[I Love Rock N' Roll](https://www.last.fm/music/Evil+-+Joan+Jett/_/I+Love+Rock+N%27+Roll)** - Evil - Joan Jett<br/>
 > ∙ **[A Comfortable Day](https://www.last.fm/music/HOYO-MiX/_/A+Comfortable+Day)** - HOYO-MiX<br/>
 > ∙ **[Bass Persuades](https://www.last.fm/music/Miley+Cyrus/_/Bass+Persuades)** - Miley Cyrus<br/>
-> ∙ **[SWIM](https://www.last.fm/music/BTS/_/SWIM)** - BTS<br/>
-> ∙ **[Minibar](https://www.last.fm/music/Gracie+Abrams/_/Minibar)** - Gracie Abrams<br/>
-> ∙ **[Hit the Wall](https://www.last.fm/music/Gracie+Abrams/_/Hit+the+Wall)** - Gracie Abrams<br/>
-> ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
-> ∙ **[Saturday Night](https://www.last.fm/music/Ravyn+Lenae/_/Saturday+Night)** - Ravyn Lenae<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
