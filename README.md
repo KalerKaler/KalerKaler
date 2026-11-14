@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Hoshimi Miyabi | Arcane Blade - for "Zenless Zone Zero" (Slowed)](https://www.last.fm/music/seernebuch/_/Hoshimi+Miyabi+%7C+Arcane+Blade+-+for+%22Zenless+Zone+Zero%22+(Slowed))** - seernebuch<br/>
+> 🎶 **[Say My Name](https://www.last.fm/music/Nerissa+Ravencroft/_/Say+My+Name)** - Nerissa Ravencroft<br/>
+> ∙ **[Say My Name](https://www.last.fm/music/Nerissa+Ravencroft/_/Say+My+Name)** - Nerissa Ravencroft<br/>
+> ∙ **[MESS](https://www.last.fm/music/Hakos+Baelz/_/MESS)** - Hakos Baelz<br/>
+> ∙ **[Hoshimi Miyabi | Arcane Blade - for "Zenless Zone Zero" (Slowed)](https://www.last.fm/music/seernebuch/_/Hoshimi+Miyabi+%7C+Arcane+Blade+-+for+%22Zenless+Zone+Zero%22+(Slowed))** - seernebuch<br/>
 > ∙ **[Fateful Resolution](https://www.last.fm/music/HOYO-MiX/_/Fateful+Resolution)** - HOYO-MiX<br/>
 > ∙ **[Maintaining Skepticism](https://www.last.fm/music/HOYO-MiX/_/Maintaining+Skepticism)** - HOYO-MiX<br/>
 > ∙ **[Evil Eye](https://www.last.fm/music/Evil+-+Franz+Ferdinand/_/Evil+Eye)** - Evil - Franz Ferdinand<br/>
 > ∙ **[MESS](https://www.last.fm/music/Hakos+Baelz/_/MESS)** - Hakos Baelz<br/>
 > ∙ **[BOOM](https://www.last.fm/music/Hakos+Baelz/_/BOOM)** - Hakos Baelz<br/>
 > ∙ **[DROWN](https://www.last.fm/music/Hakos+Baelz/_/DROWN)** - Hakos Baelz<br/>
-> ∙ **[Burnice Theme (Character Demo Music)](https://www.last.fm/music/Streetwise+Rhapsody/_/Burnice+Theme+(Character+Demo+Music))** - Streetwise Rhapsody<br/>
-> ∙ **[Tread the Billows](https://www.last.fm/music/HOYO-MiX/_/Tread+the+Billows)** - HOYO-MiX<br/>
-> ∙ **[Ex Nihilo](https://www.last.fm/music/HOYO-MiX/_/Ex+Nihilo)** - HOYO-MiX<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
