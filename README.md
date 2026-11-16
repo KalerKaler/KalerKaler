@@ -57,23 +57,23 @@
 > `127 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `101 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `92 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
-> `89 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
+> `90 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `69 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[I Am Gonna Claw (Out Your Eyes then Drown You to Death)](https://www.last.fm/music/Darren+Korb/_/I+Am+Gonna+Claw+(Out+Your+Eyes+then+Drown+You+to+Death))** - Darren Korb<br/>
+> 🎶 **[EVIL - Rock Version](https://www.last.fm/music/Isaa+Corva/_/EVIL+-+Rock+Version)** - Isaa Corva<br/>
+> ∙ **[Hoshimi Miyabi | Arcane Blade - for "Zenless Zone Zero" (Slowed)](https://www.last.fm/music/seernebuch/_/Hoshimi+Miyabi+%7C+Arcane+Blade+-+for+%22Zenless+Zone+Zero%22+(Slowed))** - seernebuch<br/>
+> ∙ **[5032](https://www.last.fm/music/Evil+Neuro/_/5032)** - Evil Neuro<br/>
+> ∙ **[5032](https://www.last.fm/music/Evil+Neuro/_/5032)** - Evil Neuro<br/>
+> ∙ **[Online](https://www.last.fm/music/Evil+Neuro/_/Online)** - Evil Neuro<br/>
+> ∙ **[Dark Patterns](https://www.last.fm/music/Evil+Neuro/_/Dark+Patterns)** - Evil Neuro<br/>
+> ∙ **[5032](https://www.last.fm/music/Evil+Neuro/_/5032)** - Evil Neuro<br/>
+> ∙ **[I Am Gonna Claw (Out Your Eyes then Drown You to Death)](https://www.last.fm/music/Darren+Korb/_/I+Am+Gonna+Claw+(Out+Your+Eyes+then+Drown+You+to+Death))** - Darren Korb<br/>
 > ∙ **[Come Alive Stripped.](https://www.last.fm/music/S%C4%81n-Z/_/Come+Alive+Stripped.)** - Sān-Z<br/>
 > ∙ **[MESS](https://www.last.fm/music/Hakos+Baelz/_/MESS)** - Hakos Baelz<br/>
-> ∙ **[MESS](https://www.last.fm/music/Hakos+Baelz/_/MESS)** - Hakos Baelz<br/>
-> ∙ **[Say My Name](https://www.last.fm/music/Nerissa+Ravencroft/_/Say+My+Name)** - Nerissa Ravencroft<br/>
-> ∙ **[Say My Name](https://www.last.fm/music/Nerissa+Ravencroft/_/Say+My+Name)** - Nerissa Ravencroft<br/>
-> ∙ **[MESS](https://www.last.fm/music/Hakos+Baelz/_/MESS)** - Hakos Baelz<br/>
-> ∙ **[Hoshimi Miyabi | Arcane Blade - for "Zenless Zone Zero" (Slowed)](https://www.last.fm/music/seernebuch/_/Hoshimi+Miyabi+%7C+Arcane+Blade+-+for+%22Zenless+Zone+Zero%22+(Slowed))** - seernebuch<br/>
-> ∙ **[Fateful Resolution](https://www.last.fm/music/HOYO-MiX/_/Fateful+Resolution)** - HOYO-MiX<br/>
-> ∙ **[Maintaining Skepticism](https://www.last.fm/music/HOYO-MiX/_/Maintaining+Skepticism)** - HOYO-MiX<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
