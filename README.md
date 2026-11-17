@@ -58,22 +58,22 @@
 > `101 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `92 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 > `90 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
-> `69 ▶️` ∙ **[nihmune](https://www.last.fm/music/nihmune)**<br/>
+> `82 ▶️` ∙ **[Neuro-sama](https://www.last.fm/music/Neuro-sama)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Worldwide Personality](https://www.last.fm/music/Neuro-sama/_/Worldwide+Personality)** - Neuro-sama<br/>
+> 🎶 **[Hoshimi Miyabi | Arcane Blade - for "Zenless Zone Zero"](https://www.last.fm/music/seernebuch/_/Hoshimi+Miyabi+%7C+Arcane+Blade+-+for+%22Zenless+Zone+Zero%22)** - seernebuch<br/>
+> ∙ **[Victoria Style Service](https://www.last.fm/music/HOYO-MiX/_/Victoria+Style+Service)** - HOYO-MiX<br/>
+> ∙ **[Embers of a Champion](https://www.last.fm/music/HOYO-MiX/_/Embers+of+a+Champion)** - HOYO-MiX<br/>
+> ∙ **[Online](https://www.last.fm/music/Evil+Neuro/_/Online)** - Evil Neuro<br/>
+> ∙ **[Closer](https://www.last.fm/music/Neuro-sama/_/Closer)** - Neuro-sama<br/>
+> ∙ **[What comes next](https://www.last.fm/music/Neuro-sama/_/What+comes+next)** - Neuro-sama<br/>
+> ∙ **[Worldwide Personality](https://www.last.fm/music/Neuro-sama/_/Worldwide+Personality)** - Neuro-sama<br/>
 > ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
 > ∙ **[Irrationality](https://www.last.fm/music/Neuro-sama/_/Irrationality)** - Neuro-sama<br/>
 > ∙ **[Closer](https://www.last.fm/music/Neuro-sama/_/Closer)** - Neuro-sama<br/>
-> ∙ **[EVIL - Rock Version](https://www.last.fm/music/Isaa+Corva/_/EVIL+-+Rock+Version)** - Isaa Corva<br/>
-> ∙ **[Hoshimi Miyabi | Arcane Blade - for "Zenless Zone Zero" (Slowed)](https://www.last.fm/music/seernebuch/_/Hoshimi+Miyabi+%7C+Arcane+Blade+-+for+%22Zenless+Zone+Zero%22+(Slowed))** - seernebuch<br/>
-> ∙ **[5032](https://www.last.fm/music/Evil+Neuro/_/5032)** - Evil Neuro<br/>
-> ∙ **[5032](https://www.last.fm/music/Evil+Neuro/_/5032)** - Evil Neuro<br/>
-> ∙ **[Online](https://www.last.fm/music/Evil+Neuro/_/Online)** - Evil Neuro<br/>
-> ∙ **[Dark Patterns](https://www.last.fm/music/Evil+Neuro/_/Dark+Patterns)** - Evil Neuro<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
