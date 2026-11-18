@@ -64,7 +64,8 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[LIFE](https://www.last.fm/music/Neuro-sama/_/LIFE)** - Neuro-sama<br/>
+> 🎶 **[Neurotoxin](https://www.last.fm/music/Evil+Neuro/_/Neurotoxin)** - Evil Neuro<br/>
+> ∙ **[LIFE](https://www.last.fm/music/Neuro-sama/_/LIFE)** - Neuro-sama<br/>
 > ∙ **[Checkmate](https://www.last.fm/music/Casey+Lee+Williams+&+Martin+Gonzalez/_/Checkmate)** - Casey Lee Williams & Martin Gonzalez<br/>
 > ∙ **[Telephone (feat. SixteenInMono)](https://www.last.fm/music/The+Oshi+Bar/_/Telephone+(feat.+SixteenInMono))** - The Oshi Bar<br/>
 > ∙ **[Dracula](https://www.last.fm/music/Isaa+Corva/_/Dracula)** - Isaa Corva<br/>
@@ -73,7 +74,6 @@
 > ∙ **[Victoria Style Service](https://www.last.fm/music/HOYO-MiX/_/Victoria+Style+Service)** - HOYO-MiX<br/>
 > ∙ **[Embers of a Champion](https://www.last.fm/music/HOYO-MiX/_/Embers+of+a+Champion)** - HOYO-MiX<br/>
 > ∙ **[Online](https://www.last.fm/music/Evil+Neuro/_/Online)** - Evil Neuro<br/>
-> ∙ **[Closer](https://www.last.fm/music/Neuro-sama/_/Closer)** - Neuro-sama<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
