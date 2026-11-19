@@ -55,8 +55,8 @@
 
 > `192 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `127 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `103 ▶️` ∙ **[Neuro-sama](https://www.last.fm/music/Neuro-sama)**<br/>
 > `101 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
-> `97 ▶️` ∙ **[Neuro-sama](https://www.last.fm/music/Neuro-sama)**<br/>
 > `92 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `92 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Worldwide Personality](https://www.last.fm/music/Neuro-sama/_/Worldwide+Personality)** - Neuro-sama<br/>
-> ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
-> ∙ **[5032](https://www.last.fm/music/Evil+Neuro/_/5032)** - Evil Neuro<br/>
-> ∙ **[5032](https://www.last.fm/music/Evil+Neuro/_/5032)** - Evil Neuro<br/>
-> ∙ **[Online](https://www.last.fm/music/Evil+Neuro/_/Online)** - Evil Neuro<br/>
+> 🎶 **[5032](https://www.last.fm/music/Evil+Neuro/_/5032)** - Evil Neuro<br/>
 > ∙ **[Online](https://www.last.fm/music/Evil+Neuro/_/Online)** - Evil Neuro<br/>
 > ∙ **[Dark Patterns](https://www.last.fm/music/Evil+Neuro/_/Dark+Patterns)** - Evil Neuro<br/>
 > ∙ **[Neurotoxin](https://www.last.fm/music/Evil+Neuro/_/Neurotoxin)** - Evil Neuro<br/>
 > ∙ **[Watch Your Own Monster](https://www.last.fm/music/Evil+Neuro/_/Watch+Your+Own+Monster)** - Evil Neuro<br/>
-> ∙ **[Watch Your Own Monster](https://www.last.fm/music/Evil+Neuro/_/Watch+Your+Own+Monster)** - Evil Neuro<br/>
+> ∙ **[Irrationality](https://www.last.fm/music/Neuro-sama/_/Irrationality)** - Neuro-sama<br/>
+> ∙ **[Closer](https://www.last.fm/music/Neuro-sama/_/Closer)** - Neuro-sama<br/>
+> ∙ **[What comes next](https://www.last.fm/music/Neuro-sama/_/What+comes+next)** - Neuro-sama<br/>
+> ∙ **[Worldwide Personality](https://www.last.fm/music/Neuro-sama/_/Worldwide+Personality)** - Neuro-sama<br/>
+> ∙ **[Pattern Recognition](https://www.last.fm/music/Neuro-sama/_/Pattern+Recognition)** - Neuro-sama<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
