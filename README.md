@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `192 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `199 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `127 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `103 ▶️` ∙ **[Neuro-sama](https://www.last.fm/music/Neuro-sama)**<br/>
 > `101 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[WELCOME](https://www.last.fm/music/IDK/_/WELCOME)** - IDK<br/>
-> ∙ **[WELCOME](https://www.last.fm/music/IDK/_/WELCOME)** - IDK<br/>
-> ∙ **[MADARA](https://www.last.fm/music/Ez+Mil/_/MADARA)** - Ez Mil<br/>
-> ∙ **[MADARA](https://www.last.fm/music/Ez+Mil/_/MADARA)** - Ez Mil<br/>
-> ∙ **[5032](https://www.last.fm/music/Evil+Neuro/_/5032)** - Evil Neuro<br/>
-> ∙ **[Online](https://www.last.fm/music/Evil+Neuro/_/Online)** - Evil Neuro<br/>
-> ∙ **[Dark Patterns](https://www.last.fm/music/Evil+Neuro/_/Dark+Patterns)** - Evil Neuro<br/>
-> ∙ **[Neurotoxin](https://www.last.fm/music/Evil+Neuro/_/Neurotoxin)** - Evil Neuro<br/>
-> ∙ **[Watch Your Own Monster](https://www.last.fm/music/Evil+Neuro/_/Watch+Your+Own+Monster)** - Evil Neuro<br/>
-> ∙ **[Irrationality](https://www.last.fm/music/Neuro-sama/_/Irrationality)** - Neuro-sama<br/>
+> 🎶 **[Bizarre Journey](https://www.last.fm/music/HOYO-MiX/_/Bizarre+Journey)** - HOYO-MiX<br/>
+> ∙ **[【Ado】阿修羅ちゃん](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E9%98%BF%E4%BF%AE%E7%BE%85%E3%81%A1%E3%82%83%E3%82%93)** - Ado<br/>
+> ∙ **[Ochame Kinou (feat. Kasane Teto) [Cover]](https://www.last.fm/music/takaokamizuki/_/Ochame+Kinou+(feat.+Kasane+Teto)+%5BCover%5D)** - takaokamizuki<br/>
+> ∙ **[Basket Case](https://www.last.fm/music/Evil+-+Green+Day/_/Basket+Case)** - Evil - Green Day<br/>
+> ∙ **[The Less I Know The Better](https://www.last.fm/music/Neuro+-+Tame+Impala/_/The+Less+I+Know+The+Better)** - Neuro - Tame Impala<br/>
+> ∙ **[Harlequin Contraption](https://www.last.fm/music/Evil+-+Vane+Lily/_/Harlequin+Contraption)** - Evil - Vane Lily<br/>
+> ∙ **[ツユ - 奴隷じゃないなら何ですか？ MV](https://www.last.fm/music/%E3%83%84%E3%83%A6/_/%E3%83%84%E3%83%A6+-+%E5%A5%B4%E9%9A%B7%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%AA%E3%82%89%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F+MV)** - ツユ<br/>
+> ∙ **[Hoshimi Miyabi | Arcane Blade - for "Zenless Zone Zero"](https://www.last.fm/music/seernebuch/_/Hoshimi+Miyabi+%7C+Arcane+Blade+-+for+%22Zenless+Zone+Zero%22)** - seernebuch<br/>
+> ∙ **[It's O.K.](https://www.last.fm/music/Eminem/_/It%27s+O.K.)** - Eminem<br/>
+> ∙ **[Tonite](https://www.last.fm/music/Eminem/_/Tonite)** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
