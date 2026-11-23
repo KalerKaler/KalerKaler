@@ -53,9 +53,9 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `199 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `204 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `127 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
-> `103 ▶️` ∙ **[Neuro-sama](https://www.last.fm/music/Neuro-sama)**<br/>
+> `104 ▶️` ∙ **[Neuro-sama](https://www.last.fm/music/Neuro-sama)**<br/>
 > `101 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `92 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
 > `92 ▶️` ∙ **[Moona Hoshinova](https://www.last.fm/music/Moona+Hoshinova)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Dark Patterns](https://www.last.fm/music/Evil+Neuro/_/Dark+Patterns)** - Evil Neuro<br/>
-> ∙ **[Bizarre Journey](https://www.last.fm/music/HOYO-MiX/_/Bizarre+Journey)** - HOYO-MiX<br/>
-> ∙ **[【Ado】阿修羅ちゃん](https://www.last.fm/music/Ado/_/%E3%80%90Ado%E3%80%91%E9%98%BF%E4%BF%AE%E7%BE%85%E3%81%A1%E3%82%83%E3%82%93)** - Ado<br/>
-> ∙ **[Ochame Kinou (feat. Kasane Teto) [Cover]](https://www.last.fm/music/takaokamizuki/_/Ochame+Kinou+(feat.+Kasane+Teto)+%5BCover%5D)** - takaokamizuki<br/>
-> ∙ **[Basket Case](https://www.last.fm/music/Evil+-+Green+Day/_/Basket+Case)** - Evil - Green Day<br/>
-> ∙ **[The Less I Know The Better](https://www.last.fm/music/Neuro+-+Tame+Impala/_/The+Less+I+Know+The+Better)** - Neuro - Tame Impala<br/>
-> ∙ **[Harlequin Contraption](https://www.last.fm/music/Evil+-+Vane+Lily/_/Harlequin+Contraption)** - Evil - Vane Lily<br/>
-> ∙ **[ツユ - 奴隷じゃないなら何ですか？ MV](https://www.last.fm/music/%E3%83%84%E3%83%A6/_/%E3%83%84%E3%83%A6+-+%E5%A5%B4%E9%9A%B7%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%AA%E3%82%89%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F+MV)** - ツユ<br/>
-> ∙ **[Hoshimi Miyabi | Arcane Blade - for "Zenless Zone Zero"](https://www.last.fm/music/seernebuch/_/Hoshimi+Miyabi+%7C+Arcane+Blade+-+for+%22Zenless+Zone+Zero%22)** - seernebuch<br/>
-> ∙ **[It's O.K.](https://www.last.fm/music/Eminem/_/It%27s+O.K.)** - Eminem<br/>
+> 🎶 **[The Great Divide](https://www.last.fm/music/Noah+Kahan/_/The+Great+Divide)** - Noah Kahan<br/>
+> ∙ **[Folded](https://www.last.fm/music/Kehlani/_/Folded)** - Kehlani<br/>
+> ∙ **[Janice STFU](https://www.last.fm/music/Drake/_/Janice+STFU)** - Drake<br/>
+> ∙ **[drop dead](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)** - Olivia Rodrigo<br/>
+> ∙ **[Choosin' Texas](https://www.last.fm/music/Ella+Langley/_/Choosin%27+Texas)** - Ella Langley<br/>
+> ∙ **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
+> ∙ **[Six Trillion Years and Overnight Story (English Cover)](https://www.last.fm/music/JubyPhonic/_/Six+Trillion+Years+and+Overnight+Story+(English+Cover))** - JubyPhonic<br/>
+> ∙ **[inshallah](https://www.last.fm/music/bbno$/_/inshallah)** - bbno$<br/>
+> ∙ **[inshallah](https://www.last.fm/music/bbno$/_/inshallah)** - bbno$<br/>
+> ∙ **[ミラーミラー (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%9F%E3%83%A9%E3%83%BC+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
