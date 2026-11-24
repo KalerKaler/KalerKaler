@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `204 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `209 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `127 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `104 ▶️` ∙ **[Neuro-sama](https://www.last.fm/music/Neuro-sama)**<br/>
 > `101 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Dracula (with JENNIE)](https://www.last.fm/music/Tame+Impala/_/Dracula+(with+JENNIE))** - Tame Impala<br/>
-> ∙ **[Die On This Hill](https://www.last.fm/music/Sienna+Spiro/_/Die+On+This+Hill)** - Sienna Spiro<br/>
-> ∙ **[hate that i made you love me](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)** - Ariana Grande<br/>
-> ∙ **[The Music Business](https://www.last.fm/music/Ren/_/The+Music+Business)** - Ren<br/>
-> ∙ **[A Couple Minutes](https://www.last.fm/music/Olivia+Dean/_/A+Couple+Minutes)** - Olivia Dean<br/>
-> ∙ **[Aperture](https://www.last.fm/music/Harry+Styles/_/Aperture)** - Harry Styles<br/>
-> ∙ **[I Just Might](https://www.last.fm/music/Bruno+Mars/_/I+Just+Might)** - Bruno Mars<br/>
-> ∙ **[The Great Divide](https://www.last.fm/music/Noah+Kahan/_/The+Great+Divide)** - Noah Kahan<br/>
-> ∙ **[Folded](https://www.last.fm/music/Kehlani/_/Folded)** - Kehlani<br/>
-> ∙ **[Janice STFU](https://www.last.fm/music/Drake/_/Janice+STFU)** - Drake<br/>
+> 🎶 **[Same Beef](https://www.last.fm/music/Bohemia,+Sidhu+Moose+Wala/_/Same+Beef)** - Bohemia, Sidhu Moose Wala<br/>
+> ∙ **[Repeat (feat. Rachie)](https://www.last.fm/music/Alohaii/_/Repeat+(feat.+Rachie))** - Alohaii<br/>
+> ∙ **[Necessary Evil](https://www.last.fm/music/DEMONDICE/_/Necessary+Evil)** - DEMONDICE<br/>
+> ∙ **[Yellow Brick Road](https://www.last.fm/music/Eminem/_/Yellow+Brick+Road)** - Eminem<br/>
+> ∙ **[Brainless](https://www.last.fm/music/Eminem/_/Brainless)** - Eminem<br/>
+> ∙ **[Brainless](https://www.last.fm/music/Eminem/_/Brainless)** - Eminem<br/>
+> ∙ **[Shabang](https://www.last.fm/music/Drake/_/Shabang)** - Drake<br/>
+> ∙ **[the cure](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)** - Olivia Rodrigo<br/>
+> ∙ **[WHERE IS MY HUSBAND!](https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!)** - RAYE<br/>
+> ∙ **[E85](https://www.last.fm/music/Don+Toliver/_/E85)** - Don Toliver<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
