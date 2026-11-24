@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[The Great Divide](https://www.last.fm/music/Noah+Kahan/_/The+Great+Divide)** - Noah Kahan<br/>
+> 🎶 **[Dracula (with JENNIE)](https://www.last.fm/music/Tame+Impala/_/Dracula+(with+JENNIE))** - Tame Impala<br/>
+> ∙ **[Die On This Hill](https://www.last.fm/music/Sienna+Spiro/_/Die+On+This+Hill)** - Sienna Spiro<br/>
+> ∙ **[hate that i made you love me](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)** - Ariana Grande<br/>
+> ∙ **[The Music Business](https://www.last.fm/music/Ren/_/The+Music+Business)** - Ren<br/>
+> ∙ **[A Couple Minutes](https://www.last.fm/music/Olivia+Dean/_/A+Couple+Minutes)** - Olivia Dean<br/>
+> ∙ **[Aperture](https://www.last.fm/music/Harry+Styles/_/Aperture)** - Harry Styles<br/>
+> ∙ **[I Just Might](https://www.last.fm/music/Bruno+Mars/_/I+Just+Might)** - Bruno Mars<br/>
+> ∙ **[The Great Divide](https://www.last.fm/music/Noah+Kahan/_/The+Great+Divide)** - Noah Kahan<br/>
 > ∙ **[Folded](https://www.last.fm/music/Kehlani/_/Folded)** - Kehlani<br/>
 > ∙ **[Janice STFU](https://www.last.fm/music/Drake/_/Janice+STFU)** - Drake<br/>
-> ∙ **[drop dead](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)** - Olivia Rodrigo<br/>
-> ∙ **[Choosin' Texas](https://www.last.fm/music/Ella+Langley/_/Choosin%27+Texas)** - Ella Langley<br/>
-> ∙ **[So Easy (To Fall In Love)](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))** - Olivia Dean<br/>
-> ∙ **[Six Trillion Years and Overnight Story (English Cover)](https://www.last.fm/music/JubyPhonic/_/Six+Trillion+Years+and+Overnight+Story+(English+Cover))** - JubyPhonic<br/>
-> ∙ **[inshallah](https://www.last.fm/music/bbno$/_/inshallah)** - bbno$<br/>
-> ∙ **[inshallah](https://www.last.fm/music/bbno$/_/inshallah)** - bbno$<br/>
-> ∙ **[ミラーミラー (feat. Hatsune Miku, Kasane Teto)](https://www.last.fm/music/Tak/_/%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%9F%E3%83%A9%E3%83%BC+(feat.+Hatsune+Miku,+Kasane+Teto))** - Tak<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
