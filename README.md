@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Same Beef](https://www.last.fm/music/Bohemia,+Sidhu+Moose+Wala/_/Same+Beef)** - Bohemia, Sidhu Moose Wala<br/>
+> 🎶 **[A Walk](https://www.last.fm/music/Tycho/_/A+Walk)** - Tycho<br/>
+> ∙ **[Mrs. Cold](https://www.last.fm/music/Kings+of+Convenience/_/Mrs.+Cold)** - Kings of Convenience<br/>
+> ∙ **[Mrs. Cold](https://www.last.fm/music/Kings+of+Convenience/_/Mrs.+Cold)** - Kings of Convenience<br/>
+> ∙ **[East Side Flow](https://www.last.fm/music/Sidhu+Moose+Wala/_/East+Side+Flow)** - Sidhu Moose Wala<br/>
+> ∙ **[Same Beef](https://www.last.fm/music/Bohemia,+Sidhu+Moose+Wala/_/Same+Beef)** - Bohemia, Sidhu Moose Wala<br/>
+> ∙ **[Same Beef](https://www.last.fm/music/Bohemia,+Sidhu+Moose+Wala/_/Same+Beef)** - Bohemia, Sidhu Moose Wala<br/>
 > ∙ **[Repeat (feat. Rachie)](https://www.last.fm/music/Alohaii/_/Repeat+(feat.+Rachie))** - Alohaii<br/>
 > ∙ **[Necessary Evil](https://www.last.fm/music/DEMONDICE/_/Necessary+Evil)** - DEMONDICE<br/>
 > ∙ **[Yellow Brick Road](https://www.last.fm/music/Eminem/_/Yellow+Brick+Road)** - Eminem<br/>
 > ∙ **[Brainless](https://www.last.fm/music/Eminem/_/Brainless)** - Eminem<br/>
-> ∙ **[Brainless](https://www.last.fm/music/Eminem/_/Brainless)** - Eminem<br/>
-> ∙ **[Shabang](https://www.last.fm/music/Drake/_/Shabang)** - Drake<br/>
-> ∙ **[the cure](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)** - Olivia Rodrigo<br/>
-> ∙ **[WHERE IS MY HUSBAND!](https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!)** - RAYE<br/>
-> ∙ **[E85](https://www.last.fm/music/Don+Toliver/_/E85)** - Don Toliver<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
