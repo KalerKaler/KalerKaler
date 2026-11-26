@@ -53,7 +53,7 @@
 <!--START_LASTFM_ARTISTS:{"period":"overall", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `209 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
+> `210 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
 > `127 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `104 ▶️` ∙ **[Neuro-sama](https://www.last.fm/music/Neuro-sama)**<br/>
 > `101 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[A Walk](https://www.last.fm/music/Tycho/_/A+Walk)** - Tycho<br/>
-> ∙ **[Mrs. Cold](https://www.last.fm/music/Kings+of+Convenience/_/Mrs.+Cold)** - Kings of Convenience<br/>
-> ∙ **[Mrs. Cold](https://www.last.fm/music/Kings+of+Convenience/_/Mrs.+Cold)** - Kings of Convenience<br/>
-> ∙ **[East Side Flow](https://www.last.fm/music/Sidhu+Moose+Wala/_/East+Side+Flow)** - Sidhu Moose Wala<br/>
-> ∙ **[Same Beef](https://www.last.fm/music/Bohemia,+Sidhu+Moose+Wala/_/Same+Beef)** - Bohemia, Sidhu Moose Wala<br/>
-> ∙ **[Same Beef](https://www.last.fm/music/Bohemia,+Sidhu+Moose+Wala/_/Same+Beef)** - Bohemia, Sidhu Moose Wala<br/>
-> ∙ **[Repeat (feat. Rachie)](https://www.last.fm/music/Alohaii/_/Repeat+(feat.+Rachie))** - Alohaii<br/>
-> ∙ **[Necessary Evil](https://www.last.fm/music/DEMONDICE/_/Necessary+Evil)** - DEMONDICE<br/>
-> ∙ **[Yellow Brick Road](https://www.last.fm/music/Eminem/_/Yellow+Brick+Road)** - Eminem<br/>
-> ∙ **[Brainless](https://www.last.fm/music/Eminem/_/Brainless)** - Eminem<br/>
+> 🎶 **[Thank God it's Christmas](https://www.last.fm/music/Evil+-+Queen/_/Thank+God+it%27s+Christmas)** - Evil - Queen<br/>
+> ∙ **[My Curse, My Fate (Instrumental)](https://www.last.fm/music/S%C4%81n-Z/_/My+Curse,+My+Fate+(Instrumental))** - Sān-Z<br/>
+> ∙ **[Future Nova (feat. KASANE TETO)](https://www.last.fm/music/DADA+GAUGUIN/_/Future+Nova+(feat.+KASANE+TETO))** - DADA GAUGUIN<br/>
+> ∙ **[Free Bird](https://www.last.fm/music/Evil+-+Lynyrd+Skynyrd/_/Free+Bird)** - Evil - Lynyrd Skynyrd<br/>
+> ∙ **[UH OH](https://www.last.fm/music/Neoni/_/UH+OH)** - Neoni<br/>
+> ∙ **[In The Garden](https://www.last.fm/music/Evil+-+Red+Vox/_/In+The+Garden)** - Evil - Red Vox<br/>
+> ∙ **[Bad One](https://www.last.fm/music/Eminem/_/Bad+One)** - Eminem<br/>
+> ∙ **[Free Bird](https://www.last.fm/music/Evil+-+Lynyrd+Skynyrd/_/Free+Bird)** - Evil - Lynyrd Skynyrd<br/>
+> ∙ **[RAD RAD](https://www.last.fm/music/Duet+(Neuro/_/RAD+RAD)** - Duet (Neuro<br/>
+> ∙ **[A Walk](https://www.last.fm/music/Tycho/_/A+Walk)** - Tycho<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
