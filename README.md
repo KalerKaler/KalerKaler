@@ -54,7 +54,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `210 ▶️` ∙ **[Eminem](https://www.last.fm/music/Eminem)**<br/>
-> `127 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
+> `131 ▶️` ∙ **[Ellie Minibot](https://www.last.fm/music/Ellie+Minibot)**<br/>
 > `104 ▶️` ∙ **[Neuro-sama](https://www.last.fm/music/Neuro-sama)**<br/>
 > `101 ▶️` ∙ **[Shotgun Willy](https://www.last.fm/music/Shotgun+Willy)**<br/>
 > `92 ▶️` ∙ **[Isaa Corva](https://www.last.fm/music/Isaa+Corva)**<br/>
@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Thank God it's Christmas](https://www.last.fm/music/Evil+-+Queen/_/Thank+God+it%27s+Christmas)** - Evil - Queen<br/>
+> 🎶 **[A Cruel Angel's Thesis](https://www.last.fm/music/Rachie/_/A+Cruel+Angel%27s+Thesis)** - Rachie<br/>
+> ∙ **[A Cruel Angel's Thesis](https://www.last.fm/music/Rachie/_/A+Cruel+Angel%27s+Thesis)** - Rachie<br/>
+> ∙ **[Sunlight](https://www.last.fm/music/Halacg/_/Sunlight)** - Halacg<br/>
+> ∙ **[Bugs](https://www.last.fm/music/Ellie+Minibot/_/Bugs)** - Ellie Minibot<br/>
+> ∙ **[Disturbia (feat. SixteenInMono)](https://www.last.fm/music/The+Oshi+Bar/_/Disturbia+(feat.+SixteenInMono))** - The Oshi Bar<br/>
+> ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
+> ∙ **[Rent Free](https://www.last.fm/music/Ellie+Minibot/_/Rent+Free)** - Ellie Minibot<br/>
+> ∙ **[Rent Free](https://www.last.fm/music/Ellie+Minibot/_/Rent+Free)** - Ellie Minibot<br/>
+> ∙ **[Thank God it's Christmas](https://www.last.fm/music/Evil+-+Queen/_/Thank+God+it%27s+Christmas)** - Evil - Queen<br/>
 > ∙ **[My Curse, My Fate (Instrumental)](https://www.last.fm/music/S%C4%81n-Z/_/My+Curse,+My+Fate+(Instrumental))** - Sān-Z<br/>
-> ∙ **[Future Nova (feat. KASANE TETO)](https://www.last.fm/music/DADA+GAUGUIN/_/Future+Nova+(feat.+KASANE+TETO))** - DADA GAUGUIN<br/>
-> ∙ **[Free Bird](https://www.last.fm/music/Evil+-+Lynyrd+Skynyrd/_/Free+Bird)** - Evil - Lynyrd Skynyrd<br/>
-> ∙ **[UH OH](https://www.last.fm/music/Neoni/_/UH+OH)** - Neoni<br/>
-> ∙ **[In The Garden](https://www.last.fm/music/Evil+-+Red+Vox/_/In+The+Garden)** - Evil - Red Vox<br/>
-> ∙ **[Bad One](https://www.last.fm/music/Eminem/_/Bad+One)** - Eminem<br/>
-> ∙ **[Free Bird](https://www.last.fm/music/Evil+-+Lynyrd+Skynyrd/_/Free+Bird)** - Evil - Lynyrd Skynyrd<br/>
-> ∙ **[RAD RAD](https://www.last.fm/music/Duet+(Neuro/_/RAD+RAD)** - Duet (Neuro<br/>
-> ∙ **[A Walk](https://www.last.fm/music/Tycho/_/A+Walk)** - Tycho<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
