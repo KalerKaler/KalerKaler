@@ -64,16 +64,16 @@
 <!--START_LASTFM_RECENT:{"period":"overall", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[A Cruel Angel's Thesis](https://www.last.fm/music/Rachie/_/A+Cruel+Angel%27s+Thesis)** - Rachie<br/>
+> 🎶 **[Karma Police](https://www.last.fm/music/Evil+-+Radiohead/_/Karma+Police)** - Evil - Radiohead<br/>
+> ∙ **[Azari - Sell a Friend / 重音テト](https://www.last.fm/music/azari/_/Azari+-+Sell+a+Friend+%2F+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88)** - azari<br/>
+> ∙ **[Azari - Sell a Friend / 重音テト](https://www.last.fm/music/azari/_/Azari+-+Sell+a+Friend+%2F+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88)** - azari<br/>
+> ∙ **[Mind Your Tail](https://www.last.fm/music/HOYO-MiX/_/Mind+Your+Tail)** - HOYO-MiX<br/>
+> ∙ **[Thank God it's Christmas](https://www.last.fm/music/Evil+-+Queen/_/Thank+God+it%27s+Christmas)** - Evil - Queen<br/>
 > ∙ **[A Cruel Angel's Thesis](https://www.last.fm/music/Rachie/_/A+Cruel+Angel%27s+Thesis)** - Rachie<br/>
 > ∙ **[Sunlight](https://www.last.fm/music/Halacg/_/Sunlight)** - Halacg<br/>
 > ∙ **[Bugs](https://www.last.fm/music/Ellie+Minibot/_/Bugs)** - Ellie Minibot<br/>
 > ∙ **[Disturbia (feat. SixteenInMono)](https://www.last.fm/music/The+Oshi+Bar/_/Disturbia+(feat.+SixteenInMono))** - The Oshi Bar<br/>
 > ∙ **[Afar](https://www.last.fm/music/Ellie+Minibot/_/Afar)** - Ellie Minibot<br/>
-> ∙ **[Rent Free](https://www.last.fm/music/Ellie+Minibot/_/Rent+Free)** - Ellie Minibot<br/>
-> ∙ **[Rent Free](https://www.last.fm/music/Ellie+Minibot/_/Rent+Free)** - Ellie Minibot<br/>
-> ∙ **[Thank God it's Christmas](https://www.last.fm/music/Evil+-+Queen/_/Thank+God+it%27s+Christmas)** - Evil - Queen<br/>
-> ∙ **[My Curse, My Fate (Instrumental)](https://www.last.fm/music/S%C4%81n-Z/_/My+Curse,+My+Fate+(Instrumental))** - Sān-Z<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
